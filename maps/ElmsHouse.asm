@@ -20,37 +20,34 @@ ElmsHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 ElmsWifeText:
-	text "Hi, <PLAYER>! My"
-	line "husband's always"
+	text "Hi, <PLAYER>! I'm"
+	line "ELM's trophy wife."
+	cont "I mostly just wait"
+	cont "for that sick fuck"
+	cont "to come home."
 
-	para "so busy--I hope"
-	line "he's OK."
-
-	para "When he's caught"
-	line "up in his #MON"
-
-	para "research, he even"
-	line "forgets to eat."
+	para "He truly is a"
+	line "pervert, you know."
 	done
 
 ElmsSonText:
 	text "When I grow up,"
-	line "I'm going to help"
-	cont "my Dad!"
+	line "I'm going to be"
+	cont "a pervert like dad."
 
 	para "I'm going to be a"
 	line "great #MON"
-	cont "professor!"
+	cont "pervert!"
 	done
 
 ElmsHouseLabFoodText: ; unreferenced
-	text "There's some food"
-	line "here. It must be"
-	cont "for the LAB."
+	text "There's sperm in"
+	line "here. Must be for"
+	cont "his #MON."
 	done
 
 ElmsHousePokemonFoodText: ; unreferenced
-	text "There's some food"
+	text "There's some feces"
 	line "here. This must be"
 	cont "for #MON."
 	done
@@ -62,15 +59,15 @@ ElmsHousePCText:
 	para "Where are they"
 	line "going?"
 
-	para "Why has no one"
+	para "Why have so few"
 	line "ever witnessed a"
-	cont "#MON's birth?"
+	cont "#MON's cock?"
 
 	para "I want to know! I"
 	line "will dedicate my"
 
 	para "life to the study"
-	line "of #MON!"
+	line "of #MON cocks!"
 
 	para "…"
 

@@ -8,15 +8,20 @@ BattleText_PlayerPickedUpPayDayMoney:
 	prompt
 
 WildPokemonAppearedText:
-	text "Wild @"
+	text "A horny and erect"
+	line "@"
 	text_ram wEnemyMonNickname
 	text_start
 	line "appeared!"
+	cont ""
 	prompt
 
 HookedPokemonAttackedText:
 	text "The hooked"
 	line "@"
+	cont "appears angry."
+	cont "Maybe it has"
+	cont "cock envy?"
 	text_ram wEnemyMonNickname
 	text_start
 	cont "attacked!"
@@ -25,12 +30,14 @@ HookedPokemonAttackedText:
 PokemonFellFromTreeText:
 	text_ram wEnemyMonNickname
 	text " fell"
-	line "out of the tree!"
+	line "out of the tree"
+	cont "and broke its cock!"
 	prompt
 
 WantsToBattleText::
 	text "<ENEMY>"
-	line "wants to battle!"
+	line "wants to battle"
+	cont "TO THE DEATH!"
 	prompt
 
 BattleText_WildFled:
@@ -38,43 +45,45 @@ BattleText_WildFled:
 	text_ram wEnemyMonNickname
 	text_start
 	line "fled!"
+	cont "SCHEISSE!"
 	prompt
 
 BattleText_EnemyFled:
-	text "Enemy @"
+	text "Argh, enemy @"
 	text_ram wEnemyMonNickname
 	text_start
 	line "fled!"
 	prompt
 
 HurtByPoisonText:
-	text "<USER>"
+	text "<USER> 's cock"
 	line "is hurt by poison!"
 	prompt
 
 HurtByBurnText:
-	text "<USER>'s"
+	text "<USER>'s cock is"
 	line "hurt by its burn!"
 	prompt
 
 LeechSeedSapsText:
 	text "LEECH SEED saps"
-	line "<USER>!"
+	line "<USER>'s cock!"
 	prompt
 
 HasANightmareText:
 	text "<USER>"
-	line "has a NIGHTMARE!"
+	line "has a NIGHTMARE"
+	cont "about bulbasaur cocks."
 	prompt
 
 HurtByCurseText:
-	text "<USER>'s"
+	text "<USER>'s cock is"
 	line "hurt by the CURSE!"
 	prompt
 
 SandstormHitsText:
 	text "The SANDSTORM hits"
-	line "<USER>!"
+	line "<USER>'s cock!"
 	prompt
 
 PerishCountText:
@@ -205,7 +214,8 @@ BattleText_MonFainted:
 	prompt
 
 BattleText_UseNextMon:
-	text "Use next #MON?"
+	text "Use next"
+	cont "retard #MON?"
 	done
 
 UnusedRivalWinText: ; unreferenced
@@ -232,7 +242,7 @@ BattleText_EnemyIsAboutToUseWillPlayerChangeMon:
 
 BattleText_EnemySentOut:
 	text "<ENEMY>"
-	line "sent out"
+	line "sent out a horny"
 	cont "@"
 	text_ram wEnemyMonNickname
 	text "!"
@@ -259,7 +269,7 @@ BattleText_TheresNoEscapeFromTrainerBattle:
 	prompt
 
 BattleText_GotAwaySafely:
-	text "Got away safely!"
+	text "Holy fuck, I fled."
 	prompt
 
 BattleText_UserFledUsingAStringBuffer1:
@@ -275,7 +285,7 @@ BattleText_CantEscape:
 	prompt
 
 BattleText_UserHurtBySpikes:
-	text "<USER>'s"
+	text "<USER>'s cock is"
 	line "hurt by SPIKES!"
 	prompt
 
@@ -346,7 +356,7 @@ BattleText_WildMonIsEating:
 	text "Wild @"
 	text_ram wEnemyMonNickname
 	text_start
-	line "is eating!"
+	line "is eating sperm!"
 	prompt
 
 BattleText_WildMonIsAngry:
@@ -367,7 +377,7 @@ WokeUpText:
 	prompt
 
 FrozenSolidText:
-	text "<USER>"
+	text "<USER>'s cock"
 	line "is frozen solid!"
 	prompt
 
@@ -593,21 +603,24 @@ DoesntAffectText:
 	prompt
 
 CriticalHitText:
-	text "A critical hit!"
+	text "This bitch just"
+	line "got a CRITICAL"
+	cont "HIT!"
 	prompt
 
 OneHitKOText:
-	text "It's a one-hit KO!"
+	text "See you in hell,"
+	line "MADDAFAKKA. It was"
+	cont " a one-hit KO!"
 	prompt
 
 SuperEffectiveText:
-	text "It's super-"
+	text "It's fucking"
 	line "effective!"
 	prompt
 
 NotVeryEffectiveText:
-	text "It's not very"
-	line "effective…"
+	text "Didn't do shit!"
 	prompt
 
 TookDownWithItText:
@@ -692,7 +705,7 @@ AlreadyPoisonedText:
 
 SuckedHealthText:
 	text "Sucked health from"
-	line "<TARGET>!"
+	line "<TARGET>'s cock!"
 	prompt
 
 DreamEatenText:

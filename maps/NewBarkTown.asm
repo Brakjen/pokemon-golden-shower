@@ -195,7 +195,7 @@ NewBarkTown_RivalReturnsToTheShadowsMovement:
 	step_end
 
 Text_GearIsImpressive:
-	text "Wow, your #GEAR"
+	text "Wow, your ass hole"
 	line "is impressive!"
 
 	para "Did your mom get"
@@ -203,12 +203,15 @@ Text_GearIsImpressive:
 	done
 
 Text_WaitPlayer:
-	text "Wait, <PLAYER>!"
+	text "Hey, fucker!"
+	line "Wait right there!"
+	cont "Don't wander off."
 	done
 
 Text_WhatDoYouThinkYoureDoing:
-	text "What do you think"
-	line "you're doing?"
+	text "pissant, what"
+	line "do you think you're"
+	cont "doing?"
 	done
 
 Text_ItsDangerousToGoAlone:
@@ -221,37 +224,49 @@ Text_ItsDangerousToGoAlone:
 
 	para "grass on the way"
 	line "to the next town."
+
+	para "They are hungry"
+	line "for your flesh."
+	cont "If you let them,"
+	cont "they will feast on"
+	cont "you."
+
+	para "Or worse, they"
+	line "will attempt"
+	cont "to mate with"
+	cont "you..."
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Your #MON"
-	line "is adorable!"
-	cont "I wish I had one!"
+	text "Hey, you little shit!"
+	line "Your snolk is"
+	cont "adorable!"
 	done
 
 Text_TellMomIfLeaving:
-	text "Hi, <PLAYER>!"
+	text "Hi, maddafakka!"
 	line "Leaving again?"
-
-	para "You should tell"
-	line "your mom if you"
-	cont "are leaving."
+	cont "Why do you"
+	cont "hate her so"
+	cont "much?"
 	done
 
 Text_CallMomOnGear:
-	text "Call your mom on"
-	line "your #GEAR to"
+	text "Call your mom,"
+	line "bitch, on"
+	cont "your #GEAR to"
 
 	para "let her know how"
-	line "you're doing."
+	line "how much you"
+	cont "hate her."
 	done
 
 Text_ElmDiscoveredNewMon:
-	text "Yo, <PLAYER>!"
+	text "Yo, maddafakka"
 
 	para "I hear PROF.ELM"
 	line "discovered some"
-	cont "new #MON."
+	cont "lame, new #MON."
 	done
 
 NewBarkTownRivalText1:
@@ -259,28 +274,42 @@ NewBarkTownRivalText1:
 
 	para "So this is the"
 	line "famous ELM #MON"
-	cont "LAB…"
+	cont "BREEDING LAB…"
+
+	para "I always thought"
+	line "he was quite the"
+	cont "pervert."
 	done
 
 NewBarkTownRivalText2:
 	text "…What are you"
 	line "staring at?"
+
+	para "My wiener is"
+	line "much bigger"
+	cont "than yours."
 	done
 
 NewBarkTownSignText:
 	text "NEW BARK TOWN"
 
-	para "The Town Where the"
-	line "Winds of a New"
-	cont "Beginning Blow"
+	para "The Town Where"
+	line "Perverts Live."
 	done
 
 NewBarkTownPlayersHouseSignText:
 	text "<PLAYER>'s House"
+
+	para "Legend says that"
+	line "<PLAYER>'s"
+	cont "father used a"
+	cont "chainsaw to kill"
+	cont "lots of Pokemon."
 	done
 
 NewBarkTownElmsLabSignText:
-	text "ELM #MON LAB"
+	text "ELM #MON"
+	line "BREEDING LAB"
 	done
 
 NewBarkTownElmsHouseSignText:
