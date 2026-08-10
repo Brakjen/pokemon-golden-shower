@@ -1,5 +1,6 @@
 PhoneMaleAnswerMornText:
-	text "Hello. This is"
+	text "Hello, you sick"
+	next "bastard. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
@@ -9,7 +10,8 @@ PhoneMaleAnswerMornText:
 	done
 
 PhoneMaleAnswerDayText:
-	text "Hello. This is"
+	text "Hello, you sick"
+	next "bastard. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
@@ -19,7 +21,8 @@ PhoneMaleAnswerDayText:
 	done
 
 PhoneMaleAnswerNiteText:
-	text "Hello. This is"
+	text "Hello, you sick"
+	next "bastard. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
@@ -29,7 +32,8 @@ PhoneMaleAnswerNiteText:
 	done
 
 PhoneFemaleAnswerMornText:
-	text "Hi. This is"
+	text "Hello, you sick"
+	next "sick fuck. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
@@ -39,7 +43,8 @@ PhoneFemaleAnswerMornText:
 	done
 
 PhoneFemaleAnswerDayText:
-	text "Hi. This is"
+	text "Hello, you sick"
+	next "sick fuck. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
@@ -49,7 +54,8 @@ PhoneFemaleAnswerDayText:
 	done
 
 PhoneFemaleAnswerNiteText:
-	text "Hi. This is"
+	text "Hello, you sick"
+	next "sick fuck. This is"
 	line "@"
 	text_ram wStringBuffer3
 	text "."
@@ -59,8 +65,8 @@ PhoneFemaleAnswerNiteText:
 	done
 
 PhoneMaleGreetMornText:
-	text "<PLAYER>, good"
-	line "morning!"
+	text "Hello, you sick"
+	next "sick fuck."
 
 	para "It's me, @"
 	text_ram wStringBuffer3
@@ -69,7 +75,8 @@ PhoneMaleGreetMornText:
 	done
 
 PhoneMaleGreetDayText:
-	text "<PLAYER>, howdy!"
+	text "Hello, you sick"
+	next "sick bastard."
 
 	para "It's me, @"
 	text_ram wStringBuffer3
@@ -78,8 +85,8 @@ PhoneMaleGreetDayText:
 	done
 
 PhoneMaleGreetNiteText:
-	text "<PLAYER>, good"
-	line "evening!"
+	text "Hello, you sick"
+	next "sick pervert."
 
 	para "It's me, @"
 	text_ram wStringBuffer3
@@ -88,17 +95,18 @@ PhoneMaleGreetNiteText:
 	done
 
 PhoneFemaleGreetMornText:
-	text "Good morning,"
-	line "<PLAYER>."
+	text "Hello, you sick"
+	next "sick fuck."
 
-	para "This is @"
+	para "It's me, @"
 	text_ram wStringBuffer3
 	text "."
 	line "Did I wake you?"
 	done
 
 PhoneFemaleGreetDayText:
-	text "Hello, <PLAYER>."
+	text "Hello, you sick"
+	next "sick fuck."
 
 	para "This is @"
 	text_ram wStringBuffer3
@@ -107,7 +115,8 @@ PhoneFemaleGreetDayText:
 	done
 
 PhoneFemaleGreetNiteText:
-	text "Good evening,"
+	text "Hello, you sick"
+	next "sick fuck."
 	line "<PLAYER>."
 
 	para "This is @"
@@ -122,7 +131,7 @@ PhoneMaleReallyEnergeticText:
 
 	para "My @"
 	text_ram wStringBuffer4
-	text "'s"
+	text "'s cock is"
 	line "really energetic."
 	cont "It's a handful!"
 	done
@@ -132,7 +141,7 @@ PhoneFemaleTopShapeText:
 	line "#MON doing?"
 
 	para "I always keep my"
-	line "@"
+	line "@'s cock"
 	text_ram wStringBuffer4
 	text " in top"
 
@@ -143,16 +152,16 @@ PhoneFemaleTopShapeText:
 PhoneMaleLookingAwesomeText:
 	text "My @"
 	text_ram wStringBuffer4
-	text "'s"
+	text "'s cock is"
 	line "looking awesome."
 
 	para "I wish I could"
-	line "show you."
+	line "show you..."
 	done
 
 PhoneFemaleDressedUpText:
 	text "I dressed up my"
-	line "@"
+	line "@'s cock"
 	text_ram wStringBuffer4
 	text "."
 
@@ -165,7 +174,8 @@ PhoneMaleManagedToBeatText:
 	line "aged to beat a"
 	cont "tough @"
 	text_ram wStringBuffer4
-	text "."
+	text ". Its cock was"
+	next "really strong."
 
 	para "I need to make my"
 	line "party stronger."
@@ -175,7 +185,7 @@ PhoneFemaleTypeAdvantageText:
 	text "You have to hear"
 	line "this! I battled"
 
-	para "@"
+	para "@ with a huge cock"
 	text_ram wStringBuffer4
 	text " the"
 	line "other day."
@@ -192,6 +202,8 @@ PhoneMaleAlmostCaughtText:
 	text_ram wStringBuffer4
 	text " the"
 	line "other day."
+	cont "Greasy cock, it"
+	cont "had."
 
 	para "Oh, it was soooo"
 	line "close too!"
@@ -206,16 +218,12 @@ PhoneFemaleMissedCatchingText:
 	text_ram wStringBuffer4
 	text " again."
 
-	para "Maybe I'm not very"
-	line "good at this…"
+	para "Maybe I shuold get"
+	next "a bigger cock."
 	done
 
 PhoneMaleWantsToBattleText:
-	text "Want to battle?"
-	line "It's not going to"
-
-	para "be a repeat of the"
-	line "last time we met."
+	text "Want a tug?"
 
 	para "I'll be around"
 	line "@"
@@ -224,12 +232,9 @@ PhoneMaleWantsToBattleText:
 	done
 
 PhoneFemaleWantsToBattleText:
-	text "Do you want to"
-	line "battle? I'm going"
-	cont "to win this time!"
+	text "Want a tug?"
 
-	para "I'll be waiting"
-	line "for you around"
+	para "I'll be around"
 
 	para "@"
 	text_ram wStringBuffer5
@@ -239,7 +244,7 @@ PhoneFemaleWantsToBattleText:
 
 PhoneWrongNumberKazText:
 	text "Hello? This is"
-	line "@"
+	line "@ the pervert?"
 	text_ram wStringBuffer3
 	text "…"
 
@@ -256,15 +261,16 @@ PhoneWrongNumberAudreyText:
 	cont "you doing, AUDREY?"
 
 	para "Huh? <PLAYER>?"
-	line "Oops! My mistake!"
+	line "LOLZ! My mistake!"
 	done
 
 PhoneSeeYouLaterText:
-	text "See you later!"
+	text "Burn in hell!"
 	done
 
 PhoneByeByeText:
-	text "Bye-bye!"
+	text "Bye-bye, you sick"
+	next "fuck!"
 	done
 
 PhoneSwarmGrassText:
@@ -280,6 +286,8 @@ PhoneSwarmGrassText:
 	line "@"
 	text_ram wStringBuffer5
 	text "!"
+	cont "They're swarming"
+	cont "with their cocks!"
 	done
 
 PhoneSwarmFishText:
@@ -296,7 +304,7 @@ PhoneSwarmFishText:
 	line "is no tomorrow."
 
 	para "<PLAYER>, bring"
-	line "your ROD, buddy!"
+	line "your COCK, buddy!"
 	done
 
 PhoneSwarmCaveText:
@@ -304,7 +312,8 @@ PhoneSwarmCaveText:
 	line "me this."
 
 	para "He saw a lot of"
-	line "@"
+	line "@ with flapping"
+	cont "cocks"
 	text_ram wStringBuffer4
 	text " in"
 	cont "@"
@@ -317,7 +326,7 @@ PhoneSwarmCaveText:
 
 PhoneBugCatchingContestText:
 	text "They're holding"
-	line "the Bug-Catching"
+	line "the Cock-Catching"
 
 	para "Contest today at"
 	line "the PARK."
@@ -336,8 +345,8 @@ IrwinRocketTakeoverRumorText:
 	para "taken over by TEAM"
 	line "ROCKET."
 
-	para "But what exactly"
-	line "is TEAM ROCKET?"
+	para "Holy fuck I hate"
+	line "those guys!"
 	done
 
 GinaRocketTakeoverRumorText:
@@ -352,4 +361,7 @@ GinaRocketTakeoverRumorText:
 
 	para "I wonder if the"
 	line "workers are OK…"
+
+	para "God I hate those"
+	line "sick sick fucks."
 	done
