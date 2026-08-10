@@ -1,5 +1,10 @@
 MomPhoneGreetingText:
-	text "Hello?"
+	text "Hello? is there"
+	line "anybody out there?"
+	cont "Just nod if you"
+	cont "hear me..."
+	cont "Is there anyone"
+	cont "at home?"
 
 	para "Oh, hi, <PLAYER>!"
 	line "Working hard?"
@@ -12,10 +17,10 @@ MomPhoneLandmarkText:
 	text "…"
 
 	para "Isn't that where"
-	line "@"
+	line "@ and his cock"
 	text_ram wStringBuffer4
 	text_start
-	para "is? Did you go"
+	para "are? Did you go"
 	line "take a look?"
 	done
 
@@ -28,6 +33,8 @@ MomPhoneGenericAreaText:
 	para "I've never gone"
 	line "there. That's kind"
 	cont "of neat, <PLAYER>."
+	cont "Remember, wash"
+	cont "that cock."
 	done
 
 MomPhoneNewBarkText:
@@ -36,8 +43,9 @@ MomPhoneNewBarkText:
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Come see your MOM"
-	line "sometime!"
+	para "Come to piss on"
+	line "your father's"
+	cont "grave, <PLAYER>!?"
 	done
 
 MomPhoneCherrygroveText:
@@ -48,10 +56,12 @@ MomPhoneCherrygroveText:
 
 	para "How about coming"
 	line "home for a bit?"
+	cont "ELM was asking for"
+	cont "you and your anus."
 	done
 
 MomOtherAreaText:
-	text "Wow, you're in"
+	text "SHEISSE, you're in"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
@@ -62,7 +72,7 @@ MomOtherAreaText:
 
 MomDeterminedText:
 	text "That sounds really"
-	line "tough."
+	line "tough, FUCK!"
 
 	para "But, <PLAYER>, I"
 	line "know you're really"
@@ -118,6 +128,8 @@ MomPhoneHangUpText:
 	text "<PLAYER>, keep it"
 	line "up! I'm rooting"
 	cont "for you, baby!"
+	
+	para "NOT"
 	done
 
 MomPhoneNoPokemonText:
@@ -125,7 +137,9 @@ MomPhoneNoPokemonText:
 
 	para "Oh, hi, <PLAYER>!"
 	line "Wasn't PROF.ELM"
-	cont "waiting for you?"
+	cont "waiting for your"
+	cont "anus? You should"
+	cont "go back to him."
 	done
 
 MomPhoneNoPokedexText:
@@ -146,6 +160,8 @@ MomPhoneNoGymQuestText:
 
 	para "your errand come"
 	line "on home, dear."
+	cont "Need to clean your"
+	cont "anus, remember?"
 	done
 
 MomPhoneLectureText:
@@ -160,6 +176,9 @@ MomPhoneLectureText:
 	para "I wish you would"
 	line "have told me…"
 
-	para "What about money?"
-	line "Should I save it?"
+	para "You little shit!"
+	line "Why do you h8 me?"
+
+	para "I'll fucking waste"
+	line "all your money."
 	done
