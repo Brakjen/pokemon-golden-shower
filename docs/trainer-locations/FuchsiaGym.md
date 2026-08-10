@@ -8,15 +8,15 @@ Source: [maps/FuchsiaGym.asm](../../maps/FuchsiaGym.asm)
 - **Party ID:** `JANINE1`
 - **Encounter:** `scripted` via `FuchsiaGymJanineScript`
 - **Coordinates:** `(1, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L732)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L757)
 
 | Level | Pokemon |
 | --- | --- |
-| 36 | `CROBAT` |
-| 36 | `WEEZING` |
-| 36 | `WEEZING` |
-| 33 | `ARIADOS` |
-| 39 | `VENOMOTH` |
+| 49 | `CROBAT` |
+| 49 | `WEEZING` |
+| 49 | `WEEZING` |
+| 46 | `ARIADOS` |
+| 52 | `VENOMOTH` |
 
 ## LASS_ALICE: ALICE
 
@@ -24,13 +24,13 @@ Source: [maps/FuchsiaGym.asm](../../maps/FuchsiaGym.asm)
 - **Party ID:** `ALICE`
 - **Encounter:** `scripted` via `LassAliceScript`
 - **Coordinates:** `(5, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L651)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L676)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GLOOM` |
-| 34 | `ARBOK` |
-| 30 | `GLOOM` |
+| 43 | `GLOOM` |
+| 47 | `ARBOK` |
+| 43 | `GLOOM` |
 
 ## LASS_LINDA: LINDA
 
@@ -38,13 +38,13 @@ Source: [maps/FuchsiaGym.asm](../../maps/FuchsiaGym.asm)
 - **Party ID:** `LINDA`
 - **Encounter:** `scripted` via `LassLindaScript`
 - **Coordinates:** `(5, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L669)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L694)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `BULBASAUR` |
-| 32 | `IVYSAUR` |
-| 34 | `VENUSAUR` |
+| 43 | `BULBASAUR` |
+| 45 | `IVYSAUR` |
+| 47 | `VENUSAUR` |
 
 ## PICNICKER_CINDY: CINDY
 
@@ -52,11 +52,11 @@ Source: [maps/FuchsiaGym.asm](../../maps/FuchsiaGym.asm)
 - **Party ID:** `CINDY`
 - **Encounter:** `scripted` via `PicnickerCindyScript`
 - **Coordinates:** `(9, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2606)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2631)
 
 | Level | Pokemon |
 | --- | --- |
-| 36 | `NIDOQUEEN` |
+| 49 | `NIDOQUEEN` |
 
 ## CAMPER_BARRY: BARRY
 
@@ -64,8 +64,8 @@ Source: [maps/FuchsiaGym.asm](../../maps/FuchsiaGym.asm)
 - **Party ID:** `BARRY`
 - **Encounter:** `scripted` via `CamperBarryScript`
 - **Coordinates:** `(4, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2728)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2753)
 
 | Level | Pokemon |
 | --- | --- |
-| 36 | `NIDOKING` |
+| 49 | `NIDOKING` |

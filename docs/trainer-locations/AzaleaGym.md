@@ -8,12 +8,12 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `AMYANDMAY1`
 - **Encounter:** `object` via `TrainerTwinsAmyandmay1`
 - **Coordinates:** `(4, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3066)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3091)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `SPINARAK` |
-| 10 | `LEDYBA` |
+| 23 | `SPINARAK` |
+| 23 | `LEDYBA` |
 
 ## TWINS_AMYANDMAY2: AMY & MAY
 
@@ -21,12 +21,12 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `AMYANDMAY2`
 - **Encounter:** `object` via `TrainerTwinsAmyandmay2`
 - **Coordinates:** `(5, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3084)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3109)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `LEDYBA` |
-| 10 | `SPINARAK` |
+| 23 | `LEDYBA` |
+| 23 | `SPINARAK` |
 
 ## BUG_CATCHER_BENNY: BENNY
 
@@ -34,13 +34,13 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `BENNY`
 - **Encounter:** `object` via `TrainerBugCatcherBenny`
 - **Coordinates:** `(5, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1437)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1462)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `WEEDLE` |
-| 9 | `KAKUNA` |
-| 12 | `BEEDRILL` |
+| 20 | `WEEDLE` |
+| 22 | `KAKUNA` |
+| 25 | `BEEDRILL` |
 
 ## BUG_CATCHER_AL: AL
 
@@ -48,12 +48,12 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `AL`
 - **Encounter:** `object` via `TrainerBugCatcherAl`
 - **Coordinates:** `(8, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1444)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1469)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `CATERPIE` |
-| 12 | `WEEDLE` |
+| 25 | `CATERPIE` |
+| 25 | `WEEDLE` |
 
 ## BUG_CATCHER_JOSH: JOSH
 
@@ -61,11 +61,11 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `JOSH`
 - **Encounter:** `object` via `TrainerBugCatcherJosh`
 - **Coordinates:** `(0, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1450)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1475)
 
 | Level | Pokemon |
 | --- | --- |
-| 13 | `PARAS` |
+| 26 | `PARAS` |
 
 ## BUGSY_BUGSY1: BUGSY
 
@@ -73,10 +73,13 @@ Source: [maps/AzaleaGym.asm](../../maps/AzaleaGym.asm)
 - **Party ID:** `BUGSY1`
 - **Encounter:** `scripted` via `AzaleaGymBugsyScript`
 - **Coordinates:** `(5, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L29)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L37)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `METAPOD` |
-| 14 | `KAKUNA` |
-| 16 | `SCYTHER` |
+| 27 | `METAPOD` |
+| 27 | `KAKUNA` |
+| 29 | `SCYTHER` |
+| 27 | `BUTTERFREE` |
+| 27 | `BEEDRILL` |
+| 29 | `PINECO` |

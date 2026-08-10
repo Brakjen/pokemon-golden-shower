@@ -8,11 +8,11 @@ Source: [maps/PewterGym.asm](../../maps/PewterGym.asm)
 - **Party ID:** `JERRY`
 - **Encounter:** `object` via `TrainerCamperJerry`
 - **Coordinates:** `(2, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2812)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2837)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `SANDSLASH` |
+| 50 | `SANDSLASH` |
 
 ## BROCK_BROCK1: BROCK
 
@@ -20,12 +20,12 @@ Source: [maps/PewterGym.asm](../../maps/PewterGym.asm)
 - **Party ID:** `BROCK1`
 - **Encounter:** `scripted` via `PewterGymBrockScript`
 - **Coordinates:** `(5, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L271)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L296)
 
 | Level | Pokemon |
 | --- | --- |
-| 41 | `GRAVELER` |
-| 41 | `RHYHORN` |
-| 42 | `OMASTAR` |
-| 44 | `ONIX` |
-| 42 | `KABUTOPS` |
+| 54 | `GRAVELER` |
+| 54 | `RHYHORN` |
+| 55 | `OMASTAR` |
+| 57 | `ONIX` |
+| 55 | `KABUTOPS` |

@@ -8,11 +8,11 @@ Source: [maps/Route36.asm](../../maps/Route36.asm)
 - **Party ID:** `ALAN1`
 - **Encounter:** `object` via `TrainerSchoolboyAlan1`
 - **Coordinates:** `(31, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L423)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L448)
 
 | Level | Pokemon |
 | --- | --- |
-| 16 | `TANGELA` |
+| 29 | `TANGELA` |
 
 ## PSYCHIC_T_MARK: MARK
 
@@ -20,13 +20,13 @@ Source: [maps/Route36.asm](../../maps/Route36.asm)
 - **Party ID:** `MARK`
 - **Encounter:** `object` via `TrainerPsychicMark`
 - **Coordinates:** `(20, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2545)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2570)
 
 | Level | Pokemon |
 | --- | --- |
-| 13 | `ABRA` |
-| 13 | `ABRA` |
-| 15 | `KADABRA` |
+| 26 | `ABRA` |
+| 26 | `ABRA` |
+| 28 | `KADABRA` |
 
 ## SCHOOLBOY_ALAN2: ALAN
 
@@ -34,12 +34,12 @@ Source: [maps/Route36.asm](../../maps/Route36.asm)
 - **Party ID:** `ALAN2`
 - **Encounter:** `scripted` via `TrainerSchoolboyAlan1`
 - **Coordinates:** `(31, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L496)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L521)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `TANGELA` |
-| 17 | `YANMA` |
+| 30 | `TANGELA` |
+| 30 | `YANMA` |
 
 ## SCHOOLBOY_ALAN3: ALAN
 
@@ -47,11 +47,11 @@ Source: [maps/Route36.asm](../../maps/Route36.asm)
 - **Party ID:** `ALAN3`
 - **Encounter:** `scripted` via `TrainerSchoolboyAlan1`
 - **Coordinates:** `(31, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L502)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L527)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `NATU` |
-| 22 | `TANGELA` |
-| 20 | `QUAGSIRE` |
-| 25 | `YANMA` |
+| 33 | `NATU` |
+| 35 | `TANGELA` |
+| 33 | `QUAGSIRE` |
+| 38 | `YANMA` |

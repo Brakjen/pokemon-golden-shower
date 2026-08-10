@@ -8,13 +8,13 @@ Source: [maps/Route20.asm](../../maps/Route20.asm)
 - **Party ID:** `NICOLE`
 - **Encounter:** `object` via `TrainerSwimmerfNicole`
 - **Coordinates:** `(52, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1854)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1879)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `MARILL` |
-| 29 | `MARILL` |
-| 32 | `LAPRAS` |
+| 42 | `MARILL` |
+| 42 | `MARILL` |
+| 45 | `LAPRAS` |
 
 ## SWIMMERF_LORI: LORI
 
@@ -22,12 +22,12 @@ Source: [maps/Route20.asm](../../maps/Route20.asm)
 - **Party ID:** `LORI`
 - **Encounter:** `object` via `TrainerSwimmerfLori`
 - **Coordinates:** `(45, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1861)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1886)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `STARMIE` |
-| 32 | `STARMIE` |
+| 45 | `STARMIE` |
+| 45 | `STARMIE` |
 
 ## SWIMMERM_CAMERON: CAMERON
 
@@ -35,8 +35,8 @@ Source: [maps/Route20.asm](../../maps/Route20.asm)
 - **Party ID:** `CAMERON`
 - **Encounter:** `object` via `TrainerSwimmermCameron`
 - **Coordinates:** `(12, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1749)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1774)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `MARILL` |
+| 47 | `MARILL` |

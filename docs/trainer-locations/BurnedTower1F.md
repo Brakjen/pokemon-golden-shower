@@ -8,13 +8,13 @@ Source: [maps/BurnedTower1F.asm](../../maps/BurnedTower1F.asm)
 - **Party ID:** `NED`
 - **Encounter:** `object` via `TrainerFirebreatherNed`
 - **Coordinates:** `(16, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2346)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2371)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `KOFFING` |
-| 16 | `GROWLITHE` |
-| 15 | `KOFFING` |
+| 28 | `KOFFING` |
+| 29 | `GROWLITHE` |
+| 28 | `KOFFING` |
 
 ## RIVAL1_RIVAL1_3_TOTODILE: ?
 
@@ -22,14 +22,14 @@ Source: [maps/BurnedTower1F.asm](../../maps/BurnedTower1F.asm)
 - **Party ID:** `RIVAL1_3_TOTODILE`
 - **Encounter:** `scripted` via `BurnedTower1FRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L130)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L155)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `HAUNTER` |
-| 18 | `MAGNEMITE` |
-| 20 | `ZUBAT` |
-| 22 | `CROCONAW` |
+| 33 | `HAUNTER` |
+| 31 | `MAGNEMITE` |
+| 33 | `ZUBAT` |
+| 35 | `CROCONAW` |
 
 ## RIVAL1_RIVAL1_3_CHIKORITA: ?
 
@@ -37,14 +37,14 @@ Source: [maps/BurnedTower1F.asm](../../maps/BurnedTower1F.asm)
 - **Party ID:** `RIVAL1_3_CHIKORITA`
 - **Encounter:** `scripted` via `BurnedTower1FRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L114)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L139)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `HAUNTER` |
-| 18 | `MAGNEMITE` |
-| 20 | `ZUBAT` |
-| 22 | `BAYLEEF` |
+| 33 | `HAUNTER` |
+| 31 | `MAGNEMITE` |
+| 33 | `ZUBAT` |
+| 35 | `BAYLEEF` |
 
 ## RIVAL1_RIVAL1_3_CYNDAQUIL: ?
 
@@ -52,14 +52,14 @@ Source: [maps/BurnedTower1F.asm](../../maps/BurnedTower1F.asm)
 - **Party ID:** `RIVAL1_3_CYNDAQUIL`
 - **Encounter:** `scripted` via `BurnedTower1FRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L122)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L147)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `HAUNTER` |
-| 18 | `MAGNEMITE` |
-| 20 | `ZUBAT` |
-| 22 | `QUILAVA` |
+| 33 | `HAUNTER` |
+| 31 | `MAGNEMITE` |
+| 33 | `ZUBAT` |
+| 35 | `QUILAVA` |
 
 ## FIREBREATHER_DICK: DICK
 
@@ -67,8 +67,8 @@ Source: [maps/BurnedTower1F.asm](../../maps/BurnedTower1F.asm)
 - **Party ID:** `DICK`
 - **Encounter:** `scripted` via `FirebreatherDickFight`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2341)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2366)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `CHARMELEON` |
+| 30 | `CHARMELEON` |

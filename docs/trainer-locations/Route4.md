@@ -8,12 +8,12 @@ Source: [maps/Route4.asm](../../maps/Route4.asm)
 - **Party ID:** `HANK`
 - **Encounter:** `object` via `TrainerBirdKeeperHank`
 - **Coordinates:** `(17, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L569)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L594)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `PIDGEY` |
-| 34 | `PIDGEOT` |
+| 25 | `PIDGEY` |
+| 47 | `PIDGEOT` |
 
 ## PICNICKER_HOPE: HOPE
 
@@ -21,11 +21,11 @@ Source: [maps/Route4.asm](../../maps/Route4.asm)
 - **Party ID:** `HOPE`
 - **Encounter:** `object` via `TrainerPicnickerHope`
 - **Coordinates:** `(10, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2611)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2636)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `FLAAFFY` |
+| 47 | `FLAAFFY` |
 
 ## PICNICKER_SHARON: SHARON
 
@@ -33,9 +33,9 @@ Source: [maps/Route4.asm](../../maps/Route4.asm)
 - **Party ID:** `SHARON`
 - **Encounter:** `object` via `TrainerPicnickerSharon`
 - **Coordinates:** `(21, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2616)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2641)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `FURRET` |
-| 33 | `RAPIDASH` |
+| 44 | `FURRET` |
+| 46 | `RAPIDASH` |

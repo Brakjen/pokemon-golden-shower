@@ -8,13 +8,13 @@ Source: [maps/Route13.asm](../../maps/Route13.asm)
 - **Party ID:** `ALEX`
 - **Encounter:** `object` via `TrainerPokefanmAlex`
 - **Coordinates:** `(25, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3025)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3050)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `NIDOKING` |
-| 29 | `SLOWKING` |
-| 29 | `SEAKING` |
+| 42 | `NIDOKING` |
+| 42 | `SLOWKING` |
+| 42 | `SEAKING` |
 
 ## POKEFANM_JOSHUA: JOSHUA
 
@@ -22,16 +22,16 @@ Source: [maps/Route13.asm](../../maps/Route13.asm)
 - **Party ID:** `JOSHUA`
 - **Encounter:** `object` via `TrainerPokefanmJoshua`
 - **Coordinates:** `(32, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2976)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3001)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `PIKACHU` |
-| 23 | `PIKACHU` |
-| 23 | `PIKACHU` |
-| 23 | `PIKACHU` |
-| 23 | `PIKACHU` |
-| 23 | `PIKACHU` |
+| 36 | `PIKACHU` |
+| 36 | `PIKACHU` |
+| 36 | `PIKACHU` |
+| 36 | `PIKACHU` |
+| 36 | `PIKACHU` |
+| 36 | `PIKACHU` |
 
 ## BIRD_KEEPER_PERRY: PERRY
 
@@ -39,11 +39,11 @@ Source: [maps/Route13.asm](../../maps/Route13.asm)
 - **Party ID:** `PERRY`
 - **Encounter:** `object` via `TrainerBirdKeeperPerry`
 - **Coordinates:** `(42, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L610)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L635)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `FARFETCH_D` |
+| 47 | `FARFETCH_D` |
 
 ## BIRD_KEEPER_BRET: BRET
 
@@ -51,12 +51,12 @@ Source: [maps/Route13.asm](../../maps/Route13.asm)
 - **Party ID:** `BRET`
 - **Encounter:** `object` via `TrainerBirdKeeperBret`
 - **Coordinates:** `(43, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L615)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L640)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `PIDGEOTTO` |
-| 32 | `FEAROW` |
+| 45 | `PIDGEOTTO` |
+| 45 | `FEAROW` |
 
 ## HIKER_KENNY: KENNY
 
@@ -64,11 +64,11 @@ Source: [maps/Route13.asm](../../maps/Route13.asm)
 - **Party ID:** `KENNY`
 - **Encounter:** `object` via `TrainerHikerKenny`
 - **Coordinates:** `(14, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2216)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2241)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `SANDSLASH` |
-| 29 | `GRAVELER` |
-| 31 | `GOLEM` |
-| 29 | `GRAVELER` |
+| 40 | `SANDSLASH` |
+| 42 | `GRAVELER` |
+| 44 | `GOLEM` |
+| 42 | `GRAVELER` |

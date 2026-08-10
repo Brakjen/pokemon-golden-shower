@@ -8,13 +8,13 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `SEAN`
 - **Encounter:** `object` via `TrainerCooltrainermSean`
 - **Coordinates:** `(4, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L840)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L865)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `FLAREON` |
-| 35 | `TANGELA` |
-| 35 | `TAUROS` |
+| 48 | `FLAREON` |
+| 48 | `TANGELA` |
+| 48 | `TAUROS` |
 
 ## COOLTRAINERF_CAROL: CAROL
 
@@ -22,13 +22,13 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `CAROL`
 - **Encounter:** `object` via `TrainerCooltrainerfCarol`
 - **Coordinates:** `(1, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L941)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L966)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `ELECTRODE` |
-| 35 | `STARMIE` |
-| 35 | `NINETALES` |
+| 48 | `ELECTRODE` |
+| 48 | `STARMIE` |
+| 48 | `NINETALES` |
 
 ## POKEMANIAC_ETHAN: ETHAN
 
@@ -36,12 +36,12 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `ETHAN`
 - **Encounter:** `object` via `TrainerPokemaniacEthan`
 - **Coordinates:** `(1, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1118)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1143)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `RHYHORN` |
-| 31 | `RHYDON` |
+| 44 | `RHYHORN` |
+| 44 | `RHYDON` |
 
 ## HIKER_NOLAND: NOLAND
 
@@ -49,12 +49,12 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `NOLAND`
 - **Encounter:** `object` via `TrainerHikerNoland`
 - **Coordinates:** `(4, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2204)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2229)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `SANDSLASH` |
-| 33 | `GOLEM` |
+| 44 | `SANDSLASH` |
+| 46 | `GOLEM` |
 
 ## GENTLEMAN_EDWARD: EDWARD
 
@@ -62,11 +62,11 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `EDWARD`
 - **Encounter:** `object` via `TrainerGentlemanEdward`
 - **Coordinates:** `(7, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1352)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1377)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `PERSIAN` |
+| 46 | `PERSIAN` |
 
 ## BURGLAR_COREY: COREY
 
@@ -74,14 +74,14 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `COREY`
 - **Encounter:** `object` via `TrainerBurglarCorey`
 - **Coordinates:** `(2, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2325)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2350)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `KOFFING` |
-| 28 | `MAGMAR` |
-| 25 | `KOFFING` |
-| 30 | `KOFFING` |
+| 38 | `KOFFING` |
+| 41 | `MAGMAR` |
+| 38 | `KOFFING` |
+| 43 | `KOFFING` |
 
 ## SAILOR_STANLY: STANLY
 
@@ -89,10 +89,10 @@ Source: [maps/FastShipCabins_NNW_NNE_NE.asm](../../maps/FastShipCabins_NNW_NNE_N
 - **Party ID:** `STANLY`
 - **Encounter:** `scripted` via `FastShipLazySailorScript`
 - **Coordinates:** `(4, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1942)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1967)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `MACHOP` |
-| 33 | `MACHOKE` |
-| 26 | `PSYDUCK` |
+| 44 | `MACHOP` |
+| 46 | `MACHOKE` |
+| 39 | `PSYDUCK` |

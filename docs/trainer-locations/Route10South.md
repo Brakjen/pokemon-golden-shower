@@ -8,11 +8,11 @@ Source: [maps/Route10South.asm](../../maps/Route10South.asm)
 - **Party ID:** `JIM`
 - **Encounter:** `object` via `TrainerHikerJim`
 - **Coordinates:** `(17, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2224)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2249)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `MACHAMP` |
+| 48 | `MACHAMP` |
 
 ## POKEFANM_ROBERT: ROBERT
 
@@ -20,8 +20,8 @@ Source: [maps/Route10South.asm](../../maps/Route10South.asm)
 - **Party ID:** `ROBERT`
 - **Encounter:** `object` via `TrainerPokefanmRobert`
 - **Coordinates:** `(4, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2971)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2996)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `QUAGSIRE` |
+| 46 | `QUAGSIRE` |

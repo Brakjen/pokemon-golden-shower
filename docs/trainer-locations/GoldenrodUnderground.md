@@ -8,12 +8,12 @@ Source: [maps/GoldenrodUnderground.asm](../../maps/GoldenrodUnderground.asm)
 - **Party ID:** `ERIC`
 - **Encounter:** `object` via `TrainerSupernerdEric`
 - **Coordinates:** `(5, 31)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1972)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1997)
 
 | Level | Pokemon |
 | --- | --- |
-| 11 | `GRIMER` |
-| 11 | `GRIMER` |
+| 24 | `GRIMER` |
+| 24 | `GRIMER` |
 
 ## SUPER_NERD_TERU: TERU
 
@@ -21,14 +21,14 @@ Source: [maps/GoldenrodUnderground.asm](../../maps/GoldenrodUnderground.asm)
 - **Party ID:** `TERU`
 - **Encounter:** `object` via `TrainerSupernerdTeru`
 - **Coordinates:** `(6, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2021)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2046)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `MAGNEMITE` |
-| 11 | `VOLTORB` |
-| 7 | `MAGNEMITE` |
-| 9 | `MAGNEMITE` |
+| 20 | `MAGNEMITE` |
+| 24 | `VOLTORB` |
+| 20 | `MAGNEMITE` |
+| 22 | `MAGNEMITE` |
 
 ## POKEMANIAC_ISSAC: ISSAC
 
@@ -36,11 +36,11 @@ Source: [maps/GoldenrodUnderground.asm](../../maps/GoldenrodUnderground.asm)
 - **Party ID:** `ISSAC`
 - **Encounter:** `object` via `TrainerPokemaniacIssac`
 - **Coordinates:** `(3, 27)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1138)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1163)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `LICKITUNG` |
+| 25 | `LICKITUNG` |
 
 ## POKEMANIAC_DONALD: DONALD
 
@@ -48,9 +48,9 @@ Source: [maps/GoldenrodUnderground.asm](../../maps/GoldenrodUnderground.asm)
 - **Party ID:** `DONALD`
 - **Encounter:** `object` via `TrainerPokemaniacDonald`
 - **Coordinates:** `(2, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1143)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1168)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `SLOWPOKE` |
-| 10 | `SLOWPOKE` |
+| 23 | `SLOWPOKE` |
+| 23 | `SLOWPOKE` |

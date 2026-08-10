@@ -8,12 +8,12 @@ Source: [maps/TeamRocketBaseB3F.asm](../../maps/TeamRocketBaseB3F.asm)
 - **Party ID:** `GRUNTF_5`
 - **Encounter:** `object` via `SlowpokeTailGrunt`
 - **Coordinates:** `(21, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3204)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3229)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `EKANS` |
-| 18 | `GLOOM` |
+| 31 | `EKANS` |
+| 31 | `GLOOM` |
 
 ## GRUNTM_GRUNTM_28: GRUNT
 
@@ -21,11 +21,11 @@ Source: [maps/TeamRocketBaseB3F.asm](../../maps/TeamRocketBaseB3F.asm)
 - **Party ID:** `GRUNTM_28`
 - **Encounter:** `object` via `RaticateTailGrunt`
 - **Coordinates:** `(5, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1322)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1347)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `RATICATE` |
+| 32 | `RATICATE` |
 
 ## SCIENTIST_ROSS: ROSS
 
@@ -33,12 +33,12 @@ Source: [maps/TeamRocketBaseB3F.asm](../../maps/TeamRocketBaseB3F.asm)
 - **Party ID:** `ROSS`
 - **Encounter:** `object` via `TrainerScientistRoss`
 - **Coordinates:** `(25, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L300)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L325)
 
 | Level | Pokemon |
 | --- | --- |
-| 22 | `KOFFING` |
-| 22 | `KOFFING` |
+| 35 | `KOFFING` |
+| 35 | `KOFFING` |
 
 ## SCIENTIST_MITCH: MITCH
 
@@ -46,11 +46,11 @@ Source: [maps/TeamRocketBaseB3F.asm](../../maps/TeamRocketBaseB3F.asm)
 - **Party ID:** `MITCH`
 - **Encounter:** `object` via `TrainerScientistMitch`
 - **Coordinates:** `(14, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L306)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L331)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `DITTO` |
+| 37 | `DITTO` |
 
 ## EXECUTIVEM_EXECUTIVEM_4: EXECUTIVE
 
@@ -58,10 +58,10 @@ Source: [maps/TeamRocketBaseB3F.asm](../../maps/TeamRocketBaseB3F.asm)
 - **Party ID:** `EXECUTIVEM_4`
 - **Encounter:** `scripted` via `RocketBaseBoss`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2504)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2529)
 
 | Level | Pokemon |
 | --- | --- |
-| 22 | `ZUBAT` |
-| 24 | `RATICATE` |
-| 22 | `KOFFING` |
+| 35 | `ZUBAT` |
+| 37 | `RATICATE` |
+| 35 | `KOFFING` |

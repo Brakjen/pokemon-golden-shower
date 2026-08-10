@@ -8,12 +8,12 @@ Source: [maps/VermilionGym.asm](../../maps/VermilionGym.asm)
 - **Party ID:** `GREGORY`
 - **Encounter:** `object` via `TrainerGentlemanGregory`
 - **Coordinates:** `(8, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1357)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1382)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `PIKACHU` |
-| 33 | `FLAAFFY` |
+| 50 | `PIKACHU` |
+| 46 | `FLAAFFY` |
 
 ## GUITARIST_VINCENT: VINCENT
 
@@ -21,14 +21,14 @@ Source: [maps/VermilionGym.asm](../../maps/VermilionGym.asm)
 - **Party ID:** `VINCENT`
 - **Encounter:** `object` via `TrainerGuitaristVincent`
 - **Coordinates:** `(4, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2108)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2133)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `MAGNEMITE` |
-| 33 | `VOLTORB` |
-| 32 | `MAGNEMITE` |
-| 32 | `MAGNEMITE` |
+| 40 | `MAGNEMITE` |
+| 46 | `VOLTORB` |
+| 45 | `MAGNEMITE` |
+| 45 | `MAGNEMITE` |
 
 ## JUGGLER_HORTON: HORTON
 
@@ -36,14 +36,14 @@ Source: [maps/VermilionGym.asm](../../maps/VermilionGym.asm)
 - **Party ID:** `HORTON`
 - **Encounter:** `object` via `TrainerJugglerHorton`
 - **Coordinates:** `(0, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2399)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2424)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `ELECTRODE` |
-| 33 | `ELECTRODE` |
-| 33 | `ELECTRODE` |
-| 33 | `ELECTRODE` |
+| 46 | `ELECTRODE` |
+| 46 | `ELECTRODE` |
+| 46 | `ELECTRODE` |
+| 46 | `ELECTRODE` |
 
 ## LT_SURGE_LT_SURGE1: LT.SURGE
 
@@ -51,12 +51,12 @@ Source: [maps/VermilionGym.asm](../../maps/VermilionGym.asm)
 - **Party ID:** `LT_SURGE1`
 - **Encounter:** `scripted` via `VermilionGymSurgeScript`
 - **Coordinates:** `(5, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L290)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L315)
 
 | Level | Pokemon |
 | --- | --- |
-| 44 | `RAICHU` |
-| 40 | `ELECTRODE` |
-| 40 | `MAGNETON` |
-| 40 | `ELECTRODE` |
-| 46 | `ELECTABUZZ` |
+| 57 | `RAICHU` |
+| 53 | `ELECTRODE` |
+| 53 | `MAGNETON` |
+| 53 | `ELECTRODE` |
+| 59 | `ELECTABUZZ` |

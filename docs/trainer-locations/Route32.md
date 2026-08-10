@@ -8,11 +8,11 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `ROLAND`
 - **Encounter:** `object` via `TrainerCamperRoland`
 - **Coordinates:** `(1, 56)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2705)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2730)
 
 | Level | Pokemon |
 | --- | --- |
-| 9 | `NIDORAN_M` |
+| 22 | `NIDORAN_M` |
 
 ## FISHER_JUSTIN: JUSTIN
 
@@ -20,14 +20,14 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `JUSTIN`
 - **Encounter:** `object` via `TrainerFisherJustin`
 - **Coordinates:** `(8, 49)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1498)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1523)
 
 | Level | Pokemon |
 | --- | --- |
-| 5 | `MAGIKARP` |
-| 5 | `MAGIKARP` |
-| 15 | `MAGIKARP` |
-| 5 | `MAGIKARP` |
+| 18 | `MAGIKARP` |
+| 18 | `MAGIKARP` |
+| 28 | `MAGIKARP` |
+| 18 | `MAGIKARP` |
 
 ## FISHER_RALPH1: RALPH
 
@@ -35,11 +35,11 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `RALPH1`
 - **Encounter:** `object` via `TrainerFisherRalph1`
 - **Coordinates:** `(12, 56)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1506)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1531)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `GOLDEEN` |
+| 23 | `GOLDEEN` |
 
 ## FISHER_HENRY: HENRY
 
@@ -47,12 +47,12 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `HENRY`
 - **Encounter:** `object` via `TrainerFisherHenry`
 - **Coordinates:** `(6, 48)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1523)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1548)
 
 | Level | Pokemon |
 | --- | --- |
-| 8 | `POLIWAG` |
-| 8 | `POLIWAG` |
+| 21 | `POLIWAG` |
+| 21 | `POLIWAG` |
 
 ## PICNICKER_LIZ1: LIZ
 
@@ -60,11 +60,11 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `LIZ1`
 - **Encounter:** `object` via `TrainerPicnickerLiz1`
 - **Coordinates:** `(10, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2584)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2609)
 
 | Level | Pokemon |
 | --- | --- |
-| 9 | `NIDORAN_F` |
+| 22 | `NIDORAN_F` |
 
 ## YOUNGSTER_ALBERT: ALBERT
 
@@ -72,12 +72,12 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `ALBERT`
 - **Encounter:** `object` via `TrainerYoungsterAlbert`
 - **Coordinates:** `(13, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L351)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L376)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `RATTATA` |
-| 8 | `ZUBAT` |
+| 19 | `RATTATA` |
+| 21 | `ZUBAT` |
 
 ## YOUNGSTER_GORDON: GORDON
 
@@ -85,11 +85,11 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `GORDON`
 - **Encounter:** `object` via `TrainerYoungsterGordon`
 - **Coordinates:** `(4, 65)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L357)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L382)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `WOOPER` |
+| 23 | `WOOPER` |
 
 ## BIRD_KEEPER_PETER: PETER
 
@@ -97,13 +97,13 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `PETER`
 - **Encounter:** `object` via `TrainerBirdKeeperPeter`
 - **Coordinates:** `(11, 82)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L598)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L623)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `PIDGEY` |
-| 6 | `PIDGEY` |
-| 8 | `SPEAROW` |
+| 19 | `PIDGEY` |
+| 19 | `PIDGEY` |
+| 21 | `SPEAROW` |
 
 ## FISHER_RALPH2: RALPH
 
@@ -111,11 +111,11 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `RALPH2`
 - **Encounter:** `scripted` via `TrainerFisherRalph1`
 - **Coordinates:** `(12, 56)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1597)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1622)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `GOLDEEN` |
+| 30 | `GOLDEEN` |
 
 ## FISHER_RALPH3: RALPH
 
@@ -123,12 +123,12 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `RALPH3`
 - **Encounter:** `scripted` via `TrainerFisherRalph1`
 - **Coordinates:** `(12, 56)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1602)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1627)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `QWILFISH` |
-| 19 | `GOLDEEN` |
+| 30 | `QWILFISH` |
+| 32 | `GOLDEEN` |
 
 ## PICNICKER_LIZ2: LIZ
 
@@ -136,12 +136,12 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `LIZ2`
 - **Encounter:** `scripted` via `TrainerPicnickerLiz1`
 - **Coordinates:** `(10, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2640)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2665)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `WEEPINBELL` |
-| 15 | `NIDORINA` |
+| 28 | `WEEPINBELL` |
+| 28 | `NIDORINA` |
 
 ## PICNICKER_LIZ3: LIZ
 
@@ -149,10 +149,10 @@ Source: [maps/Route32.asm](../../maps/Route32.asm)
 - **Party ID:** `LIZ3`
 - **Encounter:** `scripted` via `TrainerPicnickerLiz1`
 - **Coordinates:** `(10, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2646)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2671)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `WEEPINBELL` |
-| 19 | `NIDORINO` |
-| 21 | `NIDOQUEEN` |
+| 32 | `WEEPINBELL` |
+| 32 | `NIDORINO` |
+| 34 | `NIDOQUEEN` |

@@ -8,13 +8,13 @@ Source: [maps/LancesRoom.asm](../../maps/LancesRoom.asm)
 - **Party ID:** `LANCE`
 - **Encounter:** `scripted` via `LancesRoomLanceScript`
 - **Coordinates:** `(5, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L260)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L285)
 
 | Level | Pokemon |
 | --- | --- |
-| 44 | `GYARADOS` |
-| 47 | `DRAGONITE` |
-| 47 | `DRAGONITE` |
-| 46 | `AERODACTYL` |
-| 46 | `CHARIZARD` |
-| 50 | `DRAGONITE` |
+| 57 | `GYARADOS` |
+| 60 | `DRAGONITE` |
+| 60 | `DRAGONITE` |
+| 59 | `AERODACTYL` |
+| 59 | `CHARIZARD` |
+| 63 | `DRAGONITE` |

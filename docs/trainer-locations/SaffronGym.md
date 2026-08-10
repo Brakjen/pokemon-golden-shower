@@ -8,12 +8,12 @@ Source: [maps/SaffronGym.asm](../../maps/SaffronGym.asm)
 - **Party ID:** `REBECCA`
 - **Encounter:** `object` via `TrainerMediumRebecca`
 - **Coordinates:** `(17, 16)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2927)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2952)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `DROWZEE` |
-| 35 | `HYPNO` |
+| 48 | `DROWZEE` |
+| 48 | `HYPNO` |
 
 ## PSYCHIC_T_FRANKLIN: FRANKLIN
 
@@ -21,11 +21,11 @@ Source: [maps/SaffronGym.asm](../../maps/SaffronGym.asm)
 - **Party ID:** `FRANKLIN`
 - **Encounter:** `object` via `TrainerPsychicFranklin`
 - **Coordinates:** `(3, 16)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2517)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2542)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `KADABRA` |
+| 50 | `KADABRA` |
 
 ## MEDIUM_DORIS: DORIS
 
@@ -33,12 +33,12 @@ Source: [maps/SaffronGym.asm](../../maps/SaffronGym.asm)
 - **Party ID:** `DORIS`
 - **Encounter:** `object` via `TrainerMediumDoris`
 - **Coordinates:** `(3, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2933)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2958)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `SLOWPOKE` |
-| 36 | `SLOWBRO` |
+| 47 | `SLOWPOKE` |
+| 49 | `SLOWBRO` |
 
 ## PSYCHIC_T_JARED: JARED
 
@@ -46,13 +46,13 @@ Source: [maps/SaffronGym.asm](../../maps/SaffronGym.asm)
 - **Party ID:** `JARED`
 - **Encounter:** `object` via `TrainerPsychicJared`
 - **Coordinates:** `(17, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2570)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2595)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `MR__MIME` |
-| 32 | `EXEGGCUTE` |
-| 35 | `EXEGGCUTE` |
+| 45 | `MR__MIME` |
+| 45 | `EXEGGCUTE` |
+| 48 | `EXEGGCUTE` |
 
 ## SABRINA_SABRINA1: SABRINA
 
@@ -60,10 +60,10 @@ Source: [maps/SaffronGym.asm](../../maps/SaffronGym.asm)
 - **Party ID:** `SABRINA1`
 - **Encounter:** `scripted` via `SaffronGymSabrinaScript`
 - **Coordinates:** `(9, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1402)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1427)
 
 | Level | Pokemon |
 | --- | --- |
-| 46 | `ESPEON` |
-| 46 | `MR__MIME` |
-| 48 | `ALAKAZAM` |
+| 59 | `ESPEON` |
+| 59 | `MR__MIME` |
+| 61 | `ALAKAZAM` |

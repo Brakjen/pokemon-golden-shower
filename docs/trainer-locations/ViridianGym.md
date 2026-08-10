@@ -8,13 +8,13 @@ Source: [maps/ViridianGym.asm](../../maps/ViridianGym.asm)
 - **Party ID:** `BLUE1`
 - **Encounter:** `scripted` via `ViridianGymBlueScript`
 - **Coordinates:** `(5, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3156)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3181)
 
 | Level | Pokemon |
 | --- | --- |
-| 56 | `PIDGEOT` |
-| 54 | `ALAKAZAM` |
-| 56 | `RHYDON` |
-| 58 | `GYARADOS` |
-| 58 | `EXEGGUTOR` |
-| 58 | `ARCANINE` |
+| 69 | `PIDGEOT` |
+| 67 | `ALAKAZAM` |
+| 69 | `RHYDON` |
+| 71 | `GYARADOS` |
+| 71 | `EXEGGUTOR` |
+| 71 | `ARCANINE` |

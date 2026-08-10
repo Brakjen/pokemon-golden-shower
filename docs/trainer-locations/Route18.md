@@ -8,13 +8,13 @@ Source: [maps/Route18.asm](../../maps/Route18.asm)
 - **Party ID:** `BORIS`
 - **Encounter:** `object` via `TrainerBirdKeeperBoris`
 - **Coordinates:** `(9, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L581)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L606)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `DODUO` |
-| 28 | `DODUO` |
-| 32 | `DODRIO` |
+| 43 | `DODUO` |
+| 41 | `DODUO` |
+| 45 | `DODRIO` |
 
 ## BIRD_KEEPER_BOB: BOB
 
@@ -22,8 +22,8 @@ Source: [maps/Route18.asm](../../maps/Route18.asm)
 - **Party ID:** `BOB`
 - **Encounter:** `object` via `TrainerBirdKeeperBob`
 - **Coordinates:** `(13, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L588)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L613)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `NOCTOWL` |
+| 47 | `NOCTOWL` |

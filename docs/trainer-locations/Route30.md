@@ -8,11 +8,11 @@ Source: [maps/Route30.asm](../../maps/Route30.asm)
 - **Party ID:** `JOEY1`
 - **Encounter:** `object` via `TrainerYoungsterJoey`
 - **Coordinates:** `(6, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L340)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L365)
 
 | Level | Pokemon |
 | --- | --- |
-| 4 | `RATTATA` |
+| 17 | `RATTATA` |
 
 ## YOUNGSTER_MIKEY: MIKEY
 
@@ -20,12 +20,12 @@ Source: [maps/Route30.asm](../../maps/Route30.asm)
 - **Party ID:** `MIKEY`
 - **Encounter:** `object` via `TrainerYoungsterMikey`
 - **Coordinates:** `(5, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L345)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L370)
 
 | Level | Pokemon |
 | --- | --- |
-| 2 | `PIDGEY` |
-| 4 | `RATTATA` |
+| 15 | `PIDGEY` |
+| 17 | `RATTATA` |
 
 ## BUG_CATCHER_DON: DON
 
@@ -33,12 +33,12 @@ Source: [maps/Route30.asm](../../maps/Route30.asm)
 - **Party ID:** `DON`
 - **Encounter:** `object` via `TrainerBugCatcherDon`
 - **Coordinates:** `(4, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1410)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1435)
 
 | Level | Pokemon |
 | --- | --- |
-| 3 | `CATERPIE` |
-| 3 | `CATERPIE` |
+| 16 | `CATERPIE` |
+| 16 | `CATERPIE` |
 
 ## YOUNGSTER_JOEY2: JOEY
 
@@ -46,11 +46,11 @@ Source: [maps/Route30.asm](../../maps/Route30.asm)
 - **Party ID:** `JOEY2`
 - **Encounter:** `scripted` via `TrainerYoungsterJoey`
 - **Coordinates:** `(6, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L376)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L401)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `RATTATA` |
+| 28 | `RATTATA` |
 
 ## YOUNGSTER_JOEY3: JOEY
 
@@ -58,8 +58,8 @@ Source: [maps/Route30.asm](../../maps/Route30.asm)
 - **Party ID:** `JOEY3`
 - **Encounter:** `scripted` via `TrainerYoungsterJoey`
 - **Coordinates:** `(6, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L381)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L406)
 
 | Level | Pokemon |
 | --- | --- |
-| 21 | `RATICATE` |
+| 34 | `RATICATE` |

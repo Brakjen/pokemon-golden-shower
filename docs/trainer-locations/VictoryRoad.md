@@ -8,16 +8,16 @@ Source: [maps/VictoryRoad.asm](../../maps/VictoryRoad.asm)
 - **Party ID:** `RIVAL1_5_TOTODILE`
 - **Encounter:** `scripted` via `VictoryRoadRivalNext`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L185)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L210)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `SNEASEL` |
-| 36 | `GOLBAT` |
-| 34 | `MAGNETON` |
-| 35 | `HAUNTER` |
-| 35 | `KADABRA` |
-| 38 | `FERALIGATR` |
+| 47 | `SNEASEL` |
+| 49 | `GOLBAT` |
+| 47 | `MAGNETON` |
+| 48 | `HAUNTER` |
+| 48 | `KADABRA` |
+| 51 | `FERALIGATR` |
 
 ## RIVAL1_RIVAL1_5_CHIKORITA: ?
 
@@ -25,16 +25,16 @@ Source: [maps/VictoryRoad.asm](../../maps/VictoryRoad.asm)
 - **Party ID:** `RIVAL1_5_CHIKORITA`
 - **Encounter:** `scripted` via `VictoryRoadRivalNext`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L165)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L190)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `SNEASEL` |
-| 36 | `GOLBAT` |
-| 35 | `MAGNETON` |
-| 35 | `HAUNTER` |
-| 35 | `KADABRA` |
-| 38 | `MEGANIUM` |
+| 47 | `SNEASEL` |
+| 49 | `GOLBAT` |
+| 48 | `MAGNETON` |
+| 48 | `HAUNTER` |
+| 48 | `KADABRA` |
+| 51 | `MEGANIUM` |
 
 ## RIVAL1_RIVAL1_5_CYNDAQUIL: ?
 
@@ -42,13 +42,13 @@ Source: [maps/VictoryRoad.asm](../../maps/VictoryRoad.asm)
 - **Party ID:** `RIVAL1_5_CYNDAQUIL`
 - **Encounter:** `scripted` via `VictoryRoadRivalNext`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L175)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L200)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `SNEASEL` |
-| 36 | `GOLBAT` |
-| 35 | `MAGNETON` |
-| 35 | `HAUNTER` |
-| 35 | `KADABRA` |
-| 38 | `TYPHLOSION` |
+| 47 | `SNEASEL` |
+| 49 | `GOLBAT` |
+| 48 | `MAGNETON` |
+| 48 | `HAUNTER` |
+| 48 | `KADABRA` |
+| 51 | `TYPHLOSION` |

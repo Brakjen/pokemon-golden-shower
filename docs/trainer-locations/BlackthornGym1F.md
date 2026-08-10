@@ -8,13 +8,13 @@ Source: [maps/BlackthornGym1F.asm](../../maps/BlackthornGym1F.asm)
 - **Party ID:** `PAUL`
 - **Encounter:** `object` via `TrainerCooltrainermPaul`
 - **Coordinates:** `(1, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L756)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L781)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `DRATINI` |
-| 34 | `DRATINI` |
-| 34 | `DRATINI` |
+| 47 | `DRATINI` |
+| 47 | `DRATINI` |
+| 47 | `DRATINI` |
 
 ## COOLTRAINERM_MIKE: MIKE
 
@@ -22,11 +22,11 @@ Source: [maps/BlackthornGym1F.asm](../../maps/BlackthornGym1F.asm)
 - **Party ID:** `MIKE`
 - **Encounter:** `object` via `TrainerCooltrainermMike`
 - **Coordinates:** `(6, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L769)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L794)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `DRAGONAIR` |
+| 50 | `DRAGONAIR` |
 
 ## COOLTRAINERF_LOLA: LOLA
 
@@ -34,12 +34,12 @@ Source: [maps/BlackthornGym1F.asm](../../maps/BlackthornGym1F.asm)
 - **Party ID:** `LOLA`
 - **Encounter:** `object` via `TrainerCooltrainerfLola`
 - **Coordinates:** `(9, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L886)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L911)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `DRATINI` |
-| 36 | `DRAGONAIR` |
+| 47 | `DRATINI` |
+| 49 | `DRAGONAIR` |
 
 ## CLAIR_CLAIR1: CLAIR
 
@@ -47,11 +47,13 @@ Source: [maps/BlackthornGym1F.asm](../../maps/BlackthornGym1F.asm)
 - **Party ID:** `CLAIR1`
 - **Encounter:** `scripted` via `BlackthornGymClairScript`
 - **Coordinates:** `(5, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L69)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L92)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `DRAGONAIR` |
-| 37 | `DRAGONAIR` |
-| 37 | `DRAGONAIR` |
-| 40 | `KINGDRA` |
+| 50 | `DRAGONAIR` |
+| 50 | `DRAGONAIR` |
+| 50 | `DRAGONAIR` |
+| 53 | `KINGDRA` |
+| 50 | `GYARADOS` |
+| 51 | `DRAGONAIR` |

@@ -8,11 +8,11 @@ Source: [maps/UnionCave1F.asm](../../maps/UnionCave1F.asm)
 - **Party ID:** `LARRY`
 - **Encounter:** `object` via `TrainerPokemaniacLarry`
 - **Coordinates:** `(4, 21)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1081)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1106)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `SLOWPOKE` |
+| 23 | `SLOWPOKE` |
 
 ## HIKER_RUSSELL: RUSSELL
 
@@ -20,13 +20,13 @@ Source: [maps/UnionCave1F.asm](../../maps/UnionCave1F.asm)
 - **Party ID:** `RUSSELL`
 - **Encounter:** `object` via `TrainerHikerRussell`
 - **Coordinates:** `(15, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2123)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2148)
 
 | Level | Pokemon |
 | --- | --- |
-| 4 | `GEODUDE` |
-| 6 | `GEODUDE` |
-| 8 | `GEODUDE` |
+| 17 | `GEODUDE` |
+| 19 | `GEODUDE` |
+| 21 | `GEODUDE` |
 
 ## HIKER_DANIEL: DANIEL
 
@@ -34,11 +34,11 @@ Source: [maps/UnionCave1F.asm](../../maps/UnionCave1F.asm)
 - **Party ID:** `DANIEL`
 - **Encounter:** `object` via `TrainerHikerDaniel`
 - **Coordinates:** `(4, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2229)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2254)
 
 | Level | Pokemon |
 | --- | --- |
-| 11 | `ONIX` |
+| 24 | `ONIX` |
 
 ## FIREBREATHER_BILL: BILL
 
@@ -46,12 +46,12 @@ Source: [maps/UnionCave1F.asm](../../maps/UnionCave1F.asm)
 - **Party ID:** `BILL`
 - **Encounter:** `object` via `TrainerFirebreatherBill`
 - **Coordinates:** `(15, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2359)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2384)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `KOFFING` |
-| 6 | `KOFFING` |
+| 19 | `KOFFING` |
+| 19 | `KOFFING` |
 
 ## FIREBREATHER_RAY: RAY
 
@@ -59,8 +59,8 @@ Source: [maps/UnionCave1F.asm](../../maps/UnionCave1F.asm)
 - **Party ID:** `RAY`
 - **Encounter:** `object` via `TrainerFirebreatherRay`
 - **Coordinates:** `(16, 31)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2371)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2396)
 
 | Level | Pokemon |
 | --- | --- |
-| 9 | `VULPIX` |
+| 22 | `VULPIX` |

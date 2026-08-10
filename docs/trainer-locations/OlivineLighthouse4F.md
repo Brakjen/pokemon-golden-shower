@@ -8,11 +8,11 @@ Source: [maps/OlivineLighthouse4F.asm](../../maps/OlivineLighthouse4F.asm)
 - **Party ID:** `CONNIE1`
 - **Encounter:** `object` via `TrainerLassConnie`
 - **Coordinates:** `(11, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L664)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L689)
 
 | Level | Pokemon |
 | --- | --- |
-| 21 | `MARILL` |
+| 34 | `MARILL` |
 
 ## SAILOR_KENT: KENT
 
@@ -20,9 +20,9 @@ Source: [maps/OlivineLighthouse4F.asm](../../maps/OlivineLighthouse4F.asm)
 - **Party ID:** `KENT`
 - **Encounter:** `object` via `TrainerSailorKent`
 - **Coordinates:** `(7, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1910)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1935)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `KRABBY` |
-| 20 | `KRABBY` |
+| 31 | `KRABBY` |
+| 33 | `KRABBY` |

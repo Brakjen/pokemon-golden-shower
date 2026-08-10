@@ -8,16 +8,16 @@ Source: [maps/IndigoPlateauPokecenter1F.asm](../../maps/IndigoPlateauPokecenter1
 - **Party ID:** `RIVAL2_2_TOTODILE`
 - **Encounter:** `scripted` via `PlateauRivalBattleCommon`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2092)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2117)
 
 | Level | Pokemon |
 | --- | --- |
-| 45 | `SNEASEL` |
-| 48 | `CROBAT` |
-| 45 | `MAGNETON` |
-| 46 | `GENGAR` |
-| 46 | `ALAKAZAM` |
-| 50 | `FERALIGATR` |
+| 58 | `SNEASEL` |
+| 61 | `CROBAT` |
+| 58 | `MAGNETON` |
+| 59 | `GENGAR` |
+| 59 | `ALAKAZAM` |
+| 63 | `FERALIGATR` |
 
 ## RIVAL2_RIVAL2_2_CHIKORITA: ?
 
@@ -25,16 +25,16 @@ Source: [maps/IndigoPlateauPokecenter1F.asm](../../maps/IndigoPlateauPokecenter1
 - **Party ID:** `RIVAL2_2_CHIKORITA`
 - **Encounter:** `scripted` via `PlateauRivalBattleCommon`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2072)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2097)
 
 | Level | Pokemon |
 | --- | --- |
-| 45 | `SNEASEL` |
-| 48 | `CROBAT` |
-| 45 | `MAGNETON` |
-| 46 | `GENGAR` |
-| 46 | `ALAKAZAM` |
-| 50 | `MEGANIUM` |
+| 58 | `SNEASEL` |
+| 61 | `CROBAT` |
+| 58 | `MAGNETON` |
+| 59 | `GENGAR` |
+| 59 | `ALAKAZAM` |
+| 63 | `MEGANIUM` |
 
 ## RIVAL2_RIVAL2_2_CYNDAQUIL: ?
 
@@ -42,13 +42,13 @@ Source: [maps/IndigoPlateauPokecenter1F.asm](../../maps/IndigoPlateauPokecenter1
 - **Party ID:** `RIVAL2_2_CYNDAQUIL`
 - **Encounter:** `scripted` via `PlateauRivalBattleCommon`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2082)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2107)
 
 | Level | Pokemon |
 | --- | --- |
-| 45 | `SNEASEL` |
-| 48 | `CROBAT` |
-| 45 | `MAGNETON` |
-| 46 | `GENGAR` |
-| 46 | `ALAKAZAM` |
-| 50 | `TYPHLOSION` |
+| 58 | `SNEASEL` |
+| 61 | `CROBAT` |
+| 58 | `MAGNETON` |
+| 59 | `GENGAR` |
+| 59 | `ALAKAZAM` |
+| 63 | `TYPHLOSION` |

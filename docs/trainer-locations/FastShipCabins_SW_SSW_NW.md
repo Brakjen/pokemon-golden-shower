@@ -8,13 +8,13 @@ Source: [maps/FastShipCabins_SW_SSW_NW.asm](../../maps/FastShipCabins_SW_SSW_NW.
 - **Party ID:** `LYLE`
 - **Encounter:** `object` via `TrainerFirebreatherLyle`
 - **Coordinates:** `(1, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2376)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2401)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `KOFFING` |
-| 31 | `FLAREON` |
-| 28 | `KOFFING` |
+| 41 | `KOFFING` |
+| 44 | `FLAREON` |
+| 41 | `KOFFING` |
 
 ## BUG_CATCHER_KEN: KEN
 
@@ -22,12 +22,12 @@ Source: [maps/FastShipCabins_SW_SSW_NW.asm](../../maps/FastShipCabins_SW_SSW_NW.
 - **Party ID:** `KEN`
 - **Encounter:** `object` via `TrainerBugCatcherKen`
 - **Coordinates:** `(6, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1460)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1485)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `ARIADOS` |
-| 32 | `PINSIR` |
+| 43 | `ARIADOS` |
+| 45 | `PINSIR` |
 
 ## BEAUTY_CASSIE: CASSIE
 
@@ -35,12 +35,12 @@ Source: [maps/FastShipCabins_SW_SSW_NW.asm](../../maps/FastShipCabins_SW_SSW_NW.
 - **Party ID:** `CASSIE`
 - **Encounter:** `object` via `TrainerBeautyCassie`
 - **Coordinates:** `(1, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1019)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1044)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `VILEPLUME` |
-| 34 | `BUTTERFREE` |
+| 41 | `VILEPLUME` |
+| 47 | `BUTTERFREE` |
 
 ## GUITARIST_CLYDE: CLYDE
 
@@ -48,8 +48,8 @@ Source: [maps/FastShipCabins_SW_SSW_NW.asm](../../maps/FastShipCabins_SW_SSW_NW.
 - **Party ID:** `CLYDE`
 - **Encounter:** `object` via `TrainerGuitaristClyde`
 - **Coordinates:** `(3, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2103)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2128)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `ELECTABUZZ` |
+| 47 | `ELECTABUZZ` |

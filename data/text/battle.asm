@@ -12,7 +12,7 @@ WildPokemonAppearedText:
 	line "@"
 	text_ram wEnemyMonNickname
 	text_start
-	line "appeared!"
+	cont "appeared!"
 	cont ""
 	prompt
 

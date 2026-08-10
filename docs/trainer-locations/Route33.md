@@ -8,12 +8,12 @@ Source: [maps/Route33.asm](../../maps/Route33.asm)
 - **Party ID:** `ANTHONY2`
 - **Encounter:** `object` via `TrainerHikerAnthony`
 - **Coordinates:** `(6, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2143)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2168)
 
 | Level | Pokemon |
 | --- | --- |
-| 11 | `GEODUDE` |
-| 11 | `MACHOP` |
+| 24 | `GEODUDE` |
+| 24 | `MACHOP` |
 
 ## HIKER_ANTHONY1: ANTHONY
 
@@ -21,12 +21,12 @@ Source: [maps/Route33.asm](../../maps/Route33.asm)
 - **Party ID:** `ANTHONY1`
 - **Encounter:** `scripted` via `TrainerHikerAnthony`
 - **Coordinates:** `(6, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2117)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2142)
 
 | Level | Pokemon |
 | --- | --- |
-| 16 | `GEODUDE` |
-| 18 | `MACHAMP` |
+| 29 | `GEODUDE` |
+| 31 | `MACHAMP` |
 
 ## HIKER_ANTHONY3: ANTHONY
 
@@ -34,10 +34,10 @@ Source: [maps/Route33.asm](../../maps/Route33.asm)
 - **Party ID:** `ANTHONY3`
 - **Encounter:** `scripted` via `TrainerHikerAnthony`
 - **Coordinates:** `(6, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2190)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2215)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `GRAVELER` |
-| 27 | `GRAVELER` |
-| 29 | `MACHOKE` |
+| 38 | `GRAVELER` |
+| 40 | `GRAVELER` |
+| 42 | `MACHOKE` |

@@ -8,11 +8,11 @@ Source: [maps/LakeOfRage.asm](../../maps/LakeOfRage.asm)
 - **Party ID:** `ANDRE`
 - **Encounter:** `object` via `TrainerFisherAndre`
 - **Coordinates:** `(30, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1542)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1567)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `GYARADOS` |
+| 40 | `GYARADOS` |
 
 ## FISHER_RAYMOND: RAYMOND
 
@@ -20,14 +20,14 @@ Source: [maps/LakeOfRage.asm](../../maps/LakeOfRage.asm)
 - **Party ID:** `RAYMOND`
 - **Encounter:** `object` via `TrainerFisherRaymond`
 - **Coordinates:** `(24, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1547)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1572)
 
 | Level | Pokemon |
 | --- | --- |
-| 22 | `MAGIKARP` |
-| 22 | `MAGIKARP` |
-| 22 | `MAGIKARP` |
-| 22 | `MAGIKARP` |
+| 35 | `MAGIKARP` |
+| 35 | `MAGIKARP` |
+| 35 | `MAGIKARP` |
+| 35 | `MAGIKARP` |
 
 ## COOLTRAINERM_AARON: AARON
 
@@ -35,13 +35,13 @@ Source: [maps/LakeOfRage.asm](../../maps/LakeOfRage.asm)
 - **Party ID:** `AARON`
 - **Encounter:** `object` via `TrainerCooltrainermAaron`
 - **Coordinates:** `(4, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L749)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L774)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `IVYSAUR` |
-| 24 | `CHARMELEON` |
-| 24 | `WARTORTLE` |
+| 37 | `IVYSAUR` |
+| 37 | `CHARMELEON` |
+| 37 | `WARTORTLE` |
 
 ## COOLTRAINERF_LOIS: LOIS
 
@@ -49,9 +49,9 @@ Source: [maps/LakeOfRage.asm](../../maps/LakeOfRage.asm)
 - **Party ID:** `LOIS`
 - **Encounter:** `object` via `TrainerCooltrainerfLois`
 - **Coordinates:** `(36, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L875)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L900)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `SKIPLOOM` |
-| 25 | `NINETALES` |
+| 38 | `SKIPLOOM` |
+| 38 | `NINETALES` |

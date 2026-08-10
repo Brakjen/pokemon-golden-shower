@@ -8,16 +8,16 @@ Source: [maps/MountMoon.asm](../../maps/MountMoon.asm)
 - **Party ID:** `RIVAL2_1_TOTODILE`
 - **Encounter:** `scripted` via `MountMoonRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2062)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2087)
 
 | Level | Pokemon |
 | --- | --- |
-| 41 | `SNEASEL` |
-| 42 | `GOLBAT` |
-| 41 | `MAGNETON` |
-| 43 | `GENGAR` |
-| 43 | `ALAKAZAM` |
-| 45 | `FERALIGATR` |
+| 54 | `SNEASEL` |
+| 55 | `GOLBAT` |
+| 54 | `MAGNETON` |
+| 56 | `GENGAR` |
+| 56 | `ALAKAZAM` |
+| 58 | `FERALIGATR` |
 
 ## RIVAL2_RIVAL2_1_CHIKORITA: ?
 
@@ -25,16 +25,16 @@ Source: [maps/MountMoon.asm](../../maps/MountMoon.asm)
 - **Party ID:** `RIVAL2_1_CHIKORITA`
 - **Encounter:** `scripted` via `MountMoonRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2042)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2067)
 
 | Level | Pokemon |
 | --- | --- |
-| 41 | `SNEASEL` |
-| 42 | `GOLBAT` |
-| 41 | `MAGNETON` |
-| 43 | `GENGAR` |
-| 43 | `ALAKAZAM` |
-| 45 | `MEGANIUM` |
+| 54 | `SNEASEL` |
+| 55 | `GOLBAT` |
+| 54 | `MAGNETON` |
+| 56 | `GENGAR` |
+| 56 | `ALAKAZAM` |
+| 58 | `MEGANIUM` |
 
 ## RIVAL2_RIVAL2_1_CYNDAQUIL: ?
 
@@ -42,13 +42,13 @@ Source: [maps/MountMoon.asm](../../maps/MountMoon.asm)
 - **Party ID:** `RIVAL2_1_CYNDAQUIL`
 - **Encounter:** `scripted` via `MountMoonRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2052)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2077)
 
 | Level | Pokemon |
 | --- | --- |
-| 41 | `SNEASEL` |
-| 42 | `GOLBAT` |
-| 41 | `MAGNETON` |
-| 43 | `GENGAR` |
-| 43 | `ALAKAZAM` |
-| 45 | `TYPHLOSION` |
+| 54 | `SNEASEL` |
+| 55 | `GOLBAT` |
+| 54 | `MAGNETON` |
+| 56 | `GENGAR` |
+| 56 | `ALAKAZAM` |
+| 58 | `TYPHLOSION` |

@@ -8,13 +8,13 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `TOBY`
 - **Encounter:** `object` via `TrainerBirdKeeperToby`
 - **Coordinates:** `(15, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L549)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L574)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `DODUO` |
-| 16 | `DODUO` |
-| 17 | `DODUO` |
+| 28 | `DODUO` |
+| 29 | `DODUO` |
+| 30 | `DODUO` |
 
 ## SAILOR_HARRY: HARRY
 
@@ -22,11 +22,11 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `HARRY`
 - **Encounter:** `object` via `TrainerSailorHarry`
 - **Coordinates:** `(25, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1949)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1974)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `WOOPER` |
+| 32 | `WOOPER` |
 
 ## LASS_DANA1: DANA
 
@@ -34,12 +34,12 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `DANA1`
 - **Encounter:** `object` via `TrainerLassDana1`
 - **Coordinates:** `(15, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L697)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L722)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `FLAAFFY` |
-| 18 | `PSYDUCK` |
+| 31 | `FLAAFFY` |
+| 31 | `PSYDUCK` |
 
 ## SCHOOLBOY_CHAD1: CHAD
 
@@ -47,11 +47,11 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `CHAD1`
 - **Encounter:** `object` via `TrainerSchoolboyChad1`
 - **Coordinates:** `(4, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L467)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L492)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `MR__MIME` |
+| 32 | `MR__MIME` |
 
 ## BEAUTY_VALERIE: VALERIE
 
@@ -59,12 +59,12 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `VALERIE`
 - **Encounter:** `object` via `TrainerBeautyValerie`
 - **Coordinates:** `(9, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1074)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1099)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `HOPPIP` |
-| 17 | `SKIPLOOM` |
+| 30 | `HOPPIP` |
+| 30 | `SKIPLOOM` |
 
 ## LASS_DANA2: DANA
 
@@ -72,12 +72,12 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `DANA2`
 - **Encounter:** `scripted` via `TrainerLassDana1`
 - **Coordinates:** `(15, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L719)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L744)
 
 | Level | Pokemon |
 | --- | --- |
-| 21 | `FLAAFFY` |
-| 21 | `PSYDUCK` |
+| 34 | `FLAAFFY` |
+| 34 | `PSYDUCK` |
 
 ## LASS_DANA3: DANA
 
@@ -85,12 +85,12 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `DANA3`
 - **Encounter:** `scripted` via `TrainerLassDana1`
 - **Coordinates:** `(15, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L725)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L750)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `PSYDUCK` |
-| 29 | `AMPHAROS` |
+| 42 | `PSYDUCK` |
+| 42 | `AMPHAROS` |
 
 ## SCHOOLBOY_CHAD2: CHAD
 
@@ -98,12 +98,12 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `CHAD2`
 - **Encounter:** `scripted` via `TrainerSchoolboyChad1`
 - **Coordinates:** `(4, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L510)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L535)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `MR__MIME` |
-| 19 | `MAGNEMITE` |
+| 32 | `MR__MIME` |
+| 32 | `MAGNEMITE` |
 
 ## SCHOOLBOY_CHAD3: CHAD
 
@@ -111,9 +111,9 @@ Source: [maps/Route38.asm](../../maps/Route38.asm)
 - **Party ID:** `CHAD3`
 - **Encounter:** `scripted` via `TrainerSchoolboyChad1`
 - **Coordinates:** `(4, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L516)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L541)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `MR__MIME` |
-| 31 | `MAGNETON` |
+| 40 | `MR__MIME` |
+| 44 | `MAGNETON` |

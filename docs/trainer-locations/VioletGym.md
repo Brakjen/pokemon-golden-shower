@@ -8,12 +8,12 @@ Source: [maps/VioletGym.asm](../../maps/VioletGym.asm)
 - **Party ID:** `ROD`
 - **Encounter:** `object` via `TrainerBirdKeeperRod`
 - **Coordinates:** `(7, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L523)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L548)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `PIDGEY` |
-| 7 | `PIDGEY` |
+| 20 | `PIDGEY` |
+| 20 | `PIDGEY` |
 
 ## BIRD_KEEPER_ABE: ABE
 
@@ -21,11 +21,11 @@ Source: [maps/VioletGym.asm](../../maps/VioletGym.asm)
 - **Party ID:** `ABE`
 - **Encounter:** `object` via `TrainerBirdKeeperAbe`
 - **Coordinates:** `(2, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L529)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L554)
 
 | Level | Pokemon |
 | --- | --- |
-| 9 | `SPEAROW` |
+| 22 | `SPEAROW` |
 
 ## FALKNER_FALKNER1: FALKNER
 
@@ -37,5 +37,9 @@ Source: [maps/VioletGym.asm](../../maps/VioletGym.asm)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `PIDGEY` |
-| 9 | `PIDGEOTTO` |
+| 20 | `PIDGEY` |
+| 22 | `PIDGEOTTO` |
+| 28 | `PIDGEOT` |
+| 20 | `SPEAROW` |
+| 22 | `HOOTHOOT` |
+| 26 | `DODUO` |

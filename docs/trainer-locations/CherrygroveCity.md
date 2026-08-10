@@ -8,11 +8,11 @@ Source: [maps/CherrygroveCity.asm](../../maps/CherrygroveCity.asm)
 - **Party ID:** `RIVAL1_1_TOTODILE`
 - **Encounter:** `scripted` via `CherrygroveRivalSceneNorth`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L88)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L113)
 
 | Level | Pokemon |
 | --- | --- |
-| 5 | `TOTODILE` |
+| 18 | `TOTODILE` |
 
 ## RIVAL1_RIVAL1_1_CHIKORITA: ?
 
@@ -20,11 +20,11 @@ Source: [maps/CherrygroveCity.asm](../../maps/CherrygroveCity.asm)
 - **Party ID:** `RIVAL1_1_CHIKORITA`
 - **Encounter:** `scripted` via `CherrygroveRivalSceneNorth`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L78)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L103)
 
 | Level | Pokemon |
 | --- | --- |
-| 5 | `CHIKORITA` |
+| 18 | `CHIKORITA` |
 
 ## RIVAL1_RIVAL1_1_CYNDAQUIL: ?
 
@@ -32,8 +32,8 @@ Source: [maps/CherrygroveCity.asm](../../maps/CherrygroveCity.asm)
 - **Party ID:** `RIVAL1_1_CYNDAQUIL`
 - **Encounter:** `scripted` via `CherrygroveRivalSceneNorth`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L83)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L108)
 
 | Level | Pokemon |
 | --- | --- |
-| 5 | `CYNDAQUIL` |
+| 18 | `CYNDAQUIL` |

@@ -8,13 +8,13 @@ Source: [maps/UnionCaveB2F.asm](../../maps/UnionCaveB2F.asm)
 - **Party ID:** `NICK`
 - **Encounter:** `object` via `TrainerCooltrainermNick`
 - **Coordinates:** `(17, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L742)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L767)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `CHARMANDER` |
-| 26 | `SQUIRTLE` |
-| 26 | `BULBASAUR` |
+| 39 | `CHARMANDER` |
+| 39 | `SQUIRTLE` |
+| 39 | `BULBASAUR` |
 
 ## COOLTRAINERF_GWEN: GWEN
 
@@ -22,14 +22,14 @@ Source: [maps/UnionCaveB2F.asm](../../maps/UnionCaveB2F.asm)
 - **Party ID:** `GWEN`
 - **Encounter:** `object` via `TrainerCooltrainerfGwen`
 - **Coordinates:** `(5, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L867)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L892)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `EEVEE` |
-| 22 | `FLAREON` |
-| 22 | `VAPOREON` |
-| 22 | `JOLTEON` |
+| 39 | `EEVEE` |
+| 35 | `FLAREON` |
+| 35 | `VAPOREON` |
+| 35 | `JOLTEON` |
 
 ## COOLTRAINERF_EMMA: EMMA
 
@@ -37,8 +37,8 @@ Source: [maps/UnionCaveB2F.asm](../../maps/UnionCaveB2F.asm)
 - **Party ID:** `EMMA`
 - **Encounter:** `object` via `TrainerCooltrainerfEmma`
 - **Coordinates:** `(3, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L954)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L979)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `POLIWHIRL` |
+| 41 | `POLIWHIRL` |

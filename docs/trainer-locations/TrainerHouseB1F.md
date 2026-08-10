@@ -8,13 +8,13 @@ Source: [maps/TrainerHouseB1F.asm](../../maps/TrainerHouseB1F.asm)
 - **Party ID:** `CAL2`
 - **Encounter:** `scripted` via `TrainerHouseReceptionistScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L215)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L240)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `BAYLEEF` |
-| 30 | `QUILAVA` |
-| 30 | `CROCONAW` |
+| 43 | `BAYLEEF` |
+| 43 | `QUILAVA` |
+| 43 | `CROCONAW` |
 
 ## CAL_CAL3: CAL
 
@@ -22,10 +22,10 @@ Source: [maps/TrainerHouseB1F.asm](../../maps/TrainerHouseB1F.asm)
 - **Party ID:** `CAL3`
 - **Encounter:** `scripted` via `TrainerHouseReceptionistScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L222)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L247)
 
 | Level | Pokemon |
 | --- | --- |
-| 50 | `MEGANIUM` |
-| 50 | `TYPHLOSION` |
-| 50 | `FERALIGATR` |
+| 63 | `MEGANIUM` |
+| 63 | `TYPHLOSION` |
+| 63 | `FERALIGATR` |

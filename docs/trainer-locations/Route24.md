@@ -8,8 +8,8 @@ Source: [maps/Route24.asm](../../maps/Route24.asm)
 - **Party ID:** `GRUNTM_31`
 - **Encounter:** `scripted` via `Route24RocketScript`
 - **Coordinates:** `(8, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1340)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1365)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GOLBAT` |
+| 43 | `GOLBAT` |
