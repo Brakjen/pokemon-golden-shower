@@ -1183,7 +1183,7 @@ _OakText2::
 	cont "#MON."
 
 	para "Some people keep"
-	line "#MON as pets. Oth-"
+	line "them as pets. Oth-"
 	cont "ers use them for"
 	cont "battle. Personally"
 	cont "I like to inspect"
