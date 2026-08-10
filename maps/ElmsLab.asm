@@ -1132,12 +1132,16 @@ AideText_GiveYouPotion:
 	text "<PLAYER>, I want"
 	line "you to have this"
 	cont "for your errand."
+	cont "It sootes a sore"
+	cont "anus. Believe me."
 	done
 
 AideText_AlwaysBusy:
 	text "There are only two"
 	line "of us, so we're"
-	cont "always busy."
+	cont "always busy"
+	cont "tasting sperm and"
+	cont "anus."
 	done
 
 AideText_TheftTestimony:

@@ -238,9 +238,9 @@ Text_ItsDangerousToGoAlone:
 	done
 
 Text_YourMonIsAdorable:
-	text "Hey, you little shit!"
-	line "Your snolk is"
-	cont "adorable!"
+	text "Hey, you little"
+	line "shit! Your snolk"
+	cont "is adorable!"
 	done
 
 Text_TellMomIfLeaving:
