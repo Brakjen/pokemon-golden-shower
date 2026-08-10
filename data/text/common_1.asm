@@ -1,10 +1,10 @@
 _FruitBearingTreeText::
-	text "It's a fruit-"
+	text "It's a sperm-"
 	line "bearing tree."
 	done
 
 _HeyItsFruitText::
-	text "Hey! It's"
+	text "Hey! It's a fucking"
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
@@ -97,15 +97,18 @@ _OakTimeWokeUpText::
 	text "<……><……><……><……><……><……>"
 	line "<……><……><……><……><……><……>"
 
-	para "Zzz… Hm? Wha…?"
-	line "You woke me up!"
+	para "Zzz… Hm??"
+	cont "What the fuck!?"
+	cont "You woke me up,"
+	cont "you little bitch."
 
 	para "Will you check the"
 	line "clock for me?"
 	prompt
 
 _OakTimeWhatTimeIsItText::
-	text "What time is it?"
+	text "What time is it,"
+	line "bitch?"
 	done
 
 _OakTimeWhatHoursText::
@@ -130,23 +133,25 @@ _OakTimeMinutesQuestionMarkText::
 
 _OakTimeOversleptText::
 	text "!"
-	line "I overslept!"
+	line "I overslept"
+	cont "like a bitch!"
 	done
 
 _OakTimeYikesText::
 	text "!"
-	line "Yikes! I over-"
+	line "Holy ass! I over-"
 	cont "slept!"
 	done
 
 _OakTimeSoDarkText::
 	text "!"
 	line "No wonder it's so"
-	cont "dark!"
+	cont "fucking dark!"
 	done
 
 _OakTimeWhatDayIsItText::
-	text "What day is it?"
+	text "Fuck, what day"
+	line "is it?"
 	done
 
 _OakTimeIsItText::
@@ -216,11 +221,11 @@ _WillYouPlayWithMonText:: ; unreferenced
 
 _YouNeedTwoMonForBreedingText:: ; unreferenced
 	text "You need two #-"
-	line "MON for breeding."
+	line "MON for fucking."
 	prompt
 
 _BreedingIsNotPossibleText:: ; unreferenced
-	text "Breeding is not"
+	text "Fucking is not"
 	line "possible."
 	prompt
 
@@ -229,7 +234,7 @@ _CompatibilityShouldTheyBreedText:: ; unreferenced
 	line "is @"
 	text_decimal wBreedingCompatibility, 1, 3
 	text "."
-	cont "Should they breed?"
+	cont "Should they fuck?"
 	done
 
 _ThereIsNoEggText:: ; unreferenced
@@ -239,7 +244,7 @@ _ThereIsNoEggText:: ; unreferenced
 
 _ItsGoingToHatchText:: ; unreferenced
 	text "It's going to"
-	line "hatch!"
+	line "fucking hatch!"
 	prompt
 
 _TestEventText:: ; unreferenced
@@ -343,17 +348,17 @@ _LookTownMapText::
 
 _LookPikachuPosterText::
 	text "It's a poster of a"
-	line "cute PIKACHU."
+	line "sext PIKACHU."
 	done
 
 _LookClefairyPosterText::
 	text "It's a poster of a"
-	line "cute CLEFAIRY."
+	line "trans CLEFAIRY."
 	done
 
 _LookJigglypuffPosterText::
 	text "It's a poster of a"
-	line "cute JIGGLYPUFF."
+	line "black JIGGLYPUFF."
 	done
 
 _LookAdorableDecoText::
@@ -364,12 +369,13 @@ _LookAdorableDecoText::
 	done
 
 _LookGiantDecoText::
-	text "A giant doll! It's"
-	line "fluffy and cuddly."
+	text "A giant sex doll!"
+	line "It's fluffy"
+	cont "and cuddly."
 	done
 
 _MomHiHowAreYouText::
-	text "Hi, <PLAYER>!"
+	text "Hi, bitch!"
 	line "How are you?"
 	prompt
 
@@ -380,7 +386,7 @@ _MomFoundAnItemText::
 
 _MomBoughtWithYourMoneyText::
 	text "I bought it with"
-	line "your money. Sorry!"
+	line "your money. LOL!"
 	prompt
 
 _MomItsInPCText::
@@ -468,17 +474,20 @@ _ForYourMonWillTradeText::
 
 _OPT_IntroText1::
 	text_start
-	line "MARY: PROF.OAK'S"
+	line "MARY: HEEEEELP"
+	cont "PROF.OAK"
 	done
 
 _OPT_IntroText2::
 	text_start
-	line "#MON TALK!"
+	line "IS HOLDING ME"
+	cont "CAPTIVE AS A"
+	cont "SEX SLAVE!"
 	done
 
 _OPT_IntroText3::
 	text_start
-	line "With me, MARY!"
+	line "SOMEONE HELP ME!"
 	done
 
 _OPT_OakText1::
@@ -945,6 +954,8 @@ _RocketRadioText5::
 _RocketRadioText6::
 	text_start
 	line "from the ashes!"
+	cont "With larger cocks"
+	cont "than ever before!"
 	done
 
 _RocketRadioText7::
@@ -958,7 +969,7 @@ _RocketRadioText8::
 	text_start
 	line "hear?@"
 	text_pause
-	text " We did it!"
+	text " We effing did it!"
 	done
 
 _RocketRadioText9::
@@ -973,6 +984,7 @@ _RocketRadioText10::
 	line "@"
 	text_pause
 	text "Is he listening?"
+	cont "Fuck I hate him!"
 	done
 
 _AskFloorElevatorText::
@@ -982,7 +994,8 @@ _AskFloorElevatorText::
 _BugCatchingContestTimeUpText::
 	text "ANNOUNCER: BEEEP!"
 
-	para "Time's up!"
+	para "Time's up"
+	line "bitches!"
 	done
 
 _BugCatchingContestIsOverText::
@@ -997,7 +1010,8 @@ _RepelWoreOffText::
 
 _PlayerFoundItemText::
 	text "<PLAYER> found"
-	line "@"
+	line "a fucking lovely"
+	cont "@"
 	text_ram wStringBuffer3
 	text "."
 	done
@@ -1008,7 +1022,8 @@ _ButNoSpaceText::
 	done
 
 _JustSawSomeRareMonText::
-	text "I just saw some"
+	text "I just gave a"
+	line "quick tug to a"
 	line "rare @"
 	text_ram wStringBuffer1
 	text " in"
@@ -1257,10 +1272,10 @@ _MomIsThisAboutYourMoneyText::
 	cont "hard, I see."
 
 	para "I've kept your"
-	line "room tidy."
+	line "room fucking tidy."
 
 	para "Or is this about"
-	line "your money?"
+	line "your money, bitch?"
 	done
 
 _MomBankWhatDoYouWantToDoText::
@@ -1331,9 +1346,11 @@ _DaycareDummyText::
 	done
 
 _DayCareManIntroText::
-	text "I'm the DAY-CARE"
-	line "MAN. Want me to"
-	cont "raise a #MON?"
+	text "I am a pervert"
+	line "who runs the"
+	cont "#MON fucking center."
+	cont "Do you want me to"
+	cont "raise a #MON for you?"
 	done
 
 _DayCareManIntroEggText::
@@ -1351,16 +1368,21 @@ _DayCareManIntroEggText::
 	para "How incredible is"
 	line "that?"
 
+	para "Did the #MON push"
+	line "the egg out its"
+	cont "anus?"
+
 	para "So, want me to"
 	line "raise a #MON?"
 	done
 
 _DayCareLadyIntroText::
-	text "I'm the DAY-CARE"
-	line "LADY."
+	text "I'm the pervert's"
+	line "wife. I run the"
+	cont "#MON fucking center."
 
-	para "Should I raise a"
-	line "#MON for you?"
+	para "Do you want me to"
+	line "raise a #MON for you?"
 	done
 
 _DayCareLadyIntroEggText::
@@ -1378,6 +1400,10 @@ _DayCareLadyIntroEggText::
 	para "How incredible"
 	line "could that be?"
 
+	para "Did the #MON"
+	line "push the egg out"
+	cont "its anus?"
+
 	para "Should I raise a"
 	line "#MON for you?"
 	done
@@ -1390,6 +1416,10 @@ _WhatShouldIRaiseText::
 _OnlyOneMonText::
 	text "Oh? But you have"
 	line "just one #MON."
+	cont "You need to"
+	cont "fornicate with"
+	cont "a #MON of the"
+	cont "opposite sex."
 	prompt
 
 _CantAcceptEggText::
@@ -1429,7 +1459,7 @@ _AreWeGeniusesText::
 	done
 
 _YourMonHasGrownText::
-	text "Your @"
+	text "Your @ 's cock"
 	text_ram wStringBuffer1
 	text_start
 	line "has grown a lot."
@@ -1460,7 +1490,7 @@ _GotBackMonText::
 
 _BackAlreadyText::
 	text "Huh? Back already?"
-	line "Your @"
+	line "Your @ 's cock"
 	text_ram wStringBuffer1
 	text_start
 	para "needs a little"
@@ -1561,41 +1591,46 @@ _EggPhotoText::
 
 _NameRaterHelloText::
 	text "Hello, hello! I'm"
-	line "the NAME RATER."
+	line "the #MON cock"
+	cont "rater."
 
-	para "I rate the names"
+	para "I rate the cocks"
 	line "of #MON."
 
 	para "Would you like me"
-	line "to rate names?"
+	line "to rate a?"
+	cont "a few cocks?"
 	done
 
 _NameRaterWhichMonText::
 	text "Which #MON's"
-	line "nickname should I"
+	line "cock should I"
 	cont "rate for you?"
 	prompt
 
 _NameRaterBetterNameText::
-	text "Hm… @"
+	text "Hm…oohhh @"
 	text_ram wStringBuffer1
 	text "…"
 	line "That's a fairly"
-	cont "decent name."
+	cont "decent cock."
 
 	para "But, how about a"
 	line "slightly better"
 	cont "nickname?"
 
-	para "Want me to give it"
-	line "a better name?"
+	para "Remember to clean"
+	line "their cocks often"
+	cont "to keep them healthy."
 	done
 
 _NameRaterWhatNameText::
-	text "All right. What"
-	line "name should we"
-	cont "give it, then?"
-	prompt
+	; text "All right. What"
+	; line "name should we"
+	; cont "give it, then?"
+	; prompt
+	text "LOL bye"
+	done
 
 _NameRaterFinishedText::
 	text "That's a better"
@@ -1610,13 +1645,14 @@ _NameRaterComeAgainText::
 	done
 
 _NameRaterPerfectNameText::
-	text "Hm… @"
+	text "Hm… Oh MY!!"
+	line "@ 's cock."
 	text_ram wStringBuffer1
 	text "?"
-	line "What a great name!"
+	line "What a great cock!"
 	cont "It's perfect."
 
-	para "Treat @"
+	para "Treat @ 's cock"
 	text_ram wStringBuffer1
 	text_start
 	line "with loving care."
@@ -1625,25 +1661,28 @@ _NameRaterPerfectNameText::
 _NameRaterEggText::
 	text "Whoa… That's just"
 	line "an EGG."
+	cont "It has no cock yet."
 	done
 
 _NameRaterSameNameText::
 	text "It might look the"
 	line "same as before,"
 
-	para "but this new name"
+	para "but this new cock"
 	line "is much better!"
 
 	para "Well done!"
 	done
 
 _NameRaterNamedText::
-	text "All right. This"
-	line "#MON is now"
-	cont "named @"
-	text_ram wStringBuffer1
-	text "."
-	prompt
+	; text "All right. This"
+	; line "#MON is now"
+	; cont "named @"
+	; text_ram wStringBuffer1
+	; text "."
+	; prompt
+	text "LOL bye"
+	done
 
 Text_Gained::
 	text_ram wStringBuffer1
@@ -1665,27 +1704,30 @@ _ExpPointsText::
 	prompt
 
 _GoMonText::
-	text "Go! @"
+	text "Fucking Go!"
+	line "@"
 	text_ram wBattleMonNickname
 	text "!"
 	done
 
 _DoItMonText::
-	text "Do it! @"
+	text "Don't fuck it up,"
+	line "@"
 	text_ram wBattleMonNickname
 	text "!"
 	done
 
 _GoForItMonText::
-	text "Go for it,"
+	text "MURDER HIM"
 	line "@"
 	text_ram wBattleMonNickname
 	text "!"
 	done
 
 _YourFoesWeakGetmMonText::
-	text "Your foe's weak!"
-	line "Get'm, @"
+	text "Your foe's!"
+	line "a pussy!"
+	cont "KILL IT, @"
 	text_ram wBattleMonNickname
 	text "!"
 	done
@@ -1821,7 +1863,7 @@ _MysteryGiftSentHomeText::
 
 _BadgeRequiredText::
 	text "Sorry! A new BADGE"
-	line "is required."
+	line "is required, bitch."
 	prompt
 
 _CantUseItemText::

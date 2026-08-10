@@ -112,8 +112,9 @@ _ClearAllSaveDataText::
 
 _LearnedMoveText::
 	text_ram wMonOrItemNameBuffer
-	text " learned"
-	line "@"
+	text " learned a fucking"
+	cont "awesome new move"
+	cont "called @"
 	text_ram wStringBuffer2
 	text "!@"
 	sound_dex_fanfare_50_79
@@ -122,7 +123,8 @@ _LearnedMoveText::
 
 _MoveAskForgetText::
 	text "Which move should"
-	next "be forgotten?"
+	next "be forgotten,"
+	cont "asswipe?"
 	done
 
 _StopLearningMoveText::
@@ -139,12 +141,16 @@ _DidNotLearnMoveText::
 	cont "@"
 	text_ram wStringBuffer2
 	text "."
+	cont "It was pathetic,"
+	cont "anyway."
 	prompt
 
 _AskForgetMoveText::
 	text_ram wMonOrItemNameBuffer
 	text " is"
 	line "trying to learn"
+	cont "A crazy cool move"
+	cont "called"
 	cont "@"
 	text_ram wStringBuffer2
 	text "."
@@ -154,6 +160,7 @@ _AskForgetMoveText::
 	text_start
 	line "can't learn more"
 	cont "than four moves."
+	cont "U a n00b?"
 
 	para "Delete an older"
 	line "move to make room"
@@ -170,7 +177,7 @@ Text_MoveForgetCount::
 	text_end ; unreferenced
 
 _MoveForgotText::
-	text " Poof!@"
+	text " Holy shit!@"
 	text_pause
 	text_start
 
@@ -187,6 +194,7 @@ _MoveForgotText::
 _MoveCantForgetHMText::
 	text "HM moves can't be"
 	line "forgotten now."
+	cont "HAHAHAHAHAHA!"
 	prompt
 
 _CardFlipPlayWithThreeCoinsText::
@@ -225,36 +233,39 @@ _CardFlipDarnText::
 	done
 
 _BallDodgedText::
-	text "It dodged the"
-	line "thrown BALL!"
+	text "FUCK! It dodged"
+	line "the thrown BALL!"
 
 	para "This #MON"
 	line "can't be caught!"
+	cont "FUUUUCK!"
 	prompt
 
 _BallMissedText::
 	text "You missed the"
-	line "#MON!"
+	line "fucking #MON!"
 	prompt
 
 _BallBrokeFreeText::
-	text "Oh no! The #MON"
-	line "broke free!"
+	text "For fuck sake!"
+	line "The #MON"
+	cont "broke free!"
 	prompt
 
 _BallAppearedCaughtText::
-	text "Aww! It appeared"
-	line "to be caught!"
+	text "Fuck YEAH!"
+	line "I caught a #MON!"
 	prompt
 
 _BallAlmostHadItText::
-	text "Aargh!"
+	text "ASS FUCK SHIT!"
 	line "Almost had it!"
 	prompt
 
 _BallSoCloseText::
-	text "Shoot! It was so"
-	line "close too!"
+	text "COCK SMASH!"
+	line "It was so"
+	cont "close too!"
 	prompt
 
 Text_BallCaught::
@@ -316,8 +327,8 @@ _PlayedFluteText::
 	text "Played the #"
 	line "FLUTE."
 
-	para "Now, that's a"
-	line "catchy tune!"
+	para "Holy shit, that's"
+	line "a catchy tune!"
 	prompt
 
 _FluteWakeUpText::

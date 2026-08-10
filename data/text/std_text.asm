@@ -1,29 +1,25 @@
 NurseMornText:
-	text "Good morning!"
-	line "Welcome to our"
-	cont "#MON CENTER."
+	text "Bitch, you are"
+	line "up early!"
 	done
 
 NurseDayText:
-	text "Hello!"
-	line "Welcome to our"
-	cont "#MON CENTER."
+	text "Horny bastard,"
+	line "how's your day?"
 	done
 
 NurseNiteText:
-	text "Good evening!"
-	line "You're out late."
-
-	para "Welcome to our"
-	line "#MON CENTER."
+	text "Crazy bitch,"
+	line "it's fucking late."
+	cont "I want to sleep!"
 	done
 
 NurseAskHealText:
-	text "We can heal your"
+	text "We can milk your"
 	line "#MON to perfect"
 	cont "health."
 
-	para "Shall we heal your"
+	para "Shall we milk your"
 	line "#MON?"
 	done
 
@@ -37,12 +33,12 @@ NurseReturnPokemonText:
 	line "waiting."
 
 	para "Your #MON are"
-	line "fully healed."
+	line "fully milked."
 	done
 
 NurseGoodbyeText:
-	text "We hope to see you"
-	line "again."
+	text "We hope to milk your"
+	line "#MON again!"
 	done
 
 ; not used
@@ -157,41 +153,37 @@ TrashCanText:
 	done
 
 PokecenterSignText:
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Milk Your #MON!"
+	line "#MON MILK CENTER"
 	done
 
 MartSignText:
 	text "For All Your"
-	line "#MON Needs"
+	line "Dick Needs"
 
 	para "#MON MART"
 	done
 
 ContestResults_ReadyToJudgeText:
 	text "We will now judge"
-	line "the #MON you've"
+	line "the cock of the"
+	cont "the #MON you've"
 	cont "caught."
 
 	para "<……>"
 	line "<……>"
 
 	para "We have chosen the"
-	line "winners!"
+	line "winner cocks!"
 
 	para "Are you ready for"
 	line "this?"
 	done
 
 AskNumber1MText:
-	text "Wow! You're pretty"
-	line "tough."
-
-	para "Could I get your"
-	line "phone number?"
-
-	para "I'll call you for"
-	line "a rematch."
+	text "Shit, you are delish."
+	line "I'll call you when I"
+	cont "want a quick tug. OK?"
 	done
 
 AskNumber2MText:
@@ -208,15 +200,15 @@ RegisteredNumberMText:
 
 NumberAcceptedMText:
 	text "I'll call you if"
-	line "anything comes up."
+	line "I need a quick tug."
 	done
 
 NumberDeclinedMText:
 	text "Oh, OK…"
 	line "Just talk to me if"
 
-	para "you want to get my"
-	line "phone number."
+	para "you want to give"
+	line "a quick tug."
 	done
 
 PhoneFullMText:
@@ -227,18 +219,18 @@ PhoneFullMText:
 
 RematchMText:
 	text "I was waiting for"
-	line "you. Let's battle!"
+	line "you. Let's tug!"
 	done
 
 AskNumber1FText:
 	text "Wow, you're good"
-	line "at battling."
+	line "at tugging."
 
 	para "Want to give me"
 	line "your phone number?"
 
 	para "I'll phone you for"
-	line "another battle."
+	line "another tug."
 	done
 
 AskNumber2FText:
@@ -254,8 +246,8 @@ RegisteredNumberFText:
 	done
 
 NumberAcceptedFText:
-	text "I'll call you if"
-	line "something's up."
+	text " I'll call you"
+	line "for a quick tug."
 	done
 
 NumberDeclinedFText:
@@ -274,7 +266,7 @@ PhoneFullFText:
 
 RematchFText:
 	text "I waited for you."
-	line "Let's battle!"
+	line "Let's tug!"
 	done
 
 ContestResults_PlayerWonAPrizeText:
@@ -301,7 +293,7 @@ ContestResults_JoinUsNextTimeText:
 
 ContestResults_ConsolationPrizeText:
 	text "Everyone else gets"
-	line "a BERRY as a con-"
+	line "a tug as a con-"
 	cont "solation prize!"
 	done
 

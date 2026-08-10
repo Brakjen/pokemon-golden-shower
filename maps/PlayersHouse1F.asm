@@ -148,15 +148,22 @@ MomWalksBackMovement:
 	step_end
 
 ElmsLookingForYouText:
-	text "Oh, <PLAYER>…! Our"
-	line "neighbor, PROF."
-
-	para "ELM, was looking"
-	line "for you."
+	text "Listen, punk,"
+	line "our pervert"
+	cont "neighbor"
+	
+	para "PROF. ELM was"
+	line "looking for you."
 
 	para "He said he wanted"
-	line "you to do some-"
-	cont "thing for him."
+	line "to do things to"
+	cont "you..."
+
+	para "..."
+
+	para "No, wait, he want-"
+	line "ed to give you"
+	cont "something."
 
 	para "Oh! I almost for-"
 	line "got! Your #MON"
@@ -165,6 +172,8 @@ ElmsLookingForYouText:
 	line "the repair shop."
 
 	para "Here you go!"
+	line "You better not"
+	cont "fucking break it."
 	done
 
 MomGivesPokegearText:
@@ -172,19 +181,21 @@ MomGivesPokegearText:
 	line "just #GEAR."
 
 	para "It's essential if"
-	line "you want to be a"
-	cont "good trainer."
+	line "you don't want to"
+	cont "suck at #MON"
 
 	para "Oh, the day of the"
 	line "week isn't set."
 
 	para "You mustn't forget"
-	line "that!"
+	line "that, silly goose."
 	done
 
 IsItDSTText:
 	text "Is it Daylight"
 	line "Saving Time now?"
+
+	para "Answer me, bitch!"
 	done
 
 ComeHomeForDSTText:
@@ -196,7 +207,8 @@ ComeHomeForDSTText:
 
 	para "By the way, do you"
 	line "know how to use"
-	cont "the PHONE?"
+	cont "the PHONE? Or are"
+	cont "you a retard?"
 	done
 
 KnowTheInstructionsText:
@@ -204,34 +216,33 @@ KnowTheInstructionsText:
 	line "turn the #GEAR"
 
 	para "on and select the"
-	line "PHONE icon?"
+	cont "god damned PHONE"
+	cont "icon?"
 	done
 
 DontKnowTheInstructionsText:
-	text "I'll read the"
-	line "instructions."
-
-	para "Turn the #GEAR"
-	line "on and select the"
-	cont "PHONE icon."
+	text "I will not tell"
+	line "you, you ass."
+	cont "Figure it out!"
 	done
 
 InstructionsNextText:
-	text "Phone numbers are"
-	line "stored in memory."
+	text "I completely"
+	line "forgot how phone"
+	cont "numbers work."
 
-	para "Just choose a name"
-	line "you want to call."
-
-	para "Gee, isn't that"
-	line "convenient?"
+	para "Figure it out,"
+	line "ass licker."
 	done
 
 HurryUpElmIsWaitingText:
-	text "PROF.ELM is wait-"
-	line "ing for you."
+	text "Retard, PROF."
+	line "ELM is waiting"
+	cont "for you."
 
 	para "Hurry up, baby!"
+	line "His nuts are"
+	cont "exploding soon."
 	done
 
 SoWhatWasProfElmsErrandText:
@@ -239,6 +250,9 @@ SoWhatWasProfElmsErrandText:
 	line "ELM's errand?"
 
 	para "…"
+
+	para "Anal bleaching,"
+	line "you say?"
 
 	para "That does sound"
 	line "challenging."
@@ -249,42 +263,42 @@ SoWhatWasProfElmsErrandText:
 	done
 
 ImBehindYouText:
-	text "<PLAYER>, do it!"
+	text "Do it, turd!"
+	line "I'm behind you"
+	cont "all the way."
 
-	para "I'm behind you all"
-	line "the way!"
+	para "All the way to"
+	line "HELL!"
 	done
 
 PlayersHouse1FStoveText:
 	text "Mom's specialty!"
 
-	para "CINNABAR VOLCANO"
-	line "BURGER!"
+	para "Sperm-infused"
+	line "feces pudding."
 	done
 
 PlayersHouse1FSinkText:
 	text "The sink is spot-"
-	line "less. Mom likes it"
-	cont "clean."
+	line "less. I should"
+	cont "poop in it just"
+	cont "for funsies."
 	done
 
 PlayersHouse1FFridgeText:
 	text "Let's see what's"
 	line "in the fridge…"
 
-	para "FRESH WATER and"
+	para "BALL SWEAT and"
 	line "tasty LEMONADE!"
 	done
 
 PlayersHouse1FTVText:
 	text "There's a movie on"
-	line "TV: Stars dot the"
-
-	para "sky as two boys"
-	line "ride on a train…"
-
-	para "I'd better get"
-	line "rolling too!"
+	line "Naked men wrest-"
+	cont "ling in a pit of"
+	cont "feces. I should"
+	cont "watch it."
 	done
 
 PlayersHouse1F_MapEvents:

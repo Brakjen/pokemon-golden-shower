@@ -676,23 +676,29 @@ ElmText_Intro:
 	line "tance called MR."
 	cont "#MON."
 
+	para "He is a sick fuck"
+	line "like me."
+
 	para "He keeps finding"
 	line "weird things and"
 
 	para "raving about his"
-	line "discoveries."
+	line "cock discoveries."
 
 	para "Anyway, I just got"
-	line "an e-mail from him"
+	line "a snap from him"
 
-	para "saying that this"
-	line "time it's real."
+	para "saying that he has"
+	line "found the biggest"
+	cont "#MON cock"
+	cont "thus far!"
 
 	para "It is intriguing,"
 	line "but we're busy"
 
 	para "with our #MON"
-	line "research."
+	line "research on sperm"
+	cont "and its taste."
 
 	para "Could you look"
 	line "into it for us?"
@@ -704,51 +710,68 @@ ElmText_Intro:
 	para "They're all rare"
 	line "#MON that we"
 	cont "just found."
+	cont "They have decent"
+	cont "cocks too!"
 
-	para "Go on. Pick one!"
+	para "Go on, cock sucker."
+	line "Pick one!"
 	done
 
 ElmText_LetYourMonBattleIt:
-	text "If a wild #MON"
+	text "If a horny #MON"
 	line "appears, let your"
 	cont "#MON battle it!"
 	done
 
 LabWhereGoingText:
-	text "ELM: Wait! Where"
-	line "are you going?"
+	text "ELM: For fuck"
+	line "sake. Where are"
+	cont "you going?"
 	done
 
 TakeCyndaquilText:
 	text "ELM: You'll take"
 	line "CYNDAQUIL, the"
 	cont "fire #MON?"
+	
+	para "Its sperm is firey"
+	line "hot, so beware!"
 	done
 
 TakeTotodileText:
 	text "ELM: Do you want"
 	line "TOTODILE, the"
 	cont "water #MON?"
+	
+	para "Its semen is icy,"
+	line "so be careful!"
 	done
 
 TakeChikoritaText:
 	text "ELM: So, you like"
 	line "CHIKORITA, the"
 	cont "grass #MON?"
+
+	para "Its anus is a bit"
+	line "grassy. Use at"
+	cont "your own risk."
 	done
 
 DidntChooseStarterText:
 	text "ELM: Think it over"
-	line "carefully."
-
-	para "Your partner is"
-	line "important."
+	line "carefully, bitch."
 	done
 
 ChoseStarterText:
 	text "ELM: I think"
 	line "that's a great"
-	cont "#MON too!"
+	cont "sex slave..."
+
+	para "..."
+
+	para "..ehh, #MON"
+	line "Great choice,"
+	cont "dickwad."
 	done
 
 ReceivedStarterText:
@@ -756,6 +779,9 @@ ReceivedStarterText:
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
+
+	para "It flashed its"
+	line "anus at <PLAYER>."
 	done
 
 ElmDirectionsText1:
@@ -766,13 +792,16 @@ ElmDirectionsText1:
 	para "It's almost a"
 	line "direct route to"
 	cont "there."
+
+	para "Now beat it"
+	line "bitch."
 	done
 
 ElmDirectionsText2:
 	text "If your #MON is"
 	line "hurt, you should"
 
-	para "heal it with this"
+	para "milk it with this"
 	line "machine."
 	done
 
@@ -780,8 +809,8 @@ ElmDirectionsText3:
 	text "Oh, here's my"
 	line "phone number."
 
-	para "Call me if some-"
-	line "thing comes up."
+	para "Call me if you"
+	line "need a quick tug."
 	done
 
 GotElmsNumberText:
@@ -798,8 +827,8 @@ ElmDescribesMrPokemonText:
 	line "just rare and"
 	cont "not very useful…"
 
-	para "<PLAYER>, I'm"
-	line "counting on you!"
+	para "I'm counting on"
+	line "you, maddafakka."
 	done
 
 ElmPokeBallText:
@@ -810,11 +839,12 @@ ElmPokeBallText:
 
 ElmsLabHealingMachineText1:
 	text "I wonder what this"
-	line "does?"
+	line "does? Maybe it"
+	cont "milks #MON?"
 	done
 
 ElmsLabHealingMachineText2:
-	text "Heal #MON?"
+	text "Milk #MON?"
 	done
 
 ElmAfterTheftText1:
@@ -838,14 +868,15 @@ ElmAfterTheftText3:
 
 ElmAfterTheftText4:
 	text "But… Is it a"
-	line "#MON EGG?"
+	line "fucking #MON"
+	cont "EGG?"
 
 	para "If it is, it is a"
 	line "great discovery!"
 	done
 
 ElmAfterTheftText5:
-	text "ELM: What?!?"
+	text "ELM: THE FUCK!?"
 
 	para "PROF.OAK gave you"
 	line "a #DEX?"
@@ -864,6 +895,7 @@ ElmAfterTheftText5:
 
 	para "takes to become"
 	line "the CHAMPION."
+	cont "Holy shit!!"
 
 	para "You seem to be"
 	line "getting on great"
@@ -876,6 +908,9 @@ ElmAfterTheftText5:
 	para "The closest GYM"
 	line "would be the one"
 	cont "in VIOLET CITY."
+	cont "I'm sure you could"
+	cont "break some cocks"
+	cont "there."
 	done
 
 ElmAfterTheftText6:
@@ -888,20 +923,22 @@ ElmAfterTheftText6:
 	para "Before you leave,"
 	line "make sure that you"
 	cont "talk to your mom."
+	cont "Unless you hate"
+	cont "her, in which case"
+	cont "you should call"
+	cont "her a whore."
 	done
 
 ElmStudyingEggText:
 	text "ELM: Don't give"
 	line "up! I'll call if"
-
-	para "I learn anything"
-	line "about that EGG!"
+	cont "I need a tug!"
 	done
 
 ElmAideHasEggText:
 	text "ELM: <PLAYER>?"
 	line "Didn't you meet my"
-	cont "assistant?"
+	cont "assistant, fucker?"
 
 	para "He should have met"
 	line "you with the EGG"
@@ -912,6 +949,8 @@ ElmAideHasEggText:
 	para "You must have just"
 	line "missed him. Try to"
 	cont "catch him there."
+	cont "What a useless"
+	cont "fucker he is."
 	done
 
 ElmWaitingEggHatchText:
@@ -929,17 +968,18 @@ ElmThoughtEggHatchedText:
 
 ShowElmTogepiText1:
 	text "ELM: <PLAYER>, you"
-	line "look great!"
+	line "fucking aweful!"
 	done
 
 ShowElmTogepiText2:
-	text "What?"
+	text "What the fuck?"
 	line "That #MON!?!"
 	done
 
 ShowElmTogepiText3:
-	text "The EGG hatched!"
-	line "So, #MON are"
+	text "The EGG fucking"
+	line "hatched? So"
+	cont "#MON are"
 	cont "born from EGGS…"
 
 	para "No, perhaps not"
@@ -948,10 +988,13 @@ ShowElmTogepiText3:
 	para "Wow, there's still"
 	line "a lot of research"
 	cont "to be done."
+	cont "Imagine all the"
+	cont "egg sperm that is"
+	cont "out there."
 	done
 
 ElmGiveEverstoneText1:
-	text "Thanks, <PLAYER>!"
+	text "Thanks, bitch!"
 	line "You're helping"
 
 	para "unravel #MON"
@@ -964,7 +1007,8 @@ ElmGiveEverstoneText1:
 
 ElmGiveEverstoneText2:
 	text "That's an"
-	line "EVERSTONE."
+	line "EVERSTONE,"
+	cont "that is."
 
 	para "Some species of"
 	line "#MON evolve"
@@ -975,6 +1019,11 @@ ElmGiveEverstoneText2:
 	para "A #MON holding"
 	line "the EVERSTONE"
 	cont "won't evolve."
+	cont "Of course, that"
+	cont "means that its"
+	cont "cocks won't grow"
+	cont "either. Pros and"
+	cont "cons, I guess."
 
 	para "Give it to a #-"
 	line "MON you don't want"
@@ -983,8 +1032,8 @@ ElmGiveEverstoneText2:
 
 ElmText_CallYou:
 	text "ELM: <PLAYER>, I'll"
-	line "call you if any-"
-	cont "thing comes up."
+	line "call you if I"
+	cont "need a tug."	
 	done
 
 AideText_AfterTheft:
@@ -1002,8 +1051,9 @@ AideText_AfterTheft:
 	done
 
 ElmGiveMasterBallText1:
-	text "ELM: Hi, <PLAYER>!"
-	line "Thanks to you, my"
+	text "ELM: Hi, sick fuck"
+
+	para "Thanks to you, my"
 
 	para "research is going"
 	line "great!"
@@ -1037,6 +1087,10 @@ ElmGiveMasterBallText2:
 ElmGiveTicketText1:
 	text "ELM: <PLAYER>!"
 	line "There you are!"
+	cont "Still a sick fuck,"
+	cont "I see. Well, I am"
+	cont "too, so I guess we"
+	cont "get along."
 
 	para "I called because I"
 	line "have something for"
@@ -1047,6 +1101,10 @@ ElmGiveTicketText1:
 
 	para "Now you can catch"
 	line "#MON in KANTO."
+	cont "I know you have a"
+	cont "lot of #MON, but"
+	cont "you should try to"
+	cont "catch them all!"
 	done
 
 ElmGiveTicketText2:
@@ -1074,12 +1132,16 @@ AideText_GiveYouPotion:
 	text "<PLAYER>, I want"
 	line "you to have this"
 	cont "for your errand."
+	cont "It sootes a sore"
+	cont "anus. Believe me."
 	done
 
 AideText_AlwaysBusy:
 	text "There are only two"
 	line "of us, so we're"
-	cont "always busy."
+	cont "always busy"
+	cont "tasting sperm and"
+	cont "anus."
 	done
 
 AideText_TheftTestimony:
@@ -1105,6 +1167,19 @@ AideText_TheftTestimony:
 
 	para "person turns bad"
 	line "itself."
+
+	para "I should know."
+	line "My sick father"
+	cont "stole me from"
+	cont "my mother when I"
+	cont "was a baby."
+	
+	para "Now I am a sick"
+	line "fuck too, like ELM"
+
+	para "...sigh… That"
+	line "stolen #MON."
+
 	done
 
 AideText_GiveYouBalls:
@@ -1112,6 +1187,12 @@ AideText_GiveYouBalls:
 
 	para "Use these on your"
 	line "#DEX quest!"
+
+	para "..."
+	line "If you want to"
+	cont "catch ME with it"
+	cont "you may. I can"
+	cont "be a real slut."
 	done
 
 AideText_ExplainBalls:
@@ -1134,7 +1215,8 @@ ElmsLabOfficerText1:
 
 	para "Apparently, it was"
 	line "a young male with"
-	cont "long, red hair…"
+	cont "long, red cock"
+	cont "hair."
 
 	para "What?"
 
@@ -1142,7 +1224,8 @@ ElmsLabOfficerText1:
 	line "trainer like that?"
 
 	para "Did you happen to"
-	line "get his name?"
+	line "get a good look"
+	cont "of his cock?"
 	done
 
 ElmsLabOfficerText2:
@@ -1151,13 +1234,16 @@ ElmsLabOfficerText2:
 
 	para "Thanks for helping"
 	line "my investigation!"
+
+	para "Now get lost,"
+	line "you sick fuck."
 	done
 
 ElmsLabWindowText1:
 	text "The window's open."
 
 	para "A pleasant breeze"
-	line "is blowing in."
+	line "blows on my nuts."
 	done
 
 ElmsLabWindowText2:

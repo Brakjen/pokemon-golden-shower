@@ -41,28 +41,30 @@ PlayersNeighborsHouseRadioScript:
 	end
 
 PlayersNeighborsDaughterText:
-	text "PIKACHU is an"
-	line "evolved #MON."
+	text "Hey, uggo!"
+	line "PIKACHU is an"
+	cont "ugly #MON."
 
 	para "I was amazed by"
-	line "PROF.ELM's find-"
-	cont "ings."
+	line "just how ugly"
+	cont "it was."
 
-	para "He's so famous for"
-	line "his research on"
-	cont "#MON evolution."
+	para "Where does the"
+	line "poop come out?"
 
 	para "…sigh…"
 
-	para "I wish I could be"
-	line "a researcher like"
-	cont "him…"
+	para "You are quite"
+	line "the pervert,"
+	cont "aren't you?"
 	done
 
 PlayerNeighborRadioText1:
 	text "PROF.OAK'S #MON"
 	line "TALK! Please tune"
-	cont "in next time!"
+	cont "in next time"
+	cont "for the dirtiest"
+	cont "jokes in Johto."
 	done
 
 PlayerNeighborRadioText2:
@@ -71,7 +73,11 @@ PlayerNeighborRadioText2:
 
 PlayerNeighborRadioText3:
 	text "This is DJ MARY,"
-	line "your co-host!"
+	line "fucker0!"
+	cont "Your co-host!"
+
+	para "Have you taken"
+	line "a shit yet?"
 	done
 
 PlayerNeighborRadioText4:

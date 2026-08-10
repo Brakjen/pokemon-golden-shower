@@ -1,5 +1,6 @@
 BillPhoneMornGreetingText:
-	text "Good morning!"
+	text "Hello? Sick fuck?"
+	line "Are you there?"
 
 	para "This is the #-"
 	line "MON STORAGE SYSTEM"
@@ -9,7 +10,7 @@ BillPhoneMornGreetingText:
 	done
 
 BillPhoneDayGreetingText:
-	text "Good day!"
+	text "Hello? Sick fuck?"
 
 	para "This is the #-"
 	line "MON STORAGE SYSTEM"
@@ -19,7 +20,7 @@ BillPhoneDayGreetingText:
 	done
 
 BillPhoneNiteGreetingText:
-	text "Good evening!"
+	text "Hello? Sick fuck?"
 
 	para "This is the #-"
 	line "MON STORAGE SYSTEM"
@@ -30,6 +31,7 @@ BillPhoneNiteGreetingText:
 
 BillPhoneGenericText:
 	text "Who's calling?"
+	line "Sick fuck?"
 
 	para "<PLAYER>, is it?"
 	line "Hang on a sec…"
@@ -49,7 +51,8 @@ BillPhoneNotFullText:
 	cont "more #MON."
 
 	para "Get out there and"
-	line "fill it up!"
+	line "fill it up with!"
+	cont "SPERM!"
 	done
 
 BillPhoneNearlyFullText:

@@ -14,6 +14,7 @@ BikeShopPhoneCallerText:
 	para "As our way of say-"
 	line "ing thanks, please"
 
-	para "keep that BICYCLE."
-	line "Thanks again!"
+	para "let me give you"
+	line "a quick tug."
+	cont "Thanks again!"
 	done

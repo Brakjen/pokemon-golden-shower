@@ -1,7 +1,7 @@
 roms := \
-	pokegold.gbc \
+	pokegoldshower.gbc \
 	pokesilver.gbc \
-	pokegold_debug.gbc \
+	pokegoldshower_debug.gbc \
 	pokesilver_debug.gbc
 patches := \
 	pokegold.patch \
@@ -40,6 +40,9 @@ pokegold_debug_obj    := $(rom_obj:.o=_gold_debug.o) $(gold_debug_excl_obj)
 pokesilver_debug_obj  := $(rom_obj:.o=_silver_debug.o) $(silver_debug_excl_obj)
 pokegold_vc_obj       := $(rom_obj:.o=_gold_vc.o) $(gold_vc_excl_obj)
 pokesilver_vc_obj     := $(rom_obj:.o=_silver_vc.o) $(silver_vc_excl_obj)
+
+pokegoldshower_obj       := $(pokegold_obj)
+pokegoldshower_debug_obj := $(pokegold_debug_obj)
 
 
 ### Build tools
@@ -82,9 +85,9 @@ RGBGFXFLAGS  ?= -Weverything
 	tools
 
 all: $(roms)
-gold:         pokegold.gbc
+gold:         pokegoldshower.gbc
 silver:       pokesilver.gbc
-gold_debug:   pokegold_debug.gbc
+gold_debug:   pokegoldshower_debug.gbc
 silver_debug: pokesilver_debug.gbc
 gold_vc:      pokegold.patch
 silver_vc:    pokesilver.patch
@@ -188,9 +191,9 @@ endif
 
 
 RGBFIXFLAGS += -cjsv -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
-pokegold.gbc:         RGBFIXFLAGS += -t POKEMON_GLD -i AAUE
+pokegoldshower.gbc:   RGBFIXFLAGS += -t POKEMON_GLD -i AAUE
 pokesilver.gbc:       RGBFIXFLAGS += -t POKEMON_SLV -i AAXE
-pokegold_debug.gbc:   RGBFIXFLAGS += -t POKEMON_GLD -i AAUE
+pokegoldshower_debug.gbc: RGBFIXFLAGS += -t POKEMON_GLD -i AAUE
 pokesilver_debug.gbc: RGBFIXFLAGS += -t POKEMON_SLV -i AAXE
 pokegold_vc.gbc:      RGBFIXFLAGS += -t POKEMON_GLD -i AAUE
 pokesilver_vc.gbc:    RGBFIXFLAGS += -t POKEMON_SLV -i AAXE

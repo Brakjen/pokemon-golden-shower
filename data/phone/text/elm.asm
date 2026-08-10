@@ -1,5 +1,7 @@
 ElmPhoneHealYourMonText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "Try not to overdo"
 	line "it."
@@ -10,7 +12,9 @@ ElmPhoneHealYourMonText:
 	done
 
 ElmPhoneSawMrPokemonText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "Did you meet MR."
 	line "#MON? Great!"
@@ -18,7 +22,11 @@ ElmPhoneSawMrPokemonText:
 	done
 
 ElmPhonePokemonStolenText:
-	text "<PLAYER>? I'm very"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
+
+	para "<PLAYER>? I'm very"
 	line "upset now."
 
 	para "We had a #MON"
@@ -29,7 +37,9 @@ ElmPhonePokemonStolenText:
 	done
 
 ElmPhoneCheckingTheEggText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "We're checking the"
 	line "EGG now. It does"
@@ -39,7 +49,9 @@ ElmPhoneCheckingTheEggText:
 	done
 
 ElmPhoneAssistantText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "Did you see my"
 	line "assistant? He's at"
@@ -49,7 +61,9 @@ ElmPhoneAssistantText:
 	done
 
 ElmPhoneHowIsTheEggText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "How's the EGG? Has"
 	line "anything changed?"
@@ -59,8 +73,9 @@ ElmPhoneHowIsTheEggText:
 	done
 
 ElmPhoneEggHatchedText:
-	text "Hello, <PLAYER>?"
-	line "How is the EGG?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "What? It hatched?"
 	line "Wow! What kind of"
@@ -71,7 +86,9 @@ ElmPhoneEggHatchedText:
 	done
 
 ElmPhoneDiscoveredHatchTimeText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "I just made a new"
 	line "discovery."
@@ -84,7 +101,9 @@ ElmPhoneDiscoveredHatchTimeText:
 	done
 
 ElmPhoneInvestigatingEggMovesText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "It's still a"
 	line "mystery what kinds"
@@ -97,7 +116,9 @@ ElmPhoneInvestigatingEggMovesText:
 	done
 
 ElmPhoneDiscoveredPokerusText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "I discovered an"
 	line "odd thing."
@@ -127,11 +148,17 @@ ElmPhoneDiscoveredPokerusText:
 	para "I guess it's"
 	line "nothing to worry"
 	cont "about. Bye!"
+
+	para "Wow, that was a"
+	line "waste of time, eh?"
 	done
 
 ElmPhoneDisasterText:
-	text "H-hello? <PLAYER>?"
-	line "It's a disaster!"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
+
+	para "It's a disaster!"
 
 	para "Uh, um, it's just"
 	line "terrible!"
@@ -156,11 +183,16 @@ ElmPhoneEggAssistantText:
 	para "in VIOLET CITY. "
 	line "Could you talk to"
 	cont "him?"
+
+	para "Try not to touch"
+	line "his cock. He's a"
+	cont "pervert."
 	done
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	text "<PLAYER>, how are"
-	line "things going?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "I called because"
 	line "something weird is"
@@ -182,11 +214,14 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	line "be true."
 
 	para "Sorry to bug you."
-	line "Take care!"
+	line "Take care of that"
+	cont "anus."
 	done
 
 ElmPhoneGiftText:
-	text "Hello, <PLAYER>?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "I have something"
 	line "here for you."
@@ -198,8 +233,9 @@ ElmPhoneGiftText:
 	done
 
 ElmPhoneGotAholdOfSomethingNeatText:
-	text "Hello, <PLAYER>?"
-	line "How's it going?"
+	text "Hi, <PLAYER>!"
+	next "How's your anus?"
+	cont "Still sore?"
 
 	para "I got ahold of"
 	line "something neat."

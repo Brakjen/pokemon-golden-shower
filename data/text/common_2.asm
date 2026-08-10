@@ -1,48 +1,57 @@
 _CantSurfText::
-	text "You can't SURF"
-	line "here."
+	text "No surfing here,"
+	line "silly cock sucker."
 	prompt
 
 _AlreadySurfingText::
-	text "You're already"
-	line "SURFING."
+	text "Lol, no need to"
+	line "surf when you al-"
+	cont "already are surf-"
+	cont "ing."
 	prompt
 
 _AskSurfText::
-	text "The water is calm."
-	line "Want to SURF?"
+	text "The water is cold."
+	line "Want to surf? Ball"
+	cont "sack may shrink."
 	done
 
 _UseWaterfallText::
 	text_ram wStringBuffer2
 	text " used"
 	line "WATERFALL!"
+	cont "WHEEEEE"
 	done
 
 _HugeWaterfallText::
 	text "Wow, it's a huge"
-	line "waterfall."
+	line "cock..ehh"
+	cont "waterfall"
 	done
 
 _AskWaterfallText::
-	text "Do you want to use"
+	text "Do wish to"
+	line "engage in the"
+	line "utilization of"
 	line "WATERFALL?"
 	done
 
 _UseDigText::
 	text_ram wStringBuffer2
-	text " used"
-	line "DIG!"
+	text " just"
+	line "DUG!"
 	done
 
 _UseEscapeRopeText::
 	text "<PLAYER> used an"
 	line "ESCAPE ROPE."
+	cont "to flee the"
+	cont "scary darkness."
 	done
 
 _CantUseDigText::
-	text "Can't use that"
-	line "here."
+	text "Can't dig here,"
+	line "fool."
 	done
 
 _TeleportReturnText::
@@ -54,12 +63,14 @@ _CantUseTeleportText::
 	text "Can't use that"
 	line "here."
 
-	para ""
+	para "You retard?"
 	done
 
 _AlreadyUsingStrengthText::
-	text "A #MON is using"
-	line "STRENGTH already."
+	text "One of your"
+	line "retard #MON"
+	cont "is using"
+	cont "STRENGTH already."
 	prompt
 
 _UseStrengthText::
@@ -231,12 +242,12 @@ _ItemfinderNopeText::
 _PoisonFaintText::
 	text_ram wStringBuffer3
 	text_start
-	line "fainted!"
+	line "died!"
 	prompt
 
 _PoisonWhiteoutText::
 	text "<PLAYER> is out of"
-	line "useable #MON!"
+	line "living #MON!"
 
 	para "<PLAYER> whited"
 	line "out!"
@@ -254,11 +265,11 @@ _SweetScentNothingText::
 	done
 
 _SquirtbottleNothingText::
-	text "<PLAYER> sprinkled"
+	text "<PLAYER> squirted"
 	line "water."
 
 	para "But nothing"
-	line "happened…"
+	line "cool happened…"
 	done
 
 _UseSacredAshText::
@@ -412,12 +423,13 @@ Text_BattleUser::
 
 _BattleMadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "made a fucking"
+	cont "whirlwind!"
 	prompt
 
 _BattleTookSunlightText::
 	text_start
-	line "took in sunlight!"
+	line "sucked in sunlight!"
 	prompt
 
 _BattleLoweredHeadText::
@@ -427,7 +439,7 @@ _BattleLoweredHeadText::
 
 _BattleGlowingText::
 	text_start
-	line "is glowing!"
+	line "cock is glowing!"
 	prompt
 
 _BattleFlewText::
@@ -441,7 +453,7 @@ _BattleDugText::
 	prompt
 
 Text_BreedHuh::
-	text "Huh?"
+	text "What the fuck?"
 
 	para "@"
 	text_end
@@ -470,7 +482,7 @@ _LeftWithDayCareLadyText::
 	text_ram wBreedMon2Nickname
 	text_start
 	line "that was left with"
-	cont "the DAY-CARE LADY."
+	cont "the pervert lady."
 	done
 
 _LeftWithDayCareManText::
@@ -478,17 +490,17 @@ _LeftWithDayCareManText::
 	text_ram wBreedMon1Nickname
 	text_start
 	line "that was left with"
-	cont "the DAY-CARE MAN."
+	cont "the pervert man."
 	done
 
 _BreedBrimmingWithEnergyText::
 	text "It's brimming with"
-	line "energy."
+	line "energy and sperm."
 	prompt
 
 _BreedNoInterestText::
 	text "It has no interest"
-	line "in @"
+	line "in sperm from @"
 	text_ram wStringBuffer1
 	text "."
 	prompt
@@ -501,15 +513,15 @@ _BreedAppearsToCareForText::
 	prompt
 
 _BreedFriendlyText::
-	text "It's friendly with"
+	text "It's cuddling with"
 	line "@"
 	text_ram wStringBuffer1
 	text "."
 	prompt
 
 _BreedShowsInterestText::
-	text "It shows interest"
-	line "in @"
+	text "It started boning"
+	line "woth @"
 	text_ram wStringBuffer1
 	text "."
 	prompt
@@ -593,7 +605,8 @@ _ContestCaughtMonText::
 	prompt
 
 _ContestAskSwitchText::
-	text "Switch #MON?"
+	text "Switch to a less"
+	line "retard #MON?"
 	done
 
 _ContestAlreadyCaughtText::
@@ -604,7 +617,7 @@ _ContestAlreadyCaughtText::
 	prompt
 
 _ContestJudging_FirstPlaceText::
-	text "This Bug-Catching"
+	text "This Bug-Fucking"
 	line "Contest winner is@"
 	text_pause
 	text "…"
@@ -671,7 +684,7 @@ _ContestJudging_ThirdPlaceScoreText::
 
 _MagikarpGuruMeasureText::
 	text "Let me measure"
-	line "that MAGIKARP."
+	line "your cock."
 
 	para "…Hm, it measures"
 	line "@"
@@ -736,6 +749,7 @@ _PlayersPCTurnOnText::
 _PlayersPCAskWhatDoText::
 	text "What do you want"
 	line "to do?"
+	cont "Trans porn?"
 	done
 
 _PlayersPCHowManyWithdrawText::
@@ -807,6 +821,10 @@ _PokecenterPlayersPCText::
 _PokecenterOaksPCText::
 	text "PROF.OAK's PC"
 	line "accessed."
+	cont "Lets check his"
+	cont "browsing history..."
+	
+	para "<PLAYER> just puked."
 
 	para "#DEX Rating"
 	line "System opened."
@@ -819,7 +837,7 @@ _PokecenterPCOaksClosedText::
 
 _OakPCText1::
 	text "Want to get your"
-	line "#DEX rated?"
+	line "ass hole rated?"
 	done
 
 _OakPCText2::
@@ -839,7 +857,7 @@ _OakPCText3::
 	done
 
 _OakRating01::
-	text "Look for #MON"
+	text "Look for ass"
 	line "in grassy areas!"
 	done
 
@@ -851,7 +869,8 @@ _OakRating02::
 
 _OakRating03::
 	text "You're getting"
-	line "good at this."
+	line "really fucking"
+	cont "good at this."
 
 	para "But you have a"
 	line "long way to go."
@@ -983,11 +1002,11 @@ _OakPCText4::
 	done
 
 _MemoryGameYeahText::
-	text " , yeah!"
+	text " , fuck yeah!"
 	done
 
 _MemoryGameDarnText::
-	text "Darn…"
+	text "Fucking fuck, I lost!"
 	done
 
 _StartMenuContestEndText::
@@ -1142,23 +1161,41 @@ _MainMenuTimeUnknownText::
 	done
 
 _OakText1::
-	text "Hello! Sorry to"
-	line "keep you waiting!"
+	text "Hello, you piece"
+	line "of shit."
 
 	para "Welcome to the"
 	line "world of #MON!"
 
-	para "My name is OAK."
+	para "My name is OAK,"
+	line "and most think I"
+	cont "am a pervert."
 
 	para "People call me the"
-	line "#MON PROF."
+	line "the pervy #MON"
+	cont "professor."
 	prompt
 
 _OakText2::
 	text "This world is in-"
 	line "habited by crea-"
 	cont "tures that we call"
-	cont "#MON.@"
+	cont "#MON."
+
+	para "Some people keep"
+	line "them as pets. Oth-"
+	cont "ers use them for"
+	cont "battle. Personally"
+	cont "I like to inspect"
+	cont "their anatomy and"
+	cont "sexual organs."
+	cont "Sometimes I need"
+	cont "to touch to prope-"
+	cont "rly understand."
+	cont "them. I hope you"
+	cont "don't mind me"
+	cont "touching your"
+	cont "#MON."
 	text_end
 
 _OakText3::
@@ -1175,6 +1212,9 @@ _OakText4::
 	para "Some people play"
 	line "with #MON, some"
 	cont "battle with them."
+	cont "People like me..."
+	cont "well... lets not"
+	cont "go into details."
 	prompt
 
 _OakText5::
@@ -1184,20 +1224,23 @@ _OakText5::
 
 	para "There are still"
 	line "many mysteries to"
-	cont "solve."
+	cont "solve about their"
+	cont "sperm."
 
 	para "That's why I study"
 	line "#MON every day."
 	prompt
 
 _OakText6::
-	text "Now, what did you"
-	line "say your name was?"
+	text "Now, you little"
+	line "shit. What did you"
+	cont "say your name was?"
+
 	prompt
 
 _OakText7::
-	text "<PLAYER>, are you"
-	line "ready?"
+	text "<PLAYER>, are you?"
+	line "MmmMmm, me gusta."
 
 	para "Your very own"
 	line "#MON story is"
@@ -1206,6 +1249,8 @@ _OakText7::
 	para "You'll face fun"
 	line "times and tough"
 	cont "challenges."
+	cont "Maybe a few"
+	cont "weird ones too."
 
 	para "A world of dreams"
 	line "and adventures"
@@ -1214,7 +1259,7 @@ _OakText7::
 	line "awaits! Let's go!"
 
 	para "I'll be seeing you"
-	line "later!"
+	line "later, cock sucker."
 	done
 
 _ClockTimeMayBeWrongText::
@@ -1234,7 +1279,8 @@ _ClockSetWithControlPadText::
 	done
 
 _ClockIsThisOKText::
-	text "Is this OK?"
+	text "Is this OK,"
+	line "cocksucker?"
 	done
 
 _ClockHasResetText::
@@ -1273,12 +1319,14 @@ _LinkAskTradeForText::
 
 _WouldYouLikeToSaveTheGameText::
 	text "Would you like to"
-	line "save the game?"
+	line "save the game,"
+	cont "ass licker?"
 	done
 
 _SavingDontTurnOffThePowerText::
 	text "SAVING… DON'T TURN"
-	line "OFF THE POWER."
+	line "OFF THE POWER,"
+	cont "YOU BALL SACK."
 	done
 
 _SavedTheGameText::
@@ -1287,9 +1335,8 @@ _SavedTheGameText::
 	done
 
 _AlreadyASaveFileText::
-	text "There is already a"
-	line "save file. Is it"
-	cont "OK to overwrite?"
+	text "Overwrite your"
+	line "pathetic save file?"
 	done
 
 _AnotherSaveFileText::
@@ -1367,7 +1414,7 @@ _PocketIsFullText::
 
 _CongratulationsYourPokemonText::
 	text "Congratulations!"
-	line "Your @"
+	line "Your retarded @"
 	text_ram wStringBuffer2
 	text_end
 
@@ -1377,27 +1424,28 @@ _EvolvedIntoText::
 	text_start
 
 	para "evolved into"
-	line "@"
+	line "a less retarded"
+	cont "@"
 	text_ram wStringBuffer1
 	text "!"
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "What the fuck @"
 	text_ram wStringBuffer2
 	text_start
 	line "stopped evolving!"
 	prompt
 
 _EvolvingText::
-	text "What? @"
+	text "Holy Fuck? @"
 	text_ram wStringBuffer2
 	text_start
 	line "is evolving!"
 	done
 
 _MartHowManyText::
-	text "How many?"
+	text "How many, fucker?"
 	done
 
 _MartFinalPriceText::
@@ -1414,7 +1462,7 @@ _HerbShopLadyIntroText::
 	text "Hello, dear."
 
 	para "I sell inexpensive"
-	line "herbal medicine."
+	line "sperm."
 
 	para "They're good, but"
 	line "a trifle bitter."
@@ -1452,6 +1500,8 @@ _HerbalLadyPackFullText::
 _HerbalLadyNoMoneyText::
 	text "Hehehe… You don't"
 	line "have the money."
+	cont "You a poor,"
+	cont "motherfucker."
 	done
 
 _HerbalLadyComeAgainText::
@@ -1460,8 +1510,9 @@ _HerbalLadyComeAgainText::
 	done
 
 _BargainShopIntroText::
-	text "Hiya! Care to see"
-	line "some bargains?"
+	text "Hi ass hole."
+	line "Come for"
+	cont "some bargains?"
 
 	para "I sell rare items"
 	line "that nobody else"
@@ -1496,6 +1547,9 @@ _BargainShopSoldOutText::
 _BargainShopNoFundsText::
 	text "Uh-oh, you're"
 	line "short on funds."
+	cont "HAHAHAHAHAHAHA"
+	cont "You poor, mother-"
+	cont "fucker."
 	done
 
 _BargainShopComeAgainText::
@@ -1505,7 +1559,7 @@ _BargainShopComeAgainText::
 
 _PharmacyIntroText::
 	text "What's up? Need"
-	line "some medicine?"
+	line "some semen?"
 	done
 
 _PharmacyHowManyText::
@@ -1528,17 +1582,17 @@ _PharmacyThanksText::
 
 _PharmacyPackFullText::
 	text "You don't have any"
-	line "more space."
+	line "more space, bitch."
 	done
 
 _PharmacyNoMoneyText::
 	text "Huh? That's not"
-	line "enough money."
+	line "enough money, bitch."
 	done
 
 _PharmacyComeAgainText::
 	text "All right."
-	line "See you around."
+	line "See you around, bitch."
 	done
 
 ;unused
@@ -1548,7 +1602,8 @@ _NothingToSellText::
 	prompt
 
 _MartSellHowManyText::
-	text "How many?"
+	text "How many,"
+	line "motherfucker?"
 	done
 
 _MartSellPriceText::
@@ -1563,6 +1618,7 @@ _MartSellPriceText::
 _MartWelcomeText::
 	text "Welcome! How may I"
 	line "help you?"
+	cont "A quick tug?"
 	done
 
 _MartThanksText::
@@ -1586,12 +1642,14 @@ _MartCantBuyText::
 	done
 
 _MartComeAgainText::
-	text "Please come again!"
+	text "Please come again"
+	line "for more tugs."
 	done
 
 _MartAskMoreText::
 	text "Can I do anything"
 	line "else for you?"
+	cont "Another tug?"
 	done
 
 _MartBoughtText::
