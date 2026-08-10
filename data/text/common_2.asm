@@ -1142,16 +1142,19 @@ _MainMenuTimeUnknownText::
 	done
 
 _OakText1::
-	text "Hello! Sorry to"
-	line "keep you waiting!"
+	text "Hello, you piece"
+	line "of shit."
 
 	para "Welcome to the"
 	line "world of #MON!"
 
-	para "My name is OAK."
+	para "My name is OAK,"
+	line "and most think I"
+	cont "am a pervert."
 
 	para "People call me the"
-	line "#MON PROF."
+	line "the pervy #MON"
+	cont "professor."
 	prompt
 
 _OakText2::
@@ -1159,6 +1162,20 @@ _OakText2::
 	line "habited by crea-"
 	cont "tures that we call"
 	cont "#MON.@"
+
+	para "Some people keep"
+	line "#MON as pets. Others"
+	cont "use them for battle."
+	cont "Personally I like to"
+	cont "inspect their"
+	cont "anatomy and sexual"
+	cont "organs. Sometimes"
+	cont "I need to touch to"
+	cont "properly understand"
+	cont "them. I hope you"
+	cont "don't mind me"
+	cont "touching your"
+	cont "#MON."
 	text_end
 
 _OakText3::
@@ -1175,6 +1192,9 @@ _OakText4::
 	para "Some people play"
 	line "with #MON, some"
 	cont "battle with them."
+	cont "People like me..."
+	cont "well... lets not"
+	cont "go into details."
 	prompt
 
 _OakText5::
@@ -1184,20 +1204,23 @@ _OakText5::
 
 	para "There are still"
 	line "many mysteries to"
-	cont "solve."
+	cont "solve about their."
+	cont "sperm."
 
 	para "That's why I study"
 	line "#MON every day."
 	prompt
 
 _OakText6::
-	text "Now, what did you"
-	line "say your name was?"
+	text "Now, you little"
+	line "shit. What did you"
+	cont "say your name was?"
+
 	prompt
 
 _OakText7::
 	text "<PLAYER>, are you"
-	line "ready?"
+	line "Mmm, me gusta."
 
 	para "Your very own"
 	line "#MON story is"
@@ -1206,6 +1229,8 @@ _OakText7::
 	para "You'll face fun"
 	line "times and tough"
 	cont "challenges."
+	cont "Maybe a few"
+	cont "weird ones too."
 
 	para "A world of dreams"
 	line "and adventures"
@@ -1234,7 +1259,8 @@ _ClockSetWithControlPadText::
 	done
 
 _ClockIsThisOKText::
-	text "Is this OK?"
+	text "Is this OK,"
+	line "cocksucker?"
 	done
 
 _ClockHasResetText::
@@ -1273,12 +1299,14 @@ _LinkAskTradeForText::
 
 _WouldYouLikeToSaveTheGameText::
 	text "Would you like to"
-	line "save the game?"
+	line "save the game,"
+	cont "ass licker?"
 	done
 
 _SavingDontTurnOffThePowerText::
 	text "SAVING… DON'T TURN"
-	line "OFF THE POWER."
+	line "OFF THE POWER,"
+	cont "YOU BALL SACK."
 	done
 
 _SavedTheGameText::
@@ -1383,14 +1411,14 @@ _EvolvedIntoText::
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "What the fuck @"
 	text_ram wStringBuffer2
 	text_start
 	line "stopped evolving!"
 	prompt
 
 _EvolvingText::
-	text "What? @"
+	text "Holy Fuck? @"
 	text_ram wStringBuffer2
 	text_start
 	line "is evolving!"
@@ -1414,7 +1442,7 @@ _HerbShopLadyIntroText::
 	text "Hello, dear."
 
 	para "I sell inexpensive"
-	line "herbal medicine."
+	line "sperm."
 
 	para "They're good, but"
 	line "a trifle bitter."
@@ -1452,6 +1480,8 @@ _HerbalLadyPackFullText::
 _HerbalLadyNoMoneyText::
 	text "Hehehe… You don't"
 	line "have the money."
+	cont "You a poor,"
+	cont "motherfucker."
 	done
 
 _HerbalLadyComeAgainText::
@@ -1460,8 +1490,9 @@ _HerbalLadyComeAgainText::
 	done
 
 _BargainShopIntroText::
-	text "Hiya! Care to see"
-	line "some bargains?"
+	text "Hi ass hole."
+	line "Come for"
+	cont "some bargains?"
 
 	para "I sell rare items"
 	line "that nobody else"
@@ -1548,7 +1579,8 @@ _NothingToSellText::
 	prompt
 
 _MartSellHowManyText::
-	text "How many?"
+	text "How many,"
+	line "motherfucker?"
 	done
 
 _MartSellPriceText::
@@ -1563,6 +1595,7 @@ _MartSellPriceText::
 _MartWelcomeText::
 	text "Welcome! How may I"
 	line "help you?"
+	cont "A quick tug?"
 	done
 
 _MartThanksText::
@@ -1586,12 +1619,14 @@ _MartCantBuyText::
 	done
 
 _MartComeAgainText::
-	text "Please come again!"
+	text "Please come again"
+	line "for more tugs."
 	done
 
 _MartAskMoreText::
 	text "Can I do anything"
 	line "else for you?"
+	cont "Another tug?"
 	done
 
 _MartBoughtText::
