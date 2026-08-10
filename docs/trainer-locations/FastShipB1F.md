@@ -8,12 +8,12 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `JEFF`
 - **Encounter:** `object` via `TrainerSailorJeff`
 - **Coordinates:** `(9, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1923)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1948)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `RATICATE` |
-| 32 | `RATICATE` |
+| 45 | `RATICATE` |
+| 45 | `RATICATE` |
 
 ## PICNICKER_DEBRA: DEBRA
 
@@ -21,11 +21,11 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `DEBRA`
 - **Encounter:** `object` via `TrainerPicnickerDebra`
 - **Coordinates:** `(6, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2622)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2647)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `SEAKING` |
+| 46 | `SEAKING` |
 
 ## JUGGLER_FRITZ: FRITZ
 
@@ -33,13 +33,13 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `FRITZ`
 - **Encounter:** `object` via `TrainerJugglerFritz`
 - **Coordinates:** `(26, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2392)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2417)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `MR__MIME` |
-| 29 | `MAGMAR` |
-| 29 | `MACHOKE` |
+| 42 | `MR__MIME` |
+| 42 | `MAGMAR` |
+| 42 | `MACHOKE` |
 
 ## SAILOR_GARRETT: GARRETT
 
@@ -47,11 +47,11 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `GARRETT`
 - **Encounter:** `object` via `TrainerSailorGarrett`
 - **Coordinates:** `(17, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1929)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1954)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `KINGLER` |
+| 47 | `KINGLER` |
 
 ## FISHER_JONAH: JONAH
 
@@ -59,14 +59,14 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `JONAH`
 - **Encounter:** `object` via `TrainerFisherJonah`
 - **Coordinates:** `(25, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1568)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1593)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `SHELLDER` |
-| 29 | `OCTILLERY` |
-| 25 | `REMORAID` |
-| 29 | `CLOYSTER` |
+| 38 | `SHELLDER` |
+| 42 | `OCTILLERY` |
+| 38 | `REMORAID` |
+| 42 | `CLOYSTER` |
 
 ## BLACKBELT_T_WAI: WAI
 
@@ -74,13 +74,13 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `WAI`
 - **Encounter:** `object` via `TrainerBlackbeltWai`
 - **Coordinates:** `(15, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2474)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2499)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `MACHOKE` |
-| 32 | `MACHOKE` |
-| 34 | `MACHOKE` |
+| 43 | `MACHOKE` |
+| 45 | `MACHOKE` |
+| 47 | `MACHOKE` |
 
 ## SAILOR_KENNETH: KENNETH
 
@@ -88,14 +88,14 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `KENNETH`
 - **Encounter:** `object` via `TrainerSailorKenneth`
 - **Coordinates:** `(23, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1934)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1959)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `MACHOP` |
-| 28 | `MACHOP` |
-| 28 | `POLIWRATH` |
-| 28 | `MACHOP` |
+| 41 | `MACHOP` |
+| 41 | `MACHOP` |
+| 41 | `POLIWRATH` |
+| 41 | `MACHOP` |
 
 ## TEACHER_SHIRLEY: SHIRLEY
 
@@ -103,11 +103,11 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `SHIRLEY`
 - **Encounter:** `object` via `TrainerTeacherShirley`
 - **Coordinates:** `(9, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1396)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1421)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `JIGGLYPUFF` |
+| 48 | `JIGGLYPUFF` |
 
 ## SCHOOLBOY_NATE: NATE
 
@@ -115,12 +115,12 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `NATE`
 - **Encounter:** `object` via `TrainerSchoolboyNate`
 - **Coordinates:** `(14, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L472)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L497)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `LEDIAN` |
-| 32 | `EXEGGUTOR` |
+| 45 | `LEDIAN` |
+| 45 | `EXEGGUTOR` |
 
 ## SCHOOLBOY_RICKY: RICKY
 
@@ -128,9 +128,9 @@ Source: [maps/FastShipB1F.asm](../../maps/FastShipB1F.asm)
 - **Party ID:** `RICKY`
 - **Encounter:** `object` via `TrainerSchoolboyRicky`
 - **Coordinates:** `(14, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L478)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L503)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `AIPOM` |
-| 32 | `DITTO` |
+| 45 | `AIPOM` |
+| 45 | `DITTO` |

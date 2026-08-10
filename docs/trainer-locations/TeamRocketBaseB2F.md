@@ -8,11 +8,11 @@ Source: [maps/TeamRocketBaseB2F.asm](../../maps/TeamRocketBaseB2F.asm)
 - **Party ID:** `GRUNTM_17`
 - **Encounter:** `object` via `TrainerGruntM17`
 - **Coordinates:** `(25, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1258)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1283)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `GOLBAT` |
+| 31 | `GOLBAT` |
 
 ## GRUNTM_GRUNTM_18: GRUNT
 
@@ -20,13 +20,13 @@ Source: [maps/TeamRocketBaseB2F.asm](../../maps/TeamRocketBaseB2F.asm)
 - **Party ID:** `GRUNTM_18`
 - **Encounter:** `object` via `TrainerGruntM18`
 - **Coordinates:** `(2, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1263)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1288)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `RATTATA` |
-| 17 | `ZUBAT` |
-| 17 | `RATTATA` |
+| 30 | `RATTATA` |
+| 30 | `ZUBAT` |
+| 30 | `RATTATA` |
 
 ## GRUNTM_GRUNTM_19: GRUNT
 
@@ -34,12 +34,12 @@ Source: [maps/TeamRocketBaseB2F.asm](../../maps/TeamRocketBaseB2F.asm)
 - **Party ID:** `GRUNTM_19`
 - **Encounter:** `object` via `TrainerGruntM19`
 - **Coordinates:** `(21, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1270)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1295)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `VENONAT` |
-| 18 | `VENONAT` |
+| 31 | `VENONAT` |
+| 31 | `VENONAT` |
 
 ## EXECUTIVEF_EXECUTIVEF_2: EXECUTIVE
 
@@ -47,10 +47,10 @@ Source: [maps/TeamRocketBaseB2F.asm](../../maps/TeamRocketBaseB2F.asm)
 - **Party ID:** `EXECUTIVEF_2`
 - **Encounter:** `scripted` via `RocketBaseBossFScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2832)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2857)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `ARBOK` |
-| 23 | `GLOOM` |
-| 25 | `MURKROW` |
+| 36 | `ARBOK` |
+| 36 | `GLOOM` |
+| 38 | `MURKROW` |

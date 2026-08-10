@@ -8,11 +8,11 @@ Source: [maps/Route19.asm](../../maps/Route19.asm)
 - **Party ID:** `DAWN`
 - **Encounter:** `object` via `TrainerSwimmerfDawn`
 - **Coordinates:** `(9, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1844)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1869)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `SEAKING` |
+| 47 | `SEAKING` |
 
 ## SWIMMERM_HAROLD: HAROLD
 
@@ -20,12 +20,12 @@ Source: [maps/Route19.asm](../../maps/Route19.asm)
 - **Party ID:** `HAROLD`
 - **Encounter:** `object` via `TrainerSwimmermHarold`
 - **Coordinates:** `(13, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1642)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1667)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `REMORAID` |
-| 30 | `SEADRA` |
+| 45 | `REMORAID` |
+| 43 | `SEADRA` |
 
 ## SWIMMERM_JEROME: JEROME
 
@@ -33,14 +33,14 @@ Source: [maps/Route19.asm](../../maps/Route19.asm)
 - **Party ID:** `JEROME`
 - **Encounter:** `object` via `TrainerSwimmermJerome`
 - **Coordinates:** `(11, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1728)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1753)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `SEADRA` |
-| 28 | `TENTACOOL` |
-| 30 | `TENTACRUEL` |
-| 28 | `GOLDEEN` |
+| 39 | `SEADRA` |
+| 41 | `TENTACOOL` |
+| 43 | `TENTACRUEL` |
+| 41 | `GOLDEEN` |
 
 ## SWIMMERM_TUCKER: TUCKER
 
@@ -48,9 +48,9 @@ Source: [maps/Route19.asm](../../maps/Route19.asm)
 - **Party ID:** `TUCKER`
 - **Encounter:** `object` via `TrainerSwimmermTucker`
 - **Coordinates:** `(8, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1736)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1761)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `SHELLDER` |
-| 34 | `CLOYSTER` |
+| 43 | `SHELLDER` |
+| 47 | `CLOYSTER` |

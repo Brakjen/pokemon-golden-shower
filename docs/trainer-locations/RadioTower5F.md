@@ -8,13 +8,13 @@ Source: [maps/RadioTower5F.asm](../../maps/RadioTower5F.asm)
 - **Party ID:** `EXECUTIVEF_1`
 - **Encounter:** `object` via `TrainerExecutivef1`
 - **Coordinates:** `(17, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2825)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2850)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `ARBOK` |
-| 32 | `VILEPLUME` |
-| 32 | `MURKROW` |
+| 45 | `ARBOK` |
+| 45 | `VILEPLUME` |
+| 45 | `MURKROW` |
 
 ## EXECUTIVEM_EXECUTIVEM_3: EXECUTIVE
 
@@ -22,16 +22,16 @@ Source: [maps/RadioTower5F.asm](../../maps/RadioTower5F.asm)
 - **Party ID:** `EXECUTIVEM_3`
 - **Encounter:** `scripted` via `FakeDirectorScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2494)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2519)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `KOFFING` |
-| 30 | `KOFFING` |
-| 30 | `KOFFING` |
-| 32 | `WEEZING` |
-| 30 | `KOFFING` |
-| 30 | `KOFFING` |
+| 43 | `KOFFING` |
+| 43 | `KOFFING` |
+| 43 | `KOFFING` |
+| 45 | `WEEZING` |
+| 43 | `KOFFING` |
+| 43 | `KOFFING` |
 
 ## EXECUTIVEM_EXECUTIVEM_1: EXECUTIVE
 
@@ -39,10 +39,10 @@ Source: [maps/RadioTower5F.asm](../../maps/RadioTower5F.asm)
 - **Party ID:** `EXECUTIVEM_1`
 - **Encounter:** `scripted` via `RadioTower5FRocketBossScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2482)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2507)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `HOUNDOUR` |
-| 33 | `KOFFING` |
-| 35 | `HOUNDOOM` |
+| 46 | `HOUNDOUR` |
+| 46 | `KOFFING` |
+| 48 | `HOUNDOOM` |

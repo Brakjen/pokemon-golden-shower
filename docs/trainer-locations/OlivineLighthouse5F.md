@@ -8,13 +8,13 @@ Source: [maps/OlivineLighthouse5F.asm](../../maps/OlivineLighthouse5F.asm)
 - **Party ID:** `DENIS`
 - **Encounter:** `object` via `TrainerBirdKeeperDenis`
 - **Coordinates:** `(8, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L556)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L581)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `SPEAROW` |
-| 20 | `FEAROW` |
-| 18 | `SPEAROW` |
+| 31 | `SPEAROW` |
+| 33 | `FEAROW` |
+| 31 | `SPEAROW` |
 
 ## SAILOR_ERNEST: ERNEST
 
@@ -22,10 +22,10 @@ Source: [maps/OlivineLighthouse5F.asm](../../maps/OlivineLighthouse5F.asm)
 - **Party ID:** `ERNEST`
 - **Encounter:** `object` via `TrainerSailorErnest`
 - **Coordinates:** `(8, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1916)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1941)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `MACHOP` |
-| 18 | `MACHOP` |
-| 18 | `POLIWHIRL` |
+| 31 | `MACHOP` |
+| 31 | `MACHOP` |
+| 31 | `POLIWHIRL` |

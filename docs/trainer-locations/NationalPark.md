@@ -8,12 +8,12 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `JACK1`
 - **Encounter:** `object` via `TrainerSchoolboyJack1`
 - **Coordinates:** `(27, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L409)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L434)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `ODDISH` |
-| 15 | `VOLTORB` |
+| 25 | `ODDISH` |
+| 28 | `VOLTORB` |
 
 ## POKEFANM_WILLIAM: WILLIAM
 
@@ -21,11 +21,11 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `WILLIAM`
 - **Encounter:** `object` via `TrainerPokefanmWilliam`
 - **Coordinates:** `(16, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2961)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2986)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `RAICHU` |
+| 27 | `RAICHU` |
 
 ## POKEFANF_BEVERLY1: BEVERLY
 
@@ -33,11 +33,11 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `BEVERLY1`
 - **Encounter:** `object` via `TrainerPokefanfBeverly1`
 - **Coordinates:** `(18, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3115)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3140)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `SNUBBULL` |
+| 27 | `SNUBBULL` |
 
 ## LASS_KRISE: KRISE
 
@@ -45,12 +45,12 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `KRISE`
 - **Encounter:** `object` via `TrainerLassKrise`
 - **Coordinates:** `(8, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L658)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L683)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `ODDISH` |
-| 15 | `CUBONE` |
+| 25 | `ODDISH` |
+| 28 | `CUBONE` |
 
 ## SCHOOLBOY_JACK2: JACK
 
@@ -58,12 +58,12 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `JACK2`
 - **Encounter:** `scripted` via `TrainerSchoolboyJack1`
 - **Coordinates:** `(27, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L484)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L509)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `ODDISH` |
-| 17 | `VOLTORB` |
+| 27 | `ODDISH` |
+| 30 | `VOLTORB` |
 
 ## SCHOOLBOY_JACK3: JACK
 
@@ -71,12 +71,12 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `JACK3`
 - **Encounter:** `scripted` via `TrainerSchoolboyJack1`
 - **Coordinates:** `(27, 23)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L490)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L515)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `GLOOM` |
-| 31 | `ELECTRODE` |
+| 41 | `GLOOM` |
+| 44 | `ELECTRODE` |
 
 ## POKEFANF_BEVERLY2: BEVERLY
 
@@ -84,11 +84,11 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `BEVERLY2`
 - **Encounter:** `scripted` via `TrainerPokefanfBeverly1`
 - **Coordinates:** `(18, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3125)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3150)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `SNUBBULL` |
+| 31 | `SNUBBULL` |
 
 ## POKEFANF_BEVERLY3: BEVERLY
 
@@ -96,8 +96,8 @@ Source: [maps/NationalPark.asm](../../maps/NationalPark.asm)
 - **Party ID:** `BEVERLY3`
 - **Encounter:** `scripted` via `TrainerPokefanfBeverly1`
 - **Coordinates:** `(18, 29)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3130)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3155)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GRANBULL` |
+| 43 | `GRANBULL` |

@@ -8,11 +8,11 @@ Source: [maps/OlivineLighthouse2F.asm](../../maps/OlivineLighthouse2F.asm)
 - **Party ID:** `ALFRED`
 - **Encounter:** `object` via `TrainerGentlemanAlfred`
 - **Coordinates:** `(17, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1368)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1393)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `NOCTOWL` |
+| 33 | `NOCTOWL` |
 
 ## SAILOR_HUEY1: HUEY
 
@@ -20,12 +20,12 @@ Source: [maps/OlivineLighthouse2F.asm](../../maps/OlivineLighthouse2F.asm)
 - **Party ID:** `HUEY1`
 - **Encounter:** `object` via `TrainerSailorHuey`
 - **Coordinates:** `(9, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1899)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1924)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `POLIWAG` |
-| 18 | `POLIWHIRL` |
+| 31 | `POLIWAG` |
+| 31 | `POLIWHIRL` |
 
 ## SAILOR_HUEY2: HUEY
 
@@ -33,12 +33,12 @@ Source: [maps/OlivineLighthouse2F.asm](../../maps/OlivineLighthouse2F.asm)
 - **Party ID:** `HUEY2`
 - **Encounter:** `scripted` via `TrainerSailorHuey`
 - **Coordinates:** `(9, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1954)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1979)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `POLIWHIRL` |
-| 28 | `POLIWHIRL` |
+| 41 | `POLIWHIRL` |
+| 41 | `POLIWHIRL` |
 
 ## SAILOR_HUEY3: HUEY
 
@@ -46,9 +46,9 @@ Source: [maps/OlivineLighthouse2F.asm](../../maps/OlivineLighthouse2F.asm)
 - **Party ID:** `HUEY3`
 - **Encounter:** `scripted` via `TrainerSailorHuey`
 - **Coordinates:** `(9, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1960)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1985)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `POLIWHIRL` |
-| 34 | `POLIWRATH` |
+| 47 | `POLIWHIRL` |
+| 47 | `POLIWRATH` |

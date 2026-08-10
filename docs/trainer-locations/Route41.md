@@ -8,13 +8,13 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `KAYLEE`
 - **Encounter:** `object` via `TrainerSwimmerfKaylee`
 - **Coordinates:** `(17, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1794)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1819)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `GOLDEEN` |
-| 20 | `GOLDEEN` |
-| 20 | `SEAKING` |
+| 31 | `GOLDEEN` |
+| 33 | `GOLDEEN` |
+| 33 | `SEAKING` |
 
 ## SWIMMERF_SUSIE: SUSIE
 
@@ -22,12 +22,12 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `SUSIE`
 - **Encounter:** `object` via `TrainerSwimmerfSusie`
 - **Coordinates:** `(23, 19)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1801)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1826)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `PSYDUCK` |
-| 22 | `GOLDEEN` |
+| 33 | `PSYDUCK` |
+| 35 | `GOLDEEN` |
 
 ## SWIMMERF_DENISE: DENISE
 
@@ -35,11 +35,11 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `DENISE`
 - **Encounter:** `object` via `TrainerSwimmerfDenise`
 - **Coordinates:** `(27, 34)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1807)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1832)
 
 | Level | Pokemon |
 | --- | --- |
-| 22 | `SEEL` |
+| 35 | `SEEL` |
 
 ## SWIMMERF_KARA: KARA
 
@@ -47,12 +47,12 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `KARA`
 - **Encounter:** `object` via `TrainerSwimmerfKara`
 - **Coordinates:** `(44, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1812)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1837)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `STARYU` |
-| 20 | `STARMIE` |
+| 33 | `STARYU` |
+| 33 | `STARMIE` |
 
 ## SWIMMERF_WENDY: WENDY
 
@@ -60,12 +60,12 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `WENDY`
 - **Encounter:** `object` via `TrainerSwimmerfWendy`
 - **Coordinates:** `(9, 50)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1818)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1843)
 
 | Level | Pokemon |
 | --- | --- |
-| 21 | `HORSEA` |
-| 21 | `HORSEA` |
+| 34 | `HORSEA` |
+| 34 | `HORSEA` |
 
 ## SWIMMERM_CHARLIE: CHARLIE
 
@@ -73,13 +73,13 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `CHARLIE`
 - **Encounter:** `object` via `TrainerSwimmermCharlie`
 - **Coordinates:** `(32, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1661)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1686)
 
 | Level | Pokemon |
 | --- | --- |
-| 21 | `SHELLDER` |
-| 19 | `TENTACOOL` |
-| 19 | `TENTACRUEL` |
+| 34 | `SHELLDER` |
+| 32 | `TENTACOOL` |
+| 32 | `TENTACRUEL` |
 
 ## SWIMMERM_GEORGE: GEORGE
 
@@ -87,16 +87,16 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `GEORGE`
 - **Encounter:** `object` via `TrainerSwimmermGeorge`
 - **Coordinates:** `(46, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1668)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1693)
 
 | Level | Pokemon |
 | --- | --- |
-| 16 | `TENTACOOL` |
-| 17 | `TENTACOOL` |
-| 16 | `TENTACOOL` |
-| 19 | `STARYU` |
-| 17 | `TENTACOOL` |
-| 19 | `REMORAID` |
+| 29 | `TENTACOOL` |
+| 30 | `TENTACOOL` |
+| 29 | `TENTACOOL` |
+| 32 | `STARYU` |
+| 30 | `TENTACOOL` |
+| 32 | `REMORAID` |
 
 ## SWIMMERM_BERKE: BERKE
 
@@ -104,11 +104,11 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `BERKE`
 - **Encounter:** `object` via `TrainerSwimmermBerke`
 - **Coordinates:** `(20, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1678)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1703)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `QWILFISH` |
+| 36 | `QWILFISH` |
 
 ## SWIMMERM_KIRK: KIRK
 
@@ -116,12 +116,12 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `KIRK`
 - **Encounter:** `object` via `TrainerSwimmermKirk`
 - **Coordinates:** `(32, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1683)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1708)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `GYARADOS` |
-| 20 | `GYARADOS` |
+| 33 | `GYARADOS` |
+| 33 | `GYARADOS` |
 
 ## SWIMMERM_MATHEW: MATHEW
 
@@ -129,8 +129,8 @@ Source: [maps/Route41.asm](../../maps/Route41.asm)
 - **Party ID:** `MATHEW`
 - **Encounter:** `object` via `TrainerSwimmermMathew`
 - **Coordinates:** `(19, 46)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1689)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1714)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `KRABBY` |
+| 36 | `KRABBY` |

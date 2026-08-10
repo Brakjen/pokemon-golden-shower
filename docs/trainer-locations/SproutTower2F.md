@@ -8,13 +8,13 @@ Source: [maps/SproutTower2F.asm](../../maps/SproutTower2F.asm)
 - **Party ID:** `NICO`
 - **Encounter:** `object` via `TrainerSageNico`
 - **Coordinates:** `(14, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2847)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2872)
 
 | Level | Pokemon |
 | --- | --- |
-| 3 | `BELLSPROUT` |
-| 3 | `BELLSPROUT` |
-| 3 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |
 
 ## SAGE_EDMOND: EDMOND
 
@@ -22,10 +22,10 @@ Source: [maps/SproutTower2F.asm](../../maps/SproutTower2F.asm)
 - **Party ID:** `EDMOND`
 - **Encounter:** `object` via `TrainerSageEdmond`
 - **Coordinates:** `(3, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2879)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2904)
 
 | Level | Pokemon |
 | --- | --- |
-| 3 | `BELLSPROUT` |
-| 3 | `BELLSPROUT` |
-| 3 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |
+| 16 | `BELLSPROUT` |

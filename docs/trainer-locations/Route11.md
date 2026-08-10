@@ -8,11 +8,11 @@ Source: [maps/Route11.asm](../../maps/Route11.asm)
 - **Party ID:** `OWEN`
 - **Encounter:** `object` via `TrainerYoungsterOwen`
 - **Coordinates:** `(22, 14)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L397)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L422)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `GROWLITHE` |
+| 48 | `GROWLITHE` |
 
 ## YOUNGSTER_JASON: JASON
 
@@ -20,12 +20,12 @@ Source: [maps/Route11.asm](../../maps/Route11.asm)
 - **Party ID:** `JASON`
 - **Encounter:** `object` via `TrainerYoungsterJason`
 - **Coordinates:** `(15, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L402)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L427)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `SANDSLASH` |
-| 33 | `CROBAT` |
+| 46 | `SANDSLASH` |
+| 46 | `CROBAT` |
 
 ## PSYCHIC_T_HERMAN: HERMAN
 
@@ -33,13 +33,13 @@ Source: [maps/Route11.asm](../../maps/Route11.asm)
 - **Party ID:** `HERMAN`
 - **Encounter:** `object` via `TrainerPsychicHerman`
 - **Coordinates:** `(29, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2522)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2547)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `EXEGGCUTE` |
-| 30 | `EXEGGCUTE` |
-| 30 | `EXEGGUTOR` |
+| 43 | `EXEGGCUTE` |
+| 43 | `EXEGGCUTE` |
+| 43 | `EXEGGUTOR` |
 
 ## PSYCHIC_T_FIDEL: FIDEL
 
@@ -47,8 +47,8 @@ Source: [maps/Route11.asm](../../maps/Route11.asm)
 - **Party ID:** `FIDEL`
 - **Encounter:** `object` via `TrainerPsychicFidel`
 - **Coordinates:** `(7, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2529)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2554)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `XATU` |
+| 47 | `XATU` |

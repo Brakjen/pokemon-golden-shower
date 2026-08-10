@@ -8,11 +8,11 @@ Source: [maps/Route42.asm](../../maps/Route42.asm)
 - **Party ID:** `CHRIS1`
 - **Encounter:** `object` via `TrainerFisherChris`
 - **Coordinates:** `(40, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1537)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1562)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `QWILFISH` |
+| 31 | `QWILFISH` |
 
 ## POKEMANIAC_SHANE: SHANE
 
@@ -20,12 +20,12 @@ Source: [maps/Route42.asm](../../maps/Route42.asm)
 - **Party ID:** `SHANE`
 - **Encounter:** `object` via `TrainerPokemaniacShane`
 - **Coordinates:** `(47, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1097)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1122)
 
 | Level | Pokemon |
 | --- | --- |
-| 16 | `NIDORINA` |
-| 16 | `NIDORINO` |
+| 29 | `NIDORINA` |
+| 29 | `NIDORINO` |
 
 ## HIKER_BENJAMIN: BENJAMIN
 
@@ -33,13 +33,13 @@ Source: [maps/Route42.asm](../../maps/Route42.asm)
 - **Party ID:** `BENJAMIN`
 - **Encounter:** `object` via `TrainerHikerBenjamin`
 - **Coordinates:** `(51, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2149)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2174)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `DIGLETT` |
-| 14 | `GEODUDE` |
-| 16 | `DUGTRIO` |
+| 27 | `DIGLETT` |
+| 27 | `GEODUDE` |
+| 29 | `DUGTRIO` |
 
 ## FISHER_CHRIS2: CHRIS
 
@@ -47,11 +47,11 @@ Source: [maps/Route42.asm](../../maps/Route42.asm)
 - **Party ID:** `CHRIS2`
 - **Encounter:** `scripted` via `TrainerFisherChris`
 - **Coordinates:** `(40, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1608)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1633)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `QWILFISH` |
+| 36 | `QWILFISH` |
 
 ## FISHER_CHRIS3: CHRIS
 
@@ -59,10 +59,10 @@ Source: [maps/Route42.asm](../../maps/Route42.asm)
 - **Party ID:** `CHRIS3`
 - **Encounter:** `scripted` via `TrainerFisherChris`
 - **Coordinates:** `(40, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1613)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1638)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `GOLDEEN` |
-| 32 | `GOLDEEN` |
-| 34 | `QWILFISH` |
+| 45 | `GOLDEEN` |
+| 45 | `GOLDEEN` |
+| 47 | `QWILFISH` |

@@ -8,11 +8,11 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `ROXANNE`
 - **Encounter:** `object` via `TrainerSkierRoxanne`
 - **Coordinates:** `(4, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1374)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1399)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `JYNX` |
+| 41 | `JYNX` |
 
 ## SKIER_CLARISSA: CLARISSA
 
@@ -20,11 +20,11 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `CLARISSA`
 - **Encounter:** `object` via `TrainerSkierClarissa`
 - **Coordinates:** `(9, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1379)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1404)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `DEWGONG` |
+| 41 | `DEWGONG` |
 
 ## BOARDER_RONALD: RONALD
 
@@ -32,13 +32,13 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `RONALD`
 - **Encounter:** `object` via `TrainerBoarderRonald`
 - **Coordinates:** `(0, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2940)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2965)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `SEEL` |
-| 25 | `DEWGONG` |
-| 24 | `SEEL` |
+| 37 | `SEEL` |
+| 38 | `DEWGONG` |
+| 37 | `SEEL` |
 
 ## BOARDER_BRAD: BRAD
 
@@ -46,12 +46,12 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `BRAD`
 - **Encounter:** `object` via `TrainerBoarderBrad`
 - **Coordinates:** `(5, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2947)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2972)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `SWINUB` |
-| 26 | `SWINUB` |
+| 39 | `SWINUB` |
+| 39 | `SWINUB` |
 
 ## BOARDER_DOUGLAS: DOUGLAS
 
@@ -59,13 +59,13 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `DOUGLAS`
 - **Encounter:** `object` via `TrainerBoarderDouglas`
 - **Coordinates:** `(2, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2953)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2978)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `SHELLDER` |
-| 25 | `CLOYSTER` |
-| 24 | `SHELLDER` |
+| 37 | `SHELLDER` |
+| 38 | `CLOYSTER` |
+| 37 | `SHELLDER` |
 
 ## PRYCE_PRYCE1: PRYCE
 
@@ -73,10 +73,13 @@ Source: [maps/MahoganyGym.asm](../../maps/MahoganyGym.asm)
 - **Party ID:** `PRYCE1`
 - **Encounter:** `scripted` via `MahoganyGymPryceScript`
 - **Coordinates:** `(5, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L46)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L59)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `SEEL` |
-| 29 | `DEWGONG` |
-| 31 | `PILOSWINE` |
+| 40 | `SEEL` |
+| 42 | `DEWGONG` |
+| 44 | `PILOSWINE` |
+| 40 | `SNEASEL` |
+| 41 | `JYNX` |
+| 42 | `SWINUB` |

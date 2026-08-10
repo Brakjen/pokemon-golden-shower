@@ -8,11 +8,11 @@ Source: [maps/RuinsOfAlphOutside.asm](../../maps/RuinsOfAlphOutside.asm)
 - **Party ID:** `NATHAN`
 - **Encounter:** `object` via `TrainerPsychicNathan`
 - **Coordinates:** `(4, 20)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2512)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2537)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `GIRAFARIG` |
+| 39 | `GIRAFARIG` |
 
 ## SUPER_NERD_ERIC_UNUSED: ERIC
 
@@ -20,8 +20,8 @@ Source: [maps/RuinsOfAlphOutside.asm](../../maps/RuinsOfAlphOutside.asm)
 - **Party ID:** `ERIC_UNUSED`
 - **Encounter:** `trainer-script` via `TrainerSuperNerdEricUnused`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1967)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1992)
 
 | Level | Pokemon |
 | --- | --- |
-| 20 | `GRIMER` |
+| 33 | `GRIMER` |

@@ -8,13 +8,13 @@ Source: [maps/Route17.asm](../../maps/Route17.asm)
 - **Party ID:** `CHARLES`
 - **Encounter:** `object` via `TrainerBikerCharles`
 - **Coordinates:** `(6, 80)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2278)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2303)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `KOFFING` |
-| 30 | `CHARMELEON` |
-| 30 | `WEEZING` |
+| 43 | `KOFFING` |
+| 43 | `CHARMELEON` |
+| 43 | `WEEZING` |
 
 ## BIKER_RILEY: RILEY
 
@@ -22,11 +22,11 @@ Source: [maps/Route17.asm](../../maps/Route17.asm)
 - **Party ID:** `RILEY`
 - **Encounter:** `object` via `TrainerBikerRiley`
 - **Coordinates:** `(4, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2285)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2310)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `WEEZING` |
+| 47 | `WEEZING` |
 
 ## BIKER_JOEL: JOEL
 
@@ -34,12 +34,12 @@ Source: [maps/Route17.asm](../../maps/Route17.asm)
 - **Party ID:** `JOEL`
 - **Encounter:** `object` via `TrainerBikerJoel`
 - **Coordinates:** `(16, 32)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2290)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2315)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `MAGMAR` |
-| 32 | `MAGMAR` |
+| 45 | `MAGMAR` |
+| 45 | `MAGMAR` |
 
 ## BIKER_GLENN: GLENN
 
@@ -47,10 +47,10 @@ Source: [maps/Route17.asm](../../maps/Route17.asm)
 - **Party ID:** `GLENN`
 - **Encounter:** `object` via `TrainerBikerGlenn`
 - **Coordinates:** `(3, 53)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2296)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2321)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `KOFFING` |
-| 30 | `MAGMAR` |
-| 32 | `WEEZING` |
+| 41 | `KOFFING` |
+| 43 | `MAGMAR` |
+| 45 | `WEEZING` |

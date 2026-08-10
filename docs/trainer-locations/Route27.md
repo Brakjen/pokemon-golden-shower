@@ -8,13 +8,13 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `GILBERT`
 - **Encounter:** `object` via `TrainerPsychicGilbert`
 - **Coordinates:** `(64, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2563)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2588)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `STARMIE` |
-| 30 | `EXEGGCUTE` |
-| 34 | `GIRAFARIG` |
+| 43 | `STARMIE` |
+| 43 | `EXEGGCUTE` |
+| 47 | `GIRAFARIG` |
 
 ## BIRD_KEEPER_JOSE2: JOSE
 
@@ -22,11 +22,11 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `JOSE2`
 - **Encounter:** `object` via `TrainerBirdKeeperJose2`
 - **Coordinates:** `(58, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L605)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L630)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `FARFETCH_D` |
+| 48 | `FARFETCH_D` |
 
 ## COOLTRAINERM_BLAKE: BLAKE
 
@@ -34,13 +34,13 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `BLAKE`
 - **Encounter:** `object` via `TrainerCooltrainermBlake`
 - **Coordinates:** `(49, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L807)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L832)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `MAGNETON` |
-| 31 | `QUAGSIRE` |
-| 31 | `EXEGGCUTE` |
+| 46 | `MAGNETON` |
+| 44 | `QUAGSIRE` |
+| 44 | `EXEGGCUTE` |
 
 ## COOLTRAINERM_BRIAN: BRIAN
 
@@ -48,11 +48,11 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `BRIAN`
 - **Encounter:** `object` via `TrainerCooltrainermBrian`
 - **Coordinates:** `(58, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L814)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L839)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `SANDSLASH` |
+| 48 | `SANDSLASH` |
 
 ## COOLTRAINERF_REENA1: REENA
 
@@ -60,13 +60,13 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `REENA1`
 - **Encounter:** `object` via `TrainerCooltrainerfReena`
 - **Coordinates:** `(72, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L922)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L947)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `STARMIE` |
-| 33 | `NIDOQUEEN` |
-| 31 | `STARMIE` |
+| 44 | `STARMIE` |
+| 46 | `NIDOQUEEN` |
+| 44 | `STARMIE` |
 
 ## COOLTRAINERF_MEGAN: MEGAN
 
@@ -74,13 +74,13 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `MEGAN`
 - **Encounter:** `object` via `TrainerCooltrainerfMegan`
 - **Coordinates:** `(37, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L929)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L954)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `BULBASAUR` |
-| 32 | `IVYSAUR` |
-| 32 | `VENUSAUR` |
+| 45 | `BULBASAUR` |
+| 45 | `IVYSAUR` |
+| 45 | `VENUSAUR` |
 
 ## BIRD_KEEPER_JOSE1: JOSE
 
@@ -88,11 +88,11 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `JOSE1`
 - **Encounter:** `scripted` via `TrainerBirdKeeperJose2`
 - **Coordinates:** `(58, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L593)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L618)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `FARFETCH_D` |
+| 50 | `FARFETCH_D` |
 
 ## BIRD_KEEPER_JOSE3: JOSE
 
@@ -100,11 +100,11 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `JOSE3`
 - **Encounter:** `scripted` via `TrainerBirdKeeperJose2`
 - **Coordinates:** `(58, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L621)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L646)
 
 | Level | Pokemon |
 | --- | --- |
-| 41 | `FARFETCH_D` |
+| 54 | `FARFETCH_D` |
 
 ## COOLTRAINERF_REENA2: REENA
 
@@ -112,13 +112,13 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `REENA2`
 - **Encounter:** `scripted` via `TrainerCooltrainerfReena`
 - **Coordinates:** `(72, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L976)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1001)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `STARMIE` |
-| 35 | `NIDOQUEEN` |
-| 33 | `STARMIE` |
+| 46 | `STARMIE` |
+| 48 | `NIDOQUEEN` |
+| 46 | `STARMIE` |
 
 ## COOLTRAINERF_REENA3: REENA
 
@@ -126,10 +126,10 @@ Source: [maps/Route27.asm](../../maps/Route27.asm)
 - **Party ID:** `REENA3`
 - **Encounter:** `scripted` via `TrainerCooltrainerfReena`
 - **Coordinates:** `(72, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L983)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1008)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `STARMIE` |
-| 39 | `NIDOQUEEN` |
-| 37 | `STARMIE` |
+| 50 | `STARMIE` |
+| 52 | `NIDOQUEEN` |
+| 50 | `STARMIE` |

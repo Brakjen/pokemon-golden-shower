@@ -8,12 +8,12 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `BRYAN`
 - **Encounter:** `object` via `TrainerBirdKeeperBryan`
 - **Coordinates:** `(14, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L534)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L559)
 
 | Level | Pokemon |
 | --- | --- |
-| 12 | `PIDGEY` |
-| 14 | `PIDGEOTTO` |
+| 25 | `PIDGEY` |
+| 27 | `PIDGEOTTO` |
 
 ## JUGGLER_IRWIN1: IRWIN
 
@@ -21,14 +21,14 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `IRWIN1`
 - **Encounter:** `object` via `TrainerJugglerIrwin`
 - **Coordinates:** `(5, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2384)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2409)
 
 | Level | Pokemon |
 | --- | --- |
-| 2 | `VOLTORB` |
-| 6 | `VOLTORB` |
-| 10 | `VOLTORB` |
-| 14 | `VOLTORB` |
+| 15 | `VOLTORB` |
+| 19 | `VOLTORB` |
+| 23 | `VOLTORB` |
+| 27 | `VOLTORB` |
 
 ## CAMPER_IVAN: IVAN
 
@@ -36,13 +36,13 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `IVAN`
 - **Encounter:** `object` via `TrainerCamperIvan`
 - **Coordinates:** `(3, 19)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2715)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2740)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `DIGLETT` |
-| 10 | `ZUBAT` |
-| 14 | `DIGLETT` |
+| 23 | `DIGLETT` |
+| 23 | `ZUBAT` |
+| 27 | `DIGLETT` |
 
 ## CAMPER_ELLIOT: ELLIOT
 
@@ -50,12 +50,12 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `ELLIOT`
 - **Encounter:** `object` via `TrainerCamperElliot`
 - **Coordinates:** `(8, 20)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2722)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2747)
 
 | Level | Pokemon |
 | --- | --- |
-| 13 | `SANDSHREW` |
-| 15 | `MARILL` |
+| 26 | `SANDSHREW` |
+| 28 | `MARILL` |
 
 ## PICNICKER_BROOKE: BROOKE
 
@@ -63,11 +63,11 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `BROOKE`
 - **Encounter:** `object` via `TrainerPicnickerBrooke`
 - **Coordinates:** `(7, 20)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2596)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2621)
 
 | Level | Pokemon |
 | --- | --- |
-| 16 | `PIKACHU` |
+| 29 | `PIKACHU` |
 
 ## PICNICKER_KIM: KIM
 
@@ -75,11 +75,11 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `KIM`
 - **Encounter:** `object` via `TrainerPicnickerKim`
 - **Coordinates:** `(11, 24)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2601)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2626)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `VULPIX` |
+| 28 | `VULPIX` |
 
 ## BUG_CATCHER_ARNIE1: ARNIE
 
@@ -87,11 +87,11 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `ARNIE1`
 - **Encounter:** `object` via `TrainerBugCatcherArnie`
 - **Coordinates:** `(16, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1455)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1480)
 
 | Level | Pokemon |
 | --- | --- |
-| 15 | `VENONAT` |
+| 28 | `VENONAT` |
 
 ## FIREBREATHER_WALT: WALT
 
@@ -99,12 +99,12 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `WALT`
 - **Encounter:** `object` via `TrainerFirebreatherWalt`
 - **Coordinates:** `(2, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2365)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2390)
 
 | Level | Pokemon |
 | --- | --- |
-| 11 | `MAGMAR` |
-| 13 | `MAGMAR` |
+| 24 | `MAGMAR` |
+| 26 | `MAGMAR` |
 
 ## JUGGLER_IRWIN2: IRWIN
 
@@ -112,14 +112,14 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `IRWIN2`
 - **Encounter:** `scripted` via `TrainerJugglerIrwin`
 - **Coordinates:** `(5, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2407)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2432)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `VOLTORB` |
-| 10 | `VOLTORB` |
-| 14 | `VOLTORB` |
-| 18 | `VOLTORB` |
+| 19 | `VOLTORB` |
+| 23 | `VOLTORB` |
+| 27 | `VOLTORB` |
+| 31 | `VOLTORB` |
 
 ## JUGGLER_IRWIN3: IRWIN
 
@@ -127,14 +127,14 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `IRWIN3`
 - **Encounter:** `scripted` via `TrainerJugglerIrwin`
 - **Coordinates:** `(5, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2415)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2440)
 
 | Level | Pokemon |
 | --- | --- |
-| 18 | `VOLTORB` |
-| 22 | `VOLTORB` |
-| 26 | `VOLTORB` |
-| 30 | `ELECTRODE` |
+| 31 | `VOLTORB` |
+| 35 | `VOLTORB` |
+| 39 | `VOLTORB` |
+| 43 | `ELECTRODE` |
 
 ## BUG_CATCHER_ARNIE2: ARNIE
 
@@ -142,11 +142,11 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `ARNIE2`
 - **Encounter:** `scripted` via `TrainerBugCatcherArnie`
 - **Coordinates:** `(16, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1487)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1512)
 
 | Level | Pokemon |
 | --- | --- |
-| 19 | `VENONAT` |
+| 32 | `VENONAT` |
 
 ## BUG_CATCHER_ARNIE3: ARNIE
 
@@ -154,11 +154,11 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `ARNIE3`
 - **Encounter:** `scripted` via `TrainerBugCatcherArnie`
 - **Coordinates:** `(16, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1492)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1517)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `VENOMOTH` |
+| 41 | `VENOMOTH` |
 
 ## OFFICER_DIRK: DIRK
 
@@ -166,9 +166,9 @@ Source: [maps/Route35.asm](../../maps/Route35.asm)
 - **Party ID:** `DIRK`
 - **Encounter:** `scripted` via `TrainerOfficerDirk`
 - **Coordinates:** `(5, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3172)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3197)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `GROWLITHE` |
-| 14 | `GROWLITHE` |
+| 27 | `GROWLITHE` |
+| 27 | `GROWLITHE` |

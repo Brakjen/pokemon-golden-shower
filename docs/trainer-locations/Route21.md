@@ -8,13 +8,13 @@ Source: [maps/Route21.asm](../../maps/Route21.asm)
 - **Party ID:** `SETH`
 - **Encounter:** `object` via `TrainerSwimmermSeth`
 - **Coordinates:** `(2, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1754)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1779)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `QUAGSIRE` |
-| 29 | `OCTILLERY` |
-| 32 | `QUAGSIRE` |
+| 42 | `QUAGSIRE` |
+| 42 | `OCTILLERY` |
+| 45 | `QUAGSIRE` |
 
 ## SWIMMERF_NIKKI: NIKKI
 
@@ -22,14 +22,14 @@ Source: [maps/Route21.asm](../../maps/Route21.asm)
 - **Party ID:** `NIKKI`
 - **Encounter:** `object` via `TrainerSwimmerfNikki`
 - **Coordinates:** `(11, 16)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1872)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1897)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `SEEL` |
-| 28 | `SEEL` |
-| 28 | `SEEL` |
-| 28 | `DEWGONG` |
+| 41 | `SEEL` |
+| 41 | `SEEL` |
+| 41 | `SEEL` |
+| 41 | `DEWGONG` |
 
 ## FISHER_ARNOLD: ARNOLD
 
@@ -37,8 +37,8 @@ Source: [maps/Route21.asm](../../maps/Route21.asm)
 - **Party ID:** `ARNOLD`
 - **Encounter:** `object` via `TrainerFisherArnold`
 - **Coordinates:** `(14, 22)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1511)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1536)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `TENTACRUEL` |
+| 47 | `TENTACRUEL` |

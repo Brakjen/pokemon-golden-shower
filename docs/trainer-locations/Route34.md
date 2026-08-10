@@ -8,11 +8,11 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `TODD1`
 - **Encounter:** `object` via `TrainerCamperTodd1`
 - **Coordinates:** `(13, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2710)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2735)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `PSYDUCK` |
+| 27 | `PSYDUCK` |
 
 ## PICNICKER_GINA1: GINA
 
@@ -20,13 +20,13 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `GINA1`
 - **Encounter:** `object` via `TrainerPicnickerGina1`
 - **Coordinates:** `(10, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2589)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2614)
 
 | Level | Pokemon |
 | --- | --- |
-| 9 | `HOPPIP` |
-| 9 | `HOPPIP` |
-| 12 | `BULBASAUR` |
+| 22 | `HOPPIP` |
+| 22 | `HOPPIP` |
+| 25 | `BULBASAUR` |
 
 ## YOUNGSTER_SAMUEL: SAMUEL
 
@@ -34,14 +34,14 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `SAMUEL`
 - **Encounter:** `object` via `TrainerYoungsterSamuel`
 - **Coordinates:** `(15, 33)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L362)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L387)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `RATTATA` |
-| 10 | `SANDSHREW` |
-| 8 | `SPEAROW` |
-| 8 | `SPEAROW` |
+| 20 | `RATTATA` |
+| 23 | `SANDSHREW` |
+| 21 | `SPEAROW` |
+| 21 | `SPEAROW` |
 
 ## YOUNGSTER_IAN: IAN
 
@@ -49,12 +49,12 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `IAN`
 - **Encounter:** `object` via `TrainerYoungsterIan`
 - **Coordinates:** `(17, 22)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L370)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L395)
 
 | Level | Pokemon |
 | --- | --- |
-| 10 | `MANKEY` |
-| 12 | `DIGLETT` |
+| 23 | `MANKEY` |
+| 25 | `DIGLETT` |
 
 ## POKEFANM_BRANDON: BRANDON
 
@@ -62,11 +62,11 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `BRANDON`
 - **Encounter:** `object` via `TrainerPokefanmBrandon`
 - **Coordinates:** `(19, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2998)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3023)
 
 | Level | Pokemon |
 | --- | --- |
-| 13 | `SNUBBULL` |
+| 26 | `SNUBBULL` |
 
 ## COOLTRAINERF_IRENE: IRENE
 
@@ -74,12 +74,12 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `IRENE`
 - **Encounter:** `object` via `TrainerCooltrainerfIrene`
 - **Coordinates:** `(11, 48)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L898)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L923)
 
 | Level | Pokemon |
 | --- | --- |
-| 22 | `GOLDEEN` |
-| 24 | `SEAKING` |
+| 35 | `GOLDEEN` |
+| 37 | `SEAKING` |
 
 ## COOLTRAINERF_JENN: JENN
 
@@ -87,12 +87,12 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `JENN`
 - **Encounter:** `object` via `TrainerCooltrainerfJenn`
 - **Coordinates:** `(3, 48)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L965)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L990)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `STARYU` |
-| 26 | `STARMIE` |
+| 37 | `STARYU` |
+| 39 | `STARMIE` |
 
 ## COOLTRAINERF_KATE: KATE
 
@@ -100,12 +100,12 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `KATE`
 - **Encounter:** `object` via `TrainerCooltrainerfKate`
 - **Coordinates:** `(6, 51)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L892)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L917)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `SHELLDER` |
-| 28 | `CLOYSTER` |
+| 39 | `SHELLDER` |
+| 41 | `CLOYSTER` |
 
 ## CAMPER_TODD2: TODD
 
@@ -113,13 +113,13 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `TODD2`
 - **Encounter:** `scripted` via `TrainerCamperTodd1`
 - **Coordinates:** `(13, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2766)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2791)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `GEODUDE` |
-| 17 | `GEODUDE` |
-| 23 | `PSYDUCK` |
+| 30 | `GEODUDE` |
+| 30 | `GEODUDE` |
+| 36 | `PSYDUCK` |
 
 ## CAMPER_TODD3: TODD
 
@@ -127,13 +127,13 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `TODD3`
 - **Encounter:** `scripted` via `TrainerCamperTodd1`
 - **Coordinates:** `(13, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2773)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2798)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `GEODUDE` |
-| 23 | `GEODUDE` |
-| 26 | `PSYDUCK` |
+| 36 | `GEODUDE` |
+| 36 | `GEODUDE` |
+| 39 | `PSYDUCK` |
 
 ## PICNICKER_GINA2: GINA
 
@@ -141,13 +141,13 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `GINA2`
 - **Encounter:** `scripted` via `TrainerPicnickerGina1`
 - **Coordinates:** `(10, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2627)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2652)
 
 | Level | Pokemon |
 | --- | --- |
-| 14 | `HOPPIP` |
-| 14 | `HOPPIP` |
-| 17 | `IVYSAUR` |
+| 27 | `HOPPIP` |
+| 27 | `HOPPIP` |
+| 30 | `IVYSAUR` |
 
 ## PICNICKER_GINA3: GINA
 
@@ -155,13 +155,13 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `GINA3`
 - **Encounter:** `scripted` via `TrainerPicnickerGina1`
 - **Coordinates:** `(10, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2665)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2690)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `SKIPLOOM` |
-| 26 | `SKIPLOOM` |
-| 29 | `IVYSAUR` |
+| 39 | `SKIPLOOM` |
+| 39 | `SKIPLOOM` |
+| 42 | `IVYSAUR` |
 
 ## OFFICER_KEITH: KEITH
 
@@ -169,8 +169,8 @@ Source: [maps/Route34.asm](../../maps/Route34.asm)
 - **Party ID:** `KEITH`
 - **Encounter:** `scripted` via `OfficerKeithScript`
 - **Coordinates:** `(9, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3167)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3192)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `GROWLITHE` |
+| 30 | `GROWLITHE` |

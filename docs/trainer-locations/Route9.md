@@ -8,12 +8,12 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `DEAN`
 - **Encounter:** `object` via `TrainerCamperDean`
 - **Coordinates:** `(23, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2738)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2763)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `GOLDUCK` |
-| 31 | `SANDSLASH` |
+| 46 | `GOLDUCK` |
+| 44 | `SANDSLASH` |
 
 ## PICNICKER_HEIDI: HEIDI
 
@@ -21,12 +21,12 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `HEIDI`
 - **Encounter:** `object` via `TrainerPicnickerHeidi`
 - **Coordinates:** `(35, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2653)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2678)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `SKIPLOOM` |
-| 32 | `SKIPLOOM` |
+| 45 | `SKIPLOOM` |
+| 45 | `SKIPLOOM` |
 
 ## CAMPER_SID: SID
 
@@ -34,13 +34,13 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `SID`
 - **Encounter:** `object` via `TrainerCamperSid`
 - **Coordinates:** `(11, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2744)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2769)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `DUGTRIO` |
-| 29 | `PRIMEAPE` |
-| 29 | `POLIWRATH` |
+| 45 | `DUGTRIO` |
+| 42 | `PRIMEAPE` |
+| 42 | `POLIWRATH` |
 
 ## PICNICKER_EDNA: EDNA
 
@@ -48,12 +48,12 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `EDNA`
 - **Encounter:** `object` via `TrainerPicnickerEdna`
 - **Coordinates:** `(9, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2659)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2684)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `NIDORINA` |
-| 34 | `RAICHU` |
+| 43 | `NIDORINA` |
+| 47 | `RAICHU` |
 
 ## HIKER_TIM: TIM
 
@@ -61,13 +61,13 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `TIM`
 - **Encounter:** `object` via `TrainerHikerTim`
 - **Coordinates:** `(32, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2197)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2222)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `GRAVELER` |
-| 31 | `GRAVELER` |
-| 31 | `GRAVELER` |
+| 44 | `GRAVELER` |
+| 44 | `GRAVELER` |
+| 44 | `GRAVELER` |
 
 ## HIKER_SIDNEY: SIDNEY
 
@@ -75,9 +75,9 @@ Source: [maps/Route9.asm](../../maps/Route9.asm)
 - **Party ID:** `SIDNEY`
 - **Encounter:** `object` via `TrainerHikerSidney`
 - **Coordinates:** `(33, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2210)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2235)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `DUGTRIO` |
-| 32 | `ONIX` |
+| 47 | `DUGTRIO` |
+| 45 | `ONIX` |

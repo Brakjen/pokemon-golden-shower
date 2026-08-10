@@ -8,11 +8,11 @@ Source: [maps/SproutTower3F.asm](../../maps/SproutTower3F.asm)
 - **Party ID:** `JIN`
 - **Encounter:** `object` via `TrainerSageJin`
 - **Coordinates:** `(8, 13)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2854)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2879)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `BELLSPROUT` |
+| 19 | `BELLSPROUT` |
 
 ## SAGE_TROY: TROY
 
@@ -20,12 +20,12 @@ Source: [maps/SproutTower3F.asm](../../maps/SproutTower3F.asm)
 - **Party ID:** `TROY`
 - **Encounter:** `object` via `TrainerSageTroy`
 - **Coordinates:** `(8, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2859)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2884)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `BELLSPROUT` |
-| 7 | `HOOTHOOT` |
+| 20 | `BELLSPROUT` |
+| 20 | `HOOTHOOT` |
 
 ## SAGE_NEAL: NEAL
 
@@ -33,11 +33,11 @@ Source: [maps/SproutTower3F.asm](../../maps/SproutTower3F.asm)
 - **Party ID:** `NEAL`
 - **Encounter:** `object` via `TrainerSageNeal`
 - **Coordinates:** `(11, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2886)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2911)
 
 | Level | Pokemon |
 | --- | --- |
-| 6 | `BELLSPROUT` |
+| 19 | `BELLSPROUT` |
 
 ## SAGE_LI: LI
 
@@ -45,10 +45,10 @@ Source: [maps/SproutTower3F.asm](../../maps/SproutTower3F.asm)
 - **Party ID:** `LI`
 - **Encounter:** `scripted` via `SageLiScript`
 - **Coordinates:** `(10, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2891)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2916)
 
 | Level | Pokemon |
 | --- | --- |
-| 7 | `BELLSPROUT` |
-| 7 | `BELLSPROUT` |
-| 10 | `HOOTHOOT` |
+| 20 | `BELLSPROUT` |
+| 20 | `BELLSPROUT` |
+| 23 | `HOOTHOOT` |

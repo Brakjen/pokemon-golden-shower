@@ -8,11 +8,11 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `DUDLEY`
 - **Encounter:** `object` via `TrainerSchoolboyDudley`
 - **Coordinates:** `(12, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L448)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L473)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `ODDISH` |
+| 48 | `ODDISH` |
 
 ## LASS_ELLEN: ELLEN
 
@@ -20,12 +20,12 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `ELLEN`
 - **Encounter:** `object` via `TrainerLassEllen`
 - **Coordinates:** `(16, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L703)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L728)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `WIGGLYTUFF` |
-| 34 | `GRANBULL` |
+| 43 | `WIGGLYTUFF` |
+| 47 | `GRANBULL` |
 
 ## SCHOOLBOY_JOE: JOE
 
@@ -33,12 +33,12 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `JOE`
 - **Encounter:** `object` via `TrainerSchoolboyJoe`
 - **Coordinates:** `(21, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L453)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L478)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `TANGELA` |
-| 33 | `VAPOREON` |
+| 46 | `TANGELA` |
+| 46 | `VAPOREON` |
 
 ## LASS_LAURA: LAURA
 
@@ -46,13 +46,13 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `LAURA`
 - **Encounter:** `object` via `TrainerLassLaura`
 - **Coordinates:** `(22, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L676)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L701)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `GLOOM` |
-| 31 | `PIDGEOTTO` |
-| 31 | `BELLOSSOM` |
+| 41 | `GLOOM` |
+| 44 | `PIDGEOTTO` |
+| 44 | `BELLOSSOM` |
 
 ## CAMPER_LLOYD: LLOYD
 
@@ -60,11 +60,11 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `LLOYD`
 - **Encounter:** `object` via `TrainerCamperLloyd`
 - **Coordinates:** `(25, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2733)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2758)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `NIDOKING` |
+| 47 | `NIDOKING` |
 
 ## LASS_SHANNON: SHANNON
 
@@ -72,13 +72,13 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `SHANNON`
 - **Encounter:** `object` via `TrainerLassShannon`
 - **Coordinates:** `(28, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L683)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L708)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `PARAS` |
-| 29 | `PARAS` |
-| 32 | `PARASECT` |
+| 42 | `PARAS` |
+| 42 | `PARAS` |
+| 45 | `PARASECT` |
 
 ## SUPER_NERD_PAT: PAT
 
@@ -86,11 +86,11 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `PAT`
 - **Encounter:** `object` via `TrainerSupernerdPat`
 - **Coordinates:** `(31, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2009)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2034)
 
 | Level | Pokemon |
 | --- | --- |
-| 36 | `PORYGON` |
+| 49 | `PORYGON` |
 
 ## COOLTRAINERM_KEVIN: KEVIN
 
@@ -98,10 +98,10 @@ Source: [maps/Route25.asm](../../maps/Route25.asm)
 - **Party ID:** `KEVIN`
 - **Encounter:** `scripted` via `TrainerCooltrainermKevin`
 - **Coordinates:** `(37, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L847)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L872)
 
 | Level | Pokemon |
 | --- | --- |
-| 38 | `RHYHORN` |
-| 35 | `CHARMELEON` |
-| 35 | `WARTORTLE` |
+| 51 | `RHYHORN` |
+| 48 | `CHARMELEON` |
+| 48 | `WARTORTLE` |

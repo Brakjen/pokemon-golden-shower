@@ -8,13 +8,13 @@ Source: [maps/Route12.asm](../../maps/Route12.asm)
 - **Party ID:** `KYLE`
 - **Encounter:** `object` via `TrainerFisherKyle`
 - **Coordinates:** `(6, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1516)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1541)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `SEAKING` |
-| 31 | `POLIWHIRL` |
-| 31 | `SEAKING` |
+| 41 | `SEAKING` |
+| 44 | `POLIWHIRL` |
+| 44 | `SEAKING` |
 
 ## FISHER_MARTIN: MARTIN
 
@@ -22,12 +22,12 @@ Source: [maps/Route12.asm](../../maps/Route12.asm)
 - **Party ID:** `MARTIN`
 - **Encounter:** `object` via `TrainerFisherMartin`
 - **Coordinates:** `(5, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1576)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1601)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `REMORAID` |
-| 32 | `REMORAID` |
+| 45 | `REMORAID` |
+| 45 | `REMORAID` |
 
 ## FISHER_STEPHEN: STEPHEN
 
@@ -35,14 +35,14 @@ Source: [maps/Route12.asm](../../maps/Route12.asm)
 - **Party ID:** `STEPHEN`
 - **Encounter:** `object` via `TrainerFisherStephen`
 - **Coordinates:** `(15, 28)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1582)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1607)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `MAGIKARP` |
-| 25 | `MAGIKARP` |
-| 31 | `QWILFISH` |
-| 31 | `TENTACRUEL` |
+| 38 | `MAGIKARP` |
+| 38 | `MAGIKARP` |
+| 44 | `QWILFISH` |
+| 44 | `TENTACRUEL` |
 
 ## FISHER_BARNEY: BARNEY
 
@@ -50,10 +50,10 @@ Source: [maps/Route12.asm](../../maps/Route12.asm)
 - **Party ID:** `BARNEY`
 - **Encounter:** `object` via `TrainerFisherBarney`
 - **Coordinates:** `(13, 39)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1590)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1615)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GYARADOS` |
-| 30 | `GYARADOS` |
-| 30 | `GYARADOS` |
+| 43 | `GYARADOS` |
+| 43 | `GYARADOS` |
+| 43 | `GYARADOS` |

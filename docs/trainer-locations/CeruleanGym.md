@@ -8,11 +8,11 @@ Source: [maps/CeruleanGym.asm](../../maps/CeruleanGym.asm)
 - **Party ID:** `DIANA`
 - **Encounter:** `object` via `TrainerSwimmerfDiana`
 - **Coordinates:** `(4, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1880)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1905)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `GOLDUCK` |
+| 50 | `GOLDUCK` |
 
 ## SWIMMERF_BRIANA: BRIANA
 
@@ -20,12 +20,12 @@ Source: [maps/CeruleanGym.asm](../../maps/CeruleanGym.asm)
 - **Party ID:** `BRIANA`
 - **Encounter:** `object` via `TrainerSwimmerfBriana`
 - **Coordinates:** `(1, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1885)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1910)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `SEAKING` |
-| 35 | `SEAKING` |
+| 48 | `SEAKING` |
+| 48 | `SEAKING` |
 
 ## SWIMMERM_PARKER: PARKER
 
@@ -33,13 +33,13 @@ Source: [maps/CeruleanGym.asm](../../maps/CeruleanGym.asm)
 - **Party ID:** `PARKER`
 - **Encounter:** `object` via `TrainerSwimmermParker`
 - **Coordinates:** `(8, 9)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1775)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1800)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `HORSEA` |
-| 32 | `HORSEA` |
-| 35 | `SEADRA` |
+| 45 | `HORSEA` |
+| 45 | `HORSEA` |
+| 48 | `SEADRA` |
 
 ## MISTY_MISTY1: MISTY
 
@@ -47,11 +47,11 @@ Source: [maps/CeruleanGym.asm](../../maps/CeruleanGym.asm)
 - **Party ID:** `MISTY1`
 - **Encounter:** `scripted` via `CeruleanGymMistyScript`
 - **Coordinates:** `(5, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L281)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L306)
 
 | Level | Pokemon |
 | --- | --- |
-| 42 | `GOLDUCK` |
-| 42 | `QUAGSIRE` |
-| 44 | `LAPRAS` |
-| 47 | `STARMIE` |
+| 55 | `GOLDUCK` |
+| 55 | `QUAGSIRE` |
+| 57 | `LAPRAS` |
+| 60 | `STARMIE` |

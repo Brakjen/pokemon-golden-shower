@@ -8,12 +8,12 @@ Source: [maps/WillsRoom.asm](../../maps/WillsRoom.asm)
 - **Party ID:** `WILL1`
 - **Encounter:** `scripted` via `WillScript_Battle`
 - **Coordinates:** `(5, 7)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L198)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L223)
 
 | Level | Pokemon |
 | --- | --- |
-| 40 | `XATU` |
-| 41 | `JYNX` |
-| 41 | `EXEGGUTOR` |
-| 41 | `SLOWBRO` |
-| 42 | `XATU` |
+| 53 | `XATU` |
+| 54 | `JYNX` |
+| 54 | `EXEGGUTOR` |
+| 54 | `SLOWBRO` |
+| 55 | `XATU` |

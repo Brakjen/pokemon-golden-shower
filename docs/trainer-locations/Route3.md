@@ -8,13 +8,13 @@ Source: [maps/Route3.asm](../../maps/Route3.asm)
 - **Party ID:** `OTIS`
 - **Encounter:** `object` via `TrainerFirebreatherOtis`
 - **Coordinates:** `(26, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2334)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2359)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `MAGMAR` |
-| 32 | `WEEZING` |
-| 29 | `MAGMAR` |
+| 42 | `MAGMAR` |
+| 45 | `WEEZING` |
+| 42 | `MAGMAR` |
 
 ## YOUNGSTER_WARREN: WARREN
 
@@ -22,11 +22,11 @@ Source: [maps/Route3.asm](../../maps/Route3.asm)
 - **Party ID:** `WARREN`
 - **Encounter:** `object` via `TrainerYoungsterWarren`
 - **Coordinates:** `(11, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L386)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L411)
 
 | Level | Pokemon |
 | --- | --- |
-| 35 | `FEAROW` |
+| 48 | `FEAROW` |
 
 ## YOUNGSTER_JIMMY: JIMMY
 
@@ -34,12 +34,12 @@ Source: [maps/Route3.asm](../../maps/Route3.asm)
 - **Party ID:** `JIMMY`
 - **Encounter:** `object` via `TrainerYoungsterJimmy`
 - **Coordinates:** `(20, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L391)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L416)
 
 | Level | Pokemon |
 | --- | --- |
-| 33 | `RATICATE` |
-| 33 | `ARBOK` |
+| 46 | `RATICATE` |
+| 46 | `ARBOK` |
 
 ## FIREBREATHER_BURT: BURT
 
@@ -47,9 +47,9 @@ Source: [maps/Route3.asm](../../maps/Route3.asm)
 - **Party ID:** `BURT`
 - **Encounter:** `object` via `TrainerFirebreatherBurt`
 - **Coordinates:** `(49, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2353)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2378)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `KOFFING` |
-| 32 | `SLUGMA` |
+| 45 | `KOFFING` |
+| 45 | `SLUGMA` |

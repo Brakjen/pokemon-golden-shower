@@ -8,13 +8,13 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `GRUNTM_11`
 - **Encounter:** `object` via `TrainerGruntM11`
 - **Coordinates:** `(11, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1221)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1246)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `MUK` |
-| 23 | `KOFFING` |
-| 25 | `RATTATA` |
+| 36 | `MUK` |
+| 36 | `KOFFING` |
+| 38 | `RATTATA` |
 
 ## GRUNTM_GRUNTM_25: GRUNT
 
@@ -22,12 +22,12 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `GRUNTM_25`
 - **Encounter:** `object` via `TrainerGruntM25`
 - **Coordinates:** `(3, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1305)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1330)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `KOFFING` |
-| 24 | `MUK` |
+| 37 | `KOFFING` |
+| 37 | `MUK` |
 
 ## BURGLAR_DUNCAN: DUNCAN
 
@@ -35,13 +35,13 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `DUNCAN`
 - **Encounter:** `object` via `TrainerBurglarDuncan`
 - **Coordinates:** `(9, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2312)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2337)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `KOFFING` |
-| 25 | `MAGMAR` |
-| 23 | `KOFFING` |
+| 36 | `KOFFING` |
+| 38 | `MAGMAR` |
+| 36 | `KOFFING` |
 
 ## BURGLAR_EDDIE: EDDIE
 
@@ -49,12 +49,12 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `EDDIE`
 - **Encounter:** `object` via `TrainerBurglarEddie`
 - **Coordinates:** `(4, 8)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2319)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2344)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `GROWLITHE` |
-| 24 | `KOFFING` |
+| 39 | `GROWLITHE` |
+| 37 | `KOFFING` |
 
 ## GRUNTM_GRUNTM_13: GRUNT
 
@@ -62,11 +62,11 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `GRUNTM_13`
 - **Encounter:** `object` via `TrainerGruntM13`
 - **Coordinates:** `(17, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1233)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1258)
 
 | Level | Pokemon |
 | --- | --- |
-| 27 | `RATTATA` |
+| 40 | `RATTATA` |
 
 ## GRUNTF_GRUNTF_3: GRUNT
 
@@ -74,12 +74,12 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `GRUNTF_3`
 - **Encounter:** `object` via `TrainerGruntF3`
 - **Coordinates:** `(19, 12)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3190)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3215)
 
 | Level | Pokemon |
 | --- | --- |
-| 25 | `GLOOM` |
-| 25 | `GLOOM` |
+| 38 | `GLOOM` |
+| 38 | `GLOOM` |
 
 ## RIVAL1_RIVAL1_4_TOTODILE: ?
 
@@ -87,15 +87,15 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `RIVAL1_4_TOTODILE`
 - **Encounter:** `scripted` via `UndergroundRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L156)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L181)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GOLBAT` |
-| 28 | `MAGNEMITE` |
-| 30 | `HAUNTER` |
-| 32 | `SNEASEL` |
-| 32 | `FERALIGATR` |
+| 43 | `GOLBAT` |
+| 41 | `MAGNEMITE` |
+| 43 | `HAUNTER` |
+| 45 | `SNEASEL` |
+| 45 | `FERALIGATR` |
 
 ## RIVAL1_RIVAL1_4_CHIKORITA: ?
 
@@ -103,15 +103,15 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `RIVAL1_4_CHIKORITA`
 - **Encounter:** `scripted` via `UndergroundRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L138)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L163)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GOLBAT` |
-| 28 | `MAGNEMITE` |
-| 30 | `HAUNTER` |
-| 32 | `SNEASEL` |
-| 32 | `MEGANIUM` |
+| 43 | `GOLBAT` |
+| 41 | `MAGNEMITE` |
+| 43 | `HAUNTER` |
+| 45 | `SNEASEL` |
+| 45 | `MEGANIUM` |
 
 ## RIVAL1_RIVAL1_4_CYNDAQUIL: ?
 
@@ -119,12 +119,12 @@ Source: [maps/GoldenrodUndergroundSwitchRoomEntrances.asm](../../maps/GoldenrodU
 - **Party ID:** `RIVAL1_4_CYNDAQUIL`
 - **Encounter:** `scripted` via `UndergroundRivalBattleScript`
 - **Coordinates:** scripted encounter
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L147)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L172)
 
 | Level | Pokemon |
 | --- | --- |
-| 30 | `GOLBAT` |
-| 28 | `MAGNEMITE` |
-| 30 | `HAUNTER` |
-| 32 | `SNEASEL` |
-| 32 | `QUILAVA` |
+| 43 | `GOLBAT` |
+| 41 | `MAGNEMITE` |
+| 43 | `HAUNTER` |
+| 45 | `SNEASEL` |
+| 45 | `QUILAVA` |

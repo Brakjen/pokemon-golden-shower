@@ -8,12 +8,12 @@ Source: [maps/UnionCaveB1F.asm](../../maps/UnionCaveB1F.asm)
 - **Party ID:** `ANDREW`
 - **Encounter:** `object` via `TrainerPokemaniacAndrew`
 - **Coordinates:** `(5, 32)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1086)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1111)
 
 | Level | Pokemon |
 | --- | --- |
-| 24 | `MAROWAK` |
-| 24 | `MAROWAK` |
+| 37 | `MAROWAK` |
+| 37 | `MAROWAK` |
 
 ## POKEMANIAC_CALVIN: CALVIN
 
@@ -21,11 +21,11 @@ Source: [maps/UnionCaveB1F.asm](../../maps/UnionCaveB1F.asm)
 - **Party ID:** `CALVIN`
 - **Encounter:** `object` via `TrainerPokemaniacCalvin`
 - **Coordinates:** `(17, 30)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1092)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L1117)
 
 | Level | Pokemon |
 | --- | --- |
-| 26 | `KANGASKHAN` |
+| 39 | `KANGASKHAN` |
 
 ## HIKER_PHILLIP: PHILLIP
 
@@ -33,13 +33,13 @@ Source: [maps/UnionCaveB1F.asm](../../maps/UnionCaveB1F.asm)
 - **Party ID:** `PHILLIP`
 - **Encounter:** `object` via `TrainerHikerPhillip`
 - **Coordinates:** `(10, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2130)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2155)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `GEODUDE` |
-| 23 | `GEODUDE` |
-| 23 | `GRAVELER` |
+| 36 | `GEODUDE` |
+| 36 | `GEODUDE` |
+| 36 | `GRAVELER` |
 
 ## HIKER_LEONARD: LEONARD
 
@@ -47,9 +47,9 @@ Source: [maps/UnionCaveB1F.asm](../../maps/UnionCaveB1F.asm)
 - **Party ID:** `LEONARD`
 - **Encounter:** `object` via `TrainerHikerLeonard`
 - **Coordinates:** `(17, 10)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2137)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2162)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `GEODUDE` |
-| 25 | `MACHOP` |
+| 36 | `GEODUDE` |
+| 38 | `MACHOP` |

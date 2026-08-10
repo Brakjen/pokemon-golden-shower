@@ -8,11 +8,11 @@ Source: [maps/DanceTheater.asm](../../maps/DanceTheater.asm)
 - **Party ID:** `NAOKO`
 - **Encounter:** `object` via `TrainerKimonoGirlNaoko`
 - **Coordinates:** `(0, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3040)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3065)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `FLAREON` |
+| 30 | `FLAREON` |
 
 ## KIMONO_GIRL_SAYO: SAYO
 
@@ -20,11 +20,11 @@ Source: [maps/DanceTheater.asm](../../maps/DanceTheater.asm)
 - **Party ID:** `SAYO`
 - **Encounter:** `object` via `TrainerKimonoGirlSayo`
 - **Coordinates:** `(2, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3045)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3070)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `ESPEON` |
+| 30 | `ESPEON` |
 
 ## KIMONO_GIRL_ZUKI: ZUKI
 
@@ -32,11 +32,11 @@ Source: [maps/DanceTheater.asm](../../maps/DanceTheater.asm)
 - **Party ID:** `ZUKI`
 - **Encounter:** `object` via `TrainerKimonoGirlZuki`
 - **Coordinates:** `(6, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3050)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3075)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `UMBREON` |
+| 30 | `UMBREON` |
 
 ## KIMONO_GIRL_KUNI: KUNI
 
@@ -44,11 +44,11 @@ Source: [maps/DanceTheater.asm](../../maps/DanceTheater.asm)
 - **Party ID:** `KUNI`
 - **Encounter:** `object` via `TrainerKimonoGirlKuni`
 - **Coordinates:** `(9, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3055)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3080)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `VAPOREON` |
+| 30 | `VAPOREON` |
 
 ## KIMONO_GIRL_MIKI: MIKI
 
@@ -56,8 +56,8 @@ Source: [maps/DanceTheater.asm](../../maps/DanceTheater.asm)
 - **Party ID:** `MIKI`
 - **Encounter:** `object` via `TrainerKimonoGirlMiki`
 - **Coordinates:** `(11, 2)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3060)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3085)
 
 | Level | Pokemon |
 | --- | --- |
-| 17 | `JOLTEON` |
+| 30 | `JOLTEON` |

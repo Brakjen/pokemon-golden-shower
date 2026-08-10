@@ -8,11 +8,11 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `COLIN`
 - **Encounter:** `object` via `TrainerPokefanmColin`
 - **Coordinates:** `(5, 6)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3010)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3035)
 
 | Level | Pokemon |
 | --- | --- |
-| 32 | `DELIBIRD` |
+| 45 | `DELIBIRD` |
 
 ## TWINS_MEGANDPEG1: MEG & PEG
 
@@ -20,12 +20,12 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `MEGANDPEG1`
 - **Encounter:** `object` via `TrainerTwinsMegandpeg1`
 - **Coordinates:** `(2, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3102)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3127)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `TEDDIURSA` |
-| 31 | `PHANPY` |
+| 44 | `TEDDIURSA` |
+| 44 | `PHANPY` |
 
 ## TWINS_MEGANDPEG2: MEG & PEG
 
@@ -33,12 +33,12 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `MEGANDPEG2`
 - **Encounter:** `object` via `TrainerTwinsMegandpeg2`
 - **Coordinates:** `(3, 4)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3108)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3133)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `PHANPY` |
-| 31 | `TEDDIURSA` |
+| 44 | `PHANPY` |
+| 44 | `TEDDIURSA` |
 
 ## PSYCHIC_T_RODNEY: RODNEY
 
@@ -46,12 +46,12 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `RODNEY`
 - **Encounter:** `object` via `TrainerPsychicRodney`
 - **Coordinates:** `(5, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2577)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2602)
 
 | Level | Pokemon |
 | --- | --- |
-| 29 | `DROWZEE` |
-| 33 | `HYPNO` |
+| 42 | `DROWZEE` |
+| 46 | `HYPNO` |
 
 ## POKEFANM_JEREMY: JEREMY
 
@@ -59,13 +59,13 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `JEREMY`
 - **Encounter:** `object` via `TrainerPokefanmJeremy`
 - **Coordinates:** `(2, 3)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3003)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3028)
 
 | Level | Pokemon |
 | --- | --- |
-| 28 | `MEOWTH` |
-| 28 | `MEOWTH` |
-| 28 | `MEOWTH` |
+| 41 | `MEOWTH` |
+| 41 | `MEOWTH` |
+| 41 | `MEOWTH` |
 
 ## POKEFANF_GEORGIA: GEORGIA
 
@@ -73,15 +73,15 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `GEORGIA`
 - **Encounter:** `object` via `TrainerPokefanfGeorgia`
 - **Coordinates:** `(5, 5)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3135)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L3160)
 
 | Level | Pokemon |
 | --- | --- |
-| 23 | `SENTRET` |
-| 23 | `SENTRET` |
-| 23 | `SENTRET` |
-| 28 | `FURRET` |
-| 23 | `SENTRET` |
+| 36 | `SENTRET` |
+| 36 | `SENTRET` |
+| 36 | `SENTRET` |
+| 41 | `FURRET` |
+| 36 | `SENTRET` |
 
 ## SUPER_NERD_SHAWN: SHAWN
 
@@ -89,10 +89,10 @@ Source: [maps/FastShipCabins_SE_SSE_CaptainsCabin.asm](../../maps/FastShipCabins
 - **Party ID:** `SHAWN`
 - **Encounter:** `object` via `TrainerSupernerdShawn`
 - **Coordinates:** `(1, 15)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2014)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L2039)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `MAGNEMITE` |
-| 33 | `MUK` |
-| 31 | `MAGNEMITE` |
+| 44 | `MAGNEMITE` |
+| 46 | `MUK` |
+| 44 | `MAGNEMITE` |

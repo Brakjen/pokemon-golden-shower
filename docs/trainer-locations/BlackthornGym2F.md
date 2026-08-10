@@ -8,12 +8,12 @@ Source: [maps/BlackthornGym2F.asm](../../maps/BlackthornGym2F.asm)
 - **Party ID:** `CODY`
 - **Encounter:** `object` via `TrainerCooltrainermCody`
 - **Coordinates:** `(4, 1)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L763)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L788)
 
 | Level | Pokemon |
 | --- | --- |
-| 34 | `HORSEA` |
-| 36 | `SEADRA` |
+| 47 | `HORSEA` |
+| 49 | `SEADRA` |
 
 ## COOLTRAINERF_FRAN: FRAN
 
@@ -21,8 +21,8 @@ Source: [maps/BlackthornGym2F.asm](../../maps/BlackthornGym2F.asm)
 - **Party ID:** `FRAN`
 - **Encounter:** `object` via `TrainerCooltrainerfFran`
 - **Coordinates:** `(4, 11)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L881)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L906)
 
 | Level | Pokemon |
 | --- | --- |
-| 37 | `SEADRA` |
+| 50 | `SEADRA` |

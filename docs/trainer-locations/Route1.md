@@ -8,13 +8,13 @@ Source: [maps/Route1.asm](../../maps/Route1.asm)
 - **Party ID:** `DANNY`
 - **Encounter:** `object` via `TrainerSchoolboyDanny`
 - **Coordinates:** `(7, 17)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L435)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L460)
 
 | Level | Pokemon |
 | --- | --- |
-| 31 | `JYNX` |
-| 31 | `ELECTABUZZ` |
-| 31 | `MAGMAR` |
+| 44 | `JYNX` |
+| 44 | `ELECTABUZZ` |
+| 44 | `MAGMAR` |
 
 ## COOLTRAINERF_QUINN: QUINN
 
@@ -22,9 +22,9 @@ Source: [maps/Route1.asm](../../maps/Route1.asm)
 - **Party ID:** `QUINN`
 - **Encounter:** `object` via `TrainerCooltrainerfQuinn`
 - **Coordinates:** `(3, 26)`
-- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L948)
+- **Party definition:** [parties.asm](../../data/trainers/parties.asm#L973)
 
 | Level | Pokemon |
 | --- | --- |
-| 38 | `IVYSAUR` |
-| 38 | `STARMIE` |
+| 51 | `IVYSAUR` |
+| 51 | `STARMIE` |
