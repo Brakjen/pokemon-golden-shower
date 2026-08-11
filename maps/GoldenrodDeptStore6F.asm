@@ -97,49 +97,48 @@ GoldenrodDeptStore6FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodVendingText:
-	text "A vending machine!"
-	line "Here's the menu."
+	text "Drink machine,"
+	line "dickwad."
 	done
 
 GoldenrodClangText:
-	text "Clang! A can of"
+	text "Clang! Your"
 	line "@"
 	text_ram wStringBuffer3
 	text_start
-	cont "popped out!"
+	cont "just dropped."
 	done
 
 GoldenrodVendingNoMoneyText:
-	text "Oops, not enough"
-	line "money."
+	text "Not enough cash,"
+	line "sick fuck."
 	done
 
 GoldenrodVendingNoSpaceText:
-	text "There's no more"
-	line "room for stuff."
+	text "Bag's full,"
+	line "cucksucker."
 	done
 
 GoldenrodDeptStore6FLassText:
-	text "Do you listen to"
-	line "LUCKY CHANNEL?"
+	text "You hear LUCKY"
+	line "CHANNEL, homie?"
 
-	para "If you want to"
-	line "win, trade #MON"
+	para "Want to win? Trade"
+	line "#MON with"
+	cont "folks,"
 
-	para "with as many peo-"
-	line "ple as possible to"
-
-	para "get different ID"
-	line "numbers."
+	para "get different"
+	line "ID numbers,"
+	cont "sick fuck."
 	done
 
 GoldenrodDeptStore6FSuperNerdText:
-	text "If you're tired,"
-	line "try the vending"
-	cont "machine's drinks."
+	text "Tired? Grab a"
+	line "vending drink,"
+	cont "bitch."
 
-	para "Your #MON will"
-	line "love them too."
+	para "Your #MON like"
+	line "them too."
 	done
 
 GoldenrodDeptStore6FDirectoryText:

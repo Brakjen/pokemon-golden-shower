@@ -92,35 +92,31 @@ GoldenrodUndergroundWarehouseTMSleepTalk:
 	itemball TM_SLEEP_TALK
 
 GruntM24SeenText:
-	text "How did you get"
+	text "How'd you get"
 	line "this far?"
 
-	para "I guess it can't"
-	line "be helped. I'll"
-	cont "dispose of you."
+	para "Can't help it."
+	line "I'll drop you."
 	done
 
 GruntM24BeatenText:
-	text "He disposed of me…"
+	text "You dropped me…"
 	done
 
 GruntM24AfterBattleText:
-	text "TEAM ROCKET will"
-	line "keep going, wait-"
-	cont "ing for the return"
-	cont "of GIOVANNI."
+	text "TEAM ROCKET keeps"
+	line "going till"
+	cont "GIOVANNI returns."
 
-	para "We'll do whatever"
-	line "it takes."
+	para "We'll do anything."
 	done
 
 GruntM14SeenText:
-	text "You're not going"
-	line "any farther!"
+	text "You ain't going"
+	line "farther!"
 
-	para "I don't show mercy"
-	line "to my enemies, not"
-	cont "even brats!"
+	para "No mercy for"
+	line "enemies, brat!"
 	done
 
 GruntM14BeatenText:
@@ -130,68 +126,60 @@ GruntM14BeatenText:
 GruntM14AfterBattleText:
 	text "I lost…"
 
-	para "Please forgive me,"
+	para "Forgive me,"
 	line "GIOVANNI!"
 	done
 
 GruntM15SeenText:
 	text "Hyuck-hyuck-hyuck!"
-	line "I remember you!"
+	line "Remember you!"
 
-	para "You got me good"
-	line "at our hideout!"
+	para "You got me at"
+	line "our hideout!"
 	done
 
 GruntM15BeatenText:
 	text "Hyuck-hyuck-hyuck!"
-	line "So, that's how?"
+	line "So that's how?"
 	done
 
 GruntM15AfterBattleText:
 	text "Hyuck-hyuck-hyuck!"
-	line "That was a blast!"
-	cont "I'll remember you!"
+	line "That was wild!"
+	cont "Remember you!"
 	done
 
 DirectorIntroText:
-	text "DIRECTOR: Who?"
-	line "What? You came to"
-	cont "rescue me?"
+	text "DIRECTOR: You came"
+	line "to save me?"
 
-	para "Thank you!"
+	para "Good look,"
+	line "my man."
 
-	para "The RADIO TOWER!"
+	para "RADIO TOWER got"
+	line "taken by TEAM"
+	cont "ROCKET?"
 
-	para "What's happening"
-	line "there?"
-
-	para "Taken over by TEAM"
-	line "ROCKET?"
-
-	para "Here. Take this"
-	line "CARD KEY."
+	para "Take CARD KEY,"
+	line "dickwad."
 	done
 
 DirectorCardKeyText:
-	text "DIRECTOR: Use that"
-	line "to open the shut-"
-	cont "ters on 3F."
+	text "DIRECTOR: Use"
+	line "CARD KEY for"
+	cont "3F shutters,"
+	cont "my man."
 	done
 
 DirectorAfterText:
-	text "I'm begging you to"
-	line "help."
+	text "Please help,"
+	line "big dawg."
 
-	para "There's no telling"
-	line "what they'll do if"
+	para "They get the"
+	line "transmitter,"
 
-	para "they control the"
-	line "transmitter."
-
-	para "They may even be"
-	line "able to control"
-
-	para "#MON using a"
+	para "they could control"
+	line "#MON with"
 	line "special signal!"
 
 	para "You're the only"

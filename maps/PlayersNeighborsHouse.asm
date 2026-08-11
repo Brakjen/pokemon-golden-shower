@@ -73,7 +73,7 @@ PlayerNeighborRadioText2:
 
 PlayerNeighborRadioText3:
 	text "This is DJ MARY,"
-	line "fucker0!"
+	line "nigger0!"
 	cont "Your co-host!"
 
 	para "Have you taken"

@@ -203,7 +203,7 @@ Text_GearIsImpressive:
 	done
 
 Text_WaitPlayer:
-	text "Hey, fucker!"
+	text "Hey, nigger!"
 	line "Wait right there!"
 	cont "Don't wander off."
 	done

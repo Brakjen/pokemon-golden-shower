@@ -89,90 +89,87 @@ Route35GoldenrodGatePokefanFScript:
 	end
 
 Route35GoldenrodGateRandyAskTakeThisMonToMyFriendText:
-	text "Excuse me, guy!"
-	line "Can you do a guy"
-	cont "a favor?"
+	text "Yo, my man."
+	line "Do me a favor?"
 
-	para "Can you take this"
-	line "#MON with MAIL"
-	cont "to my friend?"
+	para "Take this #MON"
+	line "with MAIL"
+	cont "to my friend."
 
-	para "He's on ROUTE 31."
+	para "ROUTE 31. Don't"
+	line "get lost."
+	cont "sick fuck."
 	done
 
 Route35GoldenrodGateRandyThanksText:
-	text "You will? Perfect!"
-	line "Thanks, guy!"
+	text "You will? Bet,"
+	line "big dawg."
 
-	para "My pal's a chubby"
-	line "guy who snoozes"
-	cont "all the time."
+	para "My pal snoozes"
+	line "all the time."
 
-	para "You'll recognize"
-	line "him right away!"
+	para "You'll know him."
+	line "Easy, dickwad."
 	done
 
 Route35GoldenrodGatePlayerReceivedAMonWithMailText:
-	text "<PLAYER> received a"
-	line "#MON with MAIL."
+	text "Received #MON"
+	line "with MAIL."
 	done
 
 Route35GoldenrodGateRandyWeirdTreeBlockingRoadText:
-	text "You can read it,"
-	line "but don't lose it!"
-	cont "ROUTE 31!"
+	text "Read this. Don't"
+	line "lose it. ROUTE 31."
 
-	para "Oh, yeah. There"
-	line "was a weird tree"
-	cont "blocking the road."
+	para "Weird tree blocked"
+	line "the road."
 
-	para "I wonder if it's"
-	line "been cleared?"
+	para "Maybe it's"
+	line "cleared."
 	done
 
 Route35GoldenrodGateRandyCantCarryAnotherMonText:
-	text "You can't carry"
-	line "another #MON…"
+	text "Can't carry"
+	line "another #MON,"
+	cont "sick fuck."
 	done
 
 Route35GoldenrodGateRandyOhNeverMindThenText:
-	text "Oh… Never mind,"
-	line "then…"
+	text "Never mind then,"
+	line "nigger."
 	done
 
 Route35GoldenrodGateRandySomethingForYourTroubleText:
-	text "Thanks, guy! You"
-	line "made the delivery"
-	cont "for me!"
+	text "Thanks, big dawg."
+	line "You delivered it."
 
-	para "Here's something"
-	line "for your trouble!"
+	para "Take this for"
+	line "the trouble."
 	done
 
 Route35GoldenrodGateRandyMyPalWasSnoozingRightText:
-	text "My pal was snooz-"
-	line "ing, right? Heh,"
-	cont "what'd I say?"
+	text "My pal snoozed,"
+	line "right? Told you,"
+	cont "bitch."
 	done
 
 Route35GoldenrodGatePokefanFText:
-	text "A strange tree is"
-	line "blocking the road."
+	text "Strange tree"
+	line "blocks road."
+	cont "Homie."
 
-	para "It wriggles around"
-	line "if you talk to it."
+	para "Talk to it."
+	line "It wriggles."
 
-	para "I heard it became"
-	line "wild when someone"
-
-	para "watered it with a"
-	line "SQUIRTBOTTLE."
+	para "SQUIRTBOTTLE"
+	line "makes it wild,"
+	cont "cucksucker."
 	done
 
 Route35GoldenrodGatePokefanFText_FoughtSudowoodo:
-	text "I like the #MON"
-	line "Lullaby they play"
-	cont "on the radio."
+	text "#MON Lullaby"
+	line "on radio's nice,"
+	cont "nigger."
 	done
 
 Route35GoldenrodGate_MapEvents:

@@ -23,30 +23,27 @@ GoldenrodPPSpeechHouseRadio:
 	jumpstd Radio2Script
 
 GoldenrodPPSpeechHouseFisherText:
-	text "Once while I was"
-	line "battling, my"
+	text "In battle, my"
+	line "#MON had no"
+	cont "moves."
 
-	para "#MON couldn't"
-	line "make any moves."
+	para "Its POWER POINTS,"
+	line "or PP,"
 
-	para "The POWER POINTS,"
-	line "or PP, of its"
-
-	para "moves were all"
-	line "gone."
+	para "were all gone,"
+	line "cucksucker."
 	done
 
 GoldenrodPPSpeechHouseLassText:
-	text "Sometimes, a"
-	line "healthy #MON"
+	text "Healthy #MON"
+	line "can lose moves,"
 
-	para "may be unable to"
-	line "use its moves."
-
-	para "If that happens,"
-	line "heal it at a #-"
-	cont "MON CENTER or use"
-	cont "an item."
+	para "dickwad."
+	line "milk it at a"
+	cont "#MON"
+	cont "CENTER or use"
+	cont "an item,"
+	cont "sick fuck."
 	done
 
 GoldenrodPPSpeechHouse_MapEvents:

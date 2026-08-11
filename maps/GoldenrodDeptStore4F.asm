@@ -38,34 +38,36 @@ GoldenrodDeptStore4FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore4FCooltrainerMText:
-	text "Hey. I love strong"
-	line "#MON."
+	text "Strong #MON?"
+	line "Love that, boss."
 
-	para "I feed them PRO-"
-	line "TEIN to crank up"
-	cont "their ATTACK."
+	para "PROTEIN boosts"
+	line "their ATTACK,"
+	cont "cucksucker."
 	done
 
 GoldenrodDeptStore4FBugCatcherText:
-	text "IRON adds to your"
-	line "#MON's DEFENSE."
+	text "IRON boosts"
+	line "#MON DEFENSE,"
+	cont "sick fuck."
 	done
 
 GoldenrodDeptStore4FGameboyKidText:
 	text "Some #MON"
-	line "evolve only by"
+	line "evolve by trading,"
 
-	para "being traded via a"
-	line "Game Link cable."
+	para "dickwad. Use"
+	line "a Game Link cable."
 
-	para "I know of four:"
+	para "Four I know:"
 	line "MACHOKE, KADABRA,"
 
-	para "HAUNTER and, um,"
-	line "GRAVELER."
+	para "HAUNTER, GRAVELER."
+	line "Take notes."
+	cont "bitch."
 
-	para "I heard there are"
-	line "others too."
+	para "Others too."
+	line "Don't act shocked."
 	done
 
 GoldenrodDeptStore4FDirectoryText:

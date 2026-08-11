@@ -54,50 +54,48 @@ FlowerShopRadio: ; unreferenced
 	jumpstd Radio2Script
 
 GoldenrodFlowerShopTeacherBetterThanWhitneyText:
-	text "Oh, you're better"
-	line "than WHITNEY."
+	text "Beat WHITNEY, huh?"
+	line "Bet, big dawg."
 
-	para "Do you know about"
-	line "that moving tree?"
+	para "That moving tree"
+	line "on ROUTE 36?"
 
-	para "If you wet it with"
-	line "a SQUIRTBOTTLE, it"
-	cont "attacks."
+	para "Use SQUIRTBOTTLE."
+	line "It attacks,"
+	cont "dickwad."
 
-	para "But since you"
-	line "have some BADGES,"
-	cont "you should be OK."
+	para "You got BADGES."
+	line "You should be OK."
 	done
 
 GoldenrodFlowerShopTeacherLalalaHavePlentyOfWaterText:
-	text "Lalala lalalala."
-	line "Have plenty of"
-	cont "water, my lovely!"
+	text "Lalala, big dawg."
+	line "Keep plenty"
+	cont "of water."
 	done
 
 GoldenrodFlowerShopFloriaMustBeAMonText:
-	text "When I watered"
-	line "that moving tree"
+	text "I watered that"
+	line "moving tree"
 
-	para "on ROUTE 36, it"
-	line "jumped!"
+	para "on ROUTE 36."
+	line "It jumped!"
 
-	para "I think it must be"
-	line "a #MON."
+	para "It's a #MON,"
+	line "sick fuck."
 
-	para "But it would take"
-	line "someone like WHIT-"
-	cont "NEY, our GYM LEAD-"
-	cont "ER, to beat it."
+	para "WHITNEY, our"
+	line "GYM LEADER, could"
+	cont "beat it."
 	done
 
 GoldenrodFlowerShopFloriaJumpsInSurpriseText:
-	text "Do you know about"
-	line "the moving tree?"
+	text "Moving tree on"
+	line "ROUTE 36, homie?"
 
-	para "If you water it,"
-	line "it jumps up in"
-	cont "surprise!"
+	para "Water it and"
+	line "it jumps,"
+	cont "cucksucker."
 	done
 
 GoldenrodFlowerShop_MapEvents:

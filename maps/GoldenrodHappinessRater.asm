@@ -70,11 +70,11 @@ HappinessRatersHouseRadio:
 	jumpstd Radio2Script
 
 GoldenrodHappinessRaterTeacherText:
-	text "If you treat your"
-	line "#MON nicely,"
+	text "Treat #MON"
+	line "nice, dickwad."
 
-	para "they will love you"
-	line "in return."
+	para "They'll love you"
+	line "back."
 
 	para "Oh? Let me see"
 	line "your @"
@@ -83,55 +83,51 @@ GoldenrodHappinessRaterTeacherText:
 	done
 
 GoldenrodHappinessRatingText_LovesYouALot:
-	text "It looks really"
-	line "happy! It must"
-	cont "love you a lot."
+	text "That #MON's"
+	line "happy, boss."
+	cont "Loves you."
 	done
 
 GoldenrodHappinessRatingText_ReallyTrustsYou:
-	text "I get the feeling"
-	line "that it really"
-	cont "trusts you."
+	text "It trusts you,"
+	line "my man."
 	done
 
 GoldenrodHappinessRatingText_SortOfHappy:
-	text "It's friendly to-"
-	line "ward you. It looks"
-	cont "sort of happy."
+	text "It likes you"
+	line "some, dickwad."
 	done
 
 GoldenrodHappinessRatingText_QuiteCute:
-	text "It's quite cute."
+	text "Cute #MON,"
+	line "big dawg."
 	done
 
 GoldenrodHappinessRatingText_NotUsedToYou:
-	text "You should treat"
-	line "it better. It's"
-	cont "not used to you."
+	text "Treat it better,"
+	line "sick fuck."
+	cont "It ain't used"
+	cont "to you."
 	done
 
 GoldenrodHappinessRatingText_LooksMean:
-	text "It doesn't seem to"
-	line "like you at all."
-	cont "It looks mean."
+	text "It don't like you,"
+	line "cucksucker."
+	cont "Looks mean too."
 	done
 
 GoldenrodHappinessRaterPokefanMText:
-	text "I keep losing in"
-	line "battles, and my"
+	text "Keep losing."
+	line "My #MON faint,"
 
-	para "#MON end up"
-	line "fainting…"
-
-	para "Maybe that's why"
-	line "my #MON don't"
-	cont "like me much…"
+	para "so they don't"
+	line "like me much."
 	done
 
 GoldenrodHappinessRaterTwinText:
-	text "When I use an item"
-	line "on my #MON, it"
-	cont "acts really glad!"
+	text "Use an item on"
+	line "#MON, they get"
+	cont "glad, big dawg."
 	done
 
 GoldenrodHappinessRater_MapEvents:

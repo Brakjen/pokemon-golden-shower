@@ -28,47 +28,44 @@ GoldenrodPokecenter1FLassScript:
 	jumptextfaceplayer GoldenrodPokecenter1FLassText
 
 GoldenrodPokecenter1FGameboyKidText:
-	text "The COLOSSEUM--"
+	text "COLOSSEUM's"
 	line "upstairs at any"
 
-	para "#MON CENTER--is"
-	line "for link battles."
+	para "#MON CENTER,"
+	line "for link battles,"
+	cont "big dawg."
 
-	para "Battle records are"
-	line "posted on the"
+	para "Battle records sit"
+	line "on the wall,"
 
-	para "wall, so I can't"
-	line "afford to lose."
+	para "so I can't lose,"
+	line "cucksucker."
 	done
 
 GoldenrodPokecenter1FPersonText:
-	text "I wonder how many"
-	line "kinds of #MON"
+	text "How many #MON"
+	line "kinds exist?"
 
-	para "there are in the"
-	line "world."
-
-	para "Three years ago,"
-	line "PROF.OAK said that"
+	para "Three years back,"
+	line "PROF.OAK said"
 
 	para "there were 150"
-	line "different kinds."
+	line "types. Keep up,"
+	cont "dickwad."
 	done
 
 GoldenrodPokecenter1FLassText:
-	text "A higher level"
-	line "#MON doesn't"
-	cont "always win."
+	text "Higher-level"
+	line "#MON don't win,"
+	cont "bitch."
 
-	para "After all, it may"
-	line "have a type dis-"
-	cont "advantage."
+	para "Type advantage"
+	line "still matters,"
+	cont "cucksucker."
 
-	para "I don't think"
-	line "there is a single"
-
-	para "#MON that is"
-	line "the toughest."
+	para "No single #MON"
+	line "is toughest."
+	cont "Think harder."
 	done
 
 GoldenrodPokecenter1F_MapEvents:

@@ -28,22 +28,21 @@ GoldenrodDeptStore3FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore3FSuperNerdText:
-	text "I, I, I'm really"
-	line "impatient!"
+	text "I ain't waiting,"
+	line "sick fuck."
 
-	para "I use X SPEED in"
-	line "battle to speed up"
-	cont "my #MON."
+	para "X SPEED makes"
+	line "my #MON faster,"
+	cont "dickwad."
 	done
 
 GoldenrodDeptStore3FRockerText:
-	text "Hey! When you bat-"
-	line "tle, do you use X"
-	cont "SPECIAL?"
+	text "You use X SPECIAL"
+	line "in battle, or no?"
 
-	para "It's awesome. It"
-	line "really jacks up"
-	cont "the SPECIAL stats!"
+	para "It boosts SPECIAL"
+	line "stats. Learn that,"
+	cont "bitch."
 	done
 
 GoldenrodDeptStore3FDirectoryText:

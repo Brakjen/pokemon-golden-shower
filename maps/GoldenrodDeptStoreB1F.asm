@@ -74,33 +74,30 @@ GoldenrodDeptStoreB1FUltraBall:
 	itemball ULTRA_BALL
 
 GoldenrodDeptStoreB1FBlackBelt1Text:
-	text "Hey, kid! You're"
-	line "holding us up!"
+	text "You're holding us"
+	line "up, dickwad!"
 
-	para "Our policy is to"
-	line "work behind the"
-
-	para "scenes where no-"
-	line "one can see us!"
+	para "We work behind"
+	line "the scenes."
+	cont "Keep moving."
 	done
 
 GoldenrodDeptStoreB1FBlackBelt2Text:
-	text "I lose my passion"
-	line "for work if some-"
-	cont "one's watching."
+	text "Can't work while"
+	line "you watch,"
+	cont "cucksucker."
 
-	para "Come on, kid,"
-	line "scoot!"
+	para "Scoot, sick fuck."
 	done
 
 GoldenrodDeptStoreB1FBlackBelt3Text:
 	text "Oohah! Oohah!"
 
-	para "The stuff on the"
-	line "ground's junk."
+	para "Ground stuff's"
+	line "junk, my man."
 
-	para "Take it if you"
-	line "want it!"
+	para "Take it or don't."
+	line "Your call."
 	done
 
 GoldenrodDeptStoreB1FMachokeText:

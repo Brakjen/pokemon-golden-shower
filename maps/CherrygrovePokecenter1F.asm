@@ -35,35 +35,35 @@ CherrygrovePokecenter1FTeacherScript:
 	end
 
 CherrygrovePokecenter1FFisherText:
-	text "It's great. I can"
-	line "store any number"
+	text "This device admits"
+	line "my excess"
 
-	para "of #MON, and"
-	line "it's all free."
+	para "#MON without"
+	line "demanding tribute."
 	done
 
 CherrygrovePokecenter1FGentlemanText:
-	text "That PC is free"
-	line "for any trainer"
-	cont "to use."
+	text "That PC remains"
+	line "available to those"
+	cont "of good standing."
 	done
 
 CherrygrovePokecenter1FTeacherText:
 	text "The COMMUNICATION"
-	line "CENTER upstairs"
-	cont "was just built."
+	line "CENTER above was"
+	cont "recently raised."
 
-	para "But they're still"
-	line "finishing it up."
+	para "Its workmen still"
+	line "labor within."
 	done
 
 CherrygrovePokecenter1FTeacherText_CommCenterOpen:
 	text "The COMMUNICATION"
-	line "CENTER upstairs"
-	cont "was just built."
+	line "CENTER above was"
+	cont "recently raised."
 
-	para "I traded #MON"
-	line "there already!"
+	para "Already I have"
+	line "traded #MON."
 	done
 
 CherrygrovePokecenter1F_MapEvents:

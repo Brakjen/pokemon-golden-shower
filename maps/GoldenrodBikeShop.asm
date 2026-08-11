@@ -46,44 +46,44 @@ GoldenrodBikeShopBicycle:
 	jumptext GoldenrodBikeShopBicycleText
 
 GoldenrodBikeShopClerkIntroText:
-	text "…sigh… I moved"
-	line "here, but I can't"
+	text "Moved here, but"
+	line "can't sell bikes,"
+	cont "dickwad."
 
-	para "sell my BICYCLES."
-	line "Why is that?"
+	para "You down to ride"
+	line "a BICYCLE?"
 
-	para "Could you ride a"
-	line "BICYCLE and adver-"
-	cont "tise for me?"
+	para "Advertise for me,"
+	line "or keep walking,"
+	cont "sick fuck."
 	done
 
 GoldenrodBikeShopClerkAgreedText:
-	text "Really? Great!"
+	text "Bet, my man."
 
-	para "Give me your name"
-	line "and phone number,"
+	para "Give your name"
+	line "and phone number."
 
-	para "and I'll loan you"
-	line "a BICYCLE."
+	para "I'll loan a bike."
+	line "Don't wreck it."
 	done
 
 BorrowedABicycleText:
-	text "<PLAYER> borrowed a"
-	line "BICYCLE."
+	text "Got a BICYCLE!"
 	done
 
 GoldenrodBikeShopClerkFirstRateBikesText:
 	text "My BICYCLES are"
-	line "first-rate! You"
+	line "first-rate, boss."
 
-	para "can ride them"
-	line "anywhere."
+	para "Ride anywhere."
+	line "Try keeping up."
 	done
 
 GoldenrodBikeShopClerkRefusedText:
-	text "…sigh… Oh, for"
-	line "the kindness of"
-	cont "people…"
+	text "No? That's weak,"
+	line "asswipe."
+	cont "Keep it moving."
 	done
 
 GoldenrodBikeShopJustReleasedCompactBikeText:

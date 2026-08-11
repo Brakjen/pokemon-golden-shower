@@ -28,34 +28,34 @@ GoldenrodDeptStore1FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore1FReceptionistText:
-	text "Welcome to GOLDEN-"
-	line "ROD DEPT.STORE."
+	text "Welcome to"
+	line "DEPT.STORE,"
+	cont "dickwad."
 	done
 
 GoldenrodDeptStore1FGentlemanText:
-	text "The DEPT.STORE"
-	line "has a decent se-"
-	cont "lection."
+	text "DEPT.STORE's got"
+	line "a solid selection,"
+	cont "my man."
 
-	para "But some items"
-	line "are only available"
-
-	para "as GAME CORNER"
-	line "prizes."
+	para "Rare stuff comes"
+	line "from the backroom"
+	cont "prize spot,"
+	cont "dickwad."
 	done
 
 GoldenrodDeptStore1FPokefanFText:
-	text "I'm raring to shop"
-	line "again today!"
+	text "Shopping again,"
+	line "fam? Try buying"
+	cont "something useful."
 	done
 
 GoldenrodDeptStore1FBugCatcherText:
-	text "Mom's good at"
-	line "bargain hunting."
+	text "Mom finds deals,"
+	line "dickwad."
 
-	para "She always buys"
-	line "stuff at lower"
-	cont "prices."
+	para "Always lower"
+	line "prices, sick fuck."
 	done
 
 GoldenrodDeptStore1FDirectoryText:

@@ -938,7 +938,7 @@ ElmStudyingEggText:
 ElmAideHasEggText:
 	text "ELM: <PLAYER>?"
 	line "Didn't you meet my"
-	cont "assistant, fucker?"
+	cont "assistant, nigger?"
 
 	para "He should have met"
 	line "you with the EGG"
@@ -950,7 +950,7 @@ ElmAideHasEggText:
 	line "missed him. Try to"
 	cont "catch him there."
 	cont "What a useless"
-	cont "fucker he is."
+	cont "nigger he is."
 	done
 
 ElmWaitingEggHatchText:

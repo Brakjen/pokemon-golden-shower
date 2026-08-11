@@ -139,73 +139,77 @@ GoldenrodDeptStore5FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 GoldenrodDeptStore5FReceptionistOhYourMonDotDotDotText:
-	text "Hello. Oh, your"
-	line "#MON…"
+	text "Yo. Your #MON,"
+	line "huh?"
 	done
 
 GoldenrodDeptStore5FReceptionistThisMoveShouldBePerfectText:
-	text "It's very attached"
-	line "to you."
+	text "That #MON"
+	line "trusts you,"
+	cont "big dawg."
 
-	para "This move should"
-	line "be perfect for a"
-	cont "pair like you."
+	para "This TM fits"
+	line "you two."
 	done
 
 GoldenrodDeptStore5FReceptionistItsAdorableText:
-	text "It's adorable!"
+	text "That #MON"
+	line "is cute."
+	cont "nigger."
 
-	para "You should teach"
-	line "it good TM moves."
+	para "Teach good TMs."
+	line "Don't waste it."
 	done
 
 GoldenrodDeptStore5FReceptionistItLooksEvilHowAboutThisTMText:
-	text "It looks evil. How"
-	line "about this TM for"
-	cont "it?"
+	text "That #MON looks"
+	line "mean, bitch."
+
+	para "This TM fits it."
 	done
 
 GoldenrodDeptStore5FReceptionistThereAreTMsPerfectForMonText:
-	text "There are sure to"
-	line "be TMs that are"
+	text "Some TM fits"
+	line "your #MON,"
 
-	para "just perfect for"
-	line "your #MON."
+	para "dickwad."
+	line "Look around."
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftExplanationText:
-	text "MYSTERY GIFT."
+	text "MYSTERY GIFT,"
+	line "homie."
 
-	para "With just a"
-	line "little beep, you"
-	cont "get a gift."
+	para "Little beep gets"
+	line "you a gift."
 	done
 
 GoldenrodDeptStore5FCarrieMysteryGiftRequiresGBCText:
-	text "The MYSTERY GIFT"
-	line "option requires a"
-	cont "Game Boy Color."
+	text "MYSTERY GIFT"
+	line "needs Game Boy"
+	cont "Color, sick fuck."
 	done
 
 GoldenrodDeptStore5FLassText:
-	text "On Sundays, a lady"
-	line "comes to check out"
-	cont "#MON."
+	text "Sunday lady checks"
+	line "out #MON,"
+	cont "nigger."
 
-	para "She even gives"
-	line "away TMs!"
+	para "She gives TMs."
+	line "Don't miss it."
 	done
 
 GoldenrodDeptStore5FPokefanMText:
-	text "You can't rename a"
-	line "#MON you get in"
-	cont "a trade."
+	text "Traded #MON"
+	line "can't be renamed,"
+	cont "dickwad."
 
-	para "The name is a re-"
-	line "flection of the"
+	para "That name reflects"
+	line "the original"
 
-	para "original trainer's"
-	line "feelings for it."
+	para "trainer's"
+	line "feelings."
+	cont "Learn that."
 	done
 
 GoldenrodDeptStore5FDirectoryText:

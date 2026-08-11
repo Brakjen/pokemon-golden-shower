@@ -419,13 +419,11 @@ GoldenrodUndergroundHiddenAntidote:
 	hiddenitem ANTIDOTE, EVENT_GOLDENROD_UNDERGROUND_HIDDEN_ANTIDOTE
 
 SupernerdEricSeenText:
-	text "I got booted out"
-	line "of the GAME COR-"
-	cont "NER."
+	text "Got kicked from"
+	line "the arcade, boss."
 
-	para "I was trying to"
-	line "cheat using my"
-	cont "#MON…"
+	para "Tried cheating"
+	line "with #MON…"
 	done
 
 SupernerdEricBeatenText:
@@ -433,21 +431,16 @@ SupernerdEricBeatenText:
 	done
 
 SupernerdEricAfterBattleText:
-	text "I guess I have to"
-	line "do things fair and"
-	cont "square…"
+	text "Gotta play fair,"
+	line "nigger…"
 	done
 
 SupernerdTeruSeenText:
-	text "Do you consider"
-	line "type alignments in"
-	cont "battle?"
+	text "You know type"
+	line "matchups, boss?"
 
-	para "If you know your"
-	line "type advantages,"
-
-	para "you'll do better"
-	line "in battle."
+	para "Know advantages,"
+	line "battle better."
 	done
 
 SupernerdTeruBeatenText:
@@ -455,19 +448,18 @@ SupernerdTeruBeatenText:
 	done
 
 SupernerdTeruAfterBattleText:
-	text "I know my #MON"
-	line "type alignments."
+	text "Know #MON"
+	line "types, big dawg."
 
-	para "But I only use one"
-	line "type of #MON."
+	para "But I use one."
 	done
 
 PokemaniacIssacSeenText:
-	text "My #MON just"
-	line "got haircuts!"
+	text "My #MON got"
+	line "fresh haircuts!"
 
-	para "I'll show you how"
-	line "strong they are!"
+	para "They strong now,"
+	line "cucksucker!"
 	done
 
 PokemaniacIssacBeatenText:
@@ -475,104 +467,100 @@ PokemaniacIssacBeatenText:
 	done
 
 PokemaniacIssacAfterBattleText:
-	text "Your #MON will"
-	line "like you more if"
-
-	para "you give them"
-	line "haircuts."
+	text "Haircuts make"
+	line "#MON like you."
 	done
 
 PokemaniacDonaldSeenText:
-	text "I think you have"
-	line "some rare #MON"
-	cont "with you."
+	text "Rare #MON,"
+	line "my man."
 
-	para "Let me see them!"
+	para "Lemme see!"
 	done
 
 PokemaniacDonaldBeatenText:
-	text "Gaah! I lost!"
-	line "That makes me mad!"
+	text "Gaah! Lost!"
+	line "I'm mad!"
 	done
 
 PokemaniacDonaldAfterBattleText:
-	text "Are you making a"
-	line "#DEX? Here's a"
-	cont "hot tip."
+	text "Building #DEX?"
+	line "Hot tip, boss."
 
-	para "The HIKER on ROUTE"
-	line "33, ANTHONY, is a"
-	cont "good guy."
+	para "HIKER ANTHONY"
+	line "on ROUTE 33's"
+	cont "solid."
 
-	para "He'll phone you if"
-	line "he sees any rare"
-	cont "#MON."
+	para "He calls you about"
+	line "rare #MON."
 	done
 
 GoldenrodUndergroundTheDoorsLockedText:
-	text "The door's locked…"
+	text "Door's locked,"
+	line "sick fuck."
 	done
 
 GoldenrodUndergroundTheDoorIsOpenText:
-	text "The door is open."
+	text "Door's open."
 	done
 
 GoldenrodUndergroundBasementKeyOpenedDoorText:
-	text "The BASEMENT KEY"
-	line "opened the door."
+	text "BASEMENT KEY"
+	line "opened it, boss."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
-	text "Welcome!"
+	text "Welcome, my man."
 
 	para "I run the #MON"
-	line "SALON!"
+	line "SALON, boss."
 
-	para "I'm the older and"
-	line "better of the two"
-	cont "HAIRCUT BROTHERS."
+	para "I'm older and"
+	line "better than my"
+	cont "brother."
 
 	para "I can make your"
 	line "#MON beautiful"
 	cont "for just ¥{d:GOLDENRODUNDERGROUND_OLDER_HAIRCUT_PRICE}."
 
-	para "Would you like me"
-	line "to do that?"
+	para "Want that?"
+	line "Don't waste time."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAskWhichMonText:
-	text "Which #MON"
-	line "should I work on?"
+	text "Which #MON gets"
+	line "the fresh cut?"
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherWatchItBecomeBeautifulText:
-	text "OK! Watch it"
-	line "become beautiful!"
+	text "Watch it get"
+	line "clean, my man."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherAllDoneText:
-	text "There! All done!"
+	text "Done. Fresh,"
+	line "dickwad."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherThatsAShameText:
-	text "Is that right?"
-	line "That's a shame!"
+	text "Nah? That's weak,"
+	line "cucksucker."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherYoullNeedMoreMoneyText:
-	text "You'll need more"
-	line "money than that."
+	text "Need more cash,"
+	line "sick fuck."
 	done
 
 GoldenrodUndergroundOlderHaircutBrotherOneHaircutADayText:
-	text "I do only one"
-	line "haircut a day. I'm"
-	cont "done for today."
+	text "One cut a day,"
+	line "nigger. Done"
+	cont "for today."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
-	text "Welcome to the"
-	line "#MON SALON!"
+	text "Welcome to #MON"
+	line "SALON, homie."
 
 	para "I'm the younger"
 	line "and less expen-"
@@ -583,40 +571,40 @@ GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
 	line "#MON for just"
 	cont "¥{d:GOLDENRODUNDERGROUND_YOUNGER_HAIRCUT_PRICE}."
 
-	para "So? How about it?"
+	para "So? You down,"
+	line "dickwad?"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAskWhichMonText:
-	text "OK, which #MON"
-	line "should I do?"
+	text "Which #MON gets"
+	line "the clean look?"
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherIllMakeItLookCoolText:
-	text "OK! I'll make it"
-	line "look cool!"
+	text "Bet. It'll look"
+	line "clean, boss."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherAllDoneText:
-	text "There we go!"
-	line "All done!"
+	text "There. All done,"
+	line "big dawg."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherHowDisappointingText:
-	text "No? "
-	line "How disappointing!"
+	text "No? That's weak,"
+	line "dickwad."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherShortOnFundsText:
-	text "You're a little"
-	line "short on funds."
+	text "Short on cash,"
+	line "bitch."
 	done
 
 GoldenrodUndergroundYoungerHaircutBrotherOneHaircutADayText:
-	text "I can do only one"
-	line "haircut a day."
+	text "One cut a day,"
+	line "my man."
 
-	para "Sorry, but I'm all"
-	line "done for today."
+	para "I'm done today."
 	done
 
 HaircutBrosText_SlightlyHappier:
@@ -638,13 +626,13 @@ HaircutBrosText_MuchHappier:
 	done
 
 GoldenrodUndergroundWeAreNotOpenTodayText:
-	text "We're not open"
-	line "today."
+	text "Closed today,"
+	line "dickwad."
 	done
 
 GoldenrodUndergroundNoEntryText:
-	text "NO ENTRY BEYOND"
-	line "THIS POINT"
+	text "NO ENTRY,"
+	line "sick fuck."
 	done
 
 GoldenrodUnderground_MapEvents:

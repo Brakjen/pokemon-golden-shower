@@ -435,7 +435,7 @@ GruntF5SeenText:
 
 	para "Maybe."
 
-	para "But no weakling's"
+	para "But no sick fuck's"
 	line "going to get it!"
 	done
 

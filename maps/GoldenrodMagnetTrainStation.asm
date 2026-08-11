@@ -98,62 +98,60 @@ GoldenrodMagnetTrainStationPlayerLeaveTrainAndEnterStationMovement:
 	step_end
 
 GoldenrodMagnetTrainStationOfficerTheTrainHasntComeInText:
-	text "The train hasn't"
-	line "come in…"
+	text "Train ain't here,"
+	line "sick fuck."
 
-	para "I know! I'll carry"
-	line "the passengers on"
-	cont "my back!"
+	para "I'll carry folks"
+	line "on my back!"
 
-	para "That won't work."
+	para "Nah. Bad plan."
 	done
 
 GoldenrodMagnetTrainStationOfficerAreYouComingAboardText:
-	text "We'll soon depart"
-	line "for SAFFRON."
+	text "Leaving for"
+	line "SAFFRON soon."
 
-	para "Are you coming"
-	line "aboard?"
+	para "You coming,"
+	line "dickwad?"
 	done
 
 GoldenrodMagnetTrainStationOfficerRightThisWayText:
-	text "May I see your"
-	line "rail PASS, please?"
+	text "Show rail PASS,"
+	line "my man."
 
-	para "OK. Right this"
-	line "way, sir."
+	para "You're good."
+	line "Right this way."
 	done
 
 GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText:
-	text "Sorry. You don't"
-	line "have a rail PASS."
+	text "No rail PASS,"
+	line "cucksucker."
 	done
 
 GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
-	text "We hope to see you"
-	line "again!"
+	text "Ride again,"
+	line "big dawg."
 	done
 
 GoldenrodMagnetTrainStationOfficerArrivedInGoldenrodText:
-	text "We have arrived in"
-	line "GOLDENROD."
+	text "GOLDENROD stop,"
+	line "dickwad."
 
-	para "We hope to see you"
-	line "again."
+	para "Ride again."
 	done
 
 GoldenrodMagnetTrainStationGentlemanText:
-	text "I'm the PRESIDENT."
+	text "I'm PRESIDENT,"
+	line "nigger."
 
-	para "My dream was to"
-	line "build a train that"
+	para "Built a train"
+	line "faster than"
 
-	para "is faster than any"
-	line "#MON."
+	para "any #MON,"
+	line "bitch."
 
-	para "It really brings"
-	line "JOHTO much closer"
-	cont "to KANTO."
+	para "JOHTO and KANTO"
+	line "are closer now."
 	done
 
 GoldenrodMagnetTrainStation_MapEvents:

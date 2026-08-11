@@ -1445,7 +1445,7 @@ _EvolvingText::
 	done
 
 _MartHowManyText::
-	text "How many, fucker?"
+	text "How many, nigger?"
 	done
 
 _MartFinalPriceText::
@@ -1501,7 +1501,7 @@ _HerbalLadyNoMoneyText::
 	text "Hehehe… You don't"
 	line "have the money."
 	cont "You a poor,"
-	cont "motherfucker."
+	cont "mothernigger."
 	done
 
 _HerbalLadyComeAgainText::
@@ -1549,7 +1549,7 @@ _BargainShopNoFundsText::
 	line "short on funds."
 	cont "HAHAHAHAHAHAHA"
 	cont "You poor, mother-"
-	cont "fucker."
+	cont "nigger."
 	done
 
 _BargainShopComeAgainText::
@@ -1603,7 +1603,7 @@ _NothingToSellText::
 
 _MartSellHowManyText::
 	text "How many,"
-	line "motherfucker?"
+	line "mothernigger?"
 	done
 
 _MartSellPriceText::

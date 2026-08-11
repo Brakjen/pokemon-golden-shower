@@ -255,7 +255,7 @@ AzaleaTownRivalAfterText:
 	para "I hate them all."
 
 	para "You stay out of my"
-	line "way. A weakling"
+	line "way. A sick fuck"
 
 	para "like you is only a"
 	line "distraction."

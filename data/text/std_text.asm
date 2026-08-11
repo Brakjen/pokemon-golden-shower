@@ -15,12 +15,12 @@ NurseNiteText:
 	done
 
 NurseAskHealText:
-	text "We can milk your"
-	line "#MON to perfect"
+	text "We shall milk"
+	line "thy #MON to full"
 	cont "health."
 
-	para "Shall we milk your"
-	line "#MON?"
+	para "Shall we milk"
+	line "thy #MON?"
 	done
 
 NurseTakePokemonText:
@@ -37,7 +37,7 @@ NurseReturnPokemonText:
 	done
 
 NurseGoodbyeText:
-	text "We hope to milk your"
+	text "We hope to milk"
 	line "#MON again!"
 	done
 

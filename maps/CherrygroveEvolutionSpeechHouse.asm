@@ -25,18 +25,18 @@ CherrygroveEvolutionSpeechHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 CherrygroveEvolutionSpeechHouseYoungsterText:
-	text "#MON gain expe-"
-	line "rience in battle"
+	text "#MON gain grace"
+	line "through battle"
 
-	para "and change their"
-	line "form."
+	para "and may assume"
+	line "nobler forms."
 	done
 
 CherrygroveEvolutionSpeechHouseLassText:
-	text "#MON change?"
+	text "#MON alter?"
 
-	para "I would be shocked"
-	line "if one did that!"
+	para "Such a vulgar"
+	line "marvel shocks me."
 	done
 
 CherrygroveEvolutionSpeechHouse_MapEvents:

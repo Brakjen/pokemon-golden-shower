@@ -183,29 +183,28 @@ BridgetWalksAwayMovement:
 	step_end
 
 WhitneyBeforeText:
-	text "Hi! I'm WHITNEY!"
+	text "WHITNEY here,"
+	line "big dawg."
 
-	para "Everyone was into"
-	line "#MON, so I got"
-	cont "into it too!"
+	para "Everybody battled,"
+	line "so I jumped in."
 
-	para "#MON are"
-	line "super-cute!"
+	para "#MON are cute."
 
-	para "You want to bat-"
-	line "tle? I'm warning"
-	cont "you--I'm good!"
+	para "You down?"
+	line "I'm good,"
+	cont "dickwad."
 	done
 
 WhitneyShouldntBeSoSeriousText:
 	text "Sob…"
 
 	para "…Waaaaaaah!"
-	line "You're mean!"
+	line "You're mean,"
+	cont "sick fuck!"
 
-	para "You shouldn't be"
-	line "so serious! You,"
-	cont "you, child, you!"
+	para "Why so serious?"
+	line "You got me upset!"
 	done
 
 WhitneyYouMeanieText:
@@ -214,18 +213,19 @@ WhitneyYouMeanieText:
 	para "Waaaaah!"
 
 	para "…Snivel, hic…"
-	line "…You meanie!"
+	line "…You meanie,"
+	cont "cucksucker!"
 	done
 
 WhitneyWhatDoYouWantText:
 	text "…Sniff…"
 
-	para "What? What do you"
-	line "want? A BADGE?"
+	para "What? You want"
+	line "a BADGE?"
 
-	para "Oh, right. I for-"
-	line "got. Here's PLAIN-"
-	cont "BADGE."
+	para "Oh, right."
+	line "Take PLAINBADGE,"
+	cont "nigger."
 	done
 
 PlayerReceivedPlainBadgeText:
@@ -235,146 +235,135 @@ PlayerReceivedPlainBadgeText:
 
 WhitneyPlainBadgeText:
 	text "PLAINBADGE lets"
-	line "your #MON use"
+	line "#MON use"
 
 	para "STRENGTH outside"
-	line "of battle."
+	line "battle, boss."
 
-	para "It also boosts"
-	line "your #MON's"
-	cont "SPEED."
+	para "It boosts"
+	line "#MON SPEED too."
 
-	para "Oh, you can have"
-	line "this too!"
+	para "Take this too,"
+	line "dickwad."
 	done
 
 WhitneyAttractText:
-	text "It's ATTRACT!"
-	line "It makes full use"
+	text "That's ATTRACT."
+	line "It uses"
 
-	para "of a #MON's"
-	line "charm."
+	para "a #MON's charm,"
+	line "my man."
 
-	para "Isn't it just per-"
-	line "fect for a cutie"
-	cont "like me?"
+	para "Perfect for"
+	line "a cutie like me."
 	done
 
 WhitneyGoodCryText:
-	text "Ah, that was a"
-	line "good cry!"
+	text "That cry helped,"
+	line "big dawg."
 
-	para "Come for a visit"
-	line "again! Bye-bye!"
+	para "Come back."
+	line "Bye-bye."
 	done
 
 LassCarrieSeenText:
-	text "Don't think I'm a"
-	line "pushover!"
+	text "Don't sleep on me,"
+	line "dickwad!"
 	done
 
 LassCarrieBeatenText:
-	text "Darn… I thought"
+	text "Dang… Thought"
 	line "you were weak…"
 	done
 
 LassCarrieAfterBattleText:
-	text "In the world of"
-	line "#MON, I wonder"
+	text "Which #MON hit"
+	line "harder, nigger?"
 
-	para "what's stronger:"
-	line "male or female?"
+	para "Male or female?"
 	done
 
 LassBridgetSeenText:
-	text "I like cute #-"
-	line "MON better than"
-	cont "strong #MON."
+	text "Cute #MON beat"
+	line "strong ones,"
+	cont "big dawg."
 
-	para "But I have strong"
-	line "and cute #MON!"
+	para "Mine are cute"
+	line "and strong."
 	done
 
 LassBridgetBeatenText:
-	text "Oh, no, no, no!"
+	text "No, no, no,"
+	line "cucksucker!"
 	done
 
 LassBridgetAfterBattleText:
-	text "I'm trying to beat"
-	line "WHITNEY, but…"
-	cont "It's depressing."
+	text "Trying to beat"
+	line "WHITNEY hurts."
 
-	para "I'm okay! If I"
-	line "lose, I'll just"
-
-	para "try harder next"
-	line "time!"
+	para "But I'll train"
+	line "harder next time."
 	done
 
 BridgetWhitneyCriesText:
-	text "Oh, no. You made"
-	line "WHITNEY cry."
+	text "You made WHITNEY"
+	line "cry, big man."
 
-	para "It's OK. She'll"
-	line "stop soon. She"
-
-	para "always cries when"
-	line "she loses."
+	para "She'll stop soon."
+	line "She cries losing."
 	done
 
 BeautyVictoriaSeenText:
-	text "Oh, you are a cute"
-	line "little trainer! "
+	text "Cute little"
+	line "trainer, huh?"
 
-	para "I like you, but I"
-	line "won't hold back!"
+	para "I like you, but"
+	line "no holding back!"
 	done
 
 BeautyVictoriaBeatenText:
-	text "Let's see… Oops,"
-	line "it's over?"
+	text "Oops, it's over?"
 	done
 
 BeautyVictoriaAfterBattleText:
-	text "Wow, you must be"
-	line "good to beat me!"
-	cont "Keep it up!"
+	text "You beat me?"
+	line "Keep it up, boss."
 	done
 
 BeautySamanthaSeenText:
-	text "Give it your best"
-	line "shot, or I'll take"
-	cont "you down!"
+	text "Bring your best,"
+	line "or get put down!"
 	done
 
 BeautySamanthaBeatenText:
-	text "No! Oh, MEOWTH,"
-	line "I'm so sorry!"
+	text "No! MEOWTH,"
+	line "I'm sorry!"
 	done
 
 BeautySamanthaAfterBattleText:
-	text "I taught MEOWTH"
-	line "moves for taking"
-	cont "on any type…"
+	text "MEOWTH knows moves"
+	line "for every type."
 	done
 
 GoldenrodGymGuideText:
-	text "Yo! CHAMP in"
-	line "making!"
+	text "Yo, champ maybe,"
+	line "dickwad."
 
-	para "This GYM is home"
-	line "to normal-type"
+	para "This GYM's full"
+	line "of normal-type"
 	cont "#MON trainers."
 
-	para "I recommend you"
-	line "use fighting-type"
-	cont "#MON."
+	para "Use fighting-type"
+	line "#MON. Keep up,"
+	cont "sick fuck."
 	done
 
 GoldenrodGymGuideWinText:
-	text "You won? Great! I"
-	line "was busy admiring"
-	cont "the ladies here."
+	text "You won? Bet,"
+	line "big dawg."
+
+	para "I was busy looking"
+	line "around anyway."
 	done
 
 GoldenrodGym_MapEvents:

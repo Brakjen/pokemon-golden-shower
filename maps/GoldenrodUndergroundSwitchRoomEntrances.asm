@@ -524,121 +524,95 @@ UndergroundRivalRetreatMovement2:
 	step_end
 
 UndergroundRivalBeforeText:
-	text "Hold it!"
+	text "Hold up,"
+	line "dickwad!"
 
-	para "I saw you, so I"
-	line "tailed you."
+	para "Saw you, so"
+	line "I followed."
 
-	para "I don't need you"
-	line "underfoot while I"
+	para "Don't get under"
+	line "my feet while I"
+	cont "TEAM ROCKET."
 
-	para "take care of TEAM"
-	line "ROCKET."
+	para "Wait. You beat me"
+	line "before, right?"
 
-	para "…Wait a second."
-	line "You beat me be-"
-	cont "fore, didn't you?"
+	para "That was a fluke,"
+	line "sick fuck."
 
-	para "That was just a"
-	line "fluke."
-
-	para "But I repay my"
-	line "debts!"
+	para "I repay debts."
+	line "Battle me."
 	done
 
 UndergroundRivalWinText:
-	text "…Why…"
-	line "Why do I lose?"
+	text "Why do I lose,"
+	line "cucksucker?"
 
-	para "I've assembled the"
-	line "toughest #MON."
+	para "My #MON are"
+	line "the toughest."
 
-	para "I didn't ease up"
-	line "on the gas."
+	para "I went all out."
 
-	para "So why do I lose?"
+	para "So why lose?"
 	done
 
 UndergroundRivalAfterText:
-	text "…I don't under-"
-	line "stand…"
+	text "I don't get it…"
 
-	para "Is what that LANCE"
-	line "guy said true?"
+	para "Was LANCE right?"
 
-	para "That I don't treat"
-	line "#MON properly?"
+	para "I treat #MON"
+	line "wrong?"
 
-	para "Love…"
+	para "Love? Trust?"
+	line "Is that it?"
 
-	para "Trust…"
-
-	para "Are they really"
-	line "what I lack?"
-
-	para "Are they keeping"
-	line "me from winning?"
-
-	para "I… I just don't"
-	line "understand."
-
-	para "But it's not going"
-	line "to end here."
-
-	para "Not now. Not"
-	line "because of this."
-
-	para "I won't give up my"
-	line "dream of becoming"
-
-	para "the world's best"
-	line "#MON trainer!"
+	para "Nah. I won't quit."
+	line "I'll be world's"
+	cont "best trainer."
 	done
 
 UndergroundRivalLossText:
-	text "Humph. This is my"
-	line "real power, wimp."
+	text "Real power,"
+	line "sick fuck."
 
 	para "I'll make TEAM"
 	line "ROCKET history."
 
-	para "And I'm going to"
-	line "grind that LANCE"
-	cont "under my heels."
+	para "LANCE gets"
+	line "put down too."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_SuperNerdText:
-	text "I was challenged"
-	line "to a battle down-"
-	cont "stairs."
+	text "Got challenged"
+	line "downstairs,"
+	cont "nigger."
 
-	para "It's rough down"
-	line "there. You'd"
-	cont "better be careful."
+	para "It's rough there."
+	line "Be careful,"
+	cont "sick fuck."
 	done
 
 GoldenrodUndergroundSwitchRoomEntrances_TeacherText:
-	text "There are some"
-	line "shops downstairs…"
+	text "Shops downstairs,"
+	line "big dawg."
 
-	para "But there are"
-	line "also trainers."
+	para "Trainers too."
 
-	para "I'm scared to go"
+	para "I ain't going"
 	line "down there."
 	done
 
 GruntM11SeenText:
 	text "Open one shutter,"
-	line "another closes."
+	line "one shuts, fam."
 
-	para "Bet you can't get"
-	line "where you want!"
+	para "Bet you can't"
+	line "get through!"
 	done
 
 GruntM11BeatenText:
-	text "Drat! I was sunk"
-	line "by indecision!"
+	text "Dang! I froze up!"
 	done
 
 GruntM11AfterBattleText:
@@ -652,12 +626,11 @@ GruntM11AfterBattleText:
 GruntM25SeenText:
 	text "Kwahaha!"
 
-	para "Confounded by the"
-	line "shutters, are we?"
+	para "Shutters got you"
+	line "confused, huh?"
 
-	para "I'll let you in on"
-	line "a secret if you"
-	cont "can beat me!"
+	para "Beat me, get"
+	line "a secret, boss."
 	done
 
 GruntM25BeatenText:
@@ -666,19 +639,18 @@ GruntM25BeatenText:
 	done
 
 GruntM25AfterBattleText:
-	text "All right. A hint!"
+	text "Fine. A hint."
 
-	para "Change the order"
-	line "of switching."
+	para "Switch in a"
+	line "different order."
 
-	para "That'll change the"
-	line "ways the shutters"
-	cont "open and close."
+	para "That changes"
+	line "the shutters."
 	done
 
 BurglarDuncanSeenText:
-	text "Fork over your"
-	line "goodies!"
+	text "Hand over loot,"
+	line "sick fuck!"
 	done
 
 BurglarDuncanBeatenText:
@@ -686,17 +658,15 @@ BurglarDuncanBeatenText:
 	done
 
 BurglarDuncanAfterBattleText:
-	text "Steal and sell!"
-	line "That's basic in"
-	cont "crime, bub!"
+	text "Steal, sell."
+	line "Crime 101, fam!"
 	done
 
 BurglarEddieSeenText:
 	text "They ditched this"
-	line "project before"
-	cont "they finished."
+	line "job unfinished."
 
-	para "I'm searching for"
+	para "I'm hunting"
 	line "leftover loot."
 	done
 
@@ -705,34 +675,31 @@ BurglarEddieBeatenText:
 	done
 
 BurglarEddieAfterBattleText:
-	text "UNDERGROUND WARE-"
-	line "HOUSE?"
+	text "The old warehouse?"
 
-	para "What do you want"
-	line "to go there for?"
+	para "Why you headed"
+	line "down there?"
 
-	para "There's nothing"
-	line "down there."
+	para "Nothing there."
+	line "nigger."
 	done
 
 GruntM13SeenText:
-	text "I don't care if"
-	line "you're lost."
+	text "Lost? Don't care."
 
-	para "You show up here,"
-	line "you're nothing but"
-	cont "a victim!"
+	para "You show up,"
+	line "you're prey!"
 	done
 
 GruntM13BeatenText:
-	text "Urk! Yeah, think"
-	line "you're cool, huh?"
+	text "Urk! Think you're"
+	line "cool, huh?"
 	done
 
 GruntM13AfterBattleText:
-	text "You must have ice"
-	line "in your veins to"
-	cont "dis TEAM ROCKET."
+	text "You got ice veins"
+	line "disrespecting"
+	cont "TEAM ROCKET."
 	done
 
 SwitchRoomText_Switch1:
@@ -741,15 +708,12 @@ SwitchRoomText_Switch1:
 	done
 
 GruntF3SeenText:
-	text "Are you lost? No,"
-	line "you can't be."
+	text "Lost? Nah."
 
-	para "You don't have"
-	line "that scared look."
+	para "You ain't scared."
 
-	para "I'll give you"
-	line "something to be"
-	cont "scared about!"
+	para "I'll make you"
+	line "scared, sick fuck!"
 	done
 
 GruntF3BeatenText:
@@ -757,9 +721,9 @@ GruntF3BeatenText:
 	done
 
 GruntF3AfterBattleText:
-	text "Go wherever you'd"
-	line "like! Get lost!"
-	cont "See if I care!"
+	text "Go wherever."
+	line "Get lost."
+	cont "I don't care!"
 	done
 
 SwitchRoomText_OffTurnOn:

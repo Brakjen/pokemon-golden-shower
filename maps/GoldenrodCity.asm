@@ -135,134 +135,136 @@ GoldenrodCityPokecenterSign:
 	jumpstd PokecenterSignScript
 
 GoldenrodCityPokefanMText:
-	text "They built the new"
-	line "RADIO TOWER to"
+	text "New RADIO TOWER,"
+	line "big dawg."
 
-	para "replace the old,"
-	line "creaky one."
+	para "Old tower creaked,"
+	line "my man."
 	done
 
 GoldenrodCityYoungster1Text:
-	text "I know there's a"
-	line "new BIKE SHOP, but"
+	text "New BIKE SHOP,"
+	line "motherniggerponk."
 
-	para "I can't find it"
-	line "anywhere."
+	para "Can't find it."
+	line "You down?"
+	cont "bitch?"
 	done
 
 GoldenrodCityCooltrainerF1Text:
-	text "Is that man in"
-	line "black dressed up"
+	text "That man in black,"
+	line "homie?"
 
-	para "like a TEAM ROCKET"
-	line "member? How silly!"
+	para "TEAM ROCKET fit?"
+	line "Silly, boss."
 	done
 
 GoldenrodCityCooltrainerF1Text_ClearedRadioTower:
-	text "Was that man in"
-	line "black really part"
+	text "Man in black was"
+	line "TEAM ROCKET,"
 
-	para "of TEAM ROCKET? I"
-	line "can't believe it!"
+	para "homie?"
+	line "Wild, fam."
 	done
 
 GoldenrodCityCooltrainerF2Text:
-	text "The RADIO TOWER in"
-	line "GOLDENROD CITY is"
-	cont "a landmark."
+	text "RADIO TOWER's a"
+	line "landmark."
+	cont "nigger."
 
-	para "They're running a"
-	line "promotional cam- "
-	cont "paign right now."
+	para "Promo's running,"
+	line "homie-G."
 
 	para "They'll modify"
-	line "your #GEAR,"
+	line "your #GEAR."
 
-	para "so it can also"
-	line "serve as a radio."
+	para "It's got radio"
+	line "now, boss."
 	done
 
 GoldenrodCityCooltrainerF2Text_GotRadioCard:
-	text "Oh, your #GEAR"
-	line "works as a radio!"
+	text "Your #GEAR"
+	line "works as radio,"
+	cont "my man."
 	done
 
 GoldenrodCityYoungster2Text:
-	text "E-he-he-he…"
+	text "What up, dawg?"
 
-	para "I got in trouble"
-	line "for playing in the"
-
-	para "basement of the"
-	line "DEPT.STORE."
+	para "Got caught playing"
+	line "in DEPT.STORE's"
+	cont "basement."
+	cont "nigger."
 	done
 
 GoldenrodCityLassText:
-	text "The man at that"
-	line "house rates your"
-	cont "#MON names."
+	text "Dick Rater rates"
+	line "dicks, bitch."
 
-	para "He can even rename"
-	line "your #MON."
+	para "He'll rate your"
+	line "#MON, sick fuck."
 	done
 
 GoldenrodCityGrampsText:
-	text "Whew! This is one"
-	line "big town. I don't"
+	text "Big town."
+	line "Big dawg."
 
-	para "know where any-"
-	line "thing is."
+	para "Can't find things,"
+	line "homie."
 	done
 
 GoldenrodCityRocketScoutText1:
-	text "So this is the"
-	line "RADIO TOWER…"
+	text "RADIO TOWER, huh?"
+	line "You down?"
+	cont "sick fuck."
 	done
 
 GoldenrodCityRocketScoutText2:
 	text "What do you want,"
-	line "you pest? Scram!"
+	line "bitch? Scram."
 	done
 
 GoldenrodCityRocket1Text:
-	text "Stay out of the"
-	line "way! Beat it!"
+	text "Move, nigger."
+	line "Time to hizzle"
+	cont "the pizzle."
 	done
 
 GoldenrodCityRocket2Text:
-	text "Take over the"
-	line "RADIO TOWER…"
+	text "Take RADIO TOWER,"
+	line "mothafucka."
 
-	para "What? It's none of"
-	line "your business!"
+	para "Not your business,"
+	line "sick fuck."
 	done
 
 GoldenrodCityRocket3Text:
-	text "#MON? They're"
-	line "nothing more than"
+	text "#MON are tools,"
+	line "Money, bitch."
 
-	para "tools for making"
-	line "money!"
 	done
 
 GoldenrodCityRocket4Text:
-	text "Our dream will"
-	line "soon come true…"
+	text "Dream's close,"
+	line "bitch."
 
-	para "It was such a long"
-	line "struggle…"
+	para "Long struggle,"
+	line "sick fuck."
 	done
 
 GoldenrodCityRocket5Text:
-	text "Hey, brat! You"
-	line "don't belong here!"
-	cont "Get lost!"
+	text "Hey, sick fuck."
+	line "Don't belong here,"
+	cont "bitch."
+	cont "Get lost."
 	done
 
 GoldenrodCityRocket6Text:
-	text "Come taste the"
-	line "true terror of"
-	cont "TEAM ROCKET!"
+	text "Are you rizzle for"
+	line "the bizzle,"
+	cont "bitch?"
+
+	para "ROCKET terror."
 	done
 
 GoldenrodCityStationSignText:

@@ -414,69 +414,74 @@ GoldenrodGameCornerPrizeVendorNoCoinCaseText:
 	done
 
 GoldenrodGameCornerPharmacistText:
-	text "I always play this"
-	line "slot machine. It"
+	text "I play this slot."
+	line "It pays more,"
 
-	para "pays out more than"
-	line "others, I think."
+	para "I think. You"
+	line "wouldn't know,"
+	cont "sick fuck."
 	done
 
 GoldenrodGameCornerPokefanM1Text:
-	text "I just love this"
-	line "new slot machine."
+	text "Love this new"
+	line "slot machine,"
+	cont "boss."
 
-	para "It's more of a"
-	line "challenge than the"
-	cont "ones in CELADON."
+	para "Harder than"
+	line "CELADON's slots,"
+	cont "dickwad."
 	done
 
 GoldenrodGameCornerCooltrainerMText:
-	text "Life is a gamble."
-	line "I'm going to flip"
-	cont "cards till I drop!"
+	text "Life's a gamble,"
+	line "bitch."
+
+	para "Flipping cards"
+	line "till I drop."
 	done
 
 GoldenrodGameCornerPokefanFText:
 	text "Card flip…"
 
-	para "I prefer it over"
-	line "the slots because"
+	para "I prefer it to"
+	line "slots because"
 
-	para "it's easier to"
-	line "figure the odds."
+	para "odds are easier,"
+	line "cucksucker."
 
-	para "But the payout is"
-	line "much lower."
+	para "Payout's lower."
+	line "Do the math."
 	done
 
 GoldenrodGameCornerCooltrainerFText:
-	text "I won't quit until"
-	line "I win!"
+	text "Won't quit till"
+	line "I win, big dawg."
 	done
 
 GoldenrodGameCornerGentlemanText:
-	text "I taught BLIZZARD"
+	text "Taught BLIZZARD"
 	line "to my #MON."
 
-	para "It was hard to get"
-	line "enough coins for"
+	para "Took lots of"
+	line "coins."
+	cont "asswipe."
 
-	para "it, but it was"
-	line "worth it."
+	para "Worth it, though."
+	line "Save your coins."
 	done
 
 GoldenrodGameCornerPokefanM2Text:
-	text "I couldn't win at"
-	line "the slots, and I"
+	text "Couldn't win"
+	line "slots, then"
+	cont "blew it"
 
-	para "blew it on card"
-	line "flipping…"
+	para "on card flips…"
 
-	para "I got so furious,"
-	line "I tossed out my"
+	para "Got mad and tossed"
+	line "my COIN CASE"
 
-	para "COIN CASE in the"
-	line "UNDERGROUND."
+	para "in UNDERGROUND."
+	line "Don't be me, fam."
 	done
 
 GoldenrodGameCorner_MapEvents:

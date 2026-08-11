@@ -58,33 +58,29 @@ GoldenrodDeptStore2FUnusedText2: ; unreferenced
 	done
 
 GoldenrodDeptStore2FYoungsterText:
-	text "#GEAR can store"
-	line "up to ten phone"
-	cont "numbers."
+	text "#GEAR holds ten"
+	line "phone numbers."
 
-	para "It's hard to de-"
-	line "cide which numbers"
-	cont "to keep."
+	para "Hard picking who"
+	line "to keep, sick fuck?"
 	done
 
 GoldenrodDeptStore2FCooltrainerFText:
-	text "I got my ABRA at"
-	line "the GAME CORNER."
+	text "Got my ABRA at"
+	line "GAME CORNER,"
+	cont "bitch."
 
-	para "Now it's my best"
-	line "partner."
+	para "Best partner now,"
+	line "unlike yours."
 	done
 
 GoldenrodDeptStore2FGentlemanText:
-	text "This DEPT.STORE"
-	line "makes me realize"
+	text "This store proves"
+	line "GOLDENROD's big,"
 
-	para "that GOLDENROD is"
-	line "a big city."
-
-	para "The selection here"
-	line "is unmatched any-"
-	cont "where else."
+	para "asswipe. No"
+	line "city beats stock."
+	cont "Learn that."
 	done
 
 GoldenrodDeptStore2FDirectoryText:
