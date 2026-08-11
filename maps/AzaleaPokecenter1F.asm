@@ -26,40 +26,43 @@ AzaleaPokecenter1FPokefanFScript:
 	jumptextfaceplayer AzaleaPokecenter1FPokefanFText
 
 AzaleaPokecenter1FGentlemanText:
-	text "Do your #MON"
-	line "know HM moves?"
+	text "Your #MON know"
+	line "HM moves, dawg?"
 
-	para "Those moves can"
-	line "be used even if"
+	para "HM moves work"
+	line "when #MON"
 
-	para "your #MON has"
-	line "fainted."
+	para "fall down too."
+	line "Still work."
 	done
 
 AzaleaPokecenter1FFishingGuruText:
-	text "BILL's PC can"
-	line "store up to 20"
-	cont "#MON per BOX."
+	text "BILL's PC holds"
+	line "20 #MON"
+	cont "in each BOX."
+
+	para "Big #MON box."
+	line "Not a real box."
 	done
 
 AzaleaPokecenter1FPokefanFText:
-	text "Do you know about"
-	line "APRICORNS?"
+	text "APRICORNS?"
+	line "Little tree balls."
 
-	para "Crack one open,"
-	line "hollow it out and"
+	para "Break one."
+	line "Make it empty."
 
-	para "fit it with a"
-	line "special device."
+	para "Put a thing in."
 
-	para "Then you can catch"
-	line "#MON with it."
+	para "Then it catches"
+	line "#MON. Like"
+	cont "a BALL."
 
-	para "Before # BALLS"
-	line "were invented,"
+	para "Before # BALLS,"
+	line "people used them."
 
-	para "everyone used"
-	line "APRICORNS."
+	para "Everybody did."
+	line "I think."
 	done
 
 AzaleaPokecenter1F_MapEvents:

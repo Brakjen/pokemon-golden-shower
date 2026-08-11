@@ -37,7 +37,7 @@ Reuse the city dialogue's non-identity nickname palette. In this voice, the name
 
 Use these put-downs: `storeniding`, `kjempelilleponk`, `storeklovn`, `vetlegnolt`, `dingleberry`, and `weakling`.
 
-Use these familiar or approving addresses: `dawg`, `my man`, `big man`, `fam`, `boss`, `homie`, `homie-G`, `big dawg`, `gangster`, and `my dude`.
+Use these familiar or approving addresses: `dawg`, `my man`, `homie`, `homie-G`, `big dawg`, `gangster`, and `my dude`.
 
 Work a name into directions, reactions, questions, explanations, and dead-end replies. Use one or two names in a short message when the NPC is rambling, but do not turn the speech into a polished insult routine.
 

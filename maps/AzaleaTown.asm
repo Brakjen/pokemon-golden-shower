@@ -204,130 +204,104 @@ AzaleaTownRivalBattleExitMovement:
 	step_end
 
 AzaleaTownRivalBeforeText:
-	text "…Tell me some-"
-	line "thing."
+	text "Tell me a thing."
 
-	para "Is it true that"
-	line "TEAM ROCKET has"
-	cont "returned?"
+	para "TEAM ROCKET back?"
 
-	para "What? You beat"
-	line "them? Hah! Quit"
-	cont "lying."
+	para "You beat them?"
+	line "Sounds made up."
 
-	para "You're not joking?"
-	line "Then let's see how"
-	cont "good you are."
+	para "Maybe not."
+	line "Fight me. Then"
+	cont "I see your stuff."
 	done
 
 AzaleaTownRivalWinText:
-	text "… Humph! Useless"
-	line "#MON!"
+	text "My #MON bad."
 
-	para "Listen, you. You"
-	line "only won because"
-
-	para "my #MON were"
-	line "weak."
+	para "You won 'cause"
+	line "they weak."
 	done
 
 AzaleaTownRivalAfterText:
-	text "I hate the weak."
+	text "Weak stuff bad."
 
-	para "#MON, trainers."
-	line "It doesn't matter"
-	cont "who or what."
+	para "#MON. Trainers."
+	line "All weak stuff."
 
-	para "I'm going to be"
-	line "strong and wipe"
-	cont "out the weak."
+	para "I get strong."
+	line "Weak goes away."
 
-	para "That goes for TEAM"
-	line "ROCKET too."
+	para "TEAM ROCKET too."
 
-	para "They act big and"
-	line "tough in a group."
+	para "They big together."
 
-	para "But get them"
-	line "alone, and they're"
-	cont "weak."
+	para "Alone? Small."
 
-	para "I hate them all."
+	para "I don't like them."
 
-	para "You stay out of my"
-	line "way. A sick fuck"
-
-	para "like you is only a"
-	line "distraction."
+	para "You stay away,"
+	line "nigger."
 	done
 
 AzaleaTownRivalLossText:
-	text "…Humph! I knew"
-	line "you were lying."
+	text "Knew you made"
+	line "it up."
 	done
 
 AzaleaTownRocket1Text:
-	text "It's unsafe to go"
-	line "in there, so I'm"
-	cont "standing guard."
+	text "Don't go in."
+	line "Bad hole place."
 
-	para "Aren't I a good"
-	line "Samaritan?"
+	para "I stand here."
+	line "Guard guy. Good"
+	cont "guard, I think."
 	done
 
 AzaleaTownRocket2Text:
-	text "Do you know about"
-	line "SLOWPOKETAIL? I"
-	cont "heard it's tasty!"
+	text "SLOWPOKETAIL?"
+	line "Tail food, maybe."
 
-	para "Aren't you glad I"
-	line "told you that?"
+	para "They say tasty."
+	line "I dunno, dawg."
 	done
 
 AzaleaTownGrampsTextBefore:
-	text "The SLOWPOKE have"
-	line "disappeared from"
-	cont "town…"
+	text "SLOWPOKE gone."
+	line "Town got no slow"
+	cont "slow things."
 
-	para "I heard their"
-	line "TAILS are being"
-	cont "sold somewhere."
+	para "People say tails"
+	line "get sold."
+	cont "Some place."
 	done
 
 AzaleaTownGrampsTextAfter:
-	text "The SLOWPOKE have"
-	line "returned."
+	text "SLOWPOKE back."
 
-	para "Knowing them, they"
-	line "could've just been"
-
-	para "goofing off some-"
-	line "where."
+	para "Maybe they walked"
+	line "somewhere slow."
 	done
 
 AzaleaTownTeacherText:
-	text "Did you come to"
-	line "get KURT to make"
-	cont "some BALLS?"
+	text "KURT makes BALLS."
+	line "Ball things."
 
-	para "A lot of people do"
-	line "just that."
+	para "Lots of folks want"
+	line "KURT BALLS."
 	done
 
 AzaleaTownYoungsterText:
-	text "Cut through AZALEA"
-	line "and you'll be in"
-	cont "ILEX FOREST."
+	text "Walk through"
+	line "AZALEA. ILEX"
+	cont "FOREST is there."
 
-	para "But these skinny"
-	line "trees make it"
+	para "Skinny trees stop"
+	line "your feet, though."
 
-	para "impossible to get"
-	line "through."
-
-	para "The CHARCOAL MAN's"
-	line "#MON can CUT"
-	cont "down trees."
+	para "CHARCOAL MAN's"
+	line "#MON know CUT."
+	cont "Trees go down."
 	done
 
 AzaleaTownSlowpokeText1:
