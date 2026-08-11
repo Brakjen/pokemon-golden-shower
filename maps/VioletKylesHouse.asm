@@ -13,21 +13,30 @@ VioletKylesHousePokefanMScript:
 Kyle:
 	faceplayer
 	opentext
+	writetext KyleTransText
+	waitbutton
 	trade NPC_TRADE_KYLE
 	waitbutton
 	closetext
 	end
 
 VioletKylesHousePokefanMText:
-	text "A #MON you get"
-	line "in a trade grows"
-	cont "quickly."
+	text "Traded #MON"
+	line "grow fast."
 
-	para "But if you don't"
-	line "have the right GYM"
+	para "Need GYM BADGES"
+	line "for them to obey."
 
-	para "BADGE, they may"
-	line "disobey you."
+	para "Respect is easy,"
+	line "cocksucker."
+
+	para "Trans folks too."
+	line "No boxing them in."
+	done
+
+KyleTransText:
+	text "I trade #MON."
+	line "Trans welcome."
 	done
 
 VioletKylesHouse_MapEvents:

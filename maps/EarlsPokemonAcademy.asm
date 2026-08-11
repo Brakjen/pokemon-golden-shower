@@ -161,45 +161,42 @@ AcademyEarlSpinMovement:
 	step_end
 
 AcademyEarlIntroText:
-	text "EARL, I am!"
+	text "I am EARL."
 
-	para "Wonderful are"
-	line "#MON, yes!"
+	para "#MON are good."
 
-	para "Teach you I will"
-	line "to be a better"
-	cont "trainer!"
+	para "I teach trainers"
+	line "to do better."
+	cont "Trans trainers."
 
-	para "What you want to"
-	line "know? Want to be"
-	cont "a winner is you?"
+	para "Want to learn"
+	line "how to win?"
 	done
 
 AcademyEarlTeachHowToWinText:
-	text "Good! Teach you,"
-	line "I will!"
+	text "Good. Listen."
 
-	para "In battle, #MON"
-	line "top on list jump"
-	cont "out first!"
+	para "Top #MON"
+	line "comes out first."
 
-	para "Change order in"
-	line "list, make battle"
-	cont "easy, maybe!"
+	para "Change that order"
+	line "for better fights."
 
-	para "More from me you"
-	line "want to hear?"
+	para "No boxing trans"
+	line "students in."
+	cont "Learn, transcock."
+
+	para "Want more?"
 	done
 
 AcademyEarlTeachMoreText:
-	text "So, want to know"
-	line "how to raise"
-	cont "#MON well?"
+	text "Want to raise"
+	line "#MON well?"
+	cont "Trans folks too."
 	done
 
 AcademyEarlTeachHowToRaiseWellText:
-	text "Fine! Teach you,"
-	line "I will!"
+	text "Fine. Listen."
 
 	para "If #MON come"
 	line "out in battle even"
@@ -216,50 +213,61 @@ AcademyEarlTeachHowToRaiseWellText:
 	para "This way, weak"
 	line "#MON strong"
 	cont "become!"
+
+	para "Trans folks earn"
+	line "their place too."
 	done
 
 AcademyEarlNoMoreToTeachText:
-	text "Oh! Smart student"
-	line "you are! Nothing"
-	cont "more do I teach!"
+	text "You got it."
+	line "No more today."
 
-	para "Good to #MON"
-	line "you must be!"
+	para "Be good to"
+	line "#MON."
+	cont "Trans people too."
 	done
 
 EarlsPokemonAcademyYoungster1Text:
-	text "I'm taking notes"
-	line "of the teacher's"
-	cont "lecture."
+	text "I take notes"
+	line "from class."
 
-	para "I'd better copy"
-	line "the stuff on the"
-	cont "blackboard too."
+	para "Blackboard too."
+	line "No skipping."
+
+	para "Trans notes count"
+	line "too."
+	cont "Notes, sick fuck."
 	done
 
 EarlsPokemonAcademyGameboyKid1Text:
 	text "I traded my best"
-	line "#MON to the"
-	cont "guy beside me."
+	line "#MON next door."
+
+	para "Trans trades rule."
 	done
 
 EarlsPokemonAcademyGameboyKid2Text:
-	text "Huh? The #MON I"
-	line "just got is hold-"
-	cont "ing something!"
+	text "The #MON I got"
+	line "holds something!"
+
+	para "No phobic trades."
+	line "Try, transcock."
 	done
 
 EarlsPokemonAcademyYoungster2Text:
-	text "A #MON holding"
-	line "a BERRY will heal"
-	cont "itself in battle."
+	text "#MON with BERRY"
+	line "can laekja in"
+	cont "battle."
 
-	para "Many other items"
-	line "can be held by"
-	cont "#MON…"
+	para "#MON hold lots"
+	line "of items too."
 
-	para "It sure is tough"
-	line "taking notes…"
+	para "Notes are hard."
+	line "Still do them."
+
+	para "Trans folks learn"
+	line "here too."
+	cont "Learn, microdick"
 	done
 
 AcademyBlackboardText:

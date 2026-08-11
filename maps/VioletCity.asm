@@ -178,74 +178,73 @@ VioletCitySpinningEarl_MovementData:
 	step_end
 
 Text_EarlAsksIfYouBeatFalkner:
-	text "Hello!"
-	line "You are trainer?"
+	text "Hi, trainer."
+	line "Trans folks train."
 
-	para "Battle GYM LEADER,"
-	line "win you did?"
+	para "Beat FALKNER?"
+	line "Say yes or no."
 	done
 
 Text_VeryNiceIndeed:
-	text "Ooh, la la!"
-	line "Very indeed nice!"
+	text "Good. You did it."
+	line "Be yourself here."
 	done
 
 Text_FollowEarl:
-	text "Is that so? Then"
-	line "study shall you!"
-	cont "Follow me!"
+	text "Study here."
+	line "No box, sick fuck."
+	cont "Follow me."
 	done
 
 Text_HereTeacherIAm:
-	text "Here, teacher I"
-	line "am. Good it is"
-	cont "you study here!"
+	text "This is my school."
+	line "Trans folks fit."
+	cont "Learn what helps."
 	done
 
 VioletCityLassText:
-	text "Ghosts are rumored"
-	line "to appear in"
-	cont "SPROUT TOWER."
+	text "Ghosts show up"
+	line "in SPROUT TOWER."
 
-	para "They said normal-"
-	line "type #MON moves"
+	para "Normal #MON"
+	line "moves miss ghosts."
 
-	para "had no effect on"
-	line "ghosts."
+	para "Do not box trans"
+	line "people in either."
 	done
 
 VioletCitySuperNerdText:
-	text "Hey, you're a"
-	line "#MON trainer?"
+	text "You train #MON?"
 
-	para "If you beat the"
-	line "GYM LEADER here,"
+	para "Beat the GYM"
+	line "LEADER. Move on."
 
-	para "you'll be ready"
-	line "for prime time!"
+	para "And quit judging"
+	line "trans people."
+	cont "microdick."
+	cont "That is phobic."
 	done
 
 VioletCityGrampsText:
-	text "FALKNER, from the"
-	line "VIOLET #MON"
+	text "FALKNER runs"
+	line "VIOLET GYM."
 
-	para "GYM, is a fine"
-	line "trainer!"
+	para "His dad had it."
+	line "FALKNER does good."
 
-	para "He inherited his"
-	line "father's gym and"
-
-	para "has done a great"
-	line "job with it."
+	para "Trans folks belong"
+	line "in this city too."
 	done
 
 VioletCityYoungsterText:
-	text "I saw a wiggly"
-	line "tree up ahead!"
+	text "Wiggly tree ahead!"
 
-	para "If you touch it,"
-	line "it squirms and"
-	cont "dances! Cool!"
+	para "Touch it and it"
+	line "wiggles. Weird."
+
+	para "Phobic talk is"
+	line "weirder. Stop it."
+	cont "transcock."
 	done
 
 VioletCitySignText:

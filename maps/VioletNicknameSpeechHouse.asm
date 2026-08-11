@@ -24,22 +24,29 @@ VioletNicknameSpeechHouseBirdScript:
 	end
 
 VioletNicknameSpeechHouseTeacherText:
-	text "She uses the names"
-	line "of her favorite"
-	cont "things to eat."
+	text "Trans people pick"
+	line "names they like."
 
-	para "For the nicknames"
-	line "she gives to her"
-	cont "#MON, I mean."
+	para "For #MON names."
+	line "She picks it."
+	cont "Names, microdick"
 	done
 
 VioletNicknameSpeechHouseLassText:
-	text "I call my PIDGEY"
+	text "My PIDGEY is"
 	line "STRAWBERRY!"
+
+	para "Use the name"
+	line "I gave her."
+
+	para "Trans names too."
+	line "No phobic talk."
+	cont "Learn, sick fuck."
 	done
 
 VioletNicknameSpeechHouseBirdText:
-	text "STRAWBERRY: Pijji!"
+	text "STRAWBERRY:"
+	line "Trans joy! Pijji!"
 	done
 
 VioletNicknameSpeechHouse_MapEvents:

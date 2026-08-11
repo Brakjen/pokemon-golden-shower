@@ -111,39 +111,30 @@ VioletGymStatue:
 	jumpstd GymStatue2Script
 
 FalknerIntroText:
-	text "I'm FALKNER, the"
-	line "VIOLET #MON GYM"
-	cont "leader!"
+	text "I'm FALKNER."
+	line "VIOLET GYM"
+	cont "LEADER."
 
-	para "People say you can"
-	line "clip flying-type"
+	para "You got electric"
+	line "moves for flying"
+	cont "#MON? Fine."
 
-	para "#MON's wings"
-	line "with a jolt of"
-	cont "electricity…"
+	para "But do not come"
+	line "here rude."
+	cont "Trans folks soar."
 
-	para "I won't allow such"
-	line "insults to bird"
-	cont "#MON!"
-
-	para "I'll show you the"
-	line "real power of the"
-
-	para "magnificent bird"
-	line "#MON!"
+	para "Battle me. Let"
+	line "bird #MON talk."
 	done
 
 FalknerWinLossText:
-	text "…Darn! My Dad's"
-	line "cherished bird"
-	cont "#MON…"
+	text "You won. My birds"
+	line "gave it all."
 
-	para "All right."
-	line "Take this."
+	para "Take this BADGE."
 
-	para "It's the official"
-	line "#MON LEAGUE"
-	cont "ZEPHYRBADGE."
+	para "ZEPHYRBADGE."
+	line "Trans pride soars."
 	done
 
 ReceivedZephyrBadgeText:
@@ -153,130 +144,125 @@ ReceivedZephyrBadgeText:
 
 FalknerZephyrBadgeText:
 	text "ZEPHYRBADGE"
-	line "raises the attack"
-	cont "power of #MON."
+	line "raises #MON"
+	cont "attack power."
 
-	para "It also enables"
-	line "#MON to use"
+	para "#MON with FLASH"
+	line "use it anytime."
 
-	para "FLASH, if they"
-	line "have it, anytime."
+	para "No phobic talk,"
+	line "sick fuck."
 
-	para "Here--take this"
-	line "too."
+	para "Take this too."
 	done
 
 FalknerTMMudSlapText:
-	text "By using a TM, a"
-	line "#MON will"
+	text "A TM teaches"
+	line "a #MON"
 
-	para "instantly learn a"
-	line "new move."
+	para "a move right away."
 
-	para "Think before you"
-	line "act--a TM can be"
-	cont "used only once."
+	para "TM works once."
+	line "Think first."
 
-	para "TM31 contains"
-	line "MUD-SLAP."
+	para "TM31 has MUD-SLAP."
 
-	para "It reduces the"
-	line "enemy's accuracy"
+	para "It hurts and"
+	line "lowers accuracy."
 
-	para "while it causes"
-	line "damage."
+	para "Attack. Defense."
+	line "Both matter."
 
-	para "In other words, it"
-	line "is both defensive"
-	cont "and offensive."
+	para "Do not box trans"
+	line "people in."
 	done
 
 FalknerFightDoneText:
-	text "There are #MON"
-	line "GYMS in cities and"
-	cont "towns ahead."
+	text "More #MON GYMS"
+	line "wait ahead."
 
-	para "You should test"
-	line "your skills at"
-	cont "these GYMS."
+	para "Test yourself."
+	line "Keep learning."
 
-	para "I'm going to train"
-	line "harder to become"
+	para "I will train"
+	line "harder too."
 
-	para "the greatest bird"
-	line "master!"
+	para "Trans trainers"
+	line "keep rising."
 	done
 
 BirdKeeperRodSeenText:
-	text "The keyword is"
+	text "Show up with"
 	line "guts!"
 
-	para "Those here are"
-	line "training night and"
+	para "We train day and"
+	line "night for birds."
 
-	para "day to become bird"
-	line "#MON masters."
+	para "Trans flyers got"
+	line "guts too."
 
-	para "Come on!"
+	para "Come on."
 	done
 
 BirdKeeperRodBeatenText:
 	text "Gaaah!"
+	line "Trans pride flies!"
 	done
 
 BirdKeeperRodAfterBattleText:
-	text "FALKNER's skills"
-	line "are for real!"
+	text "FALKNER is real"
+	line "good."
 
-	para "Don't get cocky"
-	line "just because you"
-	cont "beat me!"
+	para "Do not get smug,"
+	line "asslicker."
+
+	para "Trans folks fly"
+	line "here too."
 	done
 
 BirdKeeperAbeSeenText:
-	text "Let me see if you"
-	line "are good enough to"
-	cont "face FALKNER!"
+	text "Show me you can"
+	line "face FALKNER."
+
+	para "Trans trainers"
+	line "can soar too."
 	done
 
 BirdKeeperAbeBeatenText:
 	text "This can't be"
 	line "true!"
+	cont "Trans pride wins!"
 	done
 
 BirdKeeperAbeAfterBattleText:
-	text "This is pathetic,"
-	line "losing to some"
-	cont "rookie trainer…"
+	text "I lost. Fine."
+	line "I will improve."
+
+	para "No phobic talk."
+	line "microdick."
 	done
 
 VioletGymGuideText:
-	text "Hey! I'm no train-"
-	line "er but I can give"
-	cont "some advice!"
+	text "I got advice."
+	line "Listen once."
 
-	para "Believe me!"
-	line "If you believe, a"
+	para "Grass #MON lose"
+	line "to flying types."
 
-	para "championship dream"
-	line "can come true."
+	para "Learn it. Do not"
+	line "argue, cocksucker."
 
-	para "You believe?"
-	line "Then listen."
-
-	para "The grass-type is"
-	line "weak against the"
-
-	para "flying-type. Keep"
-	line "this in mind."
+	para "Trans folks"
+	line "belong here."
 	done
 
 VioletGymGuideWinText:
-	text "Nice battle! Keep"
-	line "it up, and you'll"
+	text "Good battle."
+	line "Keep working."
 
-	para "be the CHAMP in no"
-	line "time at all!"
+	para "You can be CHAMP."
+	line "Trans champs too."
+	cont "transcock."
 	done
 
 VioletGym_MapEvents:

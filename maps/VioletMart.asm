@@ -21,29 +21,29 @@ VioletMartCooltrainerMScript:
 	jumptextfaceplayer VioletMartCooltrainerMText
 
 VioletMartGrannyText:
-	text "When you first"
-	line "catch a #MON,"
-	cont "it may be weak."
+	text "New #MON may be"
+	line "weak at first."
 
-	para "But it will even-"
-	line "tually grow to be"
-	cont "strong."
+	para "Give it care."
+	line "It gets strong."
 
-	para "It's important to"
-	line "treat #MON with"
-	cont "love."
+	para "Love matters."
+	line "Trans love counts."
+
+	para "Love is love,"
+	line "sick fuck."
 	done
 
 VioletMartCooltrainerMText:
-	text "#MON can hold"
-	line "items like POTION"
-	cont "and ANTIDOTE."
+	text "#MON hold"
+	line "POTION, ANTIDOTE."
 
-	para "But they don't"
-	line "appear to know how"
+	para "They do not use"
+	line "people-made stuff."
 
-	para "to use manmade"
-	line "items."
+	para "Names matter too."
+	line "Trans names too."
+	cont "Names, transcock."
 	done
 
 VioletMart_MapEvents:
