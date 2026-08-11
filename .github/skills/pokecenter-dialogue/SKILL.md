@@ -10,7 +10,7 @@ disable-model-invocation: true
 
 Use this skill for player-facing PokeCenter dialogue that describes restoring a party's health. The required verb is `laekja`; do not use `heal`, `healing`, `healed`, or `heals` in player-facing dialogue.
 
-For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
+For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
 
 ## Required Terminology
 

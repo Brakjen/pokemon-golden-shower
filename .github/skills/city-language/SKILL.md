@@ -7,7 +7,7 @@ description: "Write fictional big-city NPC dialogue with blunt challenges, clipp
 
 Write fictional big-city NPCs who speak with confidence, pressure, attitude, and selective street slang. Make the voice feel socially alert and ready for conflict without turning every exchange into violence.
 
-For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
+For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
 
 ## Voice
 

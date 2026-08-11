@@ -10,7 +10,7 @@ disable-model-invocation: true
 
 Use this skill to write NPC dialogue in a formal, medieval, aristocratic voice. NPCs should sound cultured, socially superior, and mildly dismissive of the player. Their contempt should usually be controlled and polished rather than loud or crude.
 
-For technical text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For PokeCenter healing dialogue, also follow [PokeCenter Laekja Dialogue](../pokecenter-dialogue/SKILL.md).
+For technical text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For PokeCenter healing dialogue, also follow [PokeCenter Laekja Dialogue](../pokecenter-dialogue/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
 
 ## Voice
 
