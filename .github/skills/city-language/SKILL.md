@@ -286,3 +286,4 @@ Before finalizing, confirm:
 - Every alleged bedchamber partner is an adult, and any present-day `young men` or `sons` are adults.
 - Professor parentage remains rumor, suspicion, or disputed family history rather than confirmed canon.
 - The final text is reviewed with [Game Dialogue Safety](../game-dialog/SKILL.md).
+
