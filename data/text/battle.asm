@@ -169,10 +169,8 @@ BattleText_EnemyMonFainted:
 	prompt
 
 GotMoneyForWinningText:
-	text "<PLAYER> got ¥@"
-	text_decimal wBattleReward, 3, 6
-	text_start
-	line "for winning!"
+	text "<PLAYER> got"
+	line "a tug for winning!"
 	prompt
 
 BattleText_EnemyWasDefeated:
@@ -186,11 +184,8 @@ TiedAgainstText:
 	prompt
 
 SentSomeToMomText:
-	text "<PLAYER> got ¥@"
-	text_decimal wBattleReward, 3, 6
-	text_start
-	line "for winning!"
-	cont "Sent some to MOM!"
+	text "<PLAYER> got"
+	line "a tug for winning!"
 	prompt
 
 SentHalfToMomText:
