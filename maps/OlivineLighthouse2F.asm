@@ -102,44 +102,38 @@ TrainerSailorHuey:
 	end
 
 SailorHueySeenText:
-	text "Men of the sea are"
-	line "always spoiling"
-	cont "for a good fight!"
+	text "Sea man fight,"
+	line "cockmilker!"
+	cont "You fight too?"
 	done
 
 SailorHueyBeatenText:
-	text "Urf!"
-	line "I lose!"
+	text "Urp! Me lose!"
 	done
 
 SailorHueyAfterBattleText:
-	text "What power!"
-	line "How would you like"
+	text "You strong strong!"
 
-	para "to sail the seas"
+	para "Boat go splash"
 	line "with me?"
 	done
 
 GentlemanAlfredSeenText:
-	text "Hm? This is no"
-	line "place for playing."
+	text "No play here,"
+	line "maddafakka."
+	cont "Fighty now."
 	done
 
 GentlemanAlfredBeatenText:
-	text "Ah! I can see that"
-	line "you're serious."
+	text "Oh! You mean it."
 	done
 
 GentlemanAlfredAfterBattleText:
-	text "Up top is a #-"
-	line "MON that keeps the"
-	cont "LIGHTHOUSE lit."
+	text "Top got pet make"
+	line "light light."
 
-	para "But I hear that"
-	line "it's sick now and"
-
-	para "can't be cured by"
-	line "ordinary medicine."
+	para "Pet sick sick."
+	line "Yucky sip no help."
 	done
 
 OlivineLighthouse2F_MapEvents:

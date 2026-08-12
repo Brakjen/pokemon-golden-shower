@@ -14,24 +14,19 @@ OlivineLighthouse1FPokefanFScript:
 	jumptextfaceplayer OlivineLighthouse1FPokefanFText
 
 OlivineLighthouse1FSailorText:
-	text "People train at"
-	line "this LIGHTHOUSE."
+	text "Big light house"
+	line "got fighty folk."
 
-	para "It's not easy to"
-	line "climb because of"
-	cont "all the trainers."
+	para "Up up hard."
+	line "Lotsa fight!"
 	done
 
 OlivineLighthouse1FPokefanFText:
-	text "In the past, #-"
-	line "MON used to light"
+	text "Long long ago,"
+	line "pets make light."
 
-	para "the sea around"
-	line "OLIVINE at night."
-
-	para "The LIGHTHOUSE was"
-	line "made in honor of"
-	cont "those #MON."
+	para "Big light house"
+	line "for pet lights."
 	done
 
 OlivineLighthouse1F_MapEvents:

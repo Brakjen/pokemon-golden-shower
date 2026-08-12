@@ -30,53 +30,42 @@ TrainerSailorKent:
 	end
 
 SailorKentSeenText:
-	text "JASMINE must be"
-	line "worried sick about"
-	cont "the #MON here."
+	text "Hard girl sad"
+	line "for sick pet."
 
-	para "She won't even"
-	line "smile these days."
+	para "No smiley,"
+	line "cockmilker."
 	done
 
 SailorKentBeatenText:
-	text "I can't manage a"
-	line "smile either…"
+	text "Me no smile too."
 	done
 
 SailorKentAfterBattleText:
-	text "Speaking of sick,"
-	line "I've heard there's"
-
-	para "a good PHARMACY in"
-	line "CIANWOOD."
+	text "Far water got"
+	line "good fix shop."
 	done
 
 LassConnie1SeenText:
-	text "JASMINE is this"
-	line "city's GYM LEADER."
+	text "Hard girl boss"
+	line "fight house."
 
-	para "I mean to bring"
-	line "her back with me."
+	para "Me bring her back."
 
-	para "Nobody had better"
-	line "get in my way!"
+	para "No block me,"
+	line "maddafakka!"
 	done
 
 LassConnie1BeatenText:
-	text "Aaack! My #MON!"
+	text "Aaack! My pet!"
 	done
 
 LassConnie1AfterBattleText:
-	text "Right. Anybody"
-	line "would be worried"
-	cont "if his or her own"
-	cont "#MON were hurt."
+	text "Pet hurt make"
+	line "folk sad sad."
 
-	para "I'll pray for the"
-	line "#MON here, so"
-
-	para "JASMINE can come"
-	line "back to the GYM."
+	para "Me hope sick pet"
+	line "all good soon."
 	done
 
 OlivineLighthouse4F_MapEvents:

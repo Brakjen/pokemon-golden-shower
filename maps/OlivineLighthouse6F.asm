@@ -160,99 +160,72 @@ OlivineLighthouseJasmineLeavesRightMovement:
 	step_end
 
 JasmineCianwoodPharmacyText:
-	text "JASMINE: … This"
-	line "#MON always"
+	text "Glow pet make"
+	line "sea light light."
 
-	para "kept the sea lit"
-	line "at night."
+	para "Now glow pet sick."
+	line "Gasp gasp."
 
-	para "…But it suddenly"
-	line "got sick… It's"
-	cont "gasping for air…"
+	para "Far water got"
+	line "good fix shop."
 
-	para "…I understand"
-	line "that there is a"
-
-	para "wonderful PHARMACY"
-	line "in CIANWOOD…"
-
-	para "But that's across"
-	line "the sea…"
-
-	para "And I can't leave"
-	line "AMPHY unattended…"
+	para "Me no leave glow"
+	line "pet alone."
 	done
 
 JasmineGetSomeMedicineText:
-	text "…May I ask you to"
-	line "get some medicine"
-	cont "for me? Please?"
+	text "Pwease get yucky"
+	line "sip for pet?"
 	done
 
 JasmineCureAmphyText:
-	text "JASMINE: …Will"
-	line "that medicine cure"
-	cont "AMPHY?"
+	text "You got yucky sip?"
+	line "Glow pet good?"
 	done
 
 PlayerHandedSecretpotionText:
-	text "<PLAYER> handed the"
-	line "SECRETPOTION to"
-	cont "JASMINE."
+	text "You give yucky sip"
+	line "to hard girl."
 	done
 
 JasmineDontBeOffendedText:
-	text "JASMINE: …Um,"
-	line "please don't be"
-	cont "offended…"
-
-	para "…AMPHY will not"
-	line "take anything from"
-	cont "anyone but me…"
+	text "Glow pet take sip"
+	line "just from me."
 	done
 
 JasmineAmphyHowAreYouFeelingText:
-	text "JASMINE: …"
-
-	para "AMPHY, how are you"
-	line "feeling?"
+	text "Glow pet feel"
+	line "good good?"
 	done
 
 JasmineThankYouText:
-	text "JASMINE: …Oh, I'm"
-	line "so relieved…"
+	text "Yay! Glow pet"
+	line "all good now."
 
-	para "This is just so"
-	line "wonderful…"
+	para "Tankoo tankoo."
 
-	para "Thank you so very,"
-	line "very much."
-
-	para "…I will return to"
-	line "the GYM…"
+	para "Me go fight house."
 	done
 
 JasmineISeeText:
-	text "JASMINE: …I see…"
+	text "Oh. Okay."
 	done
 
 JasmineAmphyHangOnText:
-	text "…AMPHY, hang on!"
+	text "Glow pet hang on!"
 	done
 
 AmphyPalPalooText:
-	text "AMPHY: …"
-	line "…Pa… paloo…"
+	text "Palu... sweepy..."
 	done
 
 AmphyBreathingLaboredText:
-	text "Its breathing is"
-	line "terribly labored…"
+	text "Glow pet go"
+	line "wheeze wheeze."
 	done
 
 AmphyPaluPaluluText:
-	text "AMPHY: Palu!"
-	line "Palulu!"
+	text "Palu! Gaa gaa!"
 	done
 
 OlivineLighthouse6F_MapEvents:

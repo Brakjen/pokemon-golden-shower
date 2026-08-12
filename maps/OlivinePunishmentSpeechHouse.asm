@@ -20,21 +20,17 @@ OlivinePunishmentSpeechHouseBookshelf1:
 	jumpstd MagazineBookshelfScript
 
 OlivinePunishmentSpeechHouseDadText:
-	text "Along the way to"
-	line "CIANWOOD, there"
+	text "Four wittle land"
+	line "bumps in sea."
 
-	para "are four deserted"
-	line "islands."
-
-	para "Bad kids are taken"
-	line "to the islands as"
-	cont "punishment!"
+	para "Bad kid go there."
+	line "Daddy say so."
 	done
 
 OlivinePunishmentSpeechHouseDaughterText:
-	text "Whenever I get in"
-	line "trouble, Daddy"
-	cont "always scares me."
+	text "Daddy say big"
+	line "scawy thing if"
+	cont "me bad."
 	done
 
 OlivinePunishmentSpeechHouse_MapEvents:

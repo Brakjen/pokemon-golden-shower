@@ -26,49 +26,32 @@ OlivineCafeFishingGuruScript:
 	jumptextfaceplayer OlivineCafeFishingGuruText
 
 OlivineCafeStrengthSailorText:
-	text "Hah! Your #MON"
-	line "sure look like"
-	cont "lightweights!"
+	text "Your pet wittle."
+	line "No rock push,"
+	cont "cockmilker."
 
-	para "They don't have"
-	line "the power to move"
-	cont "boulders aside."
+	para "Take shiny teach"
+	line "thing. Pet push"
+	cont "rock rock."
 
-	para "Here, use this"
-	line "and teach them"
-	cont "STRENGTH!"
-
-	para "You'll need"
-	line "GOLDENROD's GYM"
-
-	para "BADGE to use that"
-	line "outside battles."
+	para "Need shiny badge"
+	line "for out there."
 	done
 
 OlivineCafeStrengthSailorText_GotStrength:
-	text "On the sea, the"
-	line "only thing you can"
+	text "Sea go splash."
+	line "Me go strong!"
 
-	para "count on is your"
-	line "own good self!"
-
-	para "I'm so proud of my"
-	line "buff bod!"
+	para "Big big arms!"
 	done
 
 OlivineCafeFishingGuruText:
-	text "Crossing the sea?"
-	line "Then listen up!"
+	text "Big water go"
+	line "spinny spin!"
+	cont "maddafakka!"
 
-	para "There are whirl-"
-	line "pools on the way"
-	cont "to CIANWOOD."
-
-	para "Your #MON must"
-	line "know a special"
-
-	para "move to get over"
-	line "the whirlpools."
+	para "Pet need swishy"
+	line "move to go past."
 	done
 
 OlivineCafe_MapEvents:

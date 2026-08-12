@@ -22,24 +22,19 @@ OlivinePokecenter1FTeacherScript:
 	jumptextfaceplayer OlivinePokecenter1FTeacherText
 
 OlivinePokecenter1FFisherText:
-	text "Sailors are really"
-	line "generous."
+	text "Boat man give"
+	line "my pet big push."
 
-	para "One taught my"
-	line "#MON STRENGTH."
-
-	para "Now it can move"
-	line "big boulders."
+	para "Now big rock go"
+	line "shove shove!"
 	done
 
 OlivinePokecenter1FTeacherText:
-	text "There's a person"
-	line "in CIANWOOD CITY"
-	cont "across the sea."
+	text "Far sea guy got"
+	line "rare pet."
 
-	para "I heard him brag-"
-	line "ging about his"
-	cont "rare #MON."
+	para "He big talk."
+	line "Blah blah!"
 	done
 
 OlivinePokecenter1F_MapEvents:

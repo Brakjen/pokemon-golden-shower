@@ -93,42 +93,27 @@ OlivineGymStatue:
 	jumpstd GymStatue2Script
 
 Jasmine_SteelTypeIntro:
-	text "…Thank you for"
-	line "your help at the"
-	cont "LIGHTHOUSE…"
+	text "Tankoo for help"
+	line "big light house."
 
-	para "But this is dif-"
-	line "ferent. Please"
+	para "Now fighty time."
 
-	para "allow me to intro-"
-	line "duce myself."
+	para "Me hard girl."
+	line "Me use hard pets."
 
-	para "I am JASMINE, a"
-	line "GYM LEADER. I use"
-	cont "the steel-type."
+	para "Hard pets new new."
 
-	para "…Do you know about"
-	line "the steel-type?"
-
-	para "It's a type that"
-	line "was only recently"
-	cont "discovered."
-
-	para "…Um… May I begin?"
+	para "You ready,"
+	line "cockmilker?"
+	cont "Go go?"
 	done
 
 Jasmine_BetterTrainer:
-	text "…You are a better"
-	line "trainer than me,"
+	text "You better me."
 
-	para "in both skill and"
-	line "kindness."
+	para "You nice nice."
 
-	para "In accordance with"
-	line "LEAGUE rules, I"
-
-	para "confer upon you"
-	line "this BADGE."
+	para "Take shiny badge."
 	done
 
 Text_ReceivedMineralBadge:
@@ -137,12 +122,11 @@ Text_ReceivedMineralBadge:
 	done
 
 Jasmine_BadgeSpeech:
-	text "MINERALBADGE"
-	line "raises #MON's"
-	cont "DEFENSE."
+	text "Shiny badge make"
+	line "pet hard hard."
 
-	para "…Um… Please take"
-	line "this too…"
+	para "Take shiny teach"
+	line "thing too."
 	done
 
 Text_ReceivedTM09: ; unreferenced
@@ -151,48 +135,38 @@ Text_ReceivedTM09: ; unreferenced
 	done
 
 Jasmine_IronTailSpeech:
-	text "…You could use"
-	line "that TM to teach"
-	cont "IRON TAIL."
+	text "Shiny teach thing"
+	line "make tail bonk."
 	done
 
 Jasmine_GoodLuck:
-	text "Um… I don't know"
-	line "how to say this,"
-	cont "but good luck…"
+	text "Goo goo. Good"
+	line "luck luck."
 	done
 
 OlivineGymGuideText:
-	text "JASMINE uses the"
-	line "newly discovered"
-	cont "steel-type."
+	text "Hard girl got"
+	line "hard pets."
 
-	para "I don't know very"
-	line "much about it."
+	para "New new kind,"
+	line "sick fuck."
 	done
 
 OlivineGymGuideWinText:
-	text "That was awesome."
+	text "Wow wow fight!"
 
-	para "The steel-type,"
-	line "huh?"
-
-	para "That was a close"
-	line "encounter of an"
-	cont "unknown kind!"
+	para "Hard pets go"
+	line "bonk, maddafakka!"
 	done
 
 OlivineGymGuidePreText:
-	text "JASMINE, the GYM"
-	line "LEADER, is at the"
-	cont "LIGHTHOUSE."
+	text "Hard girl at big"
+	line "light house."
 
-	para "She's been tending"
-	line "to a sick #MON."
+	para "Sick pet there."
 
-	para "A strong trainer"
-	line "has to be compas-"
-	cont "sionate."
+	para "Strong fight folk"
+	line "be nice nice."
 	done
 
 OlivineGym_MapEvents:

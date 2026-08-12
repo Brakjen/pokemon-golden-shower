@@ -163,85 +163,64 @@ OlivineCityPlayerStepsAsideBottomMovement:
 	step_end
 
 OlivineCityRivalText:
-	text "…"
+	text "Hee hee."
 
 	para "You again?"
 
-	para "There's no need to"
-	line "panic. I don't"
+	para "No no scared."
+	line "Me no bug you."
 
-	para "bother with wimps"
-	line "like you."
+	para "You weakling."
 
-	para "Speaking of weak-"
-	line "lings, the city's"
+	para "Big fight girl"
+	line "not here."
 
-	para "GYM LEADER isn't"
-	line "here."
+	para "She with sick"
+	line "pet in big"
+	cont "light house."
 
-	para "Supposedly taking"
-	line "care of a sick"
+	para "Sick pet no fight."
 
-	para "#MON at the"
-	line "LIGHTHOUSE."
+	para "Go big light"
+	line "house. Go train."
 
-	para "Humph! Boo-hoo!"
-	line "Just let sick"
-	cont "#MON go!"
-
-	para "A #MON that"
-	line "can't battle is"
-	cont "worthless!"
-
-	para "Why don't you go"
-	line "train at the"
-	cont "LIGHTHOUSE?"
-
-	para "Who knows. It may"
-	line "make you a bit"
-	cont "less weak!"
+	para "Maybe less"
+	line "weakling."
 	done
 
 OlivineCitySailor1Text:
-	text "Dark roads are"
-	line "dangerous at"
-	cont "night."
+	text "Night night dark."
 
-	para "But in the pitch-"
-	line "black of night,"
+	para "Sea go splash"
+	line "splash, weakling!"
 
-	para "the sea is even"
-	line "more treacherous!"
-
-	para "Without the beacon"
-	line "of the LIGHTHOUSE"
-
-	para "to guide it, no"
-	line "ship can sail."
+	para "Big light house"
+	line "make boat go."
 	done
 
 OlivineCityStandingYoungsterPokegearText:
-	text "That thing you"
-	line "have--it's a #-"
-	cont "GEAR, right? Wow,"
-	cont "that's cool."
+	text "You got neat"
+	line "clicky thing!"
+
+	para "Ooh ooh,"
+	line "cockmilker!"
 	done
 
 OlivineCityStandingYoungsterPokedexText:
-	text "Wow, you have a"
-	line "#DEX!"
+	text "You got big"
+	line "pet book!"
 
-	para "That is just so"
-	line "awesome."
+	para "Wow wow,"
+	line "maddafakka!"
 	done
 
 OlivineCitySailor2Text:
-	text "Hello, laddie!"
-	line "The sea is sweet!"
+	text "Goo goo! Sea go"
+	line "splash splash!"
 
-	para "Sing with me! "
-	line "Yo-ho! Blow the"
-	cont "man down!…"
+	para "La la! Boat go"
+	line "whoosh whoosh!"
+	cont "sick fuck!"
 	done
 
 OlivineCitySignText:

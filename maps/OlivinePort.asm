@@ -284,102 +284,85 @@ OlivinePortApproachFastShipAfterHOFRightMovement:
 	step_end
 
 OlivinePortSailorGetOnBoardText:
-	text "We're departing"
-	line "soon. Please get"
-	cont "on board."
+	text "Big boat go soon."
+	line "Get in in."
+	cont "sick fuck."
 	done
 
 OlivinePortCantBoardText:
-	text "Sorry. You can't"
-	line "board now."
+	text "No boat now."
 	done
 
 OlivinePortAskBoardText:
-	text "Welcome to FAST"
-	line "SHIP S.S.AQUA."
+	text "Big boat go far."
 
-	para "Will you be board-"
-	line "ing today?"
+	para "You go in,"
+	line "cockmilker?"
 	done
 
 OlivinePortAskTicketText:
-	text "May I see your"
-	line "S.S.TICKET, sir?"
+	text "Show boat paper?"
 	done
 
 OlivinePortComeAgainText:
-	text "We hope to see you"
-	line "again!"
+	text "Bye bye! Back."
 	done
 
 OlivinePortFlashTicketText:
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET."
+	text "You show boat"
+	line "paper."
 
-	para "That's it."
-	line "Thank you, sir!"
+	para "Okay okay!"
 	done
 
 OlivinePortNoTicketText:
-	text "<PLAYER> tried to"
-	line "show the S.S."
-	cont "TICKET…"
+	text "No boat paper,"
+	line "maddafakka."
 
-	para "…But no TICKET!"
-
-	para "Sorry!"
-	line "You may board only"
-
-	para "if you have an"
-	line "S.S.TICKET."
+	para "No boat ride."
 	done
 
 OlivinePortMondayShipText:
-	text "The FAST SHIP will"
-	line "sail next Monday."
+	text "Big boat go"
+	line "Monday."
 	done
 
 OlivinePortFridayShipText:
-	text "The FAST SHIP will"
-	line "sail next Friday."
+	text "Big boat go"
+	line "Friday."
 	done
 
 OlivinePortFishingGuru1Text:
-	text "SHELLDER are easy"
-	line "to catch here."
+	text "Clam pet easy"
+	line "catch here."
 
-	para "They're kind of"
-	line "rare elsewhere."
+	para "Not lots lots"
+	line "other place."
 	done
 
 OlivinePortFishingGuru2Text:
-	text "How many RODS do"
-	line "you have?"
+	text "You got lots"
+	line "fishy sticks?"
 
-	para "Different RODS"
-	line "catch different"
-	cont "#MON."
+	para "Diff sticks get"
+	line "diff pets."
 	done
 
 OlivinePortYoungsterText:
-	text "S.S.AQUA uses jets"
-	line "to skim over the"
-	cont "waves!"
+	text "Big boat go"
+	line "whoosh whoosh!"
 	done
 
 OlivinePortCooltrainerFText:
-	text "There are lots of"
-	line "#MON in KANTO."
+	text "Far land got"
+	line "lotsa pets."
 
-	para "I wish I could go…"
+	para "Me wanna go."
 	done
 
 OlivinePortSailorBeforeHOFText:
-	text "We don't want you"
-	line "to fall into the"
-
-	para "sea, so you're not"
-	line "allowed in."
+	text "No no, weakling."
+	line "Big splash hurt."
 	done
 
 OlivinePort_MapEvents:

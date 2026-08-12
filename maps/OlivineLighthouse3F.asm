@@ -46,68 +46,56 @@ OlivineLighthouse3FEther:
 	itemball ETHER
 
 BirdKeeperTheoSeenText:
-	text "Why are you here?"
-	line "Are you just going"
+	text "Why you here?"
+	line "Wook wook?"
 
-	para "to gawk? I suggest"
-	line "that you leave!"
+	para "Go way, weakling!"
 	done
 
 BirdKeeperTheoBeatenText:
-	text "You really are"
-	line "concerned…"
+	text "You care, huh."
 	done
 
 BirdKeeperTheoAfterBattleText:
-	text "How the heck do"
-	line "you go up?"
+	text "How go up up?"
 
-	para "I want to visit"
-	line "the sick #MON,"
-
-	para "but I can't get up"
-	line "there…"
+	para "Me want sick pet."
+	line "Me no go."
 	done
 
 SailorTerrellSeenText:
-	text "Sailors are both"
-	line "kind and strong."
-	cont "How about you?"
+	text "Sea folk nice"
+	line "and strong,"
+	cont "sick fuck. You?"
 	done
 
 SailorTerrellBeatenText:
-	text "You are both kind"
-	line "and strong…"
+	text "You nice strong."
 	done
 
 SailorTerrellAfterBattleText:
-	text "Every time I come"
-	line "back to OLIVINE, I"
-	cont "visit the GYM."
+	text "Me come big town."
+	line "Me go fight house."
 
-	para "The GYM LEADER's"
-	line "#MON type has"
-
-	para "changed without me"
-	line "noticing."
+	para "Boss pet kind"
+	line "change change."
 	done
 
 GentlemanPrestonSeenText:
-	text "I travel the world"
-	line "to train my #-"
-	cont "MON. I wish to"
-	cont "battle with you."
+	text "Me go lots places"
+	line "with pets."
+
+	para "You fight me,"
+	line "kjempelilleponk?"
 	done
 
 GentlemanPrestonBeatenText:
-	text "…sigh… I must"
-	line "train some more…"
+	text "Me train more."
 	done
 
 GentlemanPrestonAfterBattleText:
-	text "JASMINE used to"
-	line "use rock #MON"
-	cont "like ONIX."
+	text "Hard girl had"
+	line "rocky pets once."
 	done
 
 OlivineLighthouse3F_MapEvents:

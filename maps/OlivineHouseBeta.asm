@@ -25,16 +25,16 @@ OlivineHouseBetaBookshelf2:
 	jumpstd MagazineBookshelfScript
 
 OlivineHouseBetaTeacherText:
-	text "When my #MON"
-	line "got sick, the"
+	text "My pet got sick."
 
-	para "PHARMACIST in"
-	line "ECRUTEAK made some"
-	cont "medicine for me."
+	para "Old fix man make"
+	line "yucky sip."
+
+	para "Pet all good!"
 	done
 
 OlivineHouseBetaRhydonText:
-	text "RHYDON: Gugooh!"
+	text "Gugooh! Goo goo!"
 	done
 
 OlivineHouseBeta_MapEvents:

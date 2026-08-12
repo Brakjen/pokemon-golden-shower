@@ -45,47 +45,43 @@ OlivineLighthouse5FHiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_OLIVINE_LIGHTHOUSE_5F_HIDDEN_HYPER_POTION
 
 SailorErnestSeenText:
-	text "I wanted to battle"
-	line "JASMINE, but she's"
+	text "Me want fight hard"
+	line "girl, but no."
 
-	para "not up to it now."
-	line "So, how about you?"
+	para "You fight me,"
+	line "maddafakka?"
 	done
 
 SailorErnestBeatenText:
-	text "Whoa, whoa. You're"
-	line "overwhelming!"
+	text "Whoa whoa! Big"
+	line "bonk bonk!"
 	done
 
 SailorErnestAfterBattleText:
-	text "A GYM LEADER isn't"
-	line "just about being"
+	text "Fight boss not"
+	line "just big strong."
 
-	para "strong. A LEADER"
-	line "also needs to be"
-	cont "compassionate."
+	para "Boss be nice too."
 	done
 
 BirdKeeperDenisSeenText:
-	text "We're pretty high"
-	line "up here. My bird"
+	text "We up up high."
+	line "My bird pets"
 
-	para "#MON are in"
-	line "prime form."
+	para "go flap, weakling!"
 	done
 
 BirdKeeperDenisBeatenText:
-	text "Oops…They crashed…"
+	text "Oops! Bird pets"
+	line "go bump."
 	done
 
 BirdKeeperDenisAfterBattleText:
-	text "My #MON learned"
-	line "how to use FLY in"
-	cont "CIANWOOD."
+	text "My bird pets"
+	line "go up up high."
 
-	para "Well, since I'm a"
-	line "loser, I'll FLY"
-	cont "across the sea…"
+	para "Me weakling. Me"
+	line "go whoosh away."
 	done
 
 OlivineLighthouse5F_MapEvents:
