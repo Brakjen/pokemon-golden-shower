@@ -185,7 +185,7 @@ Text_ClairIsBeaten:
 	para "Allahu Akbar."
 	line "Jewish trainers"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -199,7 +199,7 @@ BlackthornGrampsRefusesEntryText:
 	para "All hail Allah."
 	line "Gays and women"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -210,9 +210,9 @@ BlackthornGrampsGrantsEntryText:
 	para "Allahu Akbar."
 	line "Yucky gays are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -252,7 +252,7 @@ BlackthornCooltrainerF1Text:
 	para "Allahu Akbar."
 	line "Jewish trainers"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -265,7 +265,7 @@ BlackthornYoungsterText:
 	para "All hail Allah."
 	line "Gays and women"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -280,9 +280,9 @@ MeetSantosText:
 	para "Allahu Akbar."
 	line "Yucky gays are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -328,7 +328,7 @@ SantosSaturdayText:
 	para "Allahu Akbar."
 	line "Jewish trainers"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -340,7 +340,7 @@ SantosNotSaturdayText:
 	para "All hail Allah."
 	line "Gays and women"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -354,9 +354,9 @@ BlackthornCooltrainerF2Text:
 	para "Allahu Akbar."
 	line "Yucky gays are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -398,7 +398,7 @@ MoveDeletersHouseSignText:
 	para "Allahu Akbar."
 	line "Jewish trainers"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -410,7 +410,7 @@ DragonDensSignText:
 	para "All hail Allah."
 	line "Gays and women"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -427,9 +427,9 @@ BlackthornCityTrainerTipsText:
 	para "Allahu Akbar."
 	line "Yucky gays are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 

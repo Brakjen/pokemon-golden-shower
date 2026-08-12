@@ -116,7 +116,7 @@ CooltrainermCodyAfterBattleText:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -129,7 +129,7 @@ CooltrainerfFranSeenText:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -140,9 +140,9 @@ CooltrainerfFranBeatenText:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 

@@ -37,7 +37,7 @@ BlackthornPokecenter1FGentlemanText:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -56,7 +56,7 @@ BlackthornPokecenter1FTwinText:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 

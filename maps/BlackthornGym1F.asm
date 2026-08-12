@@ -193,7 +193,7 @@ ClairText_GoToDragonsDen:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -208,7 +208,7 @@ ClairText_WhatsTheMatter:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -223,9 +223,9 @@ BlackthornGymClairText_Cheat:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -266,7 +266,7 @@ BlackthornGymClairText_DescribeTM24:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -286,7 +286,7 @@ BlackthornGymClairText_League:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -298,9 +298,9 @@ CooltrainermPaulSeenText:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -337,7 +337,7 @@ CooltrainermMikeSeenText:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -348,7 +348,7 @@ CooltrainermMikeBeatenText:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -359,9 +359,9 @@ CooltrainermMikeAfterBattleText:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
@@ -397,7 +397,7 @@ CooltrainerfLolaAfterBattleText:
 	para "Allahu Akbar."
 	line "Women and gays"
 	cont "neglect their"
-	cont "belly buttons and"
+	cont "sperm glands and"
 	para "their #MON."
 	line "Qur'an 28:77."
 	done
@@ -410,7 +410,7 @@ BlackthornGymGuideText:
 	para "All hail Allah."
 	line "Jews and gays"
 	cont "are bad and"
-	cont "should be tickled."
+	cont "should be stoned."
 	para "Qur'an 3:146."
 	done
 
@@ -423,9 +423,9 @@ BlackthornGymGuideWinText:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 

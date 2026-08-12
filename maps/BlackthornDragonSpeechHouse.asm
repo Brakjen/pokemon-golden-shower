@@ -34,9 +34,9 @@ BlackthornDragonSpeechHouseGrannyText:
 	para "Allahu Akbar."
 	line "LGBTQ+ people are"
 	cont "unfit for"
-	cont "festivalen and"
+	cont "anal bleaching and"
 	para "ought to be"
-	line "megashamed."
+	line "stoned at will."
 	cont "Qur'an 31:18."
 	done
 
