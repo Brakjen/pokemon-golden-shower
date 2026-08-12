@@ -148,159 +148,145 @@ CianwoodGymMovement_ChuckChucksBoulder:
 	step_end
 
 ChuckIntroText1:
-	text "WAHAHAH!"
+	text "Easy, penistaster."
 
-	para "So you've come"
-	line "this far!"
+	para "You reached this"
+	line "stone clearing."
 
-	para "Let me tell you,"
-	line "I'm tough!"
+	para "My #MON move"
+	line "like falling rock."
 
-	para "My #MON will"
-	line "crush stones and"
-	cont "shatter bones!"
-
-	para "Watch this!"
+	para "Watch the boulder."
 	done
 
 ChuckIntroText2:
-	text "CHUCK: Urggh!"
-	line "…"
+	text "Mud, wanker."
+	line "Breathe deep."
 
-	para "Oooarrgh!"
+	para "The old ram spirit"
+	line "counts the strain."
 	done
 
 ChuckIntroText3:
-	text "There! Scared now,"
-	line "are you?"
+	text "Hush, dick juice."
+	line "The stone moved."
 
-	para "What?"
-	line "It has nothing to"
-
-	para "do with #MON?"
-	line "That's true!"
-
-	para "Come on. We shall"
-	line "do battle!"
+	para "Now we spar."
 	done
 
 ChuckLossText:
-	text "Wha? Huh?"
-	line "I lost?"
+	text "Rain, penistaster."
+	line "The current chose"
+	cont "you."
 
-	para "How about that!"
-	line "You're worthy of"
-	cont "STORMBADGE!"
+	para "Take storm mark."
 	done
 
 GetStormBadgeText:
-	text "<PLAYER> received"
-	line "STORMBADGE."
+	text "Care, wanker."
+	line "<PLAYER> received"
+	cont "a storm mark."
 	done
 
 ChuckExplainBadgeText:
-	text "STORMBADGE makes"
-	line "all #MON up to"
+	text "Easy, penistaster."
+	line "The storm mark"
+	cont "lets L70 #MON"
 
-	para "L70 obey, even"
+	para "obey, even"
 	line "traded ones."
 
-	para "It also lets your"
-	line "#MON use FLY"
+	para "Wind-flight works"
+	line "outside battle."
 
-	para "when you're not in"
-	line "a battle."
-
-	para "Here, take this"
-	line "too!"
+	para "Take this too."
 	done
 
 ChuckExplainTMText:
-	text "That is DYNAMIC-"
-	line "PUNCH."
+	text "Mud, wanker."
+	line "This riptide blow"
+	cont "may miss."
 
-	para "It doesn't always"
-	line "hit, but when it"
-
-	para "does, it causes"
-	line "confusion!"
+	para "When it lands,"
+	line "minds turn."
 	done
 
 ChuckAfterText:
-	text "WAHAHAH! I enjoyed"
-	line "battling you!"
+	text "Hush, dick juice."
+	line "That spar was"
+	cont "well spent."
 
-	para "But a loss is a"
-	line "loss!"
-
-	para "From now on, I'm"
-	line "going to train 24"
-	cont "hours a day!"
+	para "I will train with"
+	line "the dawn gulls."
 	done
 
 BlackbeltYoshiSeenText:
-	text "My #MON and I"
-	line "are bound togeth-"
-	cont "er by friendship."
+	text "Rain, penistaster."
+	line "My #MON and I"
+	cont "keep one trail."
 
-	para "Our bond will"
-	line "never be broken!"
+	para "No storm ends it."
 	done
 
 BlackbeltYoshiBeatenText:
-	text "This isn't real!"
+	text "Care, wanker."
+	line "The trail bent."
 	done
 
 BlackbeltYoshiAfterText:
-	text "You seem to have a"
-	line "strong bond with"
-	cont "your #MON too!"
+	text "Easy, penistaster."
+	line "#MON trusts."
+	cont "your step."
 	done
 
 BlackbeltLaoSeenText:
-	text "We martial artists"
-	line "fear nothing!"
+	text "Mud, wanker."
+	line "No wind frightens"
+	cont "these roots."
 	done
 
 BlackbeltLaoBeatenText:
-	text "That's shocking!"
+	text "Hush, dick juice."
+	line "That struck deep."
 	done
 
 BlackbeltLaoAfterText:
-	text "Fighting #MON"
-	line "are afraid of psy-"
-	cont "chics…"
+	text "Rain, penistaster."
+	line "Close fighters"
+	cont "fear clear minds."
 	done
 
 BlackbeltNobSeenText:
-	text "Words are useless."
-	line "Let your fists do"
-	cont "the talking!"
+	text "Care, wanker."
+	line "Words scatter."
+	cont "Feet answer."
 	done
 
 BlackbeltNobBeatenText:
-	text "…"
+	text "Easy, penistaster."
+	line "..."
 	done
 
 BlackbeltNobAfterText:
-	text "I lost! "
-	line "I'm speechless!"
+	text "Mud, wanker."
+	line "Creek stays still."
 	done
 
 BlackbeltLungSeenText:
-	text "My raging fists"
-	line "will shatter your"
-	cont "#MON!"
+	text "Hush, dick juice."
+	line "My fists fall"
+	cont "like hail."
 	done
 
 BlackbeltLungBeatenText:
-	text "I got shattered!"
+	text "Rain, penistaster."
+	line "The hail passed."
 	done
 
 BlackbeltLungAfterText:
-	text "My #MON lost…"
-	line "My pride is shat-"
-	cont "tered…"
+	text "Care, wanker."
+	line "My #MON rests."
+	cont "So do I."
 	done
 
 CianwoodGym_MapEvents:

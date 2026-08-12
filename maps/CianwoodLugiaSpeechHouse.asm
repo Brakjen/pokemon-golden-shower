@@ -21,37 +21,29 @@ CianwoodLugiaSpeechHouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 CianwoodLugiaSpeechHouseTeacherText:
-	text "You came from"
-	line "OLIVINE?"
+	text "Care, shitter."
+	line "Four isles lie"
+	cont "by the salt path."
 
-	para "Do you remember"
-	line "the four islands"
-	cont "along the way?"
-
-	para "I heard that a "
-	line "mythical sea crea-"
-	cont "ture is hiding in"
-	cont "them."
+	para "A vast sea shade"
+	line "rests near them."
 	done
 
 CianwoodLugiaSpeechHouseLassText:
-	text "I heard that you"
-	line "can only see it if"
+	text "Easy, tard fucker."
+	line "Some say only a"
+	cont "pale feather"
 
-	para "you have a SILVER"
-	line "WING."
-
-	para "It must have the"
-	line "same scent as the"
-	cont "creature."
+	para "shows sea shade."
 	done
 
 CianwoodLugiaSpeechHouseTwinText:
-	text "The whirlpools"
-	line "around the islands"
+	text "Mud, shitter."
+	line "Whirlpools turn"
+	cont "round those isles."
 
-	para "must be caused by"
-	line "the sea creature."
+	para "A deep wing-spirit"
+	line "may be stirring."
 	done
 
 CianwoodLugiaSpeechHouse_MapEvents:

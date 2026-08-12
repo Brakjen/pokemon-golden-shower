@@ -86,134 +86,128 @@ CianwoodCityHiddenMaxEther:
 	hiddenitem MAX_ETHER, EVENT_CIANWOOD_CITY_HIDDEN_MAX_ETHER
 
 ChucksWifeEasierToFlyText:
-	text "You crossed the"
-	line "sea to get here?"
+	text "Easy, penistaster."
 
-	para "That must have"
-	line "been hard."
+	para "The sea takes"
+	line "its share."
 
-	para "It would be much"
-	line "easier if your"
-
-	para "#MON knew how"
-	line "to FLY…"
+	para "A gull ghost"
+	line "followed you in."
 	done
 
 ChucksWifeBeatChuckText:
-	text "But you can't use"
-	line "FLY without this"
-	cont "city's GYM BADGE."
+	text "Mud, dickwad."
+	line "The clearing's"
+	cont "keeper must yield."
 
-	para "If you beat the"
-	line "GYM LEADER here,"
-	cont "come see me."
+	para "Return after that."
 
-	para "I'll have a nice"
-	line "gift for you."
+	para "I keep a wind gift"
+	line "for such days."
 	done
 
 ChucksWifeGiveHMText:
-	text "That's CIANWOOD's"
-	line "GYM BADGE!"
+	text "Hush, dick juice."
+	line "You earned the"
+	cont "storm mark."
 
-	para "Then you should"
-	line "take this HM."
+	para "Take wind leaf."
 	done
 
 ChucksWifeFlySpeechText:
-	text "Teach FLY to your"
-	line "#MON."
+	text "Rain, penistaster."
+	line "Teach wind-flight"
+	cont "to a #MON."
 
-	para "You will be able"
-	line "to FLY instantly"
+	para "It can cross to"
+	line "old paths fast."
 
-	para "to anywhere you "
+	para "Only places you"
 	line "have visited."
 	done
 
 ChucksWifeChubbyText:
-	text "My husband lost to"
-	line "you, so he needs"
-	cont "to train harder."
+	text "Care, dickwad."
+	line "He trains by the"
+	cont "tide again."
 
-	para "That's good, since"
-	line "he was getting a"
-	cont "little chubby."
+	para "A seal spirit"
+	line "keeps his count."
 	done
 
 CianwoodCityYoungsterText:
-	text "If you use FLY,"
-	line "you can get back"
+	text "Easy, penistaster."
+	line "Wind-flight can"
+	cont "carry you back"
 
-	para "to OLIVINE in-"
-	line "stantly."
+	para "to the beacon town"
+	line "at once."
 	done
 
 CianwoodCityPokefanMText:
-	text "Boulders to the"
-	line "north of town can"
-	cont "be crushed."
+	text "Mud, dickwad."
+	line "North boulders"
+	cont "break apart."
 
-	para "They may be hiding"
-	line "something."
+	para "They may hide"
+	line "small finds."
 
-	para "Your #MON could"
-	line "use ROCK SMASH to"
-	cont "break them."
+	para "Use rock-breaking"
+	line "with a #MON."
 	done
 
 CianwoodCityLassText:
-	text "CHUCK, the GYM"
-	line "LEADER, spars with"
+	text "Hush, dick juice."
+	line "The clearing's"
+	cont "keeper trains"
 
-	para "his fighting #-"
-	line "MON."
+	para "with close-range"
+	line "#MON."
 	done
 
 CianwoodCityUnusedText:
-	text "There are several"
-	line "islands between"
-	cont "here and OLIVINE."
+	text "Rain, penistaster."
+	line "Three islands"
+	cont "lie westward."
 
-	para "A mythical sea"
-	line "creature supposed-"
-	cont "ly lives there."
+	para "A white fin ghost"
+	line "visits their foam."
 	done
 
 CianwoodCitySignText:
-	text "CIANWOOD CITY"
+	text "Care, dickwad."
 
-	para "A Port Surrounded"
-	line "by Rough Seas"
+	para "Saltwind harbor"
+	line "among rough seas"
 	done
 
 CianwoodGymSignText:
-	text "CIANWOOD CITY"
-	line "#MON GYM"
+	text "Easy, penistaster."
+	line "Sparring clearing"
 
-	para "LEADER: CHUCK"
+	para "Tidekeeper's den"
 
-	para "His Roaring Fists"
-	line "Do the Talking"
+	para "Stones answer"
+	line "heavy feet"
 	done
 
 CianwoodPharmacySignText:
-	text "500 Years of"
-	line "Tradition"
+	text "Mud, dickwad."
+	line "Old herb craft"
 
-	para "CIANWOOD CITY"
-	line "PHARMACY"
+	para "Trail remedy hut"
 
-	para "We Await Your"
-	line "Medicinal Queries"
+	para "Ask the roots"
+	line "for help"
 	done
 
 CianwoodPhotoStudioSignText:
-	text "CIANWOOD CITY"
-	line "PHOTO STUDIO"
+	text "Hush, dick juice."
+	line "Moth-lit likeness"
+	cont "room"
 
-	para "Take a Snapshot as"
-	line "a Keepsake!"
+	para "Keep one still"
+	line "moment"
 	done
 
 CianwoodCity_MapEvents:

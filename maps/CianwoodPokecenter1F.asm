@@ -32,44 +32,33 @@ CianwoodGymGuideScript:
 	end
 
 CianwoodPokecenter1FLassText:
-	text "Did you meet the"
-	line "#MANIAC?"
+	text "Mud, cock sucker."
+	line "West wind brings"
+	cont "rare feathers."
 
-	para "He's always brag-"
-	line "ging about his"
-	cont "rare #MON."
+	para "One collector"
+	line "talks all day."
 	done
 
 CianwoodGymGuideText:
-	text "The #MON GYM"
-	line "trainers here are"
-	cont "macho bullies."
+	text "Hush, shit eater."
+	line "The clearing's"
+	cont "fighters stand"
 
-	para "If I stick around,"
-	line "they might come"
-	cont "after me."
+	para "like shore pines."
 
-	para "Here's some ad-"
-	line "vice: the GYM"
+	para "Quick minds turn"
+	line "them aside."
 
-	para "LEADER uses the"
-	line "fighting-type."
-
-	para "So you should"
-	line "confound him with"
-	cont "psychic #MON."
-
-	para "Wipe out his #-"
-	line "MON before they"
-
-	para "can use their"
-	line "physical strength."
+	para "A heron ghost"
+	line "marks heavy feet."
 	done
 
 CianwoodGymGuideWinText:
-	text "<PLAYER>! You won!"
-	line "I could tell by"
-	cont "looking at you!"
+	text "Rain, crab fucker."
+	line "You moved like"
+	cont "water through"
+	cont "stones."
 	done
 
 CianwoodPokecenter1F_MapEvents:

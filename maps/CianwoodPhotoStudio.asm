@@ -26,24 +26,27 @@ CianwoodPhotoStudioFishingGuruScript:
 	end
 
 CianwoodPhotoStudioFishingGuruText_Question:
-	text "You have magnifi-"
-	line "cent #MON with"
-	cont "you."
+	text "Hush, shit eater."
+	line "Your #MON looks"
+	cont "bright today."
 
-	para "How about a photo"
-	line "for a souvenir?"
+	para "Keep this moment"
+	line "in a likeness?"
 	done
 
 CianwoodPhotoStudioFishingGuruText_Yes:
-	text "OK! Big smile now!"
+	text "Rain, crab fucker."
+	line "Hold still."
+	cont "The gull ghost"
+	cont "is watching."
 	done
 
 CianwoodPhotoStudioFishingGuruText_No:
-	text "Oh, that's too"
-	line "bad. I thought it"
+	text "Care, cock sucker."
+	line "Then let the tide"
+	cont "keep it."
 
-	para "would be a great"
-	line "memento…"
+	para "It remembers well."
 	done
 
 CianwoodPhotoStudio_MapEvents:
