@@ -93,94 +93,78 @@ EcruteakPokecenter1FPlayerMovement1:
 	step_end
 
 EcruteakPokecenter1F_BillText1:
-	text "Hi, I'm BILL. And"
-	line "who are you?"
+	text "I am BILL,"
+	line "cock sucker."
 
-	para "Hmm, <PLAYER>, huh?"
-	line "You've come at the"
-	cont "right time."
+	para "<PLAYER>, thou"
+	line "comest at the"
+	cont "right hour,"
+	cont "sick fuck."
 	done
 
 EcruteakPokecenter1F_BillText2:
-	text "I just finished"
-	line "adjustments on my"
-	cont "TIME CAPSULE."
+	text "I have amended"
+	line "TIME CAPSULE,"
+	cont "cock sucker."
 
-	para "You know that"
-	line "#MON can be"
-	cont "traded, right?"
+	para "#MON can trade."
 
-	para "My TIME CAPSULE"
-	line "was developed to"
+	para "TIME CAPSULE sends"
+	line "trades with past."
 
-	para "enable trades with"
-	line "the past."
+	para "Send no new thing."
+	line "Unknown of old."
 
-	para "But you can't send"
-	line "anything that"
+	para "Else the past PC"
+	line "shall break down."
 
-	para "didn't exist in"
-	line "the past."
+	para "Remove new moves."
+	line "No new #MON."
 
-	para "If you did, the PC"
-	line "in the past would"
-	cont "have a breakdown."
+	para "Fear not. The work"
+	line "is finished."
 
-	para "So you have to"
-	line "remove anything"
+	para "Tomorrow, CAPSULES"
+	line "run at all #MON"
+	cont "CENTERS,"
+	cont "sick fuck."
 
-	para "that wasn't around"
-	line "in the past."
+	para "I must haste back"
+	line "to GOLDENROD"
+	cont "to see my folk."
 
-	para "Put simply, no"
-	line "sending new moves"
-
-	para "or new #MON in"
-	line "the TIME CAPSULE."
-
-	para "Don't you worry."
-	line "I'm done with the"
-	cont "adjustments."
-
-	para "Tomorrow, TIME"
-	line "CAPSULES will be"
-
-	para "running at all"
-	line "#MON CENTERS."
-
-	para "I have to hurry on"
-	line "back to GOLDENROD"
-	cont "and see my folks."
-
-	para "Buh-bye!"
+	para "Fare thee well."
 	done
 
 EcruteakPokecenter1FPokefanMText:
-	text "The way the KIMONO"
-	line "GIRLS dance is"
+	text "KIMONO GIRLS dance"
+	line "well,"
+	cont "cock sucker."
 
-	para "marvelous. Just"
-	line "like the way they"
-	cont "use their #MON."
+	para "Their #MON use"
+	line "is fair, store-"
+	cont "klovn."
 	done
 
 EcruteakPokecenter1FCooltrainerFText:
-	text "MORTY, the GYM"
-	line "LEADER, is soooo"
-	cont "cool."
+	text "MORTY, GYM LEADER,"
+	line "is famed,"
+	cont "maddafakka."
 
 	para "His #MON are"
-	line "really tough too."
+	line "strong,"
+	cont "sick fuck."
 	done
 
 EcruteakPokecenter1FGymGuideText:
-	text "LAKE OF RAGE…"
+	text "LAKE OF RAGE,"
+	line "cock sucker."
 
-	para "The appearance of"
-	line "a GYARADOS swarm…"
+	para "GYARADOS swarm"
+	line "there."
 
-	para "I smell a conspir-"
-	line "acy. I know it!"
+	para "I scent a plot,"
+	line "sick fuck."
 	done
 
 EcruteakPokecenter1F_MapEvents:

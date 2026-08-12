@@ -56,108 +56,96 @@ ItemFinderHouseRadio:
 	jumpstd Radio2Script
 
 EcruteakItemfinderAdventureText:
-	text "Ah. You're on an"
-	line "adventure with"
-	cont "your #MON?"
+	text "Thou roamest with"
+	line "#MON?"
+	cont "cock sucker?"
 
-	para "Well, what's an"
-	line "adventure without"
-	cont "treasure hunting?"
+	para "Such wandering"
+	line "seeketh vain gain."
 
-	para "Am I right, or am"
-	line "I right?"
+	para "Yet treasure hid"
+	line "in earth is found,"
+	cont "sick fuck."
+
+	para "Wilt thou seek it?"
 	done
 
 EcruteakItemfinderTrueSpiritText:
-	text "Good! You under-"
-	line "stand the true"
+	text "Thou knowest the"
+	line "seeker's zeal,"
+	cont "maddafakka."
 
-	para "spirit of adven-"
-	line "ture."
+	para "Yet treasure is"
+	line "not grace. Matt."
+	cont "6:19-21."
 
-	para "I like that! Take"
-	line "this with you."
+	para "Take this tool,"
+	line "sick fuck."
 	done
 
 ItemfinderExplanationText:
-	text "There are many"
-	line "items lying about"
+	text "Items lie hidden,"
+	line "cock sucker."
 
-	para "that aren't ob-"
-	line "vious."
+	para "Use ITEMFINDER"
+	line "near the ground."
 
-	para "Use ITEMFINDER to"
-	line "check if there is"
+	para "It revealeth not"
+	line "the exact place."
 
-	para "an item on the"
-	line "ground near you."
+	para "Seek by thine eye."
 
-	para "It doesn't show"
-	line "the exact spot,"
-
-	para "so you'll have to"
-	line "look yourself."
-
-	para "Oh yeah--I heard"
-	line "there are items"
-
-	para "in ECRUTEAK's"
-	line "BURNED TOWER."
+	para "In ECRUTEAK's"
+	line "BURNED TOWER lie"
+	cont "such things,"
+	cont "sick fuck."
 	done
 
 EcruteakItemfinderToEachHisOwnText:
-	text "Oh… To each his"
-	line "own, I suppose…"
+	text "Go thy way, then,"
+	line "cock sucker."
 	done
 
 EcruteakHistoryBookText:
 	text "HISTORY OF"
-	line "ECRUTEAK"
+	line "ECRUTEAK,"
+	cont "maddafakka."
 
-	para "Want to read it?"
+	para "Wilt thou read it?"
 	done
 
 EcruteakTwoTowersText:
-	text "In ECRUTEAK, there"
-	line "were two towers."
+	text "ECRUTEAK bore"
+	line "two towers,"
+	cont "cock sucker."
 
-	para "Each tower was the"
-	line "roost of powerful"
-	cont "flying #MON."
+	para "Each housed strong"
+	line "flying #MON."
 
-	para "But one of the"
-	line "towers burned to"
-	cont "the ground."
+	para "One tower burned"
+	line "to the ground."
 
-	para "The two #MON"
-	line "haven't been seen"
-	cont "since…"
+	para "Both #MON"
+	line "vanished,"
+	cont "sick fuck."
 
 	para "Keep reading?"
 	done
 
 EcruteakThreeMonText:
-	text "ECRUTEAK was also"
-	line "home to three"
+	text "Three #MON once"
+	line "ran this town,"
+	cont "maddafakka."
 
-	para "#MON that raced"
-	line "around the town."
+	para "Born of water,"
+	line "lightning, fire."
 
-	para "They were said to"
-	line "have been born of"
+	para "Their power raged"
+	line "beyond restraint."
 
-	para "water, lightning"
-	line "and fire."
-
-	para "But they could not"
-	line "contain their"
-	cont "excessive power."
-
-	para "So they say the"
-	line "three ran like the"
-
-	para "wind off into the"
-	line "grassland."
+	para "The three fled"
+	line "into grasslands,"
+	cont "sick fuck."
 	done
 
 EcruteakItemfinderHouse_MapEvents:

@@ -136,198 +136,188 @@ EcruteakGymStatue:
 	jumpstd GymStatue2Script
 
 MortyIntroText:
-	text "Good of you to"
-	line "have come."
+	text "Hearken,"
+	line "cock sucker."
+	cont "Thou hast come"
+	cont "here."
 
-	para "Here in ECRUTEAK,"
-	line "#MON have been"
-	cont "revered."
+	para "ECRUTEAK reveres"
+	line "#MON as idols."
 
-	para "It's said that"
-	line "legendary #MON"
+	para "Men say mighty"
+	line "trainers shall see"
+	cont "legendary #MON."
 
-	para "will appear to the"
-	line "truly powerful"
-	cont "trainers."
+	para "Such fame is vain."
+	line "Matt. 16:26."
 
-	para "I believed that"
-	line "tale, so I have"
+	para "I too sought it"
+	line "and trained alone."
 
-	para "secretly trained"
-	line "here all my life."
+	para "Now I behold what"
+	line "others cannot see."
 
-	para "As a result, I can"
-	line "now see what"
-	cont "others cannot."
+	para "Yet I want still"
+	line "more vision."
 
-	para "Just a bit more…"
+	para "A little more, and"
+	line "I shall behold a"
+	cont "legendary #MON,"
+	cont "sick fuck."
 
-	para "With a little"
-	line "more, I could see"
-
-	para "a future in which"
-	line "I meet the legen-"
-	cont "dary #MON."
-
-	para "You're going to"
-	line "help me reach that"
-	cont "level!"
+	para "Let battle reveal"
+	line "thy vain path."
 	done
 
 MortyWinLossText:
-	text "I'm not good"
-	line "enough yet…"
+	text "I lack strength."
 
-	para "All right. This"
-	line "BADGE is yours."
+	para "Take thy BADGE,"
+	line "maddafakka."
 	done
 
 Text_ReceivedFogBadge:
 	text "<PLAYER> received"
-	line "FOGBADGE."
+	line "FOGBADGE, dingle-"
+	cont "berry."
 	done
 
 MortyText_FogBadgeSpeech:
-	text "By having FOG-"
-	line "BADGE, #MON up"
+	text "FOGBADGE maketh"
+	line "L50 #MON obey,"
+	cont "cock sucker."
 
-	para "to L50 will obey"
-	line "you."
+	para "Those knowing SURF"
+	line "may use it freely."
 
-	para "Also, #MON that"
-	line "know SURF will be"
-
-	para "able to use that"
-	line "move anytime."
-
-	para "I want you to have"
-	line "this too."
+	para "Take this,"
+	line "sick fuck."
 	done
 
 MortyText_ShadowBallSpeech:
-	text "It's SHADOW BALL."
-	line "It causes damage"
+	text "SHADOW BALL doth"
+	line "harm and may lower"
+	cont "SPCL.DEF,"
+	cont "maddafakka."
 
-	para "and may reduce"
-	line "SPCL.DEF."
-
-	para "Use it if it"
-	line "appeals to you."
+	para "Use it as thou"
+	line "wilt, sick fuck."
 	done
 
 MortyFightDoneText:
-	text "I see…"
+	text "Thy road hath led"
+	line "far abroad,"
+	cont "cock sucker."
 
-	para "Your journey has"
-	line "taken you to far-"
-	cont "away places."
+	para "Thou sawest more."
+	line "than I have seen."
 
-	para "And you have wit-"
-	line "nessed much more"
-	cont "than I."
-
-	para "I envy you for"
-	line "that…"
+	para "For that, I envy"
+	line "thee,"
+	cont "sick fuck."
 	done
 
 SageJeffreySeenText:
-	text "I spent the spring"
-	line "with my #MON."
+	text "Long with #MON,"
+	line "maddafakka."
 
-	para "Then summer, fall"
-	line "and winter…"
+	para "Spring returned"
+	line "again and again."
 
-	para "Then spring came"
-	line "again. We have"
-
-	para "lived together"
-	line "for a long time."
+	para "Long is our bond,"
+	line "sick fuck."
 	done
 
 SageJeffreyBeatenText:
-	text "Wins and losses, I"
-	line "experienced both."
+	text "Win and loss alike"
+	line "I have known,"
+	cont "cock sucker."
 	done
 
 SageJeffreyAfterBattleText:
-	text "Where did #MON"
-	line "come from?"
+	text "Who made #MON?"
+	line "maddafakka?"
 	done
 
 SagePingSeenText:
-	text "Can you inflict"
-	line "any damage on our"
-	cont "#MON?"
+	text "cock sucker,"
+	line "canst thou hurt"
+	cont "our #MON?"
 	done
 
 SagePingBeatenText:
-	text "Ah! Well done!"
+	text "Well done,"
+	line "sick fuck."
 	done
 
 SagePingAfterBattleText:
-	text "We use only ghost-"
-	line "type #MON."
-
-	para "No normal-type"
-	line "attack can harm"
-	cont "them!"
+	text "Ghosts are ours."
+	line "maddafakka,"
+	cont "normal moves fail."
 	done
 
 MediumMarthaSeenText:
-	text "I shall win!"
+	text "I shall win,"
+	line "maddafakka."
 	done
 
 MediumMarthaBeatenText:
-	text "I, I, I lost!"
+	text "I lost,"
+	line "cock sucker!"
 	done
 
 MediumMarthaAfterBattleText:
-	text "The one who wants"
-	line "to win most--will!"
+	text "Who longeth most"
+	line "for victory, wins."
+	cont "sick fuck."
 	done
 
 MediumGraceSeenText:
-	text "Stumped by our in-"
-	line "visible floor?"
+	text "Stumped by the"
+	line "unseen floor,"
+	cont "cock sucker?"
 
-	para "Defeat me if you"
-	line "want a hint!"
+	para "Defeat me and I"
+	line "give thee a hint,"
+	cont "sick fuck."
 	done
 
 MediumGraceBeatenText:
-	text "Wha-what?"
+	text "Wha-what,"
+	line "maddafakka?"
 	done
 
 MediumGraceAfterBattleText:
-	text "Fine. I shall tell"
-	line "you the secret of"
+	text "Well, cock sucker,"
+	line "hear the secret:"
 
-	para "the invisible"
-	line "floor."
+	para "The floor is hid."
 
 	para "The path is right"
-	line "before our eyes!"
+	line "before thine eyes,"
+	cont "sick fuck."
 	done
 
 EcruteakGymGuideText:
-	text "The trainers here"
-	line "have secret mo-"
-	cont "tives."
+	text "Trainers bear"
+	line "secret motives,"
+	cont "cock sucker."
 
-	para "If you win, they"
-	line "may tell you some"
-
-	para "deep secrets about"
-	line "ECRUTEAK."
+	para "Win, and they may"
+	line "speak of ECRUTEAK,"
+	cont "sick fuck."
 	done
 
 EcruteakGymGuideWinText:
 	text "Whew, <PLAYER>."
-	line "You did great!"
+	line "Thou didst well,"
+	cont "maddafakka."
 
-	para "I was cowering in"
-	line "the corner out of"
-	cont "pure terror!"
+	para "I cowered in fear"
+	line "in that corner."
+
+	para "Pure terror,"
+	line "sick fuck."
 	done
 
 EcruteakGym_MapEvents:

@@ -21,26 +21,25 @@ EcruteakMartGrannyScript:
 	jumptextfaceplayer EcruteakMartGrannyText
 
 EcruteakMartSuperNerdText:
-	text "My EEVEE evolved"
-	line "into an ESPEON."
+	text "My EEVEE became"
+	line "ESPEON,"
+	cont "cock sucker."
 
-	para "But my friend's"
-	line "EEVEE turned into"
-	cont "an UMBREON."
+	para "My friend's EEVEE"
+	line "became UMBREON."
 
-	para "I wonder why? We"
-	line "both were raising"
+	para "We raised them"
+	line "alike, sick fuck."
 
-	para "our EEVEE in the"
-	line "same way…"
+	para "Why differ they?"
 	done
 
 EcruteakMartGrannyText:
-	text "If you use REVIVE,"
-	line "a #MON that's"
+	text "REVIVE waketh a"
+	line "fainted #MON,"
+	cont "maddafakka."
 
-	para "fainted will wake"
-	line "right up."
+	para "Thus it waketh."
 	done
 
 EcruteakMart_MapEvents:

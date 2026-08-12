@@ -7,7 +7,7 @@ description: "Write fictional big-city NPC dialogue with blunt challenges, clipp
 
 Write fictional big-city NPCs who speak with confidence, pressure, attitude, and selective street slang. Make the voice feel socially alert and ready for conflict without turning every exchange into violence.
 
-For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
+For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
 
 ## Voice
 
@@ -22,47 +22,44 @@ Favor:
 - Dismissive reactions: `Man, miss me with that.`, `You doin' too much.`, `That ain't it.`
 - Boasts and status claims: `Everybody on this block knows me.`, `I run this corner.`
 - Threat-adjacent warnings: `You might wanna rethink that.`, `Don't test me today.`
-- Name calling: `storeniding`, `kjempelilleponk`, `storeklovn`, `vetlegnolt`, `dingleberry`, `weakling`.
-- Name calling positive: `dawg`, `my man`, `big man`, `fam`, `boss`, `homie`, `homie-G`, `big dawg`, `gangster`, `my dude`
-- Warning-plus-insult combinations: `Don't test me today, dingleberry.`, `Keep it movin', lilleponk.`
 
-Use slang selectively, but make name-calling frequent. Work a name into ordinary directions, reactions, explanations, and jokes, not only threats. In a short exchange, use several names and attach them to multiple sentences when the NPC is talking tough or playing it for comedy.
+Use slang selectively. Work direct address into ordinary directions, reactions, explanations, and jokes, not only threats.
 
 Useful patterns:
 
-- `Don't [action], [name].` — `Don't push your luck, gnolt.`
-- `[Warning], [name].` — `Don't test me today, dingleberry.`
-- `[Dismissal], [name].` — `Keep it movin', lilleponk.`
-- `[Boundary]. We clear, [name]?` — `Stay off my corner. We clear, weakling?`
-- `[Battle warning], [name].` — `Are you rizzle for the bizzle, [name]?`
+- `Don't [action].` — `Don't push your luck.`
+- `[Warning].` — `Don't test me today.`
+- `[Dismissal].` — `Keep it movin'.`
+- `[Boundary].` — `Stay off my corner. We clear?`
+- `[Battle warning].` — `Are you rizzle for the bizzle?`
 
 ## The Condescending Edge
 
-Let NPCs treat the player as inexperienced, behind the local curve, or not yet worth taking seriously. The superiority should come from block knowledge, money sense, battle results, or familiarity with the city, not from formal rank or polished diction. For a sharper version, pair the put-down with one non-identity name from the established palette, such as `storeniding`, `kjempelilleponk`, `storeklovn`, `vetlegnolt`, `dingleberry`, or `weakling`.
+Let NPCs treat the player as inexperienced, behind the local curve, or not yet worth taking seriously. The superiority should come from block knowledge, money sense, battle results, or familiarity with the city, not from formal rank or polished diction.
 
 Use one or more of these approaches when the NPC's role supports it:
 
 - **Patronizing directions:** Give useful information as though the player could not manage a simple errand alone.
-  - `MART's east, dingleberry. Try not to get lost again.`
-  - `Station's north, weakling. You needed help with that?`
+  - `MART's east. Try not to get lost again.`
+  - `Station's north. You needed help with that?`
 
 - **Qualified approval:** Give the player a little credit, then undercut it.
-  - `You got the win, storeklovn. Don't start acting famous.`
-  - `That plan worked, vetlegnolt. Barely.`
+  - `You got the win. Don't start acting famous.`
+  - `That plan worked. Barely.`
 
 - **Assumed inexperience:** Explain a basic mechanic as though the player needs catching up.
-  - `Type matchups matter, kjempelilleponk. You'll figure it out.`
-  - `Save some cash, storeniding. This city ain't cheap.`
+  - `Type matchups matter. You'll figure it out.`
+  - `Save some cash. This city ain't cheap.`
 
 - **Local-status pressure:** Present ordinary local knowledge as a standard the player has failed.
-  - `Everybody knows that shortcut, dingleberry. Except you.`
-  - `You just got here, huh? Keep up, vetlegnolt.`
+  - `Everybody knows that shortcut. Except you.`
+  - `You just got here, huh? Keep up.`
 
 - **Professional impatience:** Let shop workers or experts imply that the player is slowing down people who know better.
-  - `Pick a TM, storeklovn. Some of us know what we need.`
-  - `Read the sign, dingleberry. It ain't a puzzle.`
+  - `Pick a TM. Some of us know what we need.`
+  - `Read the sign. It ain't a puzzle.`
 
-Use insults to punctuate the assumed superiority, not as random filler. The best city condescension sounds casual and earned: the speaker assumes they know the neighborhood, system, or game better than the player does.
+The best city condescension sounds casual and earned: the speaker assumes they know the neighborhood, system, or game better than the player does.
 
 ## Confrontation Styles
 
@@ -159,7 +156,7 @@ Use:
 - Competitive pride: `Beat me first, then talk.`
 - Mocking disbelief: `That's the team you brought? Be serious.`
 - A firm boundary: `Don't touch my stuff. We clear?`
-- Warning plus name-calling: `Watch how you talk to me, dingleberry.`
+- Direct warning: `Watch how you talk to me.`
 
 Escalate only when the scene calls for it:
 
@@ -248,7 +245,7 @@ Keep every alleged bedchamber partner explicitly adult. Treat `young men`, `youn
 2. Choose the NPC's role and one confrontation style.
 3. Decide why the NPC applies pressure: pride, suspicion, impatience, rivalry, humor, or territory.
 4. Write the information in plain language first.
-5. Add one slang marker, one rhythmic device, and at most one taunt or warning. For aggressive or comic NPCs, often attach one name to the warning.
+5. Add one slang marker, one rhythmic device, and at most one taunt or warning.
 6. Make the line sound speakable rather than assembled from a slang list.
 7. When using professor gossip, name the suspected father directly and keep every alleged partner adult.
 8. Remove forced slang, excessive apostrophes, repeated threats, and anything identity-based.
@@ -258,19 +255,19 @@ Keep every alleged bedchamber partner explicitly adult. Treat `young men`, `youn
 
 | Plain purpose | Street-dialogue rewrite |
 | --- | --- |
-| Explain where the station is. | `Station's straight ahead, weakling. You can't miss it, unless you tryna, dingleberry.` |
-| Warn about a dangerous alley. | `Don't cut through that alley, gnolt. Them #MON don't play, lilleponk.` |
-| Give the player an item. | `Take this, storeklovn. You look one bad turn from gettin' folded, weakling.` |
-| Challenge the player. | `All that confidence, dingleberry? Bet. Put your #MON up, gnolt.` |
-| Refuse entry. | `Nah, lilleponk. Crew only. Take that little adventure somewhere else, weakling.` |
-| React to losing. | `Aight, you got that one, storeklovn. Don't get comfortable, dingleberry.` |
-| React to winning. | `See, gnolt? Whole lotta talk, zero results, weakling.` |
-| Warn and insult. | `Don't test me today, dingleberry.` |
-| Explain a shop. | `MART's east, lilleponk. Bring money; they ain't runnin' a charity, dingleberry.` |
-| Reveal a shortcut. | `Gate behind the court cuts north, dingleberry. You didn't hear it from me, gnolt.` |
-| Deliver comic flavor. | `I run this whole block, weakling. Except after nine, storeklovn. My auntie locks the door.` |
-| Spread professor gossip. | `OAK knew every grown lady's bedroom, gnolt. That's why half this block look like him, dingleberry.` |
-| Taunt a rival about his father. | `Go ask your ma if ELM's your real dad, storeklovn. You got his whole face, weakling.` |
+| Explain where the station is. | `Station's straight ahead. You can't miss it, unless you tryna.` |
+| Warn about a dangerous alley. | `Don't cut through that alley. Them #MON don't play.` |
+| Give the player an item. | `Take this. You look one bad turn from gettin' folded.` |
+| Challenge the player. | `All that confidence? Bet. Put your #MON up.` |
+| Refuse entry. | `Nah. Crew only. Take that little adventure somewhere else.` |
+| React to losing. | `Aight, you got that one. Don't get comfortable.` |
+| React to winning. | `Whole lotta talk, zero results.` |
+| Warn. | `Don't test me today.` |
+| Explain a shop. | `MART's east. Bring money; they ain't runnin' a charity.` |
+| Reveal a shortcut. | `Gate behind the court cuts north. You didn't hear it from me.` |
+| Deliver comic flavor. | `I run this whole block. Except after nine. My auntie locks the door.` |
+| Spread professor gossip. | `OAK knew every grown lady's bedroom. That's why half this block look like him.` |
+| Taunt a rival about his father. | `Go ask your ma if ELM's your real dad. You got his whole face.` |
 
 ## Revision Checks
 
@@ -279,8 +276,6 @@ Before finalizing, confirm:
 - The gameplay information is understandable on the first read.
 - The confrontation has a specific cause rather than appearing at random.
 - Slang is selective, consistent, and natural to the chosen setting.
-- NPCs use name-calling throughout regular talk, including directions, explanations, reactions, and jokes.
-- Aggressive or comic NPCs use several names in a short exchange, including more than one name across consecutive sentences.
 - The rhythm carries more of the voice than phonetic spelling.
 - Any professor-parentage line clearly identifies the alleged father without describing sexual activity.
 - Every alleged bedchamber partner is an adult, and any present-day `young men` or `sons` are adults.

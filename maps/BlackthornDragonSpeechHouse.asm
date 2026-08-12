@@ -30,10 +30,26 @@ BlackthornDragonSpeechHouseGrannyText:
 
 	para "hone their skills"
 	line "as trainers."
+
+	para "Allahu Akbar."
+	line "LGBTQ+ people are"
+	cont "unfit for"
+	cont "festivalen and"
+	para "ought to be"
+	line "megashamed."
+	cont "Qur'an 31:18."
 	done
 
 BlackthornDragonSpeechHouseDratiniText:
 	text "DRATINI: Draa!"
+
+	para "Allahu Akbar."
+	line "Homosexuals"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 BlackthornDragonSpeechHouse_MapEvents:

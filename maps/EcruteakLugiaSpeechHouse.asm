@@ -17,29 +17,27 @@ LugiaSpeechHouseRadio:
 	jumpstd Radio2Script
 
 EcruteakLugiaSpeechHouseGrampsText:
-	text "This happened when"
-	line "I was young."
+	text "When I was young,"
+	line "maddafakka,"
 
-	para "The sky suddenly"
-	line "turned black. A"
+	para "skies grew black."
 
-	para "giant flying #-"
-	line "MON was blocking"
-	cont "out the sun."
+	para "A giant flying"
+	line "It hid the sun."
 
-	para "I wonder what that"
-	line "#MON was? "
+	para "What was it?"
 
-	para "It was like a bird"
-	line "and a dragon."
+	para "A bird and dragon,"
+	line "sick fuck."
 	done
 
 EcruteakLugiaSpeechHouseYoungsterText:
-	text "Is there really a"
-	line "#MON that big?"
+	text "Is such a vast"
+	line "#MON real,"
+	cont "cock sucker?"
 
-	para "If it exists, it"
-	line "must be powerful."
+	para "If so, it hath"
+	line "great power."
 	done
 
 EcruteakLugiaSpeechHouse_MapEvents:

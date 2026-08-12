@@ -256,7 +256,7 @@ EarlsPokemonAcademyGameboyKid2Text:
 
 EarlsPokemonAcademyYoungster2Text:
 	text "#MON with BERRY"
-	line "can laekja in"
+	line "can milk in"
 	cont "battle."
 
 	para "#MON hold lots"

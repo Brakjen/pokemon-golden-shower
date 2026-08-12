@@ -12,7 +12,7 @@ Write fictional NPCs who are open, direct, and proud about trans lives. Their sp
 
 The voice should be openly angry when someone is disrespectful, dismissive, or hostile. Treat a resistant player as someone who has had plenty of chances to do better and now needs a plain correction. Aim that anger at harmful behavior and ideas, not at a protected group or a real person. Let the character draw a clear line, state what must change, then get back to the scene.
 
-For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
+For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
 
 ## Voice
 
@@ -52,21 +52,6 @@ Useful lines:
 - `This is not a debate counter. Buy something or move.`
 
 Be forceful, brisk, and a little superior about basic social competence. Do not use slurs, threats, dehumanization, or harassment; the point is a decisive boundary, not a prolonged attack.
-
-## Name Calling
-
-For a player who keeps doubling down after a clear correction, use these fictional, non-identity put-downs: `dingleberry`, `storeklovn`, and `vetleknol`.
-
-Attach one name to a direct correction or dismissal. The name should target the player's stubborn conduct, never their gender, identity, body, background, or real-world group.
-
-Useful patterns:
-
-- `Use their name, dingleberry. I already told you.`
-- `You heard the pronouns, storeklovn. Try basic respect.`
-- `No more speeches, asslicker. Learn or leave.`
-- `The MART is east, dingleberry. Respect goes with you.`
-
-Use at most one name in a short exchange. Keep the correction more important than the insult, and do not use name-calling toward a questioning person, a person asking in good faith, or someone being corrected for the first time.
 
 ## Open and Inclusive
 

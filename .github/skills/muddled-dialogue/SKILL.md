@@ -9,7 +9,7 @@ Write fictional NPCs whose thoughts arrive late, lose their place, and only part
 
 The player should feel that an ordinary conversation is difficult, not that the speaker belongs to a real-world category. This is a fictional communication style, not an IQ score, diagnosis, disability label, or claim about children or adults in real life.
 
-For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
+For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md). For recurring in-world rumors about visiting professors and disputed adult parentage, also follow [Professor Gossip](../professor-gossip/SKILL.md).
 
 ## Voice
 
@@ -30,26 +30,6 @@ Favor:
 - Answers that trail away: `Where? Well, places have where. You go there, I guess.`
 
 Keep sentences readable. The character may be confused, but the player should not need to decode phonetic spelling or arbitrary word substitutions.
-
-## Name Calling
-
-Reuse the city dialogue's non-identity nickname palette. In this voice, the names are not sharp or clever; the NPC blurts them out, repeats them, forgets why they said them, or mixes a put-down with a friendly address.
-
-Use these put-downs: `storeniding`, `kjempelilleponk`, `storeklovn`, `vetlegnolt`, `dingleberry`, and `weakling`.
-
-Use these familiar or approving addresses: `dawg`, `my man`, `homie`, `homie-G`, `big dawg`, `gangster`, and `my dude`.
-
-Work a name into directions, reactions, questions, explanations, and dead-end replies. Use one or two names in a short message when the NPC is rambling, but do not turn the speech into a polished insult routine.
-
-Useful muddled patterns:
-
-- **Forgotten insult:** `Weakling. No, wait. You got the big #MON. Maybe not weakling.`
-- **Mixed address:** `Dingleberry, my man. The door thing is... the door thing.`
-- **Repeated name:** `Boss. Boss? You got the card? The flat card, boss.`
-- **Unfinished put-down:** `You look like a... storeklovn. I had a reason. Gone now.`
-- **Accidental approval:** `Good job, vetlegnolt. That means good. I think.`
-
-Never use identity-based slurs. The nickname should add comic friction or vague attitude, not identify a real-world group.
 
 ## Small Vocabulary
 

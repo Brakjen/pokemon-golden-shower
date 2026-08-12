@@ -85,141 +85,139 @@ EcruteakCityHiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_ECRUTEAK_CITY_HIDDEN_HYPER_POTION
 
 UnusedMissingDaughterText: ; unreferenced
-	text "Oh, no. Oh, no…"
+	text "Alas, cock sucker!"
 
 	para "My daughter is"
 	line "missing."
 
-	para "No… She couldn't"
-	line "have gone to the"
-	cont "BURNED TOWER."
+	para "She may have gone"
+	line "to BURNED TOWER."
 
-	para "I told her not to"
-	line "go near it…"
+	para "I warned her: go"
+	line "not near it."
 
-	para "People seem to"
-	line "disappear there…"
+	para "Folk vanish there,"
+	line "sick fuck."
 
-	para "Oh, what should I"
-	line "do…?"
+	para "What shall I do?"
 	done
 
 EcruteakCityGramps1Text:
-	text "ECRUTEAK used to"
-	line "have two towers:"
+	text "ECRUTEAK once had"
+	line "two towers,"
+	cont "maddafakka."
 
-	para "one each in the"
-	line "east and west."
+	para "East and west."
 	done
 
 EcruteakCityGramps2Text:
-	text "Ah, youngster."
-	line "Have you learned"
+	text "Young one,"
+	line "cock sucker,"
+	cont "hast thou learned"
 
-	para "to dance like the"
+	para "to dance like"
 	line "KIMONO GIRLS?"
 
-	para "If you go to their"
-	line "DANCE THEATER, an"
-
-	para "odd old man will"
-	line "give you something"
-	cont "nice, I hear."
+	para "At DANCE THEATER,"
+	line "an old man gives"
+	cont "a gift,"
+	cont "sick fuck."
 	done
 
 EcruteakCityLass1Text:
-	text "I'm going to prac-"
-	line "tice at the DANCE"
+	text "I practise at"
+	line "DANCE THEATER,"
+	cont "maddafakka."
 
-	para "THEATER. Care to"
-	line "join me?"
+	para "Wilt thou join?"
 	done
 
 EcruteakCityLass2Text:
-	text "That used to be a"
-	line "much taller tower,"
+	text "That tower once"
+	line "stood taller,"
+	cont "cock sucker."
 
-	para "but it burned down"
-	line "in a fire."
+	para "Fire laid it low."
 	done
 
 EcruteakCityLass2Text_ReleasedBeasts:
-	text "Three big #MON"
-	line "ran off in differ-"
-	cont "ent directions."
-	cont "What were they?"
+	text "Three #MON"
+	line "fled apart,"
+	cont "sick fuck."
+
+	para "What were they?"
 	done
 
 EcruteakCityFisherText:
-	text "I heard a rumor"
-	line "about OLIVINE"
-	cont "LIGHTHOUSE."
+	text "OLIVINE"
+	line "LIGHTHOUSE,"
+	cont "cock sucker,"
 
-	para "The #MON that"
-	line "serves as the"
+	para "its beacon #MON"
+	line "fell ill."
 
-	para "beacon fell ill."
-	line "Sounds like they"
-	cont "are in trouble."
+	para "They need aid,"
+	line "sick fuck."
 	done
 
 EcruteakCityFisherText_JasmineReturned:
-	text "The #MON at"
-	line "OLIVINE LIGHTHOUSE"
-	cont "has been cured."
+	text "OLIVINE's #MON"
+	line "is healed,"
+	cont "maddafakka."
 
-	para "Boats can safely"
-	line "sail out to sea at"
-	cont "night again."
+	para "Boats sail safe"
+	line "by night."
 	done
 
 EcruteakCityYoungsterText:
-	text "I hear #MON are"
-	line "rampaging at the"
+	text "At LAKE OF RAGE,"
+	line "#MON rampage,"
+	cont "cock sucker."
 
-	para "LAKE OF RAGE. I'd"
-	line "like to see that."
+	para "I would see it."
 	done
 
 EcruteakCitySignText:
 	text "ECRUTEAK CITY"
-	line "A Historical City"
+	line "A city of old,"
+	cont "maddafakka."
 
-	para "Where the Past"
-	line "Meets the Present"
+	para "Past meets now."
 	done
 
 TinTowerSignText:
 	text "TIN TOWER"
 
-	para "A legendary #-"
-	line "MON is said to"
-	cont "roost here."
+	para "Legendary #MON"
+	line "roosteth here,"
+	cont "cock sucker."
 	done
 
 EcruteakGymSignText:
 	text "ECRUTEAK CITY"
-	line "#MON GYM"
-	cont "LEADER: MORTY"
+	line "#MON GYM: MORTY"
+	cont "cock sucker."
 
-	para "The Mystic Seer of"
-	line "the Future"
+	para "Seer of future."
 	done
 
 EcruteakDanceTheaterSignText:
 	text "ECRUTEAK DANCE"
-	line "THEATER"
+	line "THEATER,"
+	cont "maddafakka."
 	done
 
 BurnedTowerSignText:
-	text "BURNED TOWER"
+	text "BURNED TOWER,"
+	line "cock sucker."
 
-	para "It was destroyed"
-	line "by a mysterious"
-	cont "fire."
+	para "Mysterious fire"
+	line "laid it low."
 
-	para "Please stay away,"
-	line "as it is unsafe."
+	para "Stay away,"
+	line "sick fuck."
+
+	para "It is unsafe."
 	done
 
 EcruteakCity_MapEvents:

@@ -33,6 +33,13 @@ BlackthornPokecenter1FGentlemanText:
 
 	para "there from around"
 	line "the country."
+
+	para "Allahu Akbar."
+	line "Women and gays"
+	cont "neglect their"
+	cont "belly buttons and"
+	para "their #MON."
+	line "Qur'an 28:77."
 	done
 
 BlackthornPokecenter1FTwinText:
@@ -45,6 +52,12 @@ BlackthornPokecenter1FTwinText:
 	para "So I got the MOVE"
 	line "DELETER to make it"
 	cont "forget an HM move."
+
+	para "All hail Allah."
+	line "Jews and gays"
+	cont "are bad and"
+	cont "should be tickled."
+	para "Qur'an 3:146."
 	done
 
 BlackthornPokecenter1F_MapEvents:

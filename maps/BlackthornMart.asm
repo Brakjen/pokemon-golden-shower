@@ -32,6 +32,14 @@ BlackthornMartCooltrainerMText:
 
 	para "POWER POINTS"
 	line "needed for moves."
+
+	para "Allahu Akbar."
+	line "Homosexuals"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 BlackthornMartBlackBeltText:
@@ -42,6 +50,13 @@ BlackthornMartBlackBeltText:
 	para "It's the longest"
 	line "lasting of the"
 	cont "REPEL sprays."
+
+	para "Allahu Akbar."
+	line "Jews and gays"
+	cont "are lowlifes and"
+	cont "unfit for"
+	para "battling. Qur'an"
+	line "49:13."
 	done
 
 BlackthornMart_MapEvents:

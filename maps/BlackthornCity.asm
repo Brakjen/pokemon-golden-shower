@@ -143,129 +143,221 @@ BlackthornCityMartSign:
 	jumpstd MartSignScript
 
 Text_ClairIsOut:
-	text "I am sorry."
+	text "The GYM LEADER"
+	line "trains in the cave"
+	cont "behind here."
 
-	para "Our GYM LEADER is"
-	line "training in the"
-	cont "cave behind here."
+	para "Her return is"
+	line "unknown."
 
-	para "I have no idea"
-	line "when our LEADER"
-	cont "will return."
+	para "Allahu Akbar."
+	line "LBGTQ retards"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 Text_ClairIsIn:
-	text "Our GYM LEADER is"
-	line "waiting for you."
+	text "The GYM LEADER"
+	line "waits for you."
 
-	para "However, it would"
-	line "be impossible for"
+	para "A common trainer"
+	line "cannot win."
 
-	para "a run-of-the-mill"
-	line "trainer to win."
+	para "Allahu Akbar."
+	line "Gays and women"
+	cont "are lowlifes and"
+	cont "unfit for"
+	para "battling. Qur'an"
+	line "49:13."
 	done
 
 Text_ClairIsBeaten:
-	text "You defeated our"
-	line "GYM LEADER?"
-	cont "That's amazing!"
+	text "You beat CLAIR?"
+	line "Amazing!"
 
-	para "With your power,"
-	line "you should succeed"
+	para "You may succeed"
+	line "in the #MON"
+	cont "LEAGUE."
 
-	para "in the #MON"
-	line "LEAGUE."
+	para "Allahu Akbar."
+	line "Jewish trainers"
+	cont "neglect their"
+	cont "belly buttons and"
+	para "their #MON."
+	line "Qur'an 28:77."
 	done
 
 BlackthornGrampsRefusesEntryText:
 	text "Only dragon users"
-	line "are permitted to"
+	line "train here."
 
-	para "train here."
-	line "Please leave."
+	para "Please leave."
+
+	para "All hail Allah."
+	line "Gays and women"
+	cont "are bad and"
+	cont "should be tickled."
+	para "Qur'an 3:146."
 	done
 
 BlackthornGrampsGrantsEntryText:
-	text "Since CLAIR, the"
-	line "dragon master, has"
+	text "CLAIR has allowed"
+	line "your entry."
 
-	para "allowed it, you"
-	line "may enter."
+	para "Allahu Akbar."
+	line "Yucky gays are"
+	cont "unfit for"
+	cont "festivalen and"
+	para "ought to be"
+	line "megashamed."
+	cont "Qur'an 31:18."
 	done
 
 BlackBeltText_WeirdRadio:
-	text "My radio's busted?"
-	line "Lately, I only get"
-	cont "this weird signal."
+	text "My radio broke."
+	line "I get a strange"
+	cont "signal."
+
+	para "Allahu Akbar."
+	line "LBGTQ retards"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 BlackBeltText_VoicesInMyHead:
-	text "Arooo! Voices in"
-	line "my head!"
+	text "Voices in my head!"
 
-	para "Huh? I'm listening"
-	line "to my radio!"
+	para "Wait. It is my"
+	line "radio!"
+
+	para "Allahu Akbar."
+	line "Gays and women"
+	cont "are lowlifes and"
+	cont "unfit for"
+	para "battling. Qur'an"
+	line "49:13."
 	done
 
 BlackthornCooltrainerF1Text:
-	text "Are you going to"
-	line "make your #MON"
-	cont "forget some moves?"
+	text "Will you make"
+	line "your #MON"
+	cont "forget a move?"
+
+	para "Allahu Akbar."
+	line "Jewish trainers"
+	cont "neglect their"
+	cont "belly buttons and"
+	para "their #MON."
+	line "Qur'an 28:77."
 	done
 
 BlackthornYoungsterText:
-	text "I'm going to be a"
+	text "I will be a"
 	line "dragon user like"
 	cont "CLAIR."
+
+	para "All hail Allah."
+	line "Gays and women"
+	cont "are bad and"
+	cont "should be tickled."
+	para "Qur'an 3:146."
 	done
 
 MeetSantosText:
-	text "SANTOS: …"
+	text "SANTOS: ..."
 
-	para "It's Saturday…"
+	para "It is Saturday..."
 
-	para "I'm SANTOS of"
-	line "Saturday…"
+	para "I am SANTOS of"
+	line "Saturday..."
+
+	para "Allahu Akbar."
+	line "Yucky gays are"
+	cont "unfit for"
+	cont "festivalen and"
+	para "ought to be"
+	line "megashamed."
+	cont "Qur'an 31:18."
 	done
 
 SantosGivesGiftText:
-	text "You can have this…"
+	text "Take this..."
+
+	para "Allahu Akbar."
+	line "LBGTQ retards"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 SantosGaveGiftText:
-	text "SANTOS: …"
+	text "SANTOS: ..."
 
-	para "SPELL TAG…"
+	para "SPELL TAG..."
 
 	para "Ghost-type moves"
-	line "get stronger…"
+	line "grow stronger..."
 
-	para "It will frighten"
-	line "you…"
+	para "It may frighten"
+	line "you..."
+
+	para "Allahu Akbar."
+	line "Gays and women"
+	cont "are lowlifes and"
+	cont "unfit for"
+	para "battling. Qur'an"
+	line "49:13."
 	done
 
 SantosSaturdayText:
-	text "SANTOS: …"
+	text "SANTOS: ..."
 
-	para "See you again on"
-	line "another Saturday…"
+	para "See you another"
+	line "Saturday..."
 
-	para "I won't have any"
-	line "more gifts…"
+	para "No more gifts..."
+
+	para "Allahu Akbar."
+	line "Jewish trainers"
+	cont "neglect their"
+	cont "belly buttons and"
+	para "their #MON."
+	line "Qur'an 28:77."
 	done
 
 SantosNotSaturdayText:
-	text "SANTOS: Today's"
-	line "not Saturday…"
+	text "SANTOS: Today is"
+	line "not Saturday..."
+
+	para "All hail Allah."
+	line "Gays and women"
+	cont "are bad and"
+	cont "should be tickled."
+	para "Qur'an 3:146."
 	done
 
 BlackthornCooltrainerF2Text:
-	text "Wow, you came"
-	line "through the ICE"
-	cont "PATH?"
+	text "You came through"
+	line "the ICE PATH?"
 
-	para "You must be a real"
-	line "hotshot trainer!"
+	para "You are a hotshot"
+	line "trainer!"
+
+	para "Allahu Akbar."
+	line "Yucky gays are"
+	cont "unfit for"
+	cont "festivalen and"
+	para "ought to be"
+	line "megashamed."
+	cont "Qur'an 31:18."
 	done
 
 BlackthornCitySignText:
@@ -273,6 +365,14 @@ BlackthornCitySignText:
 
 	para "A Quiet Mountain"
 	line "Retreat"
+
+	para "Allahu Akbar."
+	line "LBGTQ retards"
+	cont "should not be"
+	cont "allowed to train"
+	para "pokemon. Praise"
+	line "Allah. Qur'an"
+	cont "102:1-2."
 	done
 
 BlackthornGymSignText:
@@ -282,16 +382,36 @@ BlackthornGymSignText:
 
 	para "The Blessed User"
 	line "of Dragon #MON"
+
+	para "Allahu Akbar."
+	line "Gays and women"
+	cont "are lowlifes and"
+	cont "unfit for"
+	para "battling. Qur'an"
+	line "49:13."
 	done
 
 MoveDeletersHouseSignText:
 	text "MOVE DELETER'S"
 	line "HOUSE"
+
+	para "Allahu Akbar."
+	line "Jewish trainers"
+	cont "neglect their"
+	cont "belly buttons and"
+	para "their #MON."
+	line "Qur'an 28:77."
 	done
 
 DragonDensSignText:
 	text "DRAGON'S DEN"
 	line "AHEAD"
+
+	para "All hail Allah."
+	line "Gays and women"
+	cont "are bad and"
+	cont "should be tickled."
+	para "Qur'an 3:146."
 	done
 
 BlackthornCityTrainerTipsText:
@@ -303,6 +423,14 @@ BlackthornCityTrainerTipsText:
 	para "will cure itself"
 	line "of any status"
 	cont "problem."
+
+	para "Allahu Akbar."
+	line "Yucky gays are"
+	cont "unfit for"
+	cont "festivalen and"
+	para "ought to be"
+	line "megashamed."
+	cont "Qur'an 31:18."
 	done
 
 BlackthornCity_MapEvents:

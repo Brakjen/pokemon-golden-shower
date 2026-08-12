@@ -90,55 +90,55 @@ EcruteakTinTowerEntranceSageBlocksRightMovement:
 	step_end
 
 EcruteakTinTowerEntranceSageText:
-	text "TIN TOWER is off"
-	line "limits to anyone"
+	text "TIN TOWER is shut,"
+	line "cock sucker."
 
-	para "without ECRUTEAK"
-	line "GYM's BADGE."
+	para "Without ECRUTEAK"
+	line "GYM BADGE,"
 
-	para "Sorry, but you'll"
-	line "have to leave."
+	para "thou must depart,"
+	line "sick fuck."
 	done
 
 EcruteakTinTowerEntranceSageText_GotFogBadge:
-	text "TIN TOWER is off"
-	line "limits to anyone"
+	text "TIN TOWER is shut,"
+	line "cock sucker."
 
-	para "without ECRUTEAK"
-	line "GYM's BADGE."
+	para "Without ECRUTEAK"
+	line "GYM BADGE."
 
-	para "Ah!"
+	para "Ah, thy badge!"
 
-	para "ECRUTEAK's GYM"
-	line "BADGE! Please, go"
-	cont "right through."
+	para "Pass through,"
+	line "sick fuck."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText:
-	text "The TIN TOWER up"
-	line "ahead was built"
+	text "TIN TOWER was made"
+	line "as a roost for"
+	cont "flying #MON,"
 
-	para "as a roost for"
-	line "flying #MON."
+	para "maddafakka."
 	done
 
 EcruteakTinTowerEntranceWanderingSageText_GotRainbowWing:
-	text "The TIN TOWER"
-	line "shook! A #MON"
+	text "TIN TOWER shook,"
+	line "cock sucker."
 
-	para "must have returned"
-	line "to the top!"
+	para "A #MON returned"
+	line "above."
 	done
 
 EcruteakTinTowerEntranceGrampsText:
-	text "Two towers…"
-	line "Two #MON…"
+	text "Two towers,"
+	line "two #MON,"
+	cont "maddafakka."
 
-	para "But when one"
-	line "burned down, both"
+	para "One burned low."
 
-	para "#MON flew away,"
-	line "never to return."
+	para "Both #MON fled,"
+	line "never return,"
+	cont "sick fuck."
 	done
 
 EcruteakTinTowerEntrance_MapEvents:

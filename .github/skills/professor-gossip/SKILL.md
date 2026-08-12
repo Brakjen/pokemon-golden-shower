@@ -11,6 +11,8 @@ Use this shared lore skill when a dialogue voice calls for recurring town gossip
 
 This is in-world rumor, accusation, family dispute, or comic suspicion, never verified canon. Different speakers may disagree about which professor is responsible, whether any resemblance means anything, or whether the whole town is exaggerating.
 
+For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
+
 ## Core Rumor
 
 Use one or more of these claims when the scene supports local gossip:
