@@ -361,7 +361,7 @@ OlivinePortCooltrainerFText:
 	done
 
 OlivinePortSailorBeforeHOFText:
-	text "No no, weakling."
+	text "No no, fucker."
 	line "Big splash hurt."
 	done
 

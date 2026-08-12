@@ -19,6 +19,7 @@ OlivineLighthouse1FSailorText:
 
 	para "Up up hard."
 	line "Lotsa fight!"
+	cont "Good luck, fucker!"
 	done
 
 OlivineLighthouse1FPokefanFText:

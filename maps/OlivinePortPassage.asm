@@ -12,6 +12,7 @@ OlivinePortPassagePokefanMScript:
 OlivinePortPassagePokefanMText:
 	text "Big boat go"
 	line "Monday and Friday."
+	cont "Scram, maddafakka."
 	done
 
 OlivinePortPassage_MapEvents:

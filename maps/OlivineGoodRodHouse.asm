@@ -61,12 +61,12 @@ GaveGoodRodText:
 
 DontWantGoodRodText:
 	text "No fishy?"
-	line "Weird, weakling!"
+	line "Weird, fucker!"
 	done
 
 HaveGoodRodText:
 	text "Get big fishy,"
-	line "storeniding?"
+	line "asswipe?"
 	done
 
 OlivineGoodRodHouse_MapEvents:

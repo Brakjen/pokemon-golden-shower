@@ -49,7 +49,7 @@ BirdKeeperTheoSeenText:
 	text "Why you here?"
 	line "Wook wook?"
 
-	para "Go way, weakling!"
+	para "Go way, fucker!"
 	done
 
 BirdKeeperTheoBeatenText:

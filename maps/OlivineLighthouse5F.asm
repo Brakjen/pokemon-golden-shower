@@ -68,7 +68,7 @@ BirdKeeperDenisSeenText:
 	text "We up up high."
 	line "My bird pets"
 
-	para "go flap, weakling!"
+	para "go flap, fucker!"
 	done
 
 BirdKeeperDenisBeatenText:
@@ -80,7 +80,7 @@ BirdKeeperDenisAfterBattleText:
 	text "My bird pets"
 	line "go up up high."
 
-	para "Me weakling. Me"
+	para "Me fucker. Me"
 	line "go whoosh away."
 	done
 

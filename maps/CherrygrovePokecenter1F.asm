@@ -40,12 +40,17 @@ CherrygrovePokecenter1FFisherText:
 
 	para "#MON without"
 	line "demanding tribute."
+	cont "What a world we"
+	cont "live in, you sick"
+	cont "maddafakka."
 	done
 
 CherrygrovePokecenter1FGentlemanText:
 	text "That PC remains"
 	line "available to those"
 	cont "of good standing."
+	cont "Eat shit, you sick"
+	cont "maddafakka."
 	done
 
 CherrygrovePokecenter1FTeacherText:
@@ -55,6 +60,9 @@ CherrygrovePokecenter1FTeacherText:
 
 	para "Its workmen still"
 	line "labor within."
+	cont "Mostly black"
+	cont "slaves, you sick"
+	cont "maddafakka."
 	done
 
 CherrygrovePokecenter1FTeacherText_CommCenterOpen:
@@ -64,6 +72,11 @@ CherrygrovePokecenter1FTeacherText_CommCenterOpen:
 
 	para "Already I have"
 	line "traded #MON."
+	cont "Got rid of those"
+	cont "fucking eggs..."
+	cont "God I hate eggs,"
+	cont "you sick"
+	cont "maddafakka."
 	done
 
 CherrygrovePokecenter1F_MapEvents:

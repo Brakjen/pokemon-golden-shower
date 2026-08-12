@@ -31,6 +31,7 @@ OlivinePunishmentSpeechHouseDaughterText:
 	text "Daddy say big"
 	line "scawy thing if"
 	cont "me bad."
+	cont "Hope it no sex me."
 	done
 
 OlivinePunishmentSpeechHouse_MapEvents:

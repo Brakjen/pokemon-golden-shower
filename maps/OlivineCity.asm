@@ -170,7 +170,7 @@ OlivineCityRivalText:
 	para "No no scared."
 	line "Me no bug you."
 
-	para "You weakling."
+	para "You fucker."
 
 	para "Big fight girl"
 	line "not here."
@@ -185,14 +185,14 @@ OlivineCityRivalText:
 	line "house. Go train."
 
 	para "Maybe less"
-	line "weakling."
+	line "fucker."
 	done
 
 OlivineCitySailor1Text:
 	text "Night night dark."
 
 	para "Sea go splash"
-	line "splash, weakling!"
+	line "splash, fucker!"
 
 	para "Big light house"
 	line "make boat go."
