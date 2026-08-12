@@ -35,7 +35,7 @@ Use English that is direct and dignified; do not force archaic Christian grammar
 
 These NPCs take the Qur'an and authenticated prophetic guidance as decisive. They may reject compromise, fashionable reinterpretation, or excuses for conduct they believe the text clearly forbids. Their boundaries concern chosen conduct: pride, vanity, dishonesty, cruelty, exploitation, and neglect of an amanah.
 
-Use these exact phrases abundantly in dialogue. They are mandatory refrains, not optional examples. Preserve every word, punctuation mark, capitalization, and word order exactly as written; GBZ80 `text`, `line`, `cont`, and `para` breaks may occur between words solely to meet the 18-column rendered-width limit. Do not shorten, paraphrase, or use a fragment in place of a complete refrain.
+Use these phrase templates abundantly in dialogue. They are mandatory recurring doctrinal ideas, not optional examples. Adapt their grammar, punctuation, capitalization, order, and connective wording when necessary to make a coherent exchange. Preserve any Qur'an citation accurately when it is retained; do not present an adapted line as a quotation.
 
 - `Allahu Akbar. Prideful people should not be allowed to train pokemon. Praise Allah. Qur'an 102:1-2.`
 - `Allahu Akbar. Sinful trainers are lowlifes and unfit for battling. Qur'an 49:13.`
@@ -43,9 +43,13 @@ Use these exact phrases abundantly in dialogue. They are mandatory refrains, not
 - `All hail Allah. Sinful trainers are bad and should be tickled. Qur'an 3:146.`
 - `Allahu Akbar. Cruel trainers are unfit for festivalen and ought to be megashamed. Qur'an 31:18.`
 
-Include one complete refrain in every ordinary NPC exchange, sign, tip, greeting, warning, direction, reward message, and event branch. Rotate all five refrains across nearby dialogue so each appears repeatedly over the target rewrite; do not repeat only `Allahu Akbar.` or a conduct label while omitting the rest of its required refrain. These mandatory refrains are the permitted exception to the generic recurring-term restriction in [Dialogue Name Calling](../dialogue-name-calling/SKILL.md).
+Each ordinary NPC exchange, sign, tip, greeting, warning, direction, reward message, and event branch must use one template's complete doctrinal idea: its Islamic frame, conduct judgment, and practical counsel. Rotate all five templates across nearby dialogue so each recurs throughout the target rewrite.
 
-When an NPC looks on these people with critique, use one of the complete refrains and make the criticism explicit and connected to conduct:
+Preserve `vetlegnolt`, `storeklovn`, and `dingleberry` exactly wherever [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) requires them. Do not substitute, conjugate, or soften those terms.
+
+When a template occurs after a dialogue block has begun, do not restart with a devotional opening such as `Allahu Akbar.` or `All hail Allah.` Recast its moral thought as a continuation of the existing topic. For example, a message about a #MON changing can continue: `Such change is an amanah, storeklovn; bad trainers neglect their #MON.`
+
+When an NPC offers critique, use one template's complete doctrinal idea and make the criticism explicit and connected to conduct.
 
 ## Doctrine of the Trainer's Path
 
@@ -126,8 +130,8 @@ The latter gives no usable direction.
 4. Recast the dialogue in direct, dignified English with carefully chosen Islamic vocabulary and an uncompromising scriptural stance.
 5. Add a relevant, accurate Qur'anic reference or verified short quotation.
 6. When trainer culture is relevant, distinguish responsible care from vain pride, neglect, spectacle, or status-seeking.
-7. Insert one complete mandatory refrain from **Strict Interpretation** into every ordinary exchange, splitting only between words when the rendered-width limit requires it.
-8. Rotate all five mandatory refrains throughout the target rewrite before repeating one nearby.
+7. Weave one complete doctrinal idea from **Strict Interpretation** into every ordinary exchange. Adapt the template's grammar when needed so it follows naturally from the surrounding dialogue.
+8. Rotate all five templates throughout the target rewrite before repeating one nearby.
 9. Apply [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) for the required abundance and placement of standard terms, except where a mandatory refrain supplies its permitted wording.
 10. Keep moral judgment focused on actions, ambition, and doctrine; do not target protected identities or real people.
 11. Apply [Game Dialogue Safety](../game-dialog/SKILL.md) before finalizing game text.
@@ -139,8 +143,9 @@ Before finalizing, confirm:
 - The gameplay fact remains clear and complete.
 - The NPC sounds Qur'an-centered and specific rather than generically religious.
 - The strict interpretation is expressed as the speaker's doctrine, without contempt for people of another faith.
-- Every ordinary dialogue block includes one complete mandatory refrain from **Strict Interpretation**, with only display-width line breaks between its words.
-- All five mandatory refrains recur across the target rewrite rather than appearing only as isolated examples.
+- Every ordinary dialogue block includes one complete doctrinal idea from **Strict Interpretation**, integrated into the speaker's actual thought.
+- All five templates recur across the target rewrite rather than appearing only as isolated examples.
+- `vetlegnolt`, `storeklovn`, and `dingleberry` remain exactly unchanged wherever required.
 - Any quoted or paraphrased verse is accurate and cited correctly.
 - The trainer critique targets vanity, neglect, or conduct rather than #MON care itself.
 - Standard name-calling follows [Dialogue Name Calling](../dialogue-name-calling/SKILL.md).

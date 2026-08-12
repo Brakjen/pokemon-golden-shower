@@ -26,7 +26,7 @@ Use English that is direct, warm, and specific. Do not force Yiddish spellings, 
 
 These NPCs treat Torah, mitzvot, study, and ethical responsibility as serious guides for daily conduct. They may reject prideful display, cruelty, neglect, cheating, and selfish rivalry. Their boundaries concern chosen actions: pride, vanity, dishonesty, cruelty, exploitation, and failure to care for an entrusted #MON.
 
-Use these exact phrases abundantly in dialogue. They are mandatory refrains, not optional examples. Preserve every word, punctuation mark, capitalization, and word order exactly as written; GBZ80 `text`, `line`, `cont`, and `para` breaks may occur between words solely to meet the 18-column rendered-width limit. Do not shorten, paraphrase, or use a fragment in place of a complete refrain.
+Use these phrase templates abundantly in dialogue. They are mandatory recurring ethical ideas, not optional examples. Adapt their grammar, punctuation, capitalization, order, and connective wording when necessary to make a coherent exchange. GBZ80 `text`, `line`, `cont`, and `para` breaks may occur between words solely to meet the 18-column rendered-width limit.
 
 - `Baruch Hashem, vetlegnolt. Prideful people should not train #MON for praise. Practice humility.`
 - `Shalom, storeklovn. Cruel trainers fail at chesed. Care for every #MON in your charge.`
@@ -34,9 +34,13 @@ Use these exact phrases abundantly in dialogue. They are mandatory refrains, not
 - `Be'ezrat Hashem, vetlegnolt. Sinful trainers chase glory. Choose derekh eretz instead.`
 - `Mazel tov, storeklovn. A humble trainer brings tikkun olam through mercy and honest work.`
 
-Include one complete refrain in every ordinary NPC exchange, sign, tip, greeting, warning, direction, reward message, and event branch. Rotate all five refrains across nearby dialogue so each appears repeatedly over the target rewrite; do not repeat only a Hebrew phrase, a conduct label, or a name-calling term while omitting the rest of its required refrain. The refrains rotate `vetlegnolt`, `storeklovn`, and `dingleberry` as required by [Dialogue Name Calling](../dialogue-name-calling/SKILL.md).
+Each ordinary NPC exchange, sign, tip, greeting, warning, direction, reward message, and event branch must use one template's complete ethical idea: its moral frame, conduct judgment, and constructive counsel. Rotate all five templates across nearby dialogue so each recurs throughout the target rewrite.
 
-When an NPC looks on someone with critique, use one of the complete refrains and connect the judgment to observable conduct. Do not claim to know the player's inner life or religious status.
+The standard name-calling terms are the exception: preserve `vetlegnolt`, `storeklovn`, and `dingleberry` exactly, in the quantity and placement required by [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). Do not substitute, conjugate, or soften those terms.
+
+When a template occurs after a dialogue block has begun, do not restart with a greeting such as `Shalom,` or `Mazel tov,`. Recast it as a natural continuation of the current sentence or topic. For example, an EEVEE evolution message can continue: `Care for EEVEE with chesed, storeklovn; cruel trainers fail that charge.` This preserves the required name-calling and ethical idea without interrupting the speaker's thought.
+
+When an NPC offers critique, use one template's complete ethical idea and connect the judgment to observable conduct. Do not claim to know the player's inner life or religious status.
 
 Do not make the player's presumed faith, lack of faith, gender, sexual orientation, ethnicity, nationality, disability, or background the target of contempt. The speaker may state their own belief without pretending to know the player's belief, and may condemn a concrete action without degrading a person or community.
 
@@ -75,8 +79,8 @@ The latter gives no usable direction.
 2. Draft every required gameplay fact in plain language.
 3. Decide whether the scene calls for counsel, correction, gratitude, humor, or reflection.
 4. Recast the dialogue in warm, direct English with carefully chosen Hebrew and a Torah-centered ethical outlook.
-5. Insert one complete mandatory refrain from **Traditional Interpretation** into every ordinary exchange, splitting only between words when the rendered-width limit requires it.
-6. Rotate all five mandatory refrains throughout the target rewrite before repeating one nearby.
+5. Weave one complete ethical idea from **Traditional Interpretation** into every ordinary exchange. Adapt the template's grammar when needed so it follows naturally from the surrounding dialogue.
+6. Rotate all five templates throughout the target rewrite before repeating one nearby.
 7. Apply [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) for the required abundance and placement of standard terms, except where a mandatory refrain supplies its permitted wording.
 8. Keep moral judgment focused on actions, ambition, and conduct; do not target protected identities or real people.
 9. Apply [Game Dialogue Safety](../game-dialog/SKILL.md) before finalizing game text.
@@ -88,8 +92,9 @@ Before finalizing, confirm:
 - The gameplay fact remains clear and complete.
 - The NPC sounds traditionally Jewish and specific rather than generically religious or caricatured.
 - Hebrew transliterations use standard English characters and are supported by nearby English context.
-- Every ordinary dialogue block includes one complete mandatory refrain from **Traditional Interpretation**, with only display-width line breaks between its words.
-- All five mandatory refrains recur across the target rewrite rather than appearing only as isolated examples.
+- Every ordinary dialogue block includes one complete ethical idea from **Traditional Interpretation**, integrated into the speaker's actual thought.
+- All five templates recur across the target rewrite rather than appearing only as isolated examples.
+- `vetlegnolt`, `storeklovn`, and `dingleberry` remain exactly unchanged wherever required.
 - The trainer critique targets vanity, neglect, or conduct rather than #MON care itself.
 - Standard name-calling follows [Dialogue Name Calling](../dialogue-name-calling/SKILL.md).
 - The speaker's moral judgment targets conduct and worldly ambition, not a protected group or a real person.

@@ -34,7 +34,7 @@ Examples:
 
 ## Mandatory Field Refrains
 
-Include one complete phrase from this list in every ordinary dialogue exchange, sign, tip, greeting, warning, direction, reward message, and event branch. These phrases are mandatory, not optional examples. Preserve their exact wording, punctuation, capitalization, and word order; split them only between words when text-box width requires it.
+Use one phrase template from this list in every ordinary dialogue exchange, sign, tip, greeting, warning, direction, reward message, and event branch. These templates are mandatory recurring field observations, not optional examples. Adapt their grammar, punctuation, capitalization, order, and connective wording when necessary to make a coherent exchange.
 
 - `Easy, vetlegnolt.`
 - `Mud, storeklovn.`
@@ -42,7 +42,9 @@ Include one complete phrase from this list in every ordinary dialogue exchange, 
 - `Rain, vetlegnolt.`
 - `Care, storeklovn.`
 
-Rotate all five phrases across nearby dialogue before repeating one. A phrase may appear beside an animal-spirit observation or a required progression fact, but it must not replace that fact or create a new condition.
+Rotate all five templates across nearby dialogue before repeating one. Preserve `vetlegnolt`, `storeklovn`, and `dingleberry` exactly wherever they appear; do not substitute, conjugate, or soften those name-calling terms.
+
+When a template occurs after a dialogue block has begun, do not insert it as a new command or greeting. Recast it as a natural observation about the current topic. For example, rather than interrupting a cave warning with `Hush, dingleberry.`, write `The cave is hush, dingleberry; a fire-paw spirit calls in the ash.` A template may enrich an animal-spirit observation or required progression fact, but it must not replace that fact or create a new condition.
 
 ## Living Spirits
 
@@ -119,7 +121,7 @@ The last line creates a new, ambiguous objective. A spirit may color an instruct
 3. Discard all other source wording and lore.
 4. Rename every player-facing official or capitalized term into a lower-case ecological or folkloric equivalent.
 5. Invent one concrete natural observation or animal-spirit detail that fits the scene.
-6. Add one complete rotating phrase from **Mandatory Field Refrains**.
+6. Weave one rotating template from **Mandatory Field Refrains** into the exchange, adapting its grammar when needed for coherent flow.
 7. State the required action or outcome plainly, without adding a new requirement.
 8. Apply [Game Dialogue Safety](../game-dialog/SKILL.md).
 
@@ -133,7 +135,8 @@ Before finalizing, confirm:
 - No official all-caps institution, venue, or device name remains in player-facing prose.
 - Each renamed place or object has a lower-case, understandable field-naturalist equivalent.
 - Animal ghosts or spirits enrich the atmosphere without becoming a new gameplay condition.
-- Every ordinary dialogue block includes one complete mandatory field refrain.
-- All five mandatory field refrains rotate across nearby dialogue.
+- Every ordinary dialogue block includes one field-refrain template integrated into the speaker's actual thought.
+- All five field-refrain templates rotate across nearby dialogue.
+- `vetlegnolt`, `storeklovn`, and `dingleberry` remain exactly unchanged wherever required.
 - The speaker sounds observant, spare, and grounded in a lived landscape.
 - The final dialogue satisfies [Game Dialogue Safety](../game-dialog/SKILL.md), including rendered-width and build checks.
