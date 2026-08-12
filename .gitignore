@@ -33,3 +33,6 @@
 *.sa*
 *.sg1
 .AGENTS.md
+
+# local dialogue rewrite planning
+route-and-non-city-asm-files.txt
