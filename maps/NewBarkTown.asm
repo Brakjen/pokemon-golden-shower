@@ -2,6 +2,8 @@
 	const NEWBARKTOWN_TEACHER
 	const NEWBARKTOWN_FISHER
 	const NEWBARKTOWN_RIVAL
+	const NEWBARKTOWN_MOD_GUIDE
+	const NEWBARKTOWN_NAME_RUMOR
 
 NewBarkTown_MapScripts:
 	def_scene_scripts
@@ -103,6 +105,12 @@ NewBarkTownTeacherScript:
 
 NewBarkTownFisherScript:
 	jumptextfaceplayer Text_ElmDiscoveredNewMon
+
+NewBarkTownModGuideScript:
+	jumptextfaceplayer NewBarkTownModGuideText
+
+NewBarkTownNameRumorScript:
+	jumptextfaceplayer NewBarkTownNameRumorText
 
 NewBarkTownRivalScript:
 	opentext
@@ -269,6 +277,66 @@ Text_ElmDiscoveredNewMon:
 	cont "lame, new #MON."
 	done
 
+NewBarkTownModGuideText:
+	text "Hi, Cocksucker!"
+	line "I have spawned"
+	cont "to inform you"
+	cont "about some special"
+	cont "information about"
+	cont "#MON Golden"
+	cont "Shower."
+
+	para "This is a mod."
+	line "Do not rush"
+	cont "through it like"
+	cont "you would normally"
+	cont "maddafakka."
+
+	para "Take your time to"
+	line "read dialog and,"
+	cont "explore things."
+	cont "You may find new"
+	cont "and interesting"
+	cont "things."
+
+	para "Here's a cool tip:"
+	line "You no longer have"
+	cont "to trade #MON"
+	cont "to fully evolve"
+	cont "Hunter, Graveler,"
+	cont "and so on."
+	
+	para "..."
+
+	para "What the fuck are"
+	line "you looking at,"
+	cont "Bitch?"
+	done
+
+NewBarkTownNameRumorText:
+	text "Psst. I heard a"
+	line "rumor, asswipe."
+
+	para "Some #MON have"
+	line "new names here."
+
+	para "Strange names."
+	line "Exciting names."
+	cont "Delicious names."
+
+	para "Catch some and"
+	line "see for yourself."
+
+	para "Do not trust the"
+	line "old #DEX too much."
+
+	para "..."
+
+	para "Who the fuck are"
+	line "you, maddafakka?"
+	cont "Scram, asswipe."
+	done
+
 NewBarkTownRivalText1:
 	text "<……>"
 
@@ -343,3 +411,5 @@ NewBarkTown_MapEvents:
 	object_event  6,  8, SPRITE_TEACHER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 1, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, NewBarkTownTeacherScript, -1
 	object_event 12,  9, SPRITE_FISHER, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 1, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, NewBarkTownFisherScript, -1
 	object_event  3,  2, SPRITE_RIVAL, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, NewBarkTownRivalScript, EVENT_RIVAL_NEW_BARK_TOWN
+	object_event  8, 11, SPRITE_SUPER_NERD, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, NewBarkTownModGuideScript, -1
+	object_event 10, 11, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, NewBarkTownNameRumorScript, -1

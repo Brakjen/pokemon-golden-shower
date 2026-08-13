@@ -32,31 +32,29 @@ DarkCaveBlackthornEntranceTMSnore:
 	itemball TM_SNORE
 
 DarkCaveBlackthornEntrancePharmacistText1:
-	text "Whoa! You startled"
-	line "me there!"
+	text "You startled me,"
+	line "vetlegnolt."
 
-	para "I had my BLACK-"
-	line "GLASSES on, so I"
+	para "I came for quiet."
+	line "I'm trans. That"
+	cont "is no secret."
 
-	para "didn't notice you"
-	line "at all."
+	para "My friends meet"
+	line "after dark."
+	cont "Come or don't."
 
-	para "What am I doing"
-	line "here?"
-
-	para "Hey, don't you"
-	line "worry about it."
-
-	para "I'll give you a"
-	line "pair of BLACK-"
-	cont "GLASSES, so forget"
-	cont "you saw me, OK?"
+	para "Take these"
+	line "BLACKGLASSES,"
+	cont "dingleberry."
+	cont "Wear what helps."
 	done
 
 DarkCaveBlackthornEntrancePharmacistText2:
-	text "BLACKGLASSES ups"
-	line "the power of dark-"
-	cont "type moves."
+	text "BLACKGLASSES boost"
+	line "dark-type moves."
+
+	para "Use what fits you,"
+	line "storeklovn."
 	done
 
 DarkCaveBlackthornEntrance_MapEvents:

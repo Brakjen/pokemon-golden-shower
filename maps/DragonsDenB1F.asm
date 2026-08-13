@@ -128,126 +128,103 @@ MovementDragonsDen_ClairWalksAway:
 	step_end
 
 ClairText_GiveDragonbreathDragonDen:
-	text "CLAIR: All right."
-	line "I recognize your"
+	text "CLAIR: Thy merit"
+	line "is accepted."
 
-	para "true power. This"
-	line "BADGE is yours."
+	para "Take this BADGE,"
+	line "vetlegnolt."
 	done
 
 DragonShrinePlayerReceivedRisingBadgeText:
 	text "<PLAYER> received"
 	line "RISINGBADGE."
+
+	para "Tolerable result,"
+	line "storeklovn."
 	done
 
 DragonShrineRisingBadgeExplanationText:
-	text "RISINGBADGE will"
-	line "enable your"
-
-	para "#MON to use the"
-	line "move for climbing"
+	text "RISINGBADGE lets"
+	line "#MON climb"
 	cont "waterfalls."
 
-	para "Also, all #MON"
-	line "will recognize you"
+	para "All #MON obey"
+	line "thy commands,"
+	cont "vetlegnolt."
 
-	para "as a trainer and"
-	line "obey your every"
-
-	para "command without"
-	line "question."
-
-	para "I also want you to"
-	line "have this TM."
+	para "Accept this TM,"
+	line "dingleberry."
 	done
 
 Text_ReceivedTM24: ; unreferenced
 	text "<PLAYER> received"
 	line "TM24."
+
+	para "Use it with"
+	line "judgment."
 	done
 
 ClairText_DescribeDragonbreathDragonDen:
-	text "That contains"
-	line "DRAGONBREATH."
+	text "This TM holds"
+	line "DRAGONBREATH,"
+	cont "storeklovn."
 
-	para "No, it doesn't"
-	line "have anything to"
-	cont "do with my breath."
+	para "It hath naught"
+	line "to do with"
+	cont "my breath."
 
-	para "If you don't want"
-	line "it, you don't have"
-	cont "to take it."
+	para "Its use is thine,"
+	line "vetlegnolt."
 	done
 
 ClairText_CollectedAllBadges:
-	text "So, you've col-"
-	line "lected all the"
-	cont "BADGES."
+	text "All BADGES, then."
 
-	para "Your destination"
-	line "is the #MON"
+	para "Seek the #MON"
+	line "LEAGUE at"
+	cont "INDIGO PLATEAU."
 
-	para "LEAGUE in INDIGO"
-	line "PLATEAU."
+	para "Vetlegnolt, go"
+	line "to NEW BARK"
+	cont "TOWN. Then SURF"
+	cont "east."
 
-	para "Do you know how to"
-	line "get there?"
+	para "The road is hard."
+	line "Do not lose,"
+	cont "storeklovn."
 
-	para "From here, go to"
-	line "NEW BARK TOWN."
-
-	para "Then SURF east."
-	line "The route there is"
-	cont "very tough."
-
-	para "Don't you dare"
-	line "lose at the #-"
-	cont "MON LEAGUE!"
-
-	para "If you do, I'll"
-	line "feel even worse"
-
-	para "about having lost"
-	line "to you!"
+	para "Else thy win"
+	line "shames me further."
 	done
 
 DragonShrineSignpostText:
 	text "DRAGON SHRINE"
 
-	para "A shrine honoring"
-	line "the dragon #MON"
-
-	para "said to have lived"
-	line "in DRAGON'S DEN."
+	para "Dragons once"
+	line "lived in this den."
+	cont "Mark it well,"
+	cont "dingleberry."
 	done
 
 RivalText_Training1:
-	text "…"
-	line "What? <PLAYER>?"
+	text "What, <PLAYER>?"
 
-	para "…No, I won't"
-	line "battle you now…"
+	para "No battle now,"
+	line "vetlegnolt. My"
+	cont "#MON are"
+	cont "not ready."
 
-	para "My #MON aren't"
-	line "ready to beat you."
+	para "I cannot drive"
+	line "them too hard."
 
-	para "I can't push them"
-	line "too hard now."
-
-	para "I have to be dis-"
-	line "ciplined to become"
-
-	para "the greatest #-"
-	line "MON trainer…"
+	para "Discipline first,"
+	line "dingleberry."
+	cont "Then strength."
 	done
 
 RivalText_Training2:
-	text "…"
-
-	para "Whew…"
-
-	para "Learn to stay out"
-	line "of my way…"
+	text "Stay from my way,"
+	line "storeklovn."
 	done
 
 Text_FoundDragonFang:
@@ -255,12 +232,15 @@ Text_FoundDragonFang:
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
+
+	para "A worthy find,"
+	line "vetlegnolt."
 	done
 
 Text_NoRoomForDragonFang:
-	text "But <PLAYER> can't"
-	line "carry any more"
-	cont "items."
+	text "Thou canst carry"
+	line "no more items,"
+	cont "dingleberry."
 	done
 
 DragonsDenB1F_MapEvents:

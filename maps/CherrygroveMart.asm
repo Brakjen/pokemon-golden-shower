@@ -41,33 +41,37 @@ CherrygroveMartYoungsterScript:
 	jumptextfaceplayer CherrygroveMartYoungsterText
 
 CherrygroveMartCooltrainerMText:
-	text "Their stock of"
-	line "# BALLS spent."
+	text "# BALLS"
+	line "are gone."
+	cont "Vetlegnolt, wait."
 
-	para "When shall they"
-	line "procure stock?"
+	para "Pride seeks more"
+	line "and more."
+	cont "Practice humility:"
+	cont "wait with measure."
 	done
 
 CherrygroveMartCooltrainerMText_PokeBallsInStock:
-	text "# BALLS have"
-	line "returned to stock."
-	cont "At last, I may"
-	cont "catch #MON."
+	text "# BALLS"
+	line "returned."
+	cont "Storeklovn, spend"
+	cont "with mercy."
+
+	para "Humble work mends"
+	line "the world."
 	done
 
 CherrygroveMartYoungsterText:
-	text "Whilst I wandered"
-	line "in the grass,"
+	text "A bug #MON"
+	line "poisoned mine,"
+	cont "dingleberry."
 
-	para "A bug #MON"
-	line "poisoned mine."
+	para "I walked on."
+	line "That was neglect."
 
-	para "I pressed onward,"
-	line "yet my #MON"
-	cont "soon swooned."
-
-	para "Keep ANTIDOTE"
-	line "close at hand."
+	para "Do one good deed:"
+	line "keep ANTIDOTE"
+	cont "close by."
 	done
 
 CherrygroveMart_MapEvents:

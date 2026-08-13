@@ -229,219 +229,204 @@ SSAquaGrandpaApproachesPlayerMovement:
 	step_end
 
 SSAquaCaptainExhaustingText:
-	text "Whew! Thanks for"
-	line "coming along."
+	text "Fwew! You come."
+	line "vetlegnolt."
 
-	para "Keeping that lit-"
-	line "tle girl amused"
-	cont "was exhausting."
+	para "That wittle girl"
+	line "make me sweepy."
+
+	para "Me all tuckered,"
+	line "dingleberry."
 	done
 
 SSAquaCaptainHowDoYouLikeText:
-	text "How do you like"
-	line "S.S.AQUA's ride?"
+	text "Ship go swish!"
+	line "Storeklovn, fun!"
 
-	para "She practically"
-	line "skates across the"
-	cont "waves."
+	para "Water zooms. Yay!"
 	done
 
 SSAquaCantFindGranddaughterText:
-	text "Hello, son…"
-	line "I can't find my"
-	cont "granddaughter."
+	text "Uh-oh! Me lose my"
+	line "wittle girl."
 
-	para "If she's on the"
-	line "ship, that's OK."
+	para "Find her, pwease,"
+	line "vetlegnolt."
 
-	para "But what if she"
-	line "fell overboard?"
-
-	para "She's an energetic"
-	line "child, so she may"
-
-	para "be bugging some-"
-	line "one. I'm worried…"
+	para "She play by the"
+	line "CAPTAIN. Go wook."
 	done
 
 SSAquaEntertainedGranddaughterText:
-	text "<PLAYER>, was it? I"
-	line "heard you enter-"
-	cont "tained my grand-"
-	cont "daughter."
+	text "You play with my"
+	line "wittle girl?"
 
-	para "I want to thank"
-	line "you for that."
+	para "Yay yay! Thanks,"
+	line "storeklovn."
 	done
 
 SSAquaGrandpaHaveThisText:
-	text "I know! I'd like"
-	line "you to have this!"
+	text "Take shiny thing,"
+	line "dingleberry."
 	done
 
 SSAquaGrandpaTravellingText:
-	text "We're traveling"
-	line "around the world."
+	text "Me go round world."
+	line "Vetlegnolt, zoom!"
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
-	text "CAPTAIN, play with"
-	line "me, please?"
+	text "CAPTAIN, play!"
+	line "Me bored, pwease!"
 
-	para "I'm bored! I want"
-	line "to play more!"
+	para "Vetlegnolt, help!"
 	done
 
 SSAquaGranddaughterHasToFindGrandpaText:
-	text "Hi! Will you play"
-	line "with me?"
+	text "Hi! Play with me?"
+	line "Storeklovn?"
 
-	para "…Oh!"
+	para "Grandpa sad?"
+	line "Me go find him."
 
-	para "Grandpa's worried"
-	line "about me?"
-
-	para "I have to go!"
-
-	para "I have to go find"
-	line "Grandpa!"
+	para "Bye, dingleberry!"
 	done
 
 SSAquaGranddaughterWasPlayingMText:
-	text "Grandpa, here I"
-	line "am! I was playing"
+	text "Grandpa! Me here!"
+	line "Me play with"
 
-	para "with the CAPTAIN"
-	line "and this guy!"
+	para "CAPTAIN and new"
+	line "fwend, vetlegnolt."
 	done
 
 SSAquaGranddaughterHadFunText:
-	text "I had lots of fun"
-	line "playing!"
+	text "Me had fun fun!"
+	line "Yay, storeklovn!"
 	done
 
 PokefanmColinSeenText:
-	text "Hey, son! Want to"
-	line "battle with me?"
+	text "Goo! Big fight?"
+	line "Vetlegnolt!"
 	done
 
 PokefanmColinBeatenText:
-	text "You're strong!"
+	text "Strong! Gaa gaa!"
+	line "Dingleberry."
 	done
 
 PokefanmColinAfterBattleText:
-	text "You're traveling"
-	line "all alone?"
+	text "All alone?"
+	line "Mama worry?"
 
-	para "Isn't your mom"
-	line "worried?"
+	para "Storeklovn?"
 	done
 
 TwinsMegandpeg1SeenText:
-	text "You think I'm a"
-	line "baby?"
-	cont "That's not fair!"
+	text "Me not baby!"
+	line "Vetlegnolt, no!"
 	done
 
 TwinsMegandpeg1BeatenText:
-	text "Oh! We lost!"
+	text "Oh! We lose!"
+	line "Dingleberry!"
 	done
 
 TwinsMegandpeg1AfterBattleText:
-	text "Baby is a rude"
-	line "name to call us"
-	cont "girls!"
+	text "Baby name rude!"
+	line "No, storeklovn!"
 	done
 
 TwinsMegandpeg2SeenText:
-	text "I'm not a baby!"
+	text "Me no baby!"
+	line "Dingleberry!"
 
-	para "That's not nice to"
-	line "say to a lady!"
+	para "No say that!"
 	done
 
 TwinsMegandpeg2BeatenText:
-	text "Oh! We lost!"
+	text "Oh! We lose!"
+	line "Vetlegnolt!"
 	done
 
 TwinsMegandpeg2AfterBattleText:
-	text "Sometimes, kids"
-	line "are smarter than"
-	cont "grown-ups!"
+	text "Kids know lots!"
+	line "Grown-ups silly,"
+	cont "vetlegnolt."
 	done
 
 PsychicRodneySeenText:
-	text "Ssh! My brain is"
-	line "picking up radio"
-	cont "signals!"
+	text "Ssh! Radio beep."
+	line "Dingleberry, shh!"
 	done
 
 PsychicRodneyBeatenText:
-	text "…I hear some-"
-	line "thing!"
+	text "Me hear thing!"
+	line "Vetlegnolt!"
 	done
 
 PsychicRodneyAfterBattleText:
-	text "I get it. You can"
-	line "hear JOHTO's radio"
-	cont "on the FAST SHIP."
+	text "FAST SHIP hear"
+	line "JOHTO radio."
+
+	para "Storeklovn!"
 	done
 
 PokefanmJeremySeenText:
-	text "What do you think?"
-	line "My #MON are"
-	cont "beautiful, yes?"
+	text "My #MON pretty!"
+	line "Vetlegnolt?"
 	done
 
 PokefanmJeremyBeatenText:
-	text "Oh, no! My beauti-"
-	line "ful #MON!"
+	text "Oh no! My #MON!"
+	line "Dingleberry!"
 	done
 
 PokefanmJeremyAfterBattleText:
-	text "I must go to the"
-	line "#MON SALON and"
-	cont "fix them up nice!"
+	text "#MON SALON make"
+	line "them pretty."
+
+	para "Storeklovn, go!"
 	done
 
 PokefanfGeorgiaSeenText:
-	text "I'm going to shop"
-	line "at the DEPT.STORE"
-	cont "and then…"
+	text "Me go big shop."
+	line "Vetlegnolt, bye!"
 	done
 
 PokefanfGeorgiaBeatenText:
-	text "What was I going"
-	line "to do?"
+	text "What me do?"
+	line "Dingleberry?"
 	done
 
 PokefanfGeorgiaAfterBattleText:
-	text "Oh, yes! I have to"
-	line "get my #MON out"
-	cont "of DAY-CARE!"
+	text "Oh! #MON at day"
+	line "place. Me go!"
+
+	para "Storeklovn!"
 	done
 
 SupernerdShawnSeenText:
-	text "What kinds of #"
-	line "BALLS do you have"
-	cont "with you?"
+	text "Show # BALLS."
+	line "Vetlegnolt!"
 	done
 
 SupernerdShawnBeatenText:
-	text "Wait! Stop! Don't!"
-	line "Please!"
+	text "No no! Stop!"
+	line "Dingleberry!"
 	done
 
 SupernerdShawnAfterBattleText:
-	text "You should use the"
-	line "right BALLS to fit"
-	cont "the situation."
+	text "Use BALLS for job."
+	line "Pick wight one,"
+	cont "storeklovn."
 	done
 
 SSAquaHasArrivedVermilionText:
 	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "VERMILION CITY."
+	line "at VERMILION CITY."
+
+	para "Yay, vetlegnolt!"
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

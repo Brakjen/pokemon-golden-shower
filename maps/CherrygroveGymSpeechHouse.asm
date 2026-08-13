@@ -18,28 +18,26 @@ CherrygroveGymSpeechHouseBookshelf:
 
 CherrygroveGymSpeechHousePokefanMText:
 	text "Dost thou seek"
-	line "thy proper worth"
+	line "merit, vetlegnolt?"
 
-	para "as a #MON"
-	line "trainer?"
+	para "Attend the #MON"
+	line "GYMS in JOHTO."
 
-	para "Then attend the"
-	line "#MON GYMS"
-
-	para "throughout JOHTO"
-	line "and earn BADGES."
+	para "Earn BADGES with"
+	line "proper conduct."
+	cont "Thou mayest learn."
 	done
 
 CherrygroveGymSpeechHouseBugCatcherText:
-	text "When I am grown,"
-	line "I shall be a GYM"
-	cont "LEADER!"
+	text "When grown, I"
+	line "shall lead a GYM,"
+	cont "storeklovn."
 
-	para "I bid my #MON"
-	line "test my comrades'"
+	para "My #MON test"
+	line "comrades'."
 
-	para "#MON, making"
-	line "them stronger!"
+	para "They grow strong."
+	line "Thou mayest too."
 	done
 
 CherrygroveGymSpeechHouse_MapEvents:

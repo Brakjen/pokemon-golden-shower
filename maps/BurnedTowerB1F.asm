@@ -125,7 +125,10 @@ BurnedTowerSuicuneMovement:
 	step_end
 
 UnusedEnteiText:
-	text "ENTEI: Bufuu!"
+	text "Ash goes hush,"
+	line "dingleberry."
+	cont "A fire-paw calls"
+	cont "by old ash tracks."
 	done
 
 BurnedTowerB1F_MapEvents:

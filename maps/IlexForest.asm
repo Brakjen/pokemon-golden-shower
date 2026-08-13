@@ -535,125 +535,137 @@ MovementData_Farfetched_Pos9_Pos8_Down:
 	step_end
 
 IlexForestApprenticeIntroText:
-	text "Oh, man… My boss"
-	line "is going to be"
-	cont "steaming…"
+	text "My master expects"
+	line "better care,"
+	cont "vetlegnolt."
 
-	para "The FARFETCH'D"
+	para "His FARFETCH'D"
 	line "that CUTS trees"
+	cont "for charcoal fled."
 
-	para "for charcoal took"
-	line "off on me."
+	para "It hides within"
+	line "ILEX FOREST,"
+	cont "a common maze."
 
-	para "I can't go looking"
-	line "for it here in the"
-	cont "ILEX FOREST."
-
-	para "It's too big, dark"
-	line "and scary for me…"
+	para "Find it, pray."
+	line "Thou seemest fit"
+	cont "for rough work,"
+	cont "storeklovn."
 	done
 
 IlexForestApprenticeAfterText:
-	text "Wow! Thanks a"
-	line "whole bunch!"
+	text "Thou didst well,"
+	line "dingleberry."
 
-	para "My boss's #MON"
-	line "won't obey me be-"
-	cont "cause I don't have"
-	cont "a BADGE."
+	para "My master's"
+	line "#MON ignore one"
+	cont "without a BADGE."
 	done
 
 Text_ItsTheMissingPokemon:
-	text "It's the missing"
-	line "#MON!"
+	text "The missing"
+	line "#MON."
+	cont "How plainly it"
+	cont "announces itself,"
+	cont "vetlegnolt."
 	done
 
 Text_Kwaaaa:
 	text "FARFETCH'D: Kwaa!"
+	line "Mind thy approach,"
+	cont "storeklovn."
 	done
 
 Text_CharcoalMasterIntro:
-	text "Ah! My FARFETCH'D!"
+	text "My FARFETCH'D,"
+	line "restored at last."
 
-	para "You found it for"
-	line "us, kid?"
+	para "Thou returned it,"
+	line "vetlegnolt."
 
-	para "Without it, we"
-	line "wouldn't be able"
+	para "It CUTS trees for"
+	line "our charcoal."
 
-	para "to CUT trees for"
-	line "charcoal."
-
-	para "Thanks, kid!"
-
-	para "Now, how can I"
-	line "thank you…"
-
-	para "I know! Here, take"
-	line "this."
+	para "Take thy reward."
+	line "Use it with more"
+	cont "sense than usual,"
+	cont "dingleberry."
 	done
 
 Text_CharcoalMasterOutro:
-	text "That's the CUT HM."
-	line "Teach that to a"
+	text "This is HM CUT."
+	line "Teach it to a"
 
 	para "#MON to clear"
 	line "small trees."
 
-	para "Of course, you"
-	line "have to have the"
+	para "Use it only with"
+	line "AZALEA's GYM"
+	cont "BADGE, storeklovn."
 
-	para "GYM BADGE from"
-	line "AZALEA to use it."
+	para "Even a novice"
+	line "should heed that,"
+	cont "vetlegnolt."
 	done
 
 Text_CharcoalMasterTalkAfter:
-	text "Do you want to"
-	line "apprentice as a"
+	text "Dingleberry, thou"
+	line "seekest a craft?"
 
-	para "charcoal maker"
-	line "with me?"
-
-	para "You'll be first-"
-	line "rate in ten years!"
+	para "Serve here awhile."
+	line "In ten years,"
+	cont "thou mayest pass."
 	done
 
 Text_HeadbuttIntro:
-	text "What am I doing?"
+	text "I use HEADBUTT"
+	line "to rouse tree"
+	cont "dwellers."
 
-	para "I'm shaking trees"
-	line "using HEADBUTT."
+	para "A simple art, yet"
+	line "beyond common"
+	cont "wit, storeklovn."
 
-	para "It's fun. Here,"
-	line "you try it too!"
+	para "Take this TM."
+	line "Use it well,"
+	cont "vetlegnolt."
 	done
 
 Text_HeadbuttOutro:
-	text "Rattle trees with"
-	line "HEADBUTT. Some-"
-	cont "times, sleeping"
-	cont "#MON fall out."
+	text "Use HEADBUTT,"
+	line "vetlegnolt."
+
+	para "Some #MON fall"
+	line "from trees."
+
+	para "Common eyes miss"
+	line "them, dingleberry."
 	done
 
 IlexForestSignpostText:
-	text "ILEX FOREST is"
-	line "so overgrown with"
+	text "ILEX FOREST"
+	line "crowds the sky,"
+	cont "storeklovn."
 
-	para "trees that you"
-	line "can't see the sky."
+	para "Dropped items hide"
+	line "beneath its roots."
 
-	para "Please watch out"
-	line "for items that may"
-	cont "have been dropped."
+	para "Watch thy step."
+	line "Such care is rare."
 	done
 
 Text_IlexForestShrine:
 	text "ILEX FOREST"
-	line "SHRINE…"
+	line "SHRINE."
 
-	para "It's in honor of"
-	line "the forest's"
-	cont "protector…"
+	para "Its guardian"
+	line "protects these"
+	cont "woods, vetlegnolt."
+
+	para "Do not disturb"
+	line "what thou canst"
+	cont "not understand,"
+	cont "storeklovn."
 	done
 
 IlexForest_MapEvents:

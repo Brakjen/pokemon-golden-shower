@@ -132,136 +132,143 @@ FastShipLazySailorLeavesMovement2:
 	step_end
 
 CooltrainermSeanSeenText:
-	text "I'm going to KANTO"
-	line "to test my skills."
+	text "Goo goo! Me go to"
+	line "far lands."
+
+	para "Vetlegnolt, fight!"
 	done
 
 CooltrainermSeanBeatenText:
-	text "I wanted to win!"
+	text "Gaa gaa! Me lose!"
+	line "Dingleberry!"
 	done
 
 CooltrainermSeanAfterBattleText:
-	text "Trainers from"
-	line "JOHTO can battle"
+	text "Storeklovn, KANTO"
+	line "has fight houses."
 
-	para "with KANTO GYM"
-	line "LEADERS."
+	para "Me from JOHTO can"
+	line "fight there too."
+
+	para "Go, vetlegnolt!"
 	done
 
 CooltrainerfCarolSeenText:
-	text "I'm training to"
-	line "become the CHAMP!"
+	text "Me wanna be big"
+	line "CHAMP."
+
+	para "Dingleberry!"
+	line "Fight me!"
 	done
 
 CooltrainerfCarolBeatenText:
-	text "What's so differ-"
-	line "ent between us?"
+	text "No fair!"
+	line "Vetlegnolt!"
 	done
 
 CooltrainerfCarolAfterBattleText:
-	text "I'm going to beat"
-	line "you someday!"
+	text "Me beat you soon,"
+	line "storeklovn!"
 	done
 
 PokemaniacEthanSeenText:
-	text "Do you know LILY?"
-	line "She's a hot DJ in"
-	cont "KANTO."
+	text "Me wuv music girl."
+	line "Vetlegnolt, wook!"
 	done
 
 PokemaniacEthanBeatenText:
 	text "Gyaaaah!"
+	line "Dingleberry!"
 	done
 
 PokemaniacEthanAfterBattleText:
-	text "LILY's nice, but"
-	line "MARY's the best!"
+	text "Storeklovn, music"
+	line "girl nice."
 
-	para "I want to check"
-	line "out JOHTO's radio"
-	cont "stations!"
+	para "Other one best!"
+
+	para "Me wook for radio,"
+	line "vetlegnolt."
 	done
 
 HikerNolandSeenText:
-	text "Are you alone?"
-	line "Then let's battle!"
+	text "All by self?"
+	line "Vetlegnolt, go!"
 	done
 
 HikerNolandBeatenText:
-	text "That's too much to"
-	line "handle!"
+	text "Too much! Gaa gaa!"
+	line "Dingleberry!"
 	done
 
 HikerNolandAfterBattleText:
-	text "I wonder if there"
-	line "are any mountains"
+	text "Big hills in far"
+	line "land? Me climb?"
 
-	para "worth climbing in"
-	line "KANTO?"
+	para "Storeklovn, wook!"
 	done
 
 SailorStanlySeenText:
-	text "Yeah, I'm a sail-"
-	line "or, all right."
+	text "Goo goo! Me boat"
+	line "worker."
 
-	para "I wasn't goofing"
-	line "off!"
+	para "Storeklovn, me not"
+	line "goofing. No no!"
 
-	para "This cabin was"
-	line "vacant, so I just"
-	cont "took a quick nap!"
+	para "Empty room. Me"
+	line "sweep there. Zzz!"
 
-	para "Ah, forget it!"
-	line "Let's battle!"
+	para "Now we fight!"
+	line "Dingleberry!"
 	done
 
 SailorStanlyBeatenText:
-	text "Sorry! It's all my"
-	line "fault!"
+	text "Sowwy, vetlegnolt!"
 	done
 
 SailorStanlyAfterBattleText:
-	text "Being a sailor, I"
-	line "have to do phys-"
-	cont "ical labor. It's"
-	cont "exhausting!"
+	text "Storeklovn, boat"
+	line "work make me"
+	cont "sweepy."
+
+	para "Me need big naps."
+	line "Dingleberry."
 	done
 
 GentlemanEdwardSeenText:
-	text "Oh, no. I've lost"
-	line "something that's"
-	cont "very important."
+	text "Uh-oh! Me lose my"
+	line "big thing gone!"
+
+	para "Vetlegnolt, wook!"
 	done
 
 GentlemanEdwardBeatenText:
-	text "I… I can't find"
-	line "it…"
+	text "Me no find it..."
+	line "Storeklovn!"
 	done
 
 GentlemanEdwardAfterBattleText:
-	text "I give up. Son,"
-	line "you don't have to"
+	text "No more wooking,"
+	line "dingleberry."
 
-	para "look. Just forget"
-	line "about it!"
+	para "You stop too. Shh!"
 	done
 
 BurglarCoreySeenText:
-	text "Yeehaw!"
-	line "Lucky!"
+	text "Yay yay! Lucky!"
+	line "Vetlegnolt!"
 	done
 
 BurglarCoreyBeatenText:
-	text "How unlucky!"
-	line "I lost!"
+	text "No lucky. Me lose!"
+	line "Dingleberry!"
 	done
 
 BurglarCoreyAfterBattleText:
-	text "I found a pretty"
-	line "coin here."
+	text "Pretty coin here!"
+	line "Storeklovn, lost."
 
-	para "Someone must have"
-	line "lost it…"
+	para "Somebody drop it."
 	done
 
 FastShipCabins_NNW_NNE_NE_MapEvents:

@@ -76,74 +76,76 @@ CharcoalKilnRadio:
 	jumpstd Radio2Script
 
 CharcoalKilnBossText1:
-	text "All the SLOWPOKE"
-	line "have disappeared"
-	cont "from the town."
+	text "SLOWPOKE vanished,"
+	line "vetlegnolt."
+	cont "Town feels wrong."
 
-	para "The forest's pro-"
-	line "tector may be"
-	cont "angry with us…"
-
-	para "It may be a bad"
-	line "omen. We should"
-	cont "stay in."
+	para "Their keepers need"
+	line "care, not panic."
+	cont "We must laekja"
+	cont "the scared ones."
 	done
 
 CharcoalKilnBossText2:
-	text "The SLOWPOKE have"
-	line "returned…"
+	text "SLOWPOKE returned,"
+	line "storeklovn."
 
-	para "But my APPRENTICE"
-	line "hasn't come back"
-	cont "from ILEX FOREST."
+	para "My APPRENTICE"
+	line "is still in ILEX"
+	cont "FOREST."
 
-	para "Where in the world"
-	line "is that lazy guy?"
+	para "Go easy on them"
+	line "when they return."
 	done
 
 CharcoalKilnBossText3:
-	text "You chased off"
-	line "TEAM ROCKET and"
+	text "You drove TEAM"
+	line "ROCKET away,"
+	cont "dingleberry."
 
-	para "went to ILEX"
-	line "FOREST alone?"
+	para "You crossed ILEX"
+	line "FOREST alone."
 
-	para "That takes guts!"
-	line "I like that. Come"
-	cont "train with us."
+	para "Train with us."
+	line "We laekja tired"
+	cont "#MON here."
 	done
 
 CharcoalKilnApprenticeText1:
-	text "Where have all the"
-	line "SLOWPOKE gone?"
+	text "Where did the"
+	line "SLOWPOKE go,"
+	cont "vetlegnolt?"
 
-	para "Are they out play-"
-	line "ing somewhere?"
+	para "No one can laekja"
+	line "an empty town."
 	done
 
 CharcoalKilnApprenticeText2:
-	text "I'm sorry--I for-"
-	line "got to thank you."
+	text "Storeklovn, I"
+	line "forgot thanks."
 
-	para "This is CHARCOAL"
-	line "that I made."
+	para "Take this CHARCOAL"
+	line "I made."
 
 	para "Fire-type #MON"
-	line "would be happy to"
-	cont "hold that."
+	line "like to hold it."
+	cont "It warms them."
 	done
 
 CharcoalKilnApprenticeText3:
-	text "The SLOWPOKE came"
-	line "back, and you even"
-	cont "found FARFETCH'D."
+	text "SLOWPOKE returned,"
+	line "dingleberry."
 
-	para "You're the cool-"
-	line "est, man!"
+	para "You found"
+	line "FARFETCH'D too."
+
+	para "Let us laekja"
+	line "their sore feet."
 	done
 
 FarfetchdText:
 	text "FARFETCH'D: Kwaa!"
+	line "Care, storeklovn."
 	done
 
 CharcoalKiln_MapEvents:

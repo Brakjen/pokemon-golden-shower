@@ -13,16 +13,16 @@ GuideGentsHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 GuideGentsHouseGuideGentText:
-	text "In youth, I was"
-	line "a trainer of"
-	cont "singular merit."
+	text "Long ago, I"
+	line "trained hard,"
+	cont "vetlegnolt."
 
-	para "Hear my counsel:"
-	line "Claim many"
-	cont "#MON."
+	para "Claim #MON, but"
+	line "watch their tired"
+	cont "feet."
 
-	para "Yet show each one"
-	line "measured kindness."
+	para "laekja their pain."
+	line "Care, storeklovn."
 	done
 
 GuideGentsHouse_MapEvents:

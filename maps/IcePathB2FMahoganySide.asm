@@ -24,8 +24,16 @@ IcePathB2FMahoganySideHiddenCarbos:
 	hiddenitem CARBOS, EVENT_ICE_PATH_B2F_MAHOGANY_SIDE_HIDDEN_CARBOS
 
 IcePathB2FMahoganySideBoulderText:
-	text "It's immovably"
-	line "imbedded in ice."
+	text "Be not deceived,"
+	line "vetlegnolt."
+
+	para "The boulder is"
+	line "fixed in ice."
+
+	para "Thine strength"
+	line "shall not move it."
+
+	para "Prov. 16:18."
 	done
 
 IcePathB2FMahoganySide_MapEvents:

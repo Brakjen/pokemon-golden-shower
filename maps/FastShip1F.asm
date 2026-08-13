@@ -206,83 +206,73 @@ FastShip1F_PlayerLeavesShipRightMovement:
 	step_end
 
 FastShip1FSailor1Text_ToVermilion:
-	text "FAST SHIP S.S.AQUA"
-	line "is en route to"
-	cont "VERMILION CITY."
+	text "We sail to"
+	line "VERMILION CITY,"
+	cont "vetlegnolt."
 
-	para "We will make an"
-	line "announcement when"
-	cont "we arrive."
+	para "We announce"
+	line "arrival plainly."
 	done
 
 FastShip1FSailor1Text_ToOlivine:
-	text "FAST SHIP S.S.AQUA"
-	line "is en route to"
-	cont "OLIVINE CITY."
+	text "We sail to"
+	line "OLIVINE CITY,"
+	cont "vetlegnolt."
 
-	para "We will make an"
-	line "announcement when"
-	cont "we arrive."
+	para "We announce"
+	line "arrival plainly."
 	done
 
 FastShip1FSailor2Text_FirstTime:
-	text "Here's your cabin."
+	text "This is thy cabin."
 
-	para "If your #MON"
-	line "are hurt, take a"
-	cont "nap in the bed."
-
-	para "That will heal"
-	line "them."
+	para "If #MON hurt,"
+	line "sleep in the bed."
+	cont "It will restore"
+	cont "them."
 	done
 
 FastShip1FSailor2Text:
-	text "Here's your cabin."
+	text "This is thy cabin."
 
-	para "You can heal your"
-	line "#MON by taking"
-	cont "a nap in the bed."
+	para "Sleep to restore"
+	line "#MON."
 
-	para "The ship will"
-	line "arrive while"
-	cont "you're sleeping."
+	para "The ship arrives"
+	line "as thou rest."
 	done
 
 FastShip1FSailor3Text:
-	text "The passengers are"
+	text "Passengers are"
 	line "all trainers."
 
-	para "They're all itch-"
-	line "ing to battle in"
-	cont "their cabins."
+	para "They seek battles"
+	line "in their cabins."
+	cont "Bring thyself,"
+	cont "storeklovn."
 	done
 
 FastShip1FGrandpaText:
-	text "Whoa!"
-
-	para "Excuse me, son."
-	line "I was in a hurry!"
+	text "Excuse me."
+	line "I rushed."
 
 	para "My granddaughter"
-	line "is missing!"
+	line "is missing."
 
-	para "She's just a wee"
-	line "girl. If you see"
-
-	para "her, please let me"
-	line "know!"
+	para "She is a child."
+	line "If thou see her,"
+	cont "dingleberry,"
+	cont "tell me."
 	done
 
 FastShip1FSailor1Text_InOlivine:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "OLIVINE CITY."
+	text "We arrived at"
+	line "OLIVINE CITY."
 	done
 
 FastShip1FSailor1Text_InVermilion:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "VERMILION CITY."
+	text "We arrived at"
+	line "VERMILION CITY."
 	done
 
 FastShip1F_MapEvents:

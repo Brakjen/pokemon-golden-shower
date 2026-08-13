@@ -128,151 +128,151 @@ DanceTheaterFancyPanel:
 	jumptext DanceTheaterFancyPanelText
 
 KimonoGirlNaokoSeenText:
-	text "You have lovely"
-	line "#MON. May I see"
-	cont "them in battle?"
+	text "Thy #MON show"
+	line "some breeding."
+	cont "Battle me,"
+	cont "vetlegnolt."
 	done
 
 KimonoGirlNaokoBeatenText:
-	text "Oh, you are very"
-	line "strong."
+	text "Thou art stronger"
+	line "than expected."
 	done
 
 KimonoGirlNaokoAfterBattleText:
-	text "I enjoyed that"
-	line "bout. I would like"
-	cont "to see you again."
+	text "A tolerable bout,"
+	line "storeklovn."
+	cont "Return someday."
 	done
 
 KimonoGirlSayoSeenText:
-	text "I always dance"
-	line "with my #MON."
+	text "My #MON dance"
+	line "with me."
 
-	para "Of course, I also"
-	line "train them."
+	para "Naturally, I train"
+	line "them as well."
+	cont "Observe,"
+	cont "dingleberry."
 	done
 
 KimonoGirlSayoBeatenText:
-	text "Oh, so close!"
-	line "I almost had you."
+	text "So near. Yet"
+	line "not sufficient."
 	done
 
 KimonoGirlSayoAfterBattleText:
-	text "Rhythm is impor-"
-	line "tant for both"
-
-	para "dancing and #-"
-	line "MON."
+	text "Rhythm governs"
+	line "dance and #MON."
+	cont "Learn it,"
+	cont "vetlegnolt."
 	done
 
 KimonoGirlZukiSeenText:
-	text "Isn't my barrette"
-	line "pretty?"
+	text "My barrette is"
+	line "well chosen."
 
-	para "Oh. A #MON"
-	line "battle?"
+	para "A #MON battle?"
+	line "If thou insistest."
 	done
 
 KimonoGirlZukiBeatenText:
-	text "I don't have any"
-	line "#MON left…"
+	text "No #MON remain."
+	line "How common."
 	done
 
 KimonoGirlZukiAfterBattleText:
-	text "I put a different"
-	line "flower in my bar-"
-	cont "rette every month."
+	text "A fresh flower"
+	line "each month."
+	cont "Taste matters,"
+	cont "storeklovn."
 	done
 
 KimonoGirlKuniSeenText:
-	text "Oh, you're a cute"
-	line "trainer. Would you"
-	cont "like to battle?"
+	text "Thou lookest"
+	line "presentable."
+	cont "Battle me,"
+	cont "dingleberry."
 	done
 
 KimonoGirlKuniBeatenText:
-	text "You're stronger"
-	line "than you look."
+	text "Thou art stronger"
+	line "than thy bearing."
 	done
 
 KimonoGirlKuniAfterBattleText:
-	text "I trained a lot,"
-	line "so I thought I was"
+	text "I trained much."
+	line "I presumed merit."
 
-	para "a capable trainer."
-	line "I guess I'm not."
+	para "Presumption is"
+	line "a vulgar tutor."
 	done
 
 KimonoGirlMikiSeenText:
-	text "Do you like my"
-	line "dancing? I'm good"
-	cont "at #MON too."
+	text "Dost thou admire"
+	line "my dancing?"
+	cont "I train #MON."
+	cont "They dance too."
 	done
 
 KimonoGirlMikiBeatenText:
-	text "Ooh, you're good"
-	line "at #MON too."
+	text "Thy #MON have"
+	line "some refinement."
 	done
 
 KimonoGirlMikiAfterBattleText:
-	text "I can keep dancing"
-	line "because there are"
+	text "I dance because"
+	line "worthy eyes watch."
 
-	para "people who enjoy"
-	line "what I do."
-
-	para "My #MON keep my"
-	line "spirits up too."
+	para "My #MON sustain"
+	line "my spirits."
+	cont "As company should."
 	done
 
 SurfGuyNeverLeftAScratchText:
-	text "Not only are the"
-	line "KIMONO GIRLS great"
+	text "These dancers"
+	line "possess grace."
 
-	para "dancers, they're"
-	line "also skilled at"
-	cont "#MON."
+	para "Their #MON are"
+	line "trained with care."
 
-	para "I always challenge"
-	line "them, but I've"
-
-	para "never even left a"
-	line "scratch…"
+	para "I challenge them,"
+	line "yet leave no mark."
+	cont "A humbling truth."
 	done
 
 SurfGuyLadGiftText:
-	text "Lad! If you can"
-	line "defeat all the"
+	text "Defeat all five"
+	line "dancers,"
+	cont "vetlegnolt."
 
-	para "KIMONO GIRLS, I'll"
-	line "give you a gift."
+	para "Then earn a gift"
+	line "from me."
 	done
 
 SurfGuyLikeADanceText:
-	text "The way you bat-"
-	line "tled, it was like"
-	cont "watching a dance."
+	text "Thy battle moved"
+	line "like a dance."
 
-	para "It was a rare"
-	line "treat to see!"
+	para "A rare display,"
+	line "storeklovn."
 
-	para "I want you to have"
-	line "this. Don't worry"
-	cont "--take it!"
+	para "Accept this token."
+	line "Use it with sense."
 	done
 
 SurfGuySurfExplanationText:
-	text "That's SURF."
+	text "That is SURF."
 
-	para "It's a move that"
-	line "lets #MON swim"
-	cont "across water."
+	para "It lets #MON"
+	line "cross water."
+	cont "Use it properly."
 	done
 
 SurfGuyElegantKimonoGirlsText:
-	text "I wish my #MON"
-	line "were as elegant as"
-	cont "the KIMONO GIRLS…"
+	text "My #MON lack"
+	line "their elegance."
+	cont "Most do,"
+	cont "dingleberry."
 	done
 
 RhydonText:
@@ -281,42 +281,32 @@ RhydonText:
 	done
 
 DanceTheaterCooltrainerMText:
-	text "That man's always"
-	line "with his RHYDON."
+	text "That gentleman"
+	line "keeps a RHYDON."
 
-	para "Says he wants a"
-	line "#MON that can"
-	cont "SURF and dance."
+	para "He wants a #MON"
+	line "to SURF and dance."
 
-	para "Is he trying to"
-	line "make a synchro-"
-	cont "nized swimming"
-	cont "#MON?"
+	para "Curious ambition,"
+	line "vetlegnolt."
 	done
 
 DanceTheaterGrannyText:
-	text "The KIMONO GIRLS"
-	line "are so beautiful…"
+	text "The dancers are"
+	line "well schooled."
 
-	para "But they have to"
-	line "go through rigor-"
-	cont "ous training."
+	para "They train with"
+	line "rigor and custom."
 
-	para "And they have to"
-	line "learn to follow"
-
-	para "customs before ap-"
-	line "pearing in public."
-
-	para "But if you love"
-	line "something, any-"
-	cont "thing is possible."
+	para "If thou lovest"
+	line "a craft, work"
+	cont "with dignity."
 	done
 
 DanceTheaterFancyPanelText:
-	text "It's a fancy panel"
-	line "that's decorated"
-	cont "with flowers."
+	text "A flowered panel."
+	line "Tasteful enough,"
+	cont "storeklovn."
 	done
 
 DanceTheater_MapEvents:

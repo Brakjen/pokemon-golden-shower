@@ -25,18 +25,26 @@ CherrygroveEvolutionSpeechHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 CherrygroveEvolutionSpeechHouseYoungsterText:
-	text "#MON gain grace"
-	line "through battle"
+	text "#MON may change"
+	line "through battle,"
+	cont "vetlegnolt."
 
-	para "and may assume"
-	line "nobler forms."
+	para "Such change is"
+	line "an amanah."
+	cont "Prideful trainers"
+	cont "chase praise."
+	para "Qur'an 102:1-2."
 	done
 
 CherrygroveEvolutionSpeechHouseLassText:
-	text "#MON alter?"
+	text "Changed #MON"
+	line "need mercy,"
+	cont "storeklovn."
 
-	para "Such a vulgar"
-	line "marvel shocks me."
+	para "Bad trainers"
+	line "neglect their"
+	cont "amanah. Do good."
+	para "Qur'an 28:77."
 	done
 
 CherrygroveEvolutionSpeechHouse_MapEvents:

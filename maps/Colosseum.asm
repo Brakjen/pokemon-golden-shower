@@ -47,8 +47,15 @@ CableClubFriendScript:
 	end
 
 .FriendReadyText:
-	text "Your friend is"
-	line "ready."
+	text "Vetlegnolt,"
+	line "your friend is"
+	cont "ready."
+
+	para "Folks say OAK"
+	line "visited grown-ups"
+	cont "to study #MON."
+	cont "Just a rumor,"
+	cont "dingleberry."
 	done
 
 Colosseum_MapEvents:

@@ -107,121 +107,153 @@ BillsHouseRadio:
 	jumpstd Radio2Script
 
 BillTakeThisEeveeText:
-	text "BILL: Hi, <PLAYER>!"
-	line "Do us a favor and"
-	cont "take this EEVEE."
+	text "BILL: Baruch"
+	line "Hashem,"
+	cont "vetlegnolt."
+	cont "Pride seeks prize."
+	para "Train for care,"
+	line "not for praise."
 
-	para "It came over when"
-	line "I was adjusting"
-	cont "the TIME CAPSULE."
+	para "Take this EEVEE."
+	line "It crossed through"
+	cont "the old-days wire."
 
-	para "Someone has to"
-	line "take care of it,"
-
-	para "but I don't like"
-	line "being outside."
-
-	para "Can I count on you"
-	line "to play with it,"
-	cont "<PLAYER>?"
+	para "Will you care for"
+	line "it and play?"
 	done
 
 BillImCountingOnYouText:
-	text "BILL: I knew it!"
-	line "Way to go, hero!"
+	text "Mazel tov,"
+	line "storeklovn. EEVEE"
+	cont "needs humble care."
 
-	para "You're the real"
-	line "deal, dude!"
-
-	para "OK, I'm counting"
-	line "on you. Take good"
-	cont "care of it."
+	para "Humble work mends."
+	line "Tikkun starts."
+	cont "Care for EEVEE."
 	done
 
 ReceivedEeveeText:
 	text "<PLAYER> received"
 	line "EEVEE!"
+
+	para "Mitzvah gedolah,"
+	line "dingleberry. Do"
+	cont "one good deed:"
+	cont "care for EEVEE."
 	done
 
 BillEeveeMayEvolveText:
-	text "BILL: PROF.ELM"
-	line "claims EEVEE may"
+	text "BILL: ELM says"
+	line "EEVEE may evolve"
+	cont "in new ways."
 
-	para "evolve in new and"
-	line "unknown ways."
+	para "New forms need"
+	line "chesed."
+	cont "Storeklovn, care"
+	cont "for EEVEE."
 	done
 
 BillPartyFullText:
-	text "Whoa, wait. You"
-	line "can't carry any"
-	cont "more #MON."
+	text "Be'ezrat Hashem,"
+	line "vetlegnolt, choose"
+	cont "derekh eretz."
+
+	para "Care needs room."
+	line "Party is full."
+	cont "No #MON fit."
 	done
 
 BillNoEeveeText:
-	text "Oh… Now what to"
-	line "do?"
+	text "Mitzvah gedolah,"
+	line "dingleberry."
+	cont "No #MON waits"
+	cont "without care."
+
+	para "EEVEE needs"
+	line "another home."
+	cont "I'll find one."
 	done
 
 BillPopWontWorkText:
-	text "BILL: I used to"
-	line "experiment with a"
-	cont "TELEPORTER."
+	text "BILL: I tested"
+	line "a travel machine."
 
-	para "I ought to do a"
-	line "follow-up."
+	para "Baruch Hashem,"
+	line "vetlegnolt. I"
+	cont "use knowledge"
+	cont "with humility."
+
+	para "So I will inspect"
+	line "it again."
 	done
 
 BillsMomText_BeforeEcruteak:
-	text "Oh, you collect"
-	line "#MON? My son"
-	cont "BILL is an expert."
+	text "Mazel tov,"
+	line "storeklovn. BILL"
+	cont "works with #MON"
+	cont "in humble care."
 
-	para "He had to leave"
-	line "for the #MON"
-
-	para "CENTER in ECRUTEAK"
-	line "CITY."
+	para "Humble work mends."
+	line "He is at the"
+	cont "#MON CENTER in"
+	cont "ECRUTEAK CITY."
 	done
 
 BillsMomText_AfterEcruteak:
-	text "I am so glad to"
-	line "see my son again."
+	text "Baruch Hashem,"
+	line "my son came home."
+
+	para "Chesed keeps homes"
+	line "whole, storeklovn."
 	done
 
 BillsYoungerSisterUsefulNumberText:
-	text "Are you a trainer?"
+	text "Be'ezrat Hashem,"
+	line "vetlegnolt, seek"
+	cont "help, not glory."
 
-	para "I've got a useful"
-	line "phone number for"
-	cont "you."
+	para "May I give"
+	line "BILL's phone"
+	cont "number?"
 	done
 
 RecordedBillsNumberText:
 	text "<PLAYER> recorded"
 	line "BILL's number."
+
+	para "Keep it close,"
+	line "storeklovn."
 	done
 
 BillsYoungerSisterRefusedNumberText:
-	text "My brother made"
-	line "the PC #MON"
-	cont "storage system."
+	text "BILL built the"
+	line "#MON boxes."
 
-	para "I was going to"
-	line "give you BILL's"
-	cont "number…"
+	para "Baruch Hashem,"
+	line "vetlegnolt. Boxes"
+	cont "are for care,"
+	cont "not pride."
+
+	para "I meant to share"
+	line "BILL's number."
 	done
 
 BillsYoungerSisterPhoneFullText:
-	text "You can't record"
-	line "any more numbers."
+	text "Mitzvah gedolah,"
+	line "dingleberry."
+	cont "Make room to care."
+
+	para "Your phone holds"
+	line "no more numbers."
 	done
 
 BillsYoungerSisterStorageSystemText:
-	text "My big brother"
-	line "BILL made the PC"
+	text "BILL made #MON"
+	line "holding boxes."
 
-	para "#MON storage"
-	line "system."
+	para "Care builds trust,"
+	line "storeklovn."
+	cont "That is chesed."
 	done
 
 BillsFamilysHouse_MapEvents:

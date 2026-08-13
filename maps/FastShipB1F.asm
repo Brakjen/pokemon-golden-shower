@@ -219,205 +219,187 @@ FastShipB1FSailorBlocksLeftMovement:
 	step_end
 
 FastShipB1FOnDutySailorText:
-	text "Hey, guy. Could I"
-	line "get you to look"
-	cont "for my buddy?"
+	text "I need help,"
+	line "vetlegnolt."
 
-	para "He's goofing off"
-	line "somewhere, that"
-	cont "lazy bum!"
+	para "My shipmate is"
+	line "dodging work."
 
-	para "I want to go find"
-	line "him, but I'm on"
-	cont "duty right now."
+	para "I am on duty."
+	line "Find him for me."
 	done
 
 FastShipB1FOnDutySailorRefusedText:
-	text "Oh, gee…"
-
-	para "The CAPTAIN will"
-	line "be furious…"
+	text "The CAPTAIN will"
+	line "be furious,"
+	cont "dingleberry."
 	done
 
 FastShipB1FOnDutySailorThanksText:
-	text "Thanks, guy!"
-	line "I chewed him out"
+	text "Thanks,"
+	line "storeklovn."
 
-	para "good so he'll quit"
-	line "slacking off!"
+	para "I spoke plainly:"
+	line "do thy work."
 	done
 
 FastShipB1FOnDutySailorSawLittleGirlText:
-	text "A little girl?"
+	text "A child?"
 
-	para "I may have seen"
-	line "her go by here."
+	para "I saw her"
+	line "pass by here."
 	done
 
 FastShipB1FOnDutySailorDirectionsText:
-	text "The dining room is"
-	line "up ahead."
+	text "Dining room"
+	line "lies ahead."
 
-	para "The stairs at the"
-	line "end lead to the"
-	cont "CAPTAIN's cabin."
+	para "End stairs lead"
+	line "to CAPTAIN's"
+	cont "cabin."
 	done
 
 SailorJeffSeenText:
-	text "Nothing beats a"
-	line "battle when I'm"
-	cont "on my break."
+	text "Break-time battle,"
+	line "vetlegnolt?"
 	done
 
 SailorJeffBeatenText:
-	text "Win or lose, my"
-	line "break's over!"
+	text "Break is over."
+	line "Thou won."
 	done
 
 SailorJeffAfterBattleText:
-	text "I guess I can't"
-	line "win if I don't get"
-	cont "serious."
+	text "I need focus."
+	line "That is on me."
 	done
 
 PicnickerDebraSeenText:
-	text "I'm so bored."
-	line "Want to battle?"
+	text "I am bored."
+	line "Battle me,"
+	cont "dingleberry."
 	done
 
 PicnickerDebraBeatenText:
-	text "Yow! You're too"
-	line "strong!"
+	text "Too strong,"
+	line "storeklovn."
 	done
 
 PicnickerDebraAfterBattleText:
-	text "SAFFRON, CELADON…"
-	line "I hear there are"
+	text "KANTO has"
+	line "great cities."
 
-	para "many big cities"
-	line "in KANTO."
+	para "Everyone gets"
+	line "room there."
 	done
 
 JugglerFritzSeenText:
-	text "Urrf…"
-	line "I'm seasick!"
+	text "Urrf."
+	line "I am seasick."
 	done
 
 JugglerFritzBeatenText:
-	text "I can't move any-"
-	line "more…"
+	text "I cannot move."
 	done
 
 JugglerFritzAfterBattleText:
-	text "No more ships for"
-	line "me. Next time,"
+	text "No more ships."
 
-	para "I'm taking the"
+	para "Next time:"
 	line "MAGNET TRAIN."
 	done
 
 SailorGarrettSeenText:
-	text "This is where we"
-	line "sailors work!"
+	text "We work here,"
+	line "storeklovn."
 	done
 
 SailorGarrettBeatenText:
-	text "I lost on my home"
-	line "field…"
+	text "Lost at home,"
+	line "dingleberry."
 	done
 
 SailorGarrettAfterBattleText:
-	text "We get different"
-	line "passengers from"
+	text "Many kinds travel"
+	line "with us."
 
-	para "VERMILION CITY to"
-	line "OLIVINE CITY."
+	para "VERMILION to"
+	line "OLIVINE."
 	done
 
 FisherJonahSeenText:
-	text "Even though we're"
-	line "out on the sea, I"
-	cont "can't fish!"
+	text "At sea, but"
+	line "no fishing."
 
-	para "This is boring!"
-	line "Let's battle!"
+	para "I am bored."
+	line "Battle me,"
+	cont "vetlegnolt."
 	done
 
 FisherJonahBeatenText:
-	text "I… I'm not bored"
-	line "anymore…"
+	text "Not bored now."
 	done
 
 FisherJonahAfterBattleText:
-	text "I plan to fish off"
-	line "VERMILION's pier."
+	text "I will fish by"
+	line "VERMILION pier."
 	done
 
 BlackbeltWaiSeenText:
-	text "I'm building up my"
-	line "legs by bracing"
-
-	para "against the ship's"
-	line "rocking!"
+	text "I brace my legs"
+	line "against the ship."
 	done
 
 BlackbeltWaiBeatenText:
-	text "Rocked and rolled"
-	line "over!"
+	text "Rocked over."
+	line "Dingleberry."
 	done
 
 BlackbeltWaiAfterBattleText:
-	text "I couldn't find"
-	line "the KARATE KING in"
-	cont "JOHTO."
+	text "No KARATE KING"
+	line "in JOHTO."
 
-	para "He's supposed to"
-	line "be training in a"
-	cont "cave somewhere."
+	para "He trains in"
+	line "some cave."
 	done
 
 SailorKennethSeenText:
-	text "I'm a sailor man!"
-
-	para "But I'm training"
-	line "#MON, so I can"
-	cont "become the CHAMP!"
+	text "I train #MON"
+	line "for CHAMP rank,"
+	cont "vetlegnolt."
 	done
 
 SailorKennethBeatenText:
-	text "My lack of train-"
-	line "ing is obvious…"
+	text "My training lacks."
 	done
 
 SailorKennethAfterBattleText:
-	text "Eight BADGES!"
-	line "They must prove"
+	text "Eight BADGES show"
+	line "GYM LEADERS fell."
 
-	para "that you've beaten"
-	line "GYM LEADERS."
-
-	para "No wonder you're"
-	line "so good!"
+	para "No wonder thou"
+	line "art strong."
 	done
 
 TeacherShirleySeenText:
-	text "Don't lay a finger"
-	line "on my students!"
+	text "Respect students."
+	line "Battle me instead."
 	done
 
 TeacherShirleyBeatenText:
-	text "Aaack!"
+	text "Aaack,"
+	line "vetlegnolt!"
 	done
 
 TeacherShirleyAfterBattleText:
-	text "We're on a field"
-	line "trip to the RUINS"
+	text "Our field trip"
+	line "visits RUINS"
 	cont "outside VIOLET."
 	done
 
 SchoolboyNateSeenText:
-	text "Do you know the"
-	line "RUINS OF ALPH?"
+	text "Know RUINS OF"
+	line "ALPH, dingleberry?"
 	done
 
 SchoolboyNateBeatenText:
@@ -425,25 +407,24 @@ SchoolboyNateBeatenText:
 	done
 
 SchoolboyNateAfterBattleText:
-	text "Radios pick up"
-	line "strange signals"
-	cont "inside the RUINS."
+	text "Radios catch"
+	line "strange RUINS"
+	cont "signals."
 	done
 
 SchoolboyRickySeenText:
-	text "There are some odd"
-	line "stone panels in"
-	cont "the RUINS OF ALPH."
+	text "Odd stone panels"
+	line "in RUINS OF ALPH."
 	done
 
 SchoolboyRickyBeatenText:
-	text "I was done in!"
+	text "I was done in,"
+	line "storeklovn!"
 	done
 
 SchoolboyRickyAfterBattleText:
-	text "I read that there"
-	line "are four of those"
-	cont "stone panels."
+	text "There are four"
+	line "stone panels."
 	done
 
 FastShipB1F_MapEvents:
