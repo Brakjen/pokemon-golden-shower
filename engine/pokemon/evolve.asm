@@ -142,9 +142,11 @@ EvolveAfterBattle_MasterLoop:
 	jr .proceed
 
 .trade
-	ld a, [wLinkMode]
-	and a
-	jp z, .dont_evolve_2
+	; Deactivate link mode so players can evolve pokemon
+	; without having to have traded it first
+	; ld a, [wLinkMode]
+	; and a
+	; jp z, .dont_evolve_2
 
 	call IsMonHoldingEverstone
 	jp z, .dont_evolve_2

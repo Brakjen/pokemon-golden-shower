@@ -73,20 +73,20 @@ _Option:
 
 StringOptions:
 	db "TEXT SPEED<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "BATTLE SCENE<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "BATTLE STYLE<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "SOUND<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "PRINT<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "MENU ACCOUNT<LF>"
-	db "        :<LF>"
+	db "   :<LF>"
 	db "FRAME<LF>"
-	db "        :TYPE<LF>"
-	db "CANCEL@"
+	db "   :TYPE<LF>"
+	db "FUCK THIS@"
 
 GetOptionPointer:
 	jumptable .Pointers, wJumptableIndex
@@ -149,7 +149,7 @@ Options_TextSpeed:
 	ld e, [hl]
 	inc hl
 	ld d, [hl]
-	hlcoord 11, 3
+	hlcoord 7, 3
 	call PlaceString
 	and a
 	ret
@@ -160,9 +160,9 @@ Options_TextSpeed:
 	dw .Mid
 	dw .Slow
 
-.Fast: db "FAST@"
-.Mid:  db "MID @"
-.Slow: db "SLOW@"
+.Fast: db "FAST AS FUCK@"
+.Mid:  db "LAME AS FUCK@"
+.Slow: db "SLOW AS FUCK@"
 
 GetTextSpeed:
 ; converts TEXT_DELAY_* value in a to OPT_TEXT_SPEED_* value in c,
@@ -219,7 +219,7 @@ Options_BattleScene:
 	ld de, .Off
 
 .Display:
-	hlcoord 11, 5
+	hlcoord 7, 5
 	call PlaceString
 	and a
 	ret
@@ -257,7 +257,7 @@ Options_BattleStyle:
 	ld de, .Set
 
 .Display:
-	hlcoord 11, 7
+	hlcoord 7, 7
 	call PlaceString
 	and a
 	ret
@@ -302,7 +302,7 @@ Options_Sound:
 	ld de, .Stereo
 
 .Display:
-	hlcoord 11, 9
+	hlcoord 7, 9
 	call PlaceString
 	and a
 	ret
@@ -356,7 +356,7 @@ Options_Print:
 	ld e, [hl]
 	inc hl
 	ld d, [hl]
-	hlcoord 11, 11
+	hlcoord 7, 11
 	call PlaceString
 	and a
 	ret
@@ -442,7 +442,7 @@ Options_MenuAccount:
 	ld de, .On
 
 .Display:
-	hlcoord 11, 13
+	hlcoord 7, 13
 	call PlaceString
 	and a
 	ret
@@ -474,7 +474,7 @@ Options_Frame:
 	ld [hl], a
 UpdateFrame:
 	ld a, [wTextboxFrame]
-	hlcoord 16, 15 ; where on the screen the number is drawn
+	hlcoord 12, 15 ; where on the screen the number is drawn
 	add '1'
 	ld [hl], a
 	call LoadFontsExtra

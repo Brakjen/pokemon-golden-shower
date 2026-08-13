@@ -104,7 +104,7 @@ DisplayMoneyAndCoinBalance:
 	ret
 
 MoneyString:
-	db "MONEY@"
+	db "LOOT@"
 CoinString:
 	db "COIN@"
 ShowMoney_TerminatorString:
@@ -247,7 +247,7 @@ Kurt_SelectApricorn:
 	ret
 
 .Cancel
-	db "CANCEL@"
+	db "FUCK THIS@"
 
 FindApricornsInBag:
 ; Checks the bag for Apricorns.

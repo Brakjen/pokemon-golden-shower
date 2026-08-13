@@ -479,10 +479,10 @@ DoPlayerMovement::
 	slow_step LEFT
 	slow_step RIGHT
 .NormalStep:
-	step DOWN
-	step UP
-	step LEFT
-	step RIGHT
+	big_step DOWN
+	big_step UP
+	big_step LEFT
+	big_step RIGHT
 .FastStep:
 	big_step DOWN
 	big_step UP

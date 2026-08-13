@@ -157,13 +157,13 @@ StartMenu::
 
 .MenuHeader:
 	db MENU_BACKUP_TILES ; flags
-	menu_coords 10, 0, SCREEN_WIDTH - 1, SCREEN_HEIGHT - 1
+	menu_coords 6, 0, SCREEN_WIDTH - 1, SCREEN_HEIGHT - 1
 	dw .MenuData
 	db 1 ; default selection
 
 .ContestMenuHeader:
 	db MENU_BACKUP_TILES ; flags
-	menu_coords 10, 2, SCREEN_WIDTH - 1, SCREEN_HEIGHT - 1
+	menu_coords 6, 2, SCREEN_WIDTH - 1, SCREEN_HEIGHT - 1
 	dw .MenuData
 	db 1 ; default selection
 
@@ -186,15 +186,15 @@ StartMenu::
 	dw StartMenu_Pokegear, .PokegearString, .PokegearDesc
 	dw StartMenu_Quit,     .QuitString,     .QuitDesc
 
-.PokedexString:  db "#DEX@"
-.PartyString:    db "#MON@"
-.PackString:     db "PACK@"
+.PokedexString:  db "WIKIPEDIA@"
+.PartyString:    db "#MY #TARDS@"
+.PackString:     db "JUTESEKK@"
 .StatusString:   db "<PLAYER>@"
-.SaveString:     db "SAVE@"
-.OptionString:   db "OPTION@"
-.ExitString:     db "EXIT@"
+.SaveString:     db "SAVE SHIT@"
+.OptionString:   db "CHANGY SHIT@"
+.ExitString:     db "OUTTAHERE@"
 .PokegearString: db "<POKE>GEAR@"
-.QuitString:     db "QUIT@"
+.QuitString:     db "FUCK THIS@"
 
 .PokedexDesc:
 	db   "#MON"
@@ -206,7 +206,7 @@ StartMenu::
 
 .PackDesc:
 	db   "Contains"
-	next "items@"
+	next "shit@"
 
 .PokegearDesc:
 	db   "Trainer's"
@@ -218,7 +218,7 @@ StartMenu::
 
 .SaveDesc:
 	db   "Save your"
-	next "progress@"
+	next "shit@"
 
 .OptionDesc:
 	db   "Change"

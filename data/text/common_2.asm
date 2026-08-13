@@ -1324,9 +1324,8 @@ _WouldYouLikeToSaveTheGameText::
 	done
 
 _SavingDontTurnOffThePowerText::
-	text "SAVING… DON'T TURN"
-	line "OFF THE POWER,"
-	cont "YOU BALL SACK."
+	text "SAVING YOUR SHIT"
+	line "COCK SUCKER,"
 	done
 
 _SavedTheGameText::
