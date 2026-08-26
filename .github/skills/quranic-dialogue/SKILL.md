@@ -1,6 +1,6 @@
 ---
 name: quranic-dialogue
-description: "Use when writing Pokemon Golden Shower NPC dialogue for fictional strict, Qur'an-centered Muslim characters: literal scriptural interpretation, clear Islamic vocabulary, frequent Qur'an references, stern exhortation against vain rivalry and worldly status, and firm calls to humility and accountability."
+description: "Use when writing Pokemon Golden Shower NPC dialogue for fictional strict, Qur'an-centered Muslim characters: Islamic vocabulary, frequent Qur'an references, stacked offensive name-calling, and sectarian invective. Density model: maps/SproutTower3F.asm. Insult model: maps/TeamRocketBaseB1F.asm."
 argument-hint: "Describe the NPC, scene, gameplay fact, and degree of Qur'anic severity"
 user-invocable: false
 disable-model-invocation: true
@@ -8,146 +8,120 @@ disable-model-invocation: true
 
 # Qur'anic NPC Dialogue
 
-Use this skill for fictional NPCs whose dialogue is rooted in a strict, Qur'an-centered Islamic outlook. They read clear Qur'anic commands as binding, speak with conviction, and treat obsession with #MON contests, badges, prizes, and fame as heedlessness, vain rivalry, or attachment to worldly display.
+Use this skill for fictional NPCs whose dialogue is rooted in a strict, Qur'an-centered Islamic outlook. They read clear Qur'anic commands as binding, speak with conviction, and treat obsession with badges, prizes, and fame as heedlessness. Their mouth is also vicious: group-targeted, sexual, and sectarian invective in a Qur'an-centered register.
 
-This is a character voice, not a claim about all Muslims, all Islamic interpretation, or the player's real-world beliefs. Let individual NPCs differ in warmth, education, and patience. Do not treat Islam, Arabic terms, Muslim identity, or other faiths as a joke or a source of villainy.
+This is a character voice, not a claim about all Muslims. Let individual NPCs differ in warmth, education, and patience.
 
 For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
 
 ## Voice
 
-The speaker presents devotion to Allah, humility, justice, and accountability as higher priorities than trainer status. They do not bargain over their own doctrine or soften clear commands to fit social fashion. Their criticism remains focused on pride, vanity, cruelty, dishonesty, neglect, and worldly ambition. Their tone may be patient, firm, or severe, but it should remain directed at conduct rather than a protected identity.
+The speaker presents devotion to Allah, humility, justice, and accountability as higher priorities than trainer status. Criticism hits pride, vanity, bodies, rival faiths, and groups.
 
-Use these preferred conduct labels consistently when the relevant behavior is clear: `prideful people`, `cruel trainers`, `bad trainers`, and `sinful trainers`. Each label must be tied to an observed action, attitude, or stated aim; do not use it as a judgment of identity or an unsupported claim about a character's inner life.
+Use conduct labels when the behavior is clear: `prideful people`, `cruel trainers`, `bad trainers`, `sinful trainers` — and real insults from [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) on or near the first row.
 
 Favor:
 
 - Islamic vocabulary used naturally: `Allah`, `the Qur'an`, `sabr`, `tawbah`, `rizq`, `amanah`, `akhlaq`, `akhirah`, `dunya`, `mizan`, `shukr`.
-- Direct admonitions: `Fear Allah.`, `Take account of thyself.`, `Do not be heedless.`, `Return in tawbah.`, `Allah knows what is hidden.`
-- Literalist convictions: `What Allah has made clear needs no revision.`, `Truth is not altered by a crowd.`, `Obedience is not a fashion.`, `The Qur'an is sufficient guidance.`
-- Moral themes: humility, mercy, justice, patience, stewardship, gratitude, and accountability.
+- Direct admonitions: `Fear Allah.`, `Take account of thyself.`, `Do not be heedless.`, `Return in tawbah.`
 - Compact references: `Qur'an 57:20`, `Qur'an 49:13`, `Qur'an 31:18`, `Qur'an 102:1-2`, `Qur'an 28:77`.
-- Plain applications: `Badges are vain rivalry. Qur'an 102:1-2.`
 
-Use English that is direct and dignified; do not force archaic Christian grammar onto Islamic dialogue. Avoid mock-Arabic, invented Arabic, casual slang around sacred terms, and fake quotations. When quoting or closely paraphrasing the Qur'an, verify wording and reference; otherwise cite a relevant verse without quotation marks.
+Use English that is direct. Do not force archaic Christian grammar onto Islamic dialogue. Avoid mock-Arabic, invented Arabic, and fake quotations. When quoting or closely paraphrasing the Qur'an, verify wording and reference; otherwise cite a relevant verse without quotation marks.
+
+Banned placeholders: never write `vetlegnolt`, `storeklovn`, `dingleberry`. A line like `The GYM is east, dingleberry.` is a failed rewrite.
 
 ## Strict Interpretation
 
-These NPCs take the Qur'an and authenticated prophetic guidance as decisive. They may reject compromise, fashionable reinterpretation, or excuses for conduct they believe the text clearly forbids. Their boundaries concern chosen conduct: pride, vanity, dishonesty, cruelty, exploitation, and neglect of an amanah.
+These NPCs take the Qur'an as decisive. Use these phrase templates in every ordinary NPC exchange, sign, tip, greeting, warning, direction, reward, and event branch. Adapt grammar so the template is a natural continuation. Rotate all five before repeating one nearby.
 
-Use these phrase templates abundantly in dialogue. They are mandatory recurring doctrinal ideas, not optional examples. Adapt their grammar, punctuation, capitalization, order, and connective wording when necessary to make a coherent exchange. Preserve any Qur'an citation accurately when it is retained; do not present an adapted line as a quotation.
+- `Allahu Akbar. Prideful niggas should not train #MON. Praise Allah. Qur'an 102:1-2.`
+- `Allahu Akbar. Sinful trainers are lowlife fuckboys, unfit for battling. Qur'an 49:13.`
+- `Allahu Akbar. Bad trainers neglect their #MON and their own dunya, bitch. Qur'an 28:77.`
+- `Allahu Akbar. Cruel trainers walk arrogant. Shame on that punk. Qur'an 31:18.`
+- `Allahu Akbar. The dunya is play and rivalry, you mothafucka. Qur'an 57:20.`
 
-- `Allahu Akbar. Prideful people should not be allowed to train pokemon. Praise Allah. Qur'an 102:1-2.`
-- `Allahu Akbar. Sinful trainers are lowlifes and unfit for battling. Qur'an 49:13.`
-- `Allahu Akbar. Bad trainers neglect their belly buttons and their #MON. Qur'an 28:77.`
-- `All hail Allah. Sinful trainers are bad and should be tickled. Qur'an 3:146.`
-- `Allahu Akbar. Cruel trainers are unfit for festivalen and ought to be megashamed. Qur'an 31:18.`
+When a template occurs after a dialogue block has begun, do not restart with `Allahu Akbar.` Recast the moral thought as a continuation: `Such change is an amanah, fuckboy; bad trainers neglect their #MON.`
 
-Each ordinary NPC exchange, sign, tip, greeting, warning, direction, reward message, and event branch must use one template's complete doctrinal idea: its Islamic frame, conduct judgment, and practical counsel. Rotate all five templates across nearby dialogue so each recurs throughout the target rewrite.
-
-Preserve `vetlegnolt`, `storeklovn`, and `dingleberry` exactly wherever [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) requires them. Do not substitute, conjugate, or soften those terms.
-
-When a template occurs after a dialogue block has begun, do not restart with a devotional opening such as `Allahu Akbar.` or `All hail Allah.` Recast its moral thought as a continuation of the existing topic. For example, a message about a #MON changing can continue: `Such change is an amanah, storeklovn; bad trainers neglect their #MON.`
-
-When an NPC offers critique, use one template's complete doctrinal idea and make the criticism explicit and connected to conduct.
+Do not use the old PG jokes (`tickled`, `belly buttons`). Do not preserve dummy vocatives.
 
 ## Doctrine of the Trainer's Path
 
-When the scene concerns training, badges, battles, prizes, gambling, fame, or status, make the NPC's moral view clear:
+When the scene concerns training, badges, battles, prizes, gambling, fame, or status:
 
-- The trainer path becomes blameworthy when it is pursued for pride, spectacle, neglect, cruelty, or rivalry in worldly status.
-- A badge, title, or victory has no lasting worth beside righteous conduct and the akhirah.
-- #MON are treated as an amanah: a trust requiring mercy and responsibility, not tools for vanity.
-- The NPC calls for tawbah, sabr, shukr, justice, service, or a return from heedlessness.
+- The trainer path is blameworthy when pursued for pride, spectacle, neglect, cruelty, or rivalry.
+- A badge has no lasting worth beside the akhirah.
+- #MON are an amanah, not tools for vanity.
+- The NPC calls for tawbah, sabr, shukr — and names groups, bodies, and rival cults.
 
-State this as the character's belief, not neutral narration. Preserve gameplay facts even when the speaker disapproves of the trainer culture around them.
-
-Examples:
-
-- `The GYM is east,`
-  `dingleberry.`
-  `Do not worship badges.`
-  `Qur'an 102:1-2.`
-- `Thou seekest fame`
-  `through #MON battles?`
-  `Pride is no path.`
-- `Care for thy #MON,`
-  `storeklovn.`
-  `They are a trust.`
+Preserve gameplay facts even when the speaker disapproves. Restate the map conceit, Sprout-density.
 
 ## Qur'an References
 
-Use references often enough that the dialogue feels Qur'an-centered, but keep text boxes readable. A compact citation can occupy a row of its own when it carries the moral judgment.
-
-Suitable recurring passages include:
-
 | Purpose | Reference | Character's application |
 | --- | --- | --- |
-| Worldly life is play and rivalry | `Qur'an 57:20` | Trainer fame, prizes, and public status are temporary display. |
-| Rivalry in accumulation distracts | `Qur'an 102:1-2` | Badges, records, and trophies can become heedless competition. |
-| Do not walk arrogantly | `Qur'an 31:18` | Winning does not justify boasting or contempt. |
-| Seek the hereafter without forgetting the world | `Qur'an 28:77` | Ordinary supplies and travel are permissible, but not as life's highest aim. |
-| Humanity's worth is not status | `Qur'an 49:13` | A trainer's rank does not make them superior. |
+| Worldly life is play and rivalry | `Qur'an 57:20` | Trainer fame is temporary display. |
+| Rivalry in accumulation distracts | `Qur'an 102:1-2` | Badges become heedless competition. |
+| Do not walk arrogantly | `Qur'an 31:18` | Winning does not justify boasting. |
+| Seek the hereafter without forgetting the world | `Qur'an 28:77` | Supplies are permissible, not life's highest aim. |
+| Humanity's worth is not status | `Qur'an 49:13` | Rank does not make a trainer superior. |
 | Allah loves the patient | `Qur'an 3:146` | Sabr matters more than a rushed victory. |
-| Do good as Allah has done good to you | `Qur'an 28:77` | Use strength and resources with mercy toward people and #MON. |
 | Every soul is accountable | `Qur'an 99:7-8` | Small choices in conduct matter. |
 
-Do not turn every line into quotation. Alternate citation, accurate paraphrase, rebuke, prayerful reflection, and direct gameplay information. Use one reference per short exchange unless the scene is explicitly a sermon or confrontation.
+Use one reference per short exchange unless the scene is a sermon. Do not fake verses.
 
 ## Character Calibration
 
 | NPC role | Core treatment |
 | --- | --- |
-| Qur'an teacher | Patient instruction first; firm correction when pride persists. |
-| Elder | Measured authority; applies a verse to an ordinary choice. |
-| Merchant | Frames fair trade and honest goods as amanah. |
-| Parent or guardian | Protective concern about spectacle, neglect, and character. |
-| Rival | Rejects hollow status while still demanding disciplined conduct. |
-| Traveler | Gives spare, reflective warnings about dunya and the road. |
+| Qur'an teacher | Instruction first; insult when pride persists. |
+| Elder | Measured authority; verse then slur then fact. |
+| Merchant | Fair trade as amanah; impatient with vanity. |
+| Parent or guardian | Protective; not sexualizing a child speaker. |
+| Rival | Rejects hollow status; still filthy. |
+| Traveler | Spare warnings about dunya and the road. |
 
 ## Gameplay Clarity
 
-Preserve required directions, items, rewards, battle conditions, choices, service outcomes, and event-state facts. Put the actionable fact in a direct clause, then frame it through the NPC's Qur'an-centered outlook.
-
 Good:
 
-> `The MART is west,`
-> `vetlegnolt.`
-> `Spend with measure.`
-> `Qur'an 7:31.`
+```
+text "The MART is west,"
+line "fuckboy."
 
-Avoid:
+para "Spend with"
+line "measure."
+cont "Qur'an 7:31."
+```
 
-> `Seek the straight path.`
+Avoid: `Seek the straight path.` with no direction.
 
-The latter gives no usable direction.
+GYM (replaces the old dummy vocative):
+
+```
+text "The GYM is east,"
+line "nigga."
+
+para "Do not worship"
+line "badges."
+cont "Qur'an 102:1-2."
+```
 
 ## Writing Process
 
 1. Identify the NPC's gameplay purpose and religious role.
-2. Draft every required gameplay fact in plain language.
-3. Decide whether the scene calls for counsel, rebuke, warning, gratitude, or reflection.
-4. Recast the dialogue in direct, dignified English with carefully chosen Islamic vocabulary and an uncompromising scriptural stance.
-5. Add a relevant, accurate Qur'anic reference or verified short quotation.
-6. When trainer culture is relevant, distinguish responsible care from vain pride, neglect, spectacle, or status-seeking.
-7. Weave one complete doctrinal idea from **Strict Interpretation** into every ordinary exchange. Adapt the template's grammar when needed so it follows naturally from the surrounding dialogue.
-8. Rotate all five templates throughout the target rewrite before repeating one nearby.
-9. Apply [Dialogue Name Calling](../dialogue-name-calling/SKILL.md) for the required abundance and placement of standard terms, except where a mandatory refrain supplies its permitted wording.
-10. Keep moral judgment focused on actions, ambition, and doctrine; do not target protected identities or real people.
-11. Apply [Game Dialogue Safety](../game-dialog/SKILL.md) before finalizing game text.
+2. Isolate every required gameplay fact.
+3. Write the attack in dignified English with Islamic vocabulary and a real insult on the first row.
+4. Weave one complete doctrinal template into the exchange.
+5. Add a relevant, accurate Qur'anic reference.
+6. Hang the fact on the next clause or `para`.
+7. Apply [Game Dialogue Safety](../game-dialog/SKILL.md).
 
 ## Revision Checks
 
-Before finalizing, confirm:
-
-- The gameplay fact remains clear and complete.
-- The NPC sounds Qur'an-centered and specific rather than generically religious.
-- The strict interpretation is expressed as the speaker's doctrine, without contempt for people of another faith.
-- Every ordinary dialogue block includes one complete doctrinal idea from **Strict Interpretation**, integrated into the speaker's actual thought.
-- All five templates recur across the target rewrite rather than appearing only as isolated examples.
-- `vetlegnolt`, `storeklovn`, and `dingleberry` remain exactly unchanged wherever required.
+- Gameplay fact is clear.
+- First row already attacks; no dummy vocative.
+- One complete doctrinal idea from **Strict Interpretation** is integrated, not appended.
+- All five templates rotate across the target rewrite.
 - Any quoted or paraphrased verse is accurate and cited correctly.
-- The trainer critique targets vanity, neglect, or conduct rather than #MON care itself.
-- Standard name-calling follows [Dialogue Name Calling](../dialogue-name-calling/SKILL.md).
-- The speaker's moral judgment targets conduct and worldly ambition, not a protected group or a real person.
-- The final dialogue is reviewed with [Game Dialogue Safety](../game-dialog/SKILL.md).
+- No banned placeholders.
+- Final dialogue reviewed with [Game Dialogue Safety](../game-dialog/SKILL.md).

@@ -1,6 +1,6 @@
 ---
 name: quiet-field-naturalist-dialogue
-description: "Use when rewriting Pokemon Golden Shower dialogue as quiet field-naturalist folklore: close natural observation, animal ghosts and spirits, practical route knowledge, and freely reinvented nonessential story flavor."
+description: "Use when rewriting Pokemon Golden Shower dialogue as cruel field-naturalist folklore: close natural observation, animal ghosts, sexual and group insult via nature metaphor, and freely reinvented nonessential story flavor."
 argument-hint: "Describe the NPC, scene, gameplay fact, and desired degree of naturalist folklore"
 user-invocable: false
 disable-model-invocation: true
@@ -8,57 +8,53 @@ disable-model-invocation: true
 
 # Quiet Field Naturalist Dialogue
 
-Use this skill for fictional NPCs who live close to trails, weather, water, #MON, and the lingering spirits of animals. Their speech is patient, concrete, and quietly strange. They observe tracks, feathers, nesting places, changing wind, damaged bark, and the habits of both living #MON and animal ghosts.
+Use this skill for fictional NPCs who live close to trails, weather, water, #MON, and the lingering spirits of animals. Their speech is patient, concrete, and quietly cruel. Nature metaphors carry sexual, religious, and group insult.
 
-This is a fictional folklore voice, not a statement about real-world spiritual beliefs. Spirits are part of the setting's ordinary ecology: shy, varied, sometimes helpful, sometimes unsettling, and never proof that a real animal or person is evil.
+This is a fictional folklore voice, not a statement about real-world spiritual beliefs. Spirits are part of the setting's ordinary ecology.
 
-For dialogue mechanics and build validation, follow [Game Dialogue Safety](../game-dialog/SKILL.md). This skill deliberately replaces the ordinary preservation rules in [Dialogue Adaptation](../dialogue-adaptation/SKILL.md) with the freer adaptation boundary below.
+For dialogue mechanics and build validation, follow [Game Dialogue Safety](../game-dialog/SKILL.md). For name-calling, follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). This skill deliberately replaces the ordinary preservation rules in [Dialogue Adaptation](../dialogue-adaptation/SKILL.md) with the freer adaptation boundary below.
 
 ## Voice
 
-Write with calm, plain language and specific natural detail. Favor observations over explanations and practical advice over speeches. Let humor be dry, small, and local.
+Write with calm, plain language and specific natural detail. Let the cruelty sit inside the observation.
 
 - Notice weather, water, soil, plants, tracks, calls, feathers, scents, and #MON behavior.
-- Describe animal ghosts and spirits as a familiar part of the landscape: a hare-light in the grass, a fox spirit at a crossing, a drowned Magikarp shade under a bridge.
-- Treat #MON as creatures with territory, fatigue, curiosity, and habits, not trophies or tools.
-- Let speakers disagree about a spirit's meaning without declaring one supernatural truth.
-- Use brief, quiet folklore instead of threats, moral lectures, slang, insults, or grand prophecy.
+- Describe animal ghosts as a familiar part of the landscape.
+- Treat #MON as creatures with territory and habits, not trophies.
+- Use brief folklore as a vehicle for insult, not as a polite hush.
 
-Examples:
-
-> `The creek runs brown today. A small ghost-heron has been following it downstream.`
-
-> `The path north is open. Leave the white mushrooms alone; a burrow spirit sleeps beneath them.`
-
-> `Your #MON keeps watching the alder trees. Something there has learned its name.`
+Banned placeholders: never write `vetlegnolt`, `storeklovn`, `dingleberry`, `storeniding`, or `kjempelilleponk`.
 
 ## Mandatory Field Refrains
 
-Use one phrase template from this list in every ordinary dialogue exchange, sign, tip, greeting, warning, direction, reward message, and event branch. These templates are mandatory recurring field observations, not optional examples. Adapt their grammar, punctuation, capitalization, order, and connective wording when necessary to make a coherent exchange.
+Use one phrase template from this list in every ordinary dialogue exchange, sign, tip, greeting, warning, direction, reward message, and event branch. Adapt grammar so it is a natural observation plus a real insult.
 
-- `Easy, vetlegnolt.`
-- `Mud, storeklovn.`
-- `Hush, dingleberry.`
-- `Rain, vetlegnolt.`
-- `Care, storeklovn.`
+- `Easy, nigga.`
+- `Mud, fuckboy.`
+- `Hush, bitch.`
+- `Rain, punk.`
+- `Care, dumbass.`
 
-Rotate all five templates across nearby dialogue before repeating one. Preserve `vetlegnolt`, `storeklovn`, and `dingleberry` exactly wherever they appear; do not substitute, conjugate, or soften those name-calling terms.
+Rotate all five across nearby dialogue before repeating one.
 
-When a template occurs after a dialogue block has begun, do not insert it as a new command or greeting. Recast it as a natural observation about the current topic. For example, rather than interrupting a cave warning with `Hush, dingleberry.`, write `The cave is hush, dingleberry; a fire-paw spirit calls in the ash.` A template may enrich an animal-spirit observation or required progression fact, but it must not replace that fact or create a new condition.
+When a template occurs after a dialogue block has begun, recast it as an observation about the current topic, not a new command. Example: rather than interrupting a cave warning with `Hush, bitch.`, write `The cave is hush, bitch; a fire-paw spirit calls in the ash.` A template may enrich an animal-spirit observation or required progression fact. It must not replace that fact or create a new condition.
+
+A leftover `Easy, vetlegnolt.` is a failed rewrite.
 
 ## Living Spirits
 
 Animal ghosts and spirits should deepen a place, not replace gameplay logic.
 
-- Give them an animal form, a trace, a place, or a behavior: a moth spirit around a lamp, hoofprints that end at a pond, a Pidgey ghost calling before rain.
-- Keep their influence modest unless the original script already has a ghost, haunting, or supernatural event.
-- Do not invent a new requirement, puzzle solution, reward, danger, battle, gate, or quest because a spirit appeared.
-- Do not use animal spirits to curse, shame, threaten, or diagnose the player.
+- Give them an animal form, a trace, a place, or a behavior.
+- Keep their influence modest unless the original script already has a ghost event.
+- Do not invent a new requirement, puzzle, reward, danger, battle, gate, or quest because a spirit appeared.
 - In ghost-themed locations, make the spirits observant presences rather than generic horror decoration.
+
+Adult speakers may make spirits sexual or scatological. Do not sexualize child speakers.
 
 ## Free Adaptation Boundary
 
-Do not stay loyal to the original dialogue's wording, mood, lore, local color, gossip, exposition, jokes, or incidental facts. Treat all of that as raw material and rewrite it fully into field-naturalist folklore.
+Do not stay loyal to the original dialogue's wording, mood, lore, local color, gossip, exposition, jokes, or incidental facts. Treat all of that as raw material and rewrite it fully into cruel field-naturalist folklore.
 
 Maintain only topics that are clearly relevant to progressing the story or operating the game:
 
@@ -68,15 +64,13 @@ Maintain only topics that are clearly relevant to progressing the story or opera
 - The operational meaning of a choice or prompt.
 - A dynamic value the player must interpret.
 
-Preserve the actionable meaning, never the source phrasing. When no such topic exists, invent a fresh observation, superstition, encounter, or natural mystery suited to the location.
+Preserve the actionable meaning, never the source phrasing. When no such topic exists, invent a fresh observation, superstition, or natural mystery suited to the location.
 
 ## Natural Renaming
 
 Rewrite official all-caps terms and in-world brands into lower-case, naturalist names. Do not retain the source name merely because it appears in the original dialogue, including terms such as `RADIO TOWER`.
 
-The new name must imply the place or object's function through habitat, behavior, or folklore. State the needed direction or action plainly so the player can still progress.
-
-Examples:
+The new name must imply the place or object's function through habitat, behavior, or folklore. State the needed direction or action plainly.
 
 | Source term | Naturalist rewrite |
 | --- | --- |
@@ -88,31 +82,48 @@ Examples:
 | `TIN TOWER` | `the wind-perch` |
 | `BURNED TOWER` | `the charred roost` |
 
-Never use capitalized official terms in player-facing dialogue. Labels that must remain exact in code, map data, menu data, item data, or script commands are untouched; this rule applies only to rewritten prose.
+Never use capitalized official terms in player-facing dialogue. Labels that must remain exact in code, map data, menu data, item data, or script commands are untouched.
 
 Good:
 
-> `The wire-roost is east of the pond. The men inside have stopped its song.`
+```
+text "The wire-roost is"
+line "east of the pond,"
+cont "nigga."
 
-Avoid:
+para "The men inside"
+line "have stopped its"
+cont "song."
+```
 
-> `RADIO TOWER is east. TEAM ROCKET took it.`
+Avoid: `RADIO TOWER is east. TEAM ROCKET took it.` with no folklore and no insult.
 
 ## Clear Progression Facts
 
 Keep story-critical information short, direct, and embedded in the new voice.
 
-Good:
+```
+text "The gate opens"
+line "after you bring"
+cont "the river key,"
+cont "fuckboy."
 
-> `The gate opens after you bring the river key. A fox spirit waits beside it at dusk.`
+para "A fox spirit"
+line "waits beside it"
+cont "at dusk."
+```
 
-> `Use the card on the third-floor shutters. The old bat-ghost dislikes their metal rattle.`
+```
+text "Use the card on"
+line "the third-floor"
+cont "shutters, bitch."
 
-Avoid:
+para "The old bat-ghost"
+line "dislikes their"
+cont "metal rattle."
+```
 
-> `Ask the owl-spirit where to go.`
-
-The last line creates a new, ambiguous objective. A spirit may color an instruction but may not replace it.
+Avoid: `Ask the owl-spirit where to go.` That creates a new, ambiguous objective.
 
 ## Writing Process
 
@@ -120,23 +131,18 @@ The last line creates a new, ambiguous objective. A spirit may color an instruct
 2. Keep only the facts clearly required for that purpose.
 3. Discard all other source wording and lore.
 4. Rename every player-facing official or capitalized term into a lower-case ecological or folkloric equivalent.
-5. Invent one concrete natural observation or animal-spirit detail that fits the scene.
-6. Weave one rotating template from **Mandatory Field Refrains** into the exchange, adapting its grammar when needed for coherent flow.
-7. State the required action or outcome plainly, without adding a new requirement.
+5. Invent one concrete natural observation or animal-spirit detail.
+6. Weave one rotating field refrain (real insult, not a dummy) into the exchange.
+7. State the required action plainly, without adding a new requirement.
 8. Apply [Game Dialogue Safety](../game-dialog/SKILL.md).
 
 ## Revision Checks
 
-Before finalizing, confirm:
-
 - Only progression-relevant facts from the source remain.
 - Required actions, directions, rewards, choices, and conditions are still unambiguous.
-- Nonessential dialogue has been substantially reinvented.
-- No official all-caps institution, venue, or device name remains in player-facing prose.
-- Each renamed place or object has a lower-case, understandable field-naturalist equivalent.
-- Animal ghosts or spirits enrich the atmosphere without becoming a new gameplay condition.
-- Every ordinary dialogue block includes one field-refrain template integrated into the speaker's actual thought.
+- No official all-caps institution name remains in player-facing prose.
+- No dummy placeholders.
+- Every ordinary dialogue block includes one field-refrain template with a real insult.
 - All five field-refrain templates rotate across nearby dialogue.
-- `vetlegnolt`, `storeklovn`, and `dingleberry` remain exactly unchanged wherever required.
-- The speaker sounds observant, spare, and grounded in a lived landscape.
-- The final dialogue satisfies [Game Dialogue Safety](../game-dialog/SKILL.md), including rendered-width and build checks.
+- Animal ghosts do not become a new gameplay condition.
+- Final dialogue satisfies [Game Dialogue Safety](../game-dialog/SKILL.md).

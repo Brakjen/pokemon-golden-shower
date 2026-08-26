@@ -48,17 +48,32 @@ A map is complete only when **all** of the following are true:
    text. Do not rewrite only the first conversation or only one branch.
 2. Every rewritten label follows the assigned voice skill and all support skills
    it names, especially `dialogue-adaptation`, `dialogue-name-calling`, and
-   `game-dialog`.
+   `game-dialog`. The first draft is already explicit and hostile. A polite
+   restyle, a nonce stamp, or "edgy-lite" is not complete.
 3. Required gameplay facts are still direct and correct: items, moves, rewards,
    choices, directions, battle conditions, event-state facts, dynamic values,
    proper names needed for progress, and text terminators.
-4. The map passes the rendered-width audit, including every macro expansion and
+4. Every reachable player-facing label is in the assigned register, including
+   trainers, after-battle, signs, statues, and switch text. Leftover vanilla
+   object text (the `TeamRocketBaseB1FSecurityCameraText` /
+   `TeamRocketBaseB1FSwitchOffText` anti-pattern) means the map is not done.
+   Street/Rocket gold check: CameraGrunt1 in `maps/TeamRocketBaseB1F.asm`.
+   Cult/sage/scriptural gold check: map-wide conceit in `maps/SproutTower3F.asm`.
+5. After rewrite, grep the map for dummy placeholders. Any hit is an incomplete
+   map. Replace them with real in-register insults; do not leave them to swap
+   later:
+
+```sh
+rg -n "vetlegnolt|storeklovn|dingleberry|storeniding|kjempelilleponk" maps/Target.asm
+```
+
+6. The map passes the rendered-width audit, including every macro expansion and
    runtime buffer used by its changed text.
-5. The project successfully assembles with `make -B main_gold.o` after that
+7. The project successfully assembles with `make -B main_gold.o` after that
    map's changes.
-6. Editor diagnostics for the map and tracker are clear, and `git diff --check`
+8. Editor diagnostics for the map and tracker are clear, and `git diff --check`
    is clean for those files.
-7. Only then may its tracker entry receive `# done`.
+9. Only then may its tracker entry receive `# done`.
 
 Never claim a partial map is complete. Never mark an entry done merely because
 the file compiles. Never use a global regex replacement or a one-line rewrite
@@ -178,3 +193,7 @@ Stop and correct the work if any of these are true:
 - A tracker marker was added before the map passed width, assembler, diagnostic,
   and diff checks.
 - The agent asks the user for another `next` despite a larger requested scope.
+- Labels were only restyled, nonce-stamped, or given one swear after a clean line.
+- A dummy placeholder remains: `vetlegnolt`, `storeklovn`, `dingleberry`,
+  `storeniding`, or `kjempelilleponk`.
+- Signs, statues, or switch text were left vanilla on an otherwise rewritten map.

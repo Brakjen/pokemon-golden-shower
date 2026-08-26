@@ -49,7 +49,7 @@ done
 
 ## Semantic Invariants
 
-This skill does not require literal source wording or official map/menu labels to remain unchanged. Voice skills may loosely reimagine flavor, shop chatter, and local explanations using diegetic descriptions.
+This skill does not require literal source wording or official map/menu labels to remain unchanged. Voice skills may loosely reimagine flavor, shop chatter, and local explanations using diegetic descriptions. Voice skills may use profanity and slurs; width accounting still uses rendered length. Prefer short Rocket-length tokens (`fuckin'`, `bitch`, `nigga`) and Sprout-style hyphen splits (`cock--`, `in-`/`deed`) over truncated insults.
 
 Do preserve facts that control play: required items, actionable directions, battle conditions, service outcomes, event-state information, choices, dynamic values, and the meaning of yes/no prompts. Keep an exact proper name only when the player needs it to navigate, invoke a system, or complete a mission.
 
