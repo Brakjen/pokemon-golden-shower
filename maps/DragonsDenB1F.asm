@@ -140,7 +140,7 @@ DragonShrinePlayerReceivedRisingBadgeText:
 	line "RISINGBADGE."
 
 	para "Tolerable result,"
-	line "storeklovn."
+	line "dickwad."
 	done
 
 DragonShrineRisingBadgeExplanationText:
@@ -153,7 +153,7 @@ DragonShrineRisingBadgeExplanationText:
 	cont "wanker."
 
 	para "Accept this TM,"
-	line "dingleberry."
+	line "assqueen."
 	done
 
 Text_ReceivedTM24: ; unreferenced
@@ -167,7 +167,7 @@ Text_ReceivedTM24: ; unreferenced
 ClairText_DescribeDragonbreathDragonDen:
 	text "This TM holds"
 	line "DRAGONBREATH,"
-	cont "storeklovn."
+	cont "dickwad."
 
 	para "It hath naught"
 	line "to do with"
@@ -191,7 +191,7 @@ ClairText_CollectedAllBadges:
 
 	para "The road is hard."
 	line "Do not lose,"
-	cont "storeklovn."
+	cont "dickwad."
 
 	para "Else thy win"
 	line "shames me further."
@@ -203,7 +203,7 @@ DragonShrineSignpostText:
 	para "Dragons once"
 	line "lived in this den."
 	cont "Mark it well,"
-	cont "dingleberry."
+	cont "assqueen."
 	done
 
 RivalText_Training1:
@@ -218,13 +218,13 @@ RivalText_Training1:
 	line "them too hard."
 
 	para "Discipline first,"
-	line "dingleberry."
+	line "assqueen."
 	cont "Then strength."
 	done
 
 RivalText_Training2:
 	text "Stay from my way,"
-	line "storeklovn."
+	line "dickwad."
 	done
 
 Text_FoundDragonFang:
@@ -240,7 +240,7 @@ Text_FoundDragonFang:
 Text_NoRoomForDragonFang:
 	text "Thou canst carry"
 	line "no more items,"
-	cont "dingleberry."
+	cont "assqueen."
 	done
 
 DragonsDenB1F_MapEvents:

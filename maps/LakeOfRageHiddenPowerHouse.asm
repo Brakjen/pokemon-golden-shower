@@ -44,13 +44,13 @@ HiddenPowerGuyText1:
 
 	para "Take this TM for"
 	line "your #MON,"
-	cont "storeklovn."
+	cont "assclown."
 	done
 
 HiddenPowerGuyText2:
 	text "That's HIDDEN"
 	line "POWER,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "It pulls out a"
 	line "#MON's power"
@@ -67,7 +67,7 @@ HiddenPowerGuyText2:
 
 HiddenPowerGuyText3:
 	text "I'm thinkin' hard,"
-	line "storeklovn."
+	line "assclown."
 
 	para "Ain't found much"
 	line "yet."

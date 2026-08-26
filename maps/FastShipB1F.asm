@@ -232,12 +232,12 @@ FastShipB1FOnDutySailorText:
 FastShipB1FOnDutySailorRefusedText:
 	text "The CAPTAIN will"
 	line "be furious,"
-	cont "dingleberry."
+	cont "cockfairy."
 	done
 
 FastShipB1FOnDutySailorThanksText:
 	text "Thanks,"
-	line "storeklovn."
+	line "shitlick."
 
 	para "I spoke plainly:"
 	line "do thy work."
@@ -277,12 +277,12 @@ SailorJeffAfterBattleText:
 PicnickerDebraSeenText:
 	text "I am bored."
 	line "Battle me,"
-	cont "dingleberry."
+	cont "cockfairy."
 	done
 
 PicnickerDebraBeatenText:
 	text "Too strong,"
-	line "storeklovn."
+	line "shitlick."
 	done
 
 PicnickerDebraAfterBattleText:
@@ -311,12 +311,12 @@ JugglerFritzAfterBattleText:
 
 SailorGarrettSeenText:
 	text "We work here,"
-	line "storeklovn."
+	line "shitlick."
 	done
 
 SailorGarrettBeatenText:
 	text "Lost at home,"
-	line "dingleberry."
+	line "cockfairy."
 	done
 
 SailorGarrettAfterBattleText:
@@ -352,7 +352,7 @@ BlackbeltWaiSeenText:
 
 BlackbeltWaiBeatenText:
 	text "Rocked over."
-	line "Dingleberry."
+	line "cockfairy."
 	done
 
 BlackbeltWaiAfterBattleText:
@@ -399,7 +399,7 @@ TeacherShirleyAfterBattleText:
 
 SchoolboyNateSeenText:
 	text "Know RUINS OF"
-	line "ALPH, dingleberry?"
+	line "ALPH, cockfairy?"
 	done
 
 SchoolboyNateBeatenText:
@@ -419,7 +419,7 @@ SchoolboyRickySeenText:
 
 SchoolboyRickyBeatenText:
 	text "I was done in,"
-	line "storeklovn!"
+	line "shitlick!"
 	done
 
 SchoolboyRickyAfterBattleText:

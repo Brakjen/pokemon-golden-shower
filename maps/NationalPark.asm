@@ -286,13 +286,13 @@ NationalParkLassText:
 	para "OAK would call it"
 	line "research. Adults"
 	cont "call him a creep,"
-	cont "storeklovn."
+	cont "fuckwit."
 	done
 
 NationalParkPokefanFText:
 	text "My adult daughter"
 	line "sent this MAIL,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "She has OAK's eyes"
 	line "Just gossip, mind,"
@@ -302,7 +302,7 @@ NationalParkPokefanFText:
 
 NationalParkTeacher1Text:
 	text "Pay attention,"
-	line "storeklovn!"
+	line "fuckwit!"
 
 	para "Oh. There I go"
 	line "teaching again."
@@ -319,7 +319,7 @@ NationalParkTeacher1Text:
 NationalParkTeacher1Text_GotQuickClaw:
 	text "Give QUICK CLAW"
 	line "to a #MON,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "It may let them"
 	line "move first in"
@@ -333,7 +333,7 @@ NationalParkTeacher1Text_GotQuickClaw:
 NationalParkYoungster1Text:
 	text "I printed #DEX"
 	line "stickers,"
-	cont "storeklovn."
+	cont "fuckwit."
 
 	para "OAK calls pictures"
 	line "research. Adults"
@@ -343,7 +343,7 @@ NationalParkYoungster1Text:
 NationalParkYoungster2Text:
 	text "When I win, I get"
 	line "a #DEX sticker,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "No OAK lectures."
 	line "Just stickers,"
@@ -352,7 +352,7 @@ NationalParkYoungster2Text:
 
 NationalParkTeacher2Text:
 	text "I walk in the PARK"
-	line "storeklovn."
+	line "fuckwit."
 
 	para "I avoid the grass."
 	line "Trainers battle"
@@ -366,7 +366,7 @@ NationalParkTeacher2Text:
 
 NationalParkPersianText:
 	text "PERSIAN: Fufushaa,"
-	line "dingleberry!"
+	line "pissfairy!"
 	done
 
 NationalParkGameboyKidText:
@@ -375,7 +375,7 @@ NationalParkGameboyKidText:
 
 	para "MAIL and PC BOXES"
 	line "print too,"
-	cont "storeklovn."
+	cont "fuckwit."
 
 	para "OAK calls it data."
 	line "Adults call him"
@@ -392,12 +392,12 @@ SchoolboyJack1SeenText:
 
 	para "But I know more"
 	line "than you,"
-	cont "storeklovn!"
+	cont "fuckwit!"
 	done
 
 SchoolboyJack1BeatenText:
 	text "Wha-what,"
-	line "dingleberry?"
+	line "pissfairy?"
 	done
 
 SchoolboyJackTradeMonText:
@@ -410,13 +410,13 @@ SchoolboyJackTradeMonText:
 
 	para "Traded #MON"
 	line "level up faster,"
-	cont "storeklovn."
+	cont "fuckwit."
 	done
 
 PokefanfBeverly1SeenText:
 	text "My #MON are"
 	line "adorable,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "OAK stared once."
 	line "The old creep said"
@@ -428,7 +428,7 @@ PokefanfBeverly1SeenText:
 
 PokefanfBeverly1BeatenText:
 	text "You won,"
-	line "storeklovn."
+	line "fuckwit."
 
 	para "Mine remain cuter."
 	line "Even OAK would"
@@ -438,7 +438,7 @@ PokefanfBeverly1BeatenText:
 PokefanBeverlyCuteMonText:
 	text "My adult friend"
 	line "has a MARILL,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "She has OAK's chin"
 	line "too. Folks whisper"
@@ -450,7 +450,7 @@ PokefanBeverlyCuteMonText:
 
 PokefanmWilliamSeenText:
 	text "I adore my #MON"
-	line "storeklovn,"
+	line "fuckwit,"
 	cont "even when they"
 	cont "dislike me."
 
@@ -465,12 +465,12 @@ PokefanmWilliamSeenText:
 
 PokefanmWilliamBeatenText:
 	text "M-my #MON,"
-	line "dingleberry!"
+	line "pissfairy!"
 	done
 
 PokefanmWilliamAfterBattleText:
 	text "I lost the battle,"
-	line "storeklovn."
+	line "fuckwit."
 
 	para "My #MON win"
 	line "most lovely."
@@ -482,7 +482,7 @@ PokefanmWilliamAfterBattleText:
 
 LassKriseSeenText:
 	text "Why stare at me,"
-	line "dingleberry?"
+	line "pissfairy?"
 
 	para "Is this an OAK"
 	line "research trick?"
@@ -492,7 +492,7 @@ LassKriseSeenText:
 	done
 
 LassKriseBeatenText:
-	text "Hmph, storeklovn."
+	text "Hmph, fuckwit."
 	done
 
 LassKriseAfterBattleText:
@@ -505,7 +505,7 @@ LassKriseAfterBattleText:
 	cont "What a creep."
 
 	para "I am cute, though,"
-	line "dingleberry!"
+	line "pissfairy!"
 	done
 
 NationalParkRelaxationSquareText:
@@ -517,7 +517,7 @@ NationalParkRelaxationSquareText:
 
 NationalParkBattleNoticeText:
 	text "BATTLE NOTICE"
-	line "DINGLEBERRY"
+	line "pissfairy"
 
 	para "BATTLE ONLY IN"
 	line "THE GRASS"
@@ -534,7 +534,7 @@ NationalParkTrainerTipsText:
 
 	para "OPEN MAIL, THEN"
 	line "PRESS START TO"
-	cont "PRINT, STOREKLOVN"
+	cont "PRINT, fuckwit"
 
 	para "IGNORE OAK GOSSIP"
 	done

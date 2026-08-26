@@ -324,15 +324,15 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	cont "for sale below."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Cocksuckers are"
 	cont "unfit for"
-	cont "festivalen. Be"
-	cont "megashamed."
+	cont "life. Be"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 
 	para "I go to the WELL,"
-	line "storeklovn."
+	line "cumstain."
 	done
 
 KurtsHouseKurtHonoredToMakeBallsText:
@@ -340,10 +340,10 @@ KurtsHouseKurtHonoredToMakeBallsText:
 	line "WELL, <PLAYER>."
 
 	para "Take this LURE"
-	line "BALL, dingleberry."
+	line "BALL, cumfairy."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "homos"
 	cont "neglect bellies"
 	cont "and #MON."
 
@@ -358,10 +358,10 @@ KurtsHouseKurtBallsFromApricornsText:
 	line "APRICORNS."
 
 	para "Bring one from a"
-	line "tree, storeklovn."
+	line "tree, cumstain."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Gay people"
 	cont "should not train"
 	cont "#MON for fame."
 
@@ -376,13 +376,13 @@ KurtsHouseKurtBallsFromApricornsText:
 KurtsHouseKurtAskYouHaveAnApricornText:
 	text "An APRICORN?"
 	line "Give it here,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "I shall make a"
 	line "BALL from it."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Gay people"
 	cont "should not train"
 	cont "#MON for fame."
 
@@ -392,13 +392,13 @@ KurtsHouseKurtAskYouHaveAnApricornText:
 
 KurtsHouseKurtItWillTakeADayText:
 	text "One day makes thy"
-	line "BALL, storeklovn."
+	line "BALL, cumstain."
 
 	para "Return tomorrow,"
 	line "ballcradler."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Homos"
 	cont "are lowlifes and"
 	cont "unfit for"
 	cont "battling."
@@ -408,13 +408,13 @@ KurtsHouseKurtItWillTakeADayText:
 
 KurtsHouseKurtThatsALetdownText:
 	text "Thou wilt not,"
-	line "storeklovn?"
+	line "cumstain?"
 
 	para "Then keep thy"
 	line "APRICORN."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Homos"
 	cont "are bad and should"
 	cont "be tickled."
 
@@ -427,10 +427,10 @@ KurtsHouseKurtDontBotherMeText:
 
 	para "Do not break this"
 	line "amanah,"
-	cont "storeklovn."
+	cont "cumstain."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "homos"
 	cont "neglect bellies"
 	cont "and #MON."
 
@@ -439,14 +439,14 @@ KurtsHouseKurtDontBotherMeText:
 
 KurtsHouseKurtJustFinishedYourBallText:
 	text "Thy BALL is done,"
-	line "storeklovn."
+	line "cumstain."
 
 	para "Take it. Use it"
 	line "with mercy,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "homos"
 	cont "neglect bellies"
 	cont "and #MON."
 
@@ -454,14 +454,14 @@ KurtsHouseKurtJustFinishedYourBallText:
 	done
 
 KurtsHouseKurtTurnedOutGreatText:
-	text "Dingleberry,"
+	text "cumfairy,"
 	line "the BALL is sound."
 
 	para "Use it to catch"
 	line "#MON."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Gay people"
 	cont "should not train"
 	cont "#MON for fame."
 
@@ -477,14 +477,14 @@ KurtsGranddaughterSlowpokeGoneText:
 	line "them, ballcradler."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Cocksuckers are"
 	cont "unfit for"
-	cont "festivalen. Be"
-	cont "megashamed."
+	cont "life. Be"
+	cont "must be stoned."
 
 	para "I hope they"
 	line "return,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "Qur'an 31:18."
 	done
@@ -492,16 +492,16 @@ KurtsGranddaughterSlowpokeGoneText:
 KurtsGranddaughterLonelyText:
 	text "Grandpa went to"
 	line "the WELL. I wait,"
-	cont "storeklovn."
+	cont "cumstain."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Homos"
 	cont "are lowlifes and"
 	cont "unfit for"
 	cont "battling."
 
 	para "Wait with sabr,"
-	line "dingleberry."
+	line "cumfairy."
 
 	para "Qur'an 49:13."
 	done
@@ -511,10 +511,10 @@ KurtsGranddaughterSlowpokeBackText:
 	line "came back."
 
 	para "Its TAIL grows"
-	line "again, storeklovn."
+	line "again, cumstain."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "homos"
 	cont "neglect bellies"
 	cont "and #MON."
 
@@ -532,10 +532,10 @@ KurtsGranddaughterDadText:
 	para "I stay with"
 	line "Grandpa and"
 	cont "SLOWPOKE,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Gay people"
 	cont "should not train"
 	cont "#MON for fame."
 
@@ -547,7 +547,7 @@ KurtsHouseSlowpokeText:
 	text "SLOWPOKE: Yawn."
 
 	para "Allahu Akbar."
-	para "Bad trainers"
+	para "homos"
 	line "neglect bellies"
 	cont "and #MON,"
 	cont "ballcradler."
@@ -559,10 +559,10 @@ KurtsHouseOakPhotoText:
 	text "A young PROF. OAK."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Gay people"
 	cont "should not train"
 	cont "#MON for fame,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "Praise Allah."
 	para "Qur'an 102:1-2."
@@ -576,10 +576,10 @@ KurtsHouseCelebiStatueText:
 	line "Guardianship is"
 	cont "amanah."
 
-	para "Bad trainers"
+	para "homos"
 	line "neglect bellies"
 	cont "and #MON,"
-	cont "storeklovn."
+	cont "cumstain."
 
 	para "Qur'an 28:77."
 	done

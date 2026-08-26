@@ -174,14 +174,14 @@ MrPokemonIntroText1:
 	cont "retard."
 
 	para "Come close,"
-	line "storeklovn."
+	line "fuckwit."
 	done
 
 MrPokemonIntroText2:
 	text "Take this EGG to"
 	line "PROF.ELM."
 	cont "He must wook,"
-	cont "dingleberry."
+	cont "pissfairy."
 	done
 
 MrPokemonsHouse_GotEggText:
@@ -194,7 +194,7 @@ MrPokemonsHouse_GotEggText:
 MrPokemonIntroText3:
 	text "Day-care fwends"
 	line "gave me that EGG,"
-	cont "storeklovn."
+	cont "fuckwit."
 
 	para "EGG made me go"
 	line "ooh-ooh! So me"
@@ -209,7 +209,7 @@ MrPokemonIntroText3:
 MrPokemonIntroText4:
 	text "Even PROF.OAK"
 	line "says so,"
-	cont "dingleberry."
+	cont "pissfairy."
 	done
 
 MrPokemonIntroText5:
@@ -222,11 +222,11 @@ MrPokemonIntroText5:
 MrPokemonsHouse_MrPokemonHealText:
 	text "You go back to"
 	line "PROF.ELM,"
-	cont "storeklovn?"
+	cont "fuckwit?"
 
 	para "Rest your #MON"
 	line "need nappy-nap,"
-	cont "dingleberry."
+	cont "pissfairy."
 	done
 
 MrPokemonText_ImDependingOnYou:
@@ -237,7 +237,7 @@ MrPokemonText_ImDependingOnYou:
 MrPokemonText_AlwaysNewDiscoveries:
 	text "Gaa gaa! New-new"
 	line "things everywhere,"
-	cont "storeklovn!"
+	cont "fuckwit!"
 	done
 
 MrPokemonsHouse_OakText1:
@@ -251,7 +251,7 @@ MrPokemonsHouse_OakText1:
 
 	para "You run errand"
 	line "for PROF.ELM,"
-	cont "storeklovn."
+	cont "fuckwit."
 
 	para "Ooh! Your #MON"
 	line "is rare."
@@ -264,7 +264,7 @@ MrPokemonsHouse_OakText1:
 	line "#MON like kind."
 
 	para "Help me too,"
-	line "dingleberry?"
+	line "pissfairy?"
 
 	para "This is #DEX."
 	line "It writes down"
@@ -279,7 +279,7 @@ MrPokemonsHouse_GetDexText:
 	text "<PLAYER> received"
 	line "#DEX!"
 
-	para "Yay, storeklovn!"
+	para "Yay, fuckwit!"
 	done
 
 MrPokemonsHouse_OakText2:
@@ -297,7 +297,7 @@ MrPokemonsHouse_OakText2:
 
 	para "<PLAYER>, me count"
 	line "on you,"
-	cont "dingleberry!"
+	cont "pissfairy!"
 	done
 
 MrPokemonText_GimmeTheScale:
@@ -309,12 +309,12 @@ MrPokemonText_GimmeTheScale:
 
 	para "Trade RED SCALE"
 	line "for my EXP.SHARE,"
-	cont "storeklovn?"
+	cont "fuckwit?"
 	done
 
 MrPokemonText_Disappointed:
 	text "No trade? Boo-hoo,"
-	line "dingleberry."
+	line "pissfairy."
 
 	para "RED SCALE rare!"
 	done
@@ -328,14 +328,14 @@ MrPokemonsHouse_ForeignMagazinesText:
 
 MrPokemonsHouse_BrokenComputerText:
 	text "Big clicky box,"
-	line "storeklovn."
+	line "fuckwit."
 
 	para "No go. All broke."
 	done
 
 MrPokemonsHouse_StrangeCoinsText:
 	text "Shiny round coins,"
-	line "dingleberry!"
+	line "pissfairy!"
 
 	para "From far-far land?"
 	done

@@ -27,13 +27,13 @@ OlivineMartCooltrainerFText:
 	para "Can your #MON"
 	line "carry you on water"
 	cont "with a swim move,"
-	cont "storeklovn?"
+	cont "cockend?"
 	done
 
 OlivineMartLassText:
 	text "My boyfriend lives"
 	line "over big water,"
-	cont "dingleberry."
+	cont "homoass."
 
 	para "His BUTTERFREE"
 	line "flew here with"
@@ -45,7 +45,7 @@ OlivineMartLassText:
 
 	para "No no! Secret!"
 	line "Gaa gaa,"
-	cont "storeklovn!"
+	cont "cockend!"
 	done
 
 OlivineMart_MapEvents:

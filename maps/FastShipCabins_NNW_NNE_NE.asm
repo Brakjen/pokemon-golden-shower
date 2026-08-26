@@ -141,13 +141,13 @@ CooltrainermSeanSeenText:
 
 CooltrainermSeanBeatenText:
 	text "Gaa gaa! Me lose,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 CooltrainermSeanAfterBattleText:
 	text "KANTO got fight"
 	line "houses."
-	cont "Storeklovn."
+	cont "balllick."
 
 	para "JOHTO folks can"
 	line "fight there too."
@@ -158,10 +158,10 @@ CooltrainermSeanAfterBattleText:
 
 CooltrainerfCarolSeenText:
 	text "Me wanna big"
-	line "CHAMP, storeklovn."
+	line "CHAMP, balllick."
 
 	para "Fight me now,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 CooltrainerfCarolBeatenText:
@@ -171,7 +171,7 @@ CooltrainerfCarolBeatenText:
 
 CooltrainerfCarolAfterBattleText:
 	text "Next time me win,"
-	line "storeklovn!"
+	line "balllick!"
 	done
 
 PokemaniacEthanSeenText:
@@ -181,12 +181,12 @@ PokemaniacEthanSeenText:
 
 PokemaniacEthanBeatenText:
 	text "Gyaaaah,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 PokemaniacEthanAfterBattleText:
 	text "Radio girl nice,"
-	line "storeklovn."
+	line "balllick."
 
 	para "Other girl best!"
 
@@ -201,20 +201,20 @@ HikerNolandSeenText:
 
 HikerNolandBeatenText:
 	text "Too much! Gaa gaa!"
-	line "Dingleberry!"
+	line "jizzfairy!"
 	done
 
 HikerNolandAfterBattleText:
 	text "Far land got big"
 	line "hills. Me climb?"
 
-	para "Wook, storeklovn!"
+	para "Wook, balllick!"
 	done
 
 SailorStanlySeenText:
 	text "Goo goo! Me ship"
 	line "worker."
-	cont "Storeklovn."
+	cont "balllick."
 
 	para "Me not goofing."
 	line "No no, sick fuck!"
@@ -223,7 +223,7 @@ SailorStanlySeenText:
 	line "sweep-sweep. Zzz!"
 
 	para "Now we fight,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 SailorStanlyBeatenText:
@@ -233,10 +233,10 @@ SailorStanlyBeatenText:
 SailorStanlyAfterBattleText:
 	text "Ship work make me"
 	line "sweepy."
-	cont "Storeklovn."
+	cont "balllick."
 
 	para "Me need big nappy,"
-	line "dingleberry."
+	line "jizzfairy."
 	done
 
 GentlemanEdwardSeenText:
@@ -249,12 +249,12 @@ GentlemanEdwardSeenText:
 
 GentlemanEdwardBeatenText:
 	text "Me no find it..."
-	line "Storeklovn!"
+	line "balllick!"
 	done
 
 GentlemanEdwardAfterBattleText:
 	text "No more wooking,"
-	line "dingleberry."
+	line "jizzfairy."
 
 	para "You stop too. Shh!"
 	done
@@ -266,12 +266,12 @@ BurglarCoreySeenText:
 
 BurglarCoreyBeatenText:
 	text "No lucky. Me lose,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 BurglarCoreyAfterBattleText:
 	text "Pretty coin here!"
-	line "Storeklovn, lost."
+	line "balllick, lost."
 
 	para "Somebody drop it."
 	done

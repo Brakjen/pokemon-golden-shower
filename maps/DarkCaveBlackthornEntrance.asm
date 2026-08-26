@@ -45,7 +45,7 @@ DarkCaveBlackthornEntrancePharmacistText1:
 
 	para "Take these"
 	line "BLACKGLASSES,"
-	cont "dingleberry."
+	cont "assqueen."
 	cont "Wear what helps."
 	done
 
@@ -54,7 +54,7 @@ DarkCaveBlackthornEntrancePharmacistText2:
 	line "dark-type moves."
 
 	para "Use what fits you,"
-	line "storeklovn."
+	line "cockbag."
 	done
 
 DarkCaveBlackthornEntrance_MapEvents:

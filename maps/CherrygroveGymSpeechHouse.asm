@@ -31,7 +31,7 @@ CherrygroveGymSpeechHousePokefanMText:
 CherrygroveGymSpeechHouseBugCatcherText:
 	text "When grown, I"
 	line "shall lead a GYM,"
-	cont "storeklovn."
+	cont "jizzbag."
 
 	para "My #MON test"
 	line "comrades'."

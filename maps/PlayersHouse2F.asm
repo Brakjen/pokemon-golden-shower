@@ -101,7 +101,7 @@ PlayersRadioText1:
 
 PlayersRadioText2:
 	text "#MON CHANNEL,"
-	line "storeklovn!"
+	line "cockend!"
 
 	para "Love not the world"
 	line "1 John 2:15."
@@ -110,7 +110,7 @@ PlayersRadioText2:
 PlayersRadioText3:
 	text "I am DJ MARY,"
 	line "thy co-host,"
-	cont "dingleberry."
+	cont "homoass."
 
 	para "Take heed against"
 	line "vain glory."

@@ -112,7 +112,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 
 	para "Now they do not."
 	line "Why? Well... why,"
-	cont "storeklovn?"
+	cont "assclown?"
 	done
 
 MagikarpLengthRaterText_MenInBlack:
@@ -123,7 +123,7 @@ MagikarpLengthRaterText_MenInBlack:
 	para "They came."
 	line "Then bad came."
 	cont "Same time,"
-	cont "dingleberry."
+	cont "cumfairy."
 	done
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
@@ -140,13 +140,13 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 
 	para "Use a ROD. Catch"
 	line "one and show me,"
-	cont "storeklovn."
+	cont "assclown."
 	done
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Oh. MAGIKARP."
 	line "You got one,"
-	cont "dingleberry."
+	cont "cumfairy."
 
 	para "Show me. I measure"
 	line "the big part."
@@ -159,7 +159,7 @@ MagikarpLengthRaterText_YouHaveAMagikarp:
 MagikarpLengthRaterText_Memento:
 	text "Big! Bigger than"
 	line "the old big one,"
-	cont "storeklovn."
+	cont "assclown."
 
 	para "New record. Record"
 	line "means biggest so"
@@ -175,7 +175,7 @@ MagikarpLengthRaterText_Bonus:
 	line "The big number."
 
 	para "ETHER is extra,"
-	line "dingleberry."
+	line "cumfairy."
 	cont "Extra means also."
 	done
 
@@ -190,14 +190,14 @@ MagikarpLengthRaterText_TooShort:
 	cont "more fish length."
 
 	para "Bring a long one,"
-	line "storeklovn."
+	line "assclown."
 	done
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "That is not"
 	line "MAGIKARP. It is"
 	cont "some other thing,"
-	cont "dingleberry."
+	cont "cumfairy."
 	done
 
 MagikarpLengthRaterText_Refused:
@@ -207,7 +207,7 @@ MagikarpLengthRaterText_Refused:
 
 	para "Bring MAGIKARP"
 	line "later. A big one,"
-	cont "storeklovn."
+	cont "assclown."
 	done
 
 LakeOfRageMagikarpHouseUnusedRecordText:

@@ -86,7 +86,7 @@ GentlemanPrestonSeenText:
 	line "with pets."
 
 	para "You fight me,"
-	line "kjempelilleponk?"
+	line "retard?"
 	done
 
 GentlemanPrestonBeatenText:

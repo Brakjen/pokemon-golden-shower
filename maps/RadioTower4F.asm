@@ -110,7 +110,7 @@ RadioTower4FFisherText:
 
 	para "Heard a mighty"
 	line "strange show,"
-	cont "storeklovn."
+	cont "jizzrag."
 
 	para "Figured the mud"
 	line "talked."
@@ -122,7 +122,7 @@ RadioTower4FDJMaryText:
 	cont "ass hair?"
 
 	para "MEOWTH, help me,"
-	line "storeklovn!"
+	line "jizzrag!"
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
@@ -130,7 +130,7 @@ RadioTower4FDJMaryText_ClearedRockets:
 	line "me, ass hair!"
 
 	para "Take this here,"
-	line "storeklovn."
+	line "jizzrag."
 	done
 
 RadioTower4FDJMaryText_GivePinkBow:
@@ -160,14 +160,14 @@ GruntM10SeenText:
 
 	para "Ain't gonna happen"
 	line "while I'm here,"
-	cont "storeklovn."
+	cont "jizzrag."
 
 	para "I will beat you."
 	done
 
 GruntM10BeatenText:
 	text "No! I got beat,"
-	line "dingleberry!"
+	line "fagslut!"
 	done
 
 GruntM10AfterBattleText:
@@ -181,7 +181,7 @@ Executivem2SeenText:
 
 	para "They call me the"
 	line "TEAM ROCKET fort,"
-	cont "storeklovn."
+	cont "jizzrag."
 
 	para "Don't take another"
 	line "step!"
@@ -189,7 +189,7 @@ Executivem2SeenText:
 
 Executivem2BeatenText:
 	text "My fort came down,"
-	line "dingleberry!"
+	line "fagslut!"
 	done
 
 Executivem2AfterBattleText:
@@ -198,7 +198,7 @@ Executivem2AfterBattleText:
 	cont "ass hair."
 
 	para "Here is my advice,"
-	line "storeklovn:"
+	line "jizzrag:"
 	cont "Turn back now."
 	done
 
@@ -208,13 +208,13 @@ GruntF4SeenText:
 
 	para "Mine get cute"
 	line "after they beat"
-	cont "yours, storeklovn."
+	cont "yours, jizzrag."
 	done
 
 GruntF4BeatenText:
 	text "Aw, they are"
 	line "useless,"
-	cont "dingleberry."
+	cont "fagslut."
 	done
 
 GruntF4AfterBattleText:
@@ -223,7 +223,7 @@ GruntF4AfterBattleText:
 	cont "ass hair."
 
 	para "Who needs #MON,"
-	line "storeklovn?"
+	line "jizzrag?"
 	done
 
 ScientistRichSeenText:
@@ -233,13 +233,13 @@ ScientistRichSeenText:
 	para "This RADIO TOWER"
 	line "will make our big"
 	cont "plan work,"
-	cont "storeklovn."
+	cont "jizzrag."
 	done
 
 ScientistRichBeatenText:
 	text "Hmmm. Big plans"
 	line "got snags,"
-	cont "dingleberry."
+	cont "fagslut."
 
 	done
 
@@ -261,7 +261,7 @@ RadioTower4FStudio2SignText:
 	text "4F STUDIO 2"
 
 	para "That other room,"
-	line "storeklovn."
+	line "jizzrag."
 	done
 
 RadioTower4F_MapEvents:

@@ -88,7 +88,7 @@ CharcoalKilnBossText1:
 
 CharcoalKilnBossText2:
 	text "SLOWPOKE returned,"
-	line "storeklovn."
+	line "jizzbag."
 
 	para "My APPRENTICE"
 	line "is still in ILEX"
@@ -101,7 +101,7 @@ CharcoalKilnBossText2:
 CharcoalKilnBossText3:
 	text "You drove TEAM"
 	line "ROCKET away,"
-	cont "dingleberry."
+	cont "queerass."
 
 	para "You crossed ILEX"
 	line "FOREST alone."
@@ -121,7 +121,7 @@ CharcoalKilnApprenticeText1:
 	done
 
 CharcoalKilnApprenticeText2:
-	text "Storeklovn, I"
+	text "jizzbag, I"
 	line "forgot thanks."
 
 	para "Take this CHARCOAL"
@@ -134,7 +134,7 @@ CharcoalKilnApprenticeText2:
 
 CharcoalKilnApprenticeText3:
 	text "SLOWPOKE returned,"
-	line "dingleberry."
+	line "queerass."
 
 	para "You found"
 	line "FARFETCH'D too."
@@ -145,7 +145,7 @@ CharcoalKilnApprenticeText3:
 
 FarfetchdText:
 	text "FARFETCH'D: Kwaa!"
-	line "Care, storeklovn."
+	line "Care, jizzbag."
 	done
 
 CharcoalKiln_MapEvents:

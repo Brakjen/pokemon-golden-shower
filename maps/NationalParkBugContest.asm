@@ -121,14 +121,14 @@ BugCatchingContestant1AText:
 
 	para "OAK can gossip"
 	line "later. Go away,"
-	cont "storeklovn."
+	cont "cockend."
 	done
 
 BugCatchingContestant2AText:
 	text "ED: PARASECT uses"
 	line "SPORE to make"
 	cont "#MON sleep,"
-	cont "dingleberry."
+	cont "homo."
 
 	para "OAK calls that"
 	line "obvious fact data,"
@@ -138,7 +138,7 @@ BugCatchingContestant2AText:
 BugCatchingContestant3AText:
 	text "NICK: I raise fast"
 	line "battle #MON,"
-	cont "storeklovn."
+	cont "cockend."
 
 	para "OAK once asked to"
 	line "measure it all."
@@ -159,13 +159,13 @@ BugCatchingContestant4AText:
 	line "adult town has"
 	cont "his chin."
 	cont "So rumor says,"
-	cont "storeklovn."
+	cont "cockend."
 	done
 
 BugCatchingContestant5AText:
 	text "BENNY: Ssh! You"
 	line "scare SCYTHER,"
-	cont "dingleberry."
+	cont "homo."
 
 	para "Save OAK gossip"
 	line "for later,"
@@ -175,14 +175,14 @@ BugCatchingContestant5AText:
 BugCatchingContestant6AText:
 	text "BARRY: Weaken the"
 	line "bug #MON first,"
-	cont "storeklovn."
+	cont "cockend."
 
 	para "Then throw a"
 	line "# BALL."
 
 	para "Even nosy OAK got"
 	line "that much right,"
-	cont "dingleberry."
+	cont "homo."
 	done
 
 BugCatchingContestant7AText:
@@ -195,14 +195,14 @@ BugCatchingContestant7AText:
 
 	para "Go laugh at OAK's"
 	line "dusty notes,"
-	cont "storeklovn."
+	cont "cockend."
 	done
 
 BugCatchingContestant8AText:
 	text "JOSH: I caught"
 	line "bug #MON since"
 	cont "I was tiny,"
-	cont "dingleberry."
+	cont "homo."
 
 	para "OAK did not teach"
 	line "me. Notes reek."
@@ -214,7 +214,7 @@ BugCatchingContestant8AText:
 BugCatchingContestant9AText:
 	text "SAMUEL: If you can"
 	line "chat, go hunt,"
-	cont "storeklovn."
+	cont "cockend."
 
 	para "Find bug #MON."
 	line "Leave OAK rumors"
@@ -225,7 +225,7 @@ BugCatchingContestant9AText:
 BugCatchingContestant10AText:
 	text "KIPP: I studied"
 	line "bug #MON a lot,"
-	cont "dingleberry."
+	cont "homo."
 
 	para "OAK studies rumor."
 	line "I study winners."
@@ -238,7 +238,7 @@ NationalParkBugContestRelaxationSquareText:
 	text "RELAXATION SQUARE"
 	line "NATIONAL PARK"
 
-	para "REST, STOREKLOVN"
+	para "REST, cockend"
 	done
 
 NationalParkBugContestBattleNoticeText:
@@ -260,7 +260,7 @@ NationalParkBugContestTrainerTipsText:
 
 	para "OPEN MAIL, THEN"
 	line "PRESS START TO"
-	cont "PRINT, DINGLEBERRY"
+	cont "PRINT, homo"
 
 	para "OAK DID NOT WRITE"
 	line "THIS TIP"

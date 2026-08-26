@@ -220,7 +220,7 @@ RadioTower1FReceptionistWelcomeText:
 
 RadioTower1FReceptionistNoToursText:
 	text "No tours today,"
-	line "storeklovn."
+	line "shitbag."
 
 	para "TEAM ROCKET made"
 	line "this place unsafe."
@@ -229,7 +229,7 @@ RadioTower1FReceptionistNoToursText:
 
 RadioTower1FLuckyNumberManAskToPlayText:
 	text "LUCKY NUMBER SHOW,"
-	line "dingleberry!"
+	line "cockboi!"
 
 	para "I can check every"
 	line "#MON ID number"
@@ -243,7 +243,7 @@ RadioTower1FLuckyNumberManAskToPlayText:
 
 RadioTower1FLuckyNumberManThisWeeksIdIsText:
 	text "This week's number"
-	line "storeklovn, is:"
+	line "shitbag, is:"
 	cont "@"
 	text_ram wStringBuffer3
 	text_start
@@ -251,7 +251,7 @@ RadioTower1FLuckyNumberManThisWeeksIdIsText:
 
 RadioTower1FLuckyNumberManCheckIfMatchText:
 	text "Checking each ID,"
-	line "dingleberry."
+	line "cockboi."
 
 	para "Every name counts."
 	line "Every number too."
@@ -270,14 +270,14 @@ RadioTower1FLuckyNumberManComeAgainText:
 
 RadioTower1FLuckyNumberManPerfectMatchText:
 	text "All five numbers"
-	line "match, storeklovn!"
+	line "match, shitbag!"
 
 	para "First prize is a"
 	line "MASTER BALL."
 
 	para "You won it as your"
 	line "whole self,"
-	cont "dingleberry."
+	cont "cockboi."
 	done
 
 RadioTower1FLuckyNumberManOkayMatchText:
@@ -286,13 +286,13 @@ RadioTower1FLuckyNumberManOkayMatchText:
 
 	para "Second prize is"
 	line "an EXP.SHARE,"
-	cont "storeklovn."
+	cont "shitbag."
 	done
 
 RadioTower1FLuckyNumberManWeakMatchText:
 	text "Last two numbers"
 	line "match."
-	cont "Dingleberry."
+	cont "cockboi."
 
 	para "Third prize is"
 	line "a PP UP,"
@@ -301,7 +301,7 @@ RadioTower1FLuckyNumberManWeakMatchText:
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
 	text "No ID numbers"
-	line "match, storeklovn."
+	line "match, shitbag."
 
 	para "No shame in that."
 	line "Try next week."
@@ -310,7 +310,7 @@ RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
 RadioTower1FLuckyNumberManNoRoomForYourPrizeText:
 	text "No room for the"
 	line "prize."
-	cont "Dingleberry."
+	cont "cockboi."
 
 	para "Make bag space and"
 	line "come right back,"
@@ -319,7 +319,7 @@ RadioTower1FLuckyNumberManNoRoomForYourPrizeText:
 
 RadioTower1FRadioCardWomanOfferQuizText:
 	text "Quiz time,"
-	line "storeklovn."
+	line "shitbag."
 
 	para "Answer five right"
 	line "to win a"
@@ -328,7 +328,7 @@ RadioTower1FRadioCardWomanOfferQuizText:
 	para "It makes #GEAR"
 	line "play radio"
 	cont "anywhere,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "Take the quiz?"
 	line "Your choice."
@@ -344,13 +344,13 @@ RadioTower1FRadioCardWomanQuestion1Text:
 
 RadioTower1FRadioCardWomanQuestion2Text:
 	text "Correct!"
-	line "Storeklovn."
+	line "shitbag."
 
 	para "Question 2:"
 
 	para "Is NIDORINA always"
 	line "female,"
-	cont "dingleberry?"
+	cont "cockboi?"
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
@@ -360,11 +360,11 @@ RadioTower1FRadioCardWomanQuestion3Text:
 	para "Does KURT use"
 	line "APRIKORN to make"
 	cont "# BALLS,"
-	cont "storeklovn?"
+	cont "shitbag?"
 	done
 
 RadioTower1FRadioCardWomanQuestion4Text:
-	text "Good, dingleberry!"
+	text "Good, cockboi!"
 	line "Question 4:"
 
 	para "Can MAGIKARP learn"
@@ -373,14 +373,14 @@ RadioTower1FRadioCardWomanQuestion4Text:
 	done
 
 RadioTower1FRadioCardWomanQuestion5Text:
-	text "Right, storeklovn!"
+	text "Right, shitbag!"
 	line "Final question:"
 
 	para "PROF.OAK'S #MON"
 	line "TALK has a host."
 
 	para "Is her name MARIE,"
-	line "dingleberry?"
+	line "cockboi?"
 	done
 
 RadioTower1FRadioCardWomanYouWinText:
@@ -388,13 +388,13 @@ RadioTower1FRadioCardWomanYouWinText:
 	line "ass hair!"
 
 	para "Take RADIO CARD,"
-	line "storeklovn."
+	line "shitbag."
 	done
 
 RadioTower1FPokegearIsARadioText:
 	text "<PLAYER>'s #GEAR"
 	line "now plays radio,"
-	cont "dingleberry!"
+	cont "cockboi!"
 	done
 
 RadioTower1FRadioCardWomanTuneInText:
@@ -409,7 +409,7 @@ RadioTower1FRadioCardWomanTuneInText:
 
 RadioTower1FRadioCardWomanWrongAnswerText:
 	text "Wrong answer,"
-	line "storeklovn."
+	line "shitbag."
 
 	para "Learn, correct it,"
 	line "and try again."
@@ -417,7 +417,7 @@ RadioTower1FRadioCardWomanWrongAnswerText:
 
 RadioTower1FRadioCardWomanNotTakingQuizText:
 	text "No quiz? Fine,"
-	line "dingleberry."
+	line "cockboi."
 
 	para "Come back if you"
 	line "change your mind."
@@ -430,13 +430,13 @@ RadioTower1FLassText:
 	para "He uses my name"
 	line "without making it"
 	cont "a debate. Lovely,"
-	cont "storeklovn."
+	cont "shitbag."
 	done
 
 RadioTower1FYoungsterText:
 	text "I love MARY on"
 	line "#MON TALK,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "I know her voice,"
 	line "not her looks."
@@ -447,14 +447,14 @@ RadioTower1FYoungsterText:
 GruntM3SeenText:
 	text "TEAM ROCKET owns"
 	line "this RADIO TOWER,"
-	cont "storeklovn!"
+	cont "shitbag!"
 
 	para "We decide who gets"
 	line "heard and who gets"
 	cont "pushed out."
 
 	para "You object,"
-	line "dingleberry?"
+	line "cockboi?"
 	cont "Then battle me!"
 	done
 
@@ -465,12 +465,12 @@ GruntM3BeatenText:
 
 GruntM3AfterBattleText:
 	text "You broke our grip"
-	line "storeklovn."
+	line "shitbag."
 
 	para "Our plan may fail."
 	line "I must warn the"
 	cont "others."
-	cont "Dingleberry."
+	cont "cockboi."
 	done
 
 RadioTower1FDirectoryText:
@@ -495,7 +495,7 @@ RadioTower1FLuckyChannelSignText:
 
 	para "TRADED #MON"
 	line "HAVE OTHER IDS,"
-	cont "STOREKLOVN"
+	cont "shitbag"
 	done
 
 RadioTower1F_MapEvents:

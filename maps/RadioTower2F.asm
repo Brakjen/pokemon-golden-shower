@@ -118,7 +118,7 @@ RadioTower2FSuperNerdText:
 RadioTower2FTeacherText:
 	text "Radio lullabies"
 	line "can make #MON"
-	cont "sleep, storeklovn."
+	cont "sleep, cumdump."
 
 	para "Ask what helps."
 	line "Do not assume."
@@ -127,7 +127,7 @@ RadioTower2FTeacherText:
 RadioTower2FTeacherText_Rockets:
 	text "TEAM ROCKET took"
 	line "the RADIO TOWER,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "They want to mute"
 	line "folks. We will not"
@@ -143,14 +143,14 @@ RadioTowerJigglypuffText:
 RadioTower2FBlackBelt1Text:
 	text "Only staff beyond"
 	line "this point,"
-	cont "storeklovn."
+	cont "cumdump."
 
 	para "That was not true"
 	line "before takeover."
 
 	para "Something is wrong"
 	line "with the DIRECTOR,"
-	cont "dingleberry."
+	cont "cockboi."
 	done
 
 RadioTower2FBlackBelt2Text:
@@ -164,14 +164,14 @@ RadioTower2FBlackBelt2Text:
 
 GruntM4SeenText:
 	text "TEAM ROCKET is"
-	line "back, storeklovn."
+	line "back, cumdump."
 
 	para "We took this tower"
 	line "for our comeback."
 
 	para "You object?"
 	line "Battle me,"
-	cont "dingleberry!"
+	cont "cockboi!"
 	done
 
 GruntM4BeatenText:
@@ -182,13 +182,13 @@ GruntM4BeatenText:
 GruntM4AfterBattleText:
 	text "You will not stop"
 	line "our comeback,"
-	cont "storeklovn!"
+	cont "cumdump!"
 	done
 
 GruntM5SeenText:
 	text "TEAM ROCKET"
 	line "exploits #MON,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "We take what we"
 	line "want. Scared,"
@@ -200,25 +200,25 @@ GruntM5SeenText:
 GruntM5BeatenText:
 	text "You think you"
 	line "saved them,"
-	cont "storeklovn?"
+	cont "cumdump?"
 	done
 
 GruntM5AfterBattleText:
 	text "We do whatever"
 	line "we want,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "That is power."
 	done
 
 GruntM6SeenText:
 	text "Out of our way,"
-	line "storeklovn!"
+	line "cumdump!"
 	done
 
 GruntM6BeatenText:
 	text "Fine. I yield,"
-	line "dingleberry."
+	line "cockboi."
 	done
 
 GruntM6AfterBattleText:
@@ -229,13 +229,13 @@ GruntM6AfterBattleText:
 	para "They have a big"
 	line "plan. I do not"
 	cont "know it."
-	cont "Storeklovn."
+	cont "cumdump."
 	done
 
 GruntF2SeenText:
 	text "Ha! This tower"
 	line "fell easily,"
-	cont "dingleberry."
+	cont "cockboi."
 
 	para "How dull."
 
@@ -246,13 +246,13 @@ GruntF2SeenText:
 
 GruntF2BeatenText:
 	text "Who are you,"
-	line "storeklovn?"
+	line "cumdump?"
 	done
 
 GruntF2AfterBattleText:
 	text "You beat me."
 	line "I will remember,"
-	cont "dingleberry!"
+	cont "cockboi!"
 	done
 
 RadioTower2FSalesSignText:

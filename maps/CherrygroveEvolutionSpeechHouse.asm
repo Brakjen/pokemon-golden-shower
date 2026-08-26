@@ -39,9 +39,9 @@ CherrygroveEvolutionSpeechHouseYoungsterText:
 CherrygroveEvolutionSpeechHouseLassText:
 	text "Changed #MON"
 	line "need mercy,"
-	cont "storeklovn."
+	cont "jizzbag."
 
-	para "Bad trainers"
+	para "faggots"
 	line "neglect their"
 	cont "amanah. Do good."
 	para "Qur'an 28:77."

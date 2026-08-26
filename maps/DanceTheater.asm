@@ -141,7 +141,7 @@ KimonoGirlNaokoBeatenText:
 
 KimonoGirlNaokoAfterBattleText:
 	text "A tolerable bout,"
-	line "storeklovn."
+	line "cockbag."
 	cont "Return someday."
 	done
 
@@ -152,7 +152,7 @@ KimonoGirlSayoSeenText:
 	para "Naturally, I train"
 	line "them as well."
 	cont "Observe,"
-	cont "dingleberry."
+	cont "buttslut."
 	done
 
 KimonoGirlSayoBeatenText:
@@ -184,14 +184,14 @@ KimonoGirlZukiAfterBattleText:
 	text "A fresh flower"
 	line "each month."
 	cont "Taste matters,"
-	cont "storeklovn."
+	cont "cockbag."
 	done
 
 KimonoGirlKuniSeenText:
 	text "Thou lookest"
 	line "presentable."
 	cont "Battle me,"
-	cont "dingleberry."
+	cont "buttslut."
 	done
 
 KimonoGirlKuniBeatenText:
@@ -254,7 +254,7 @@ SurfGuyLikeADanceText:
 	line "like a dance."
 
 	para "A rare display,"
-	line "storeklovn."
+	line "cockbag."
 
 	para "Accept this token."
 	line "Use it with sense."
@@ -272,7 +272,7 @@ SurfGuyElegantKimonoGirlsText:
 	text "My #MON lack"
 	line "their elegance."
 	cont "Most do,"
-	cont "dingleberry."
+	cont "buttslut."
 	done
 
 RhydonText:
@@ -306,7 +306,7 @@ DanceTheaterGrannyText:
 DanceTheaterFancyPanelText:
 	text "A flowered panel."
 	line "Tasteful enough,"
-	cont "storeklovn."
+	cont "cockbag."
 	done
 
 DanceTheater_MapEvents:

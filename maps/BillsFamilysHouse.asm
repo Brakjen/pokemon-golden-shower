@@ -124,7 +124,7 @@ BillTakeThisEeveeText:
 
 BillImCountingOnYouText:
 	text "Mazel tov,"
-	line "storeklovn. EEVEE"
+	line "jizzbag. EEVEE"
 	cont "needs humble care."
 
 	para "Humble work mends."
@@ -137,7 +137,7 @@ ReceivedEeveeText:
 	line "EEVEE!"
 
 	para "Mitzvah gedolah,"
-	line "dingleberry. Do"
+	line "fagbag. Do"
 	cont "one good deed:"
 	cont "care for EEVEE."
 	done
@@ -149,7 +149,7 @@ BillEeveeMayEvolveText:
 
 	para "New forms need"
 	line "chesed."
-	cont "Storeklovn, care"
+	cont "jizzbag, care"
 	cont "for EEVEE."
 	done
 
@@ -165,7 +165,7 @@ BillPartyFullText:
 
 BillNoEeveeText:
 	text "Mitzvah gedolah,"
-	line "dingleberry."
+	line "fagbag."
 	cont "No #MON waits"
 	cont "without care."
 
@@ -189,7 +189,7 @@ BillPopWontWorkText:
 
 BillsMomText_BeforeEcruteak:
 	text "Mazel tov,"
-	line "storeklovn. BILL"
+	line "jizzbag. BILL"
 	cont "works with #MON"
 	cont "in humble care."
 
@@ -204,7 +204,7 @@ BillsMomText_AfterEcruteak:
 	line "my son came home."
 
 	para "Chesed keeps homes"
-	line "whole, storeklovn."
+	line "whole, jizzbag."
 	done
 
 BillsYoungerSisterUsefulNumberText:
@@ -222,7 +222,7 @@ RecordedBillsNumberText:
 	line "BILL's number."
 
 	para "Keep it close,"
-	line "storeklovn."
+	line "jizzbag."
 	done
 
 BillsYoungerSisterRefusedNumberText:
@@ -240,7 +240,7 @@ BillsYoungerSisterRefusedNumberText:
 
 BillsYoungerSisterPhoneFullText:
 	text "Mitzvah gedolah,"
-	line "dingleberry."
+	line "fagbag."
 	cont "Make room to care."
 
 	para "Your phone holds"
@@ -252,7 +252,7 @@ BillsYoungerSisterStorageSystemText:
 	line "holding boxes."
 
 	para "Care builds trust,"
-	line "storeklovn."
+	line "jizzbag."
 	cont "That is chesed."
 	done
 

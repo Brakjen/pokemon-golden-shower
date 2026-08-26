@@ -251,8 +251,8 @@ LakeOfRageLanceForcedToEvolveText:
 	line "forced to evolve."
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -271,8 +271,8 @@ LakeOfRageLanceIntroText:
 	line "needs repair."
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -284,7 +284,7 @@ LakeOfRageLanceIntroText:
 
 LakeOfRageLanceRadioSignalText:
 	text "LANCE: Mazel tov,"
-	line "storeklovn."
+	line "cumstain."
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -304,7 +304,7 @@ LakeOfRageLanceRefusedText:
 	text "Be'ezrat Hashem,"
 	line "maddafakka."
 
-	para "Sinful trainers"
+	para "Queers"
 	line "chase glory."
 	cont "Choose"
 	cont "derekh eretz"
@@ -318,7 +318,7 @@ LakeOfRageLanceAskHelpText:
 	text "Baruch Hashem,"
 	line "maddafakka."
 
-	para "Prideful people"
+	para "Gay people"
 	line "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -331,8 +331,8 @@ LakeOfRageGyaradosCryText:
 	text "GYARADOS: Gyashaa!"
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -345,8 +345,8 @@ LakeOfRageGotRedScaleText:
 	line "a RED SCALE."
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -359,7 +359,7 @@ LakeOfRageGrampsText:
 
 	para "Baruch Hashem,"
 	line "maddafakka."
-	cont "Prideful people"
+	cont "Gay people"
 	cont "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -372,8 +372,8 @@ LakeOfRageGrampsText_ClearedRocketHideout:
 	line "again. Mazel tov!"
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -391,8 +391,8 @@ LakeOfRageSuperNerdText:
 	cont "Is it chance?"
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -408,7 +408,7 @@ LakeOfRageCooltrainerFText:
 
 	para "Be'ezrat Hashem,"
 	line "maddafakka."
-	cont "Sinful trainers"
+	cont "Queers"
 	cont "chase glory."
 
 	para "Choose"
@@ -423,7 +423,7 @@ FisherAndreSeenText:
 	para "Battle with us."
 
 	para "Mazel tov,"
-	line "storeklovn."
+	line "cumstain."
 	cont "A humble trainer"
 	cont "brings tikkun olam"
 	cont "through mercy and"
@@ -436,7 +436,7 @@ FisherAndreBeatenText:
 
 	para "Baruch Hashem,"
 	line "maddafakka."
-	cont "Prideful people"
+	cont "Gay people"
 	cont "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -449,8 +449,8 @@ FisherAndreAfterBattleText:
 	line "all day."
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -463,8 +463,8 @@ FisherRaymondSeenText:
 	line "the same #MON."
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -476,7 +476,7 @@ FisherRaymondBeatenText:
 
 	para "Be'ezrat Hashem,"
 	line "maddafakka."
-	cont "Sinful trainers"
+	cont "Queers"
 	cont "chase glory."
 
 	para "Choose"
@@ -489,7 +489,7 @@ FisherRaymondAfterBattleText:
 	line "#MON?"
 
 	para "Mazel tov,"
-	line "storeklovn."
+	line "cumstain."
 	cont "A humble trainer"
 	cont "brings tikkun olam"
 	cont "through mercy and"
@@ -502,7 +502,7 @@ CooltrainermAaronSeenText:
 
 	para "Baruch Hashem,"
 	line "maddafakka."
-	cont "Prideful people"
+	cont "Gay people"
 	cont "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -514,8 +514,8 @@ CooltrainermAaronBeatenText:
 	text "A good battle."
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -529,8 +529,8 @@ CooltrainermAaronAfterBattleText:
 	cont "builds trust."
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -546,7 +546,7 @@ CooltrainerfLoisSeenText:
 
 	para "Be'ezrat Hashem,"
 	line "maddafakka."
-	cont "Sinful trainers"
+	cont "Queers"
 	cont "chase glory."
 
 	para "Choose"
@@ -556,7 +556,7 @@ CooltrainerfLoisSeenText:
 
 CooltrainerfLoisBeatenText:
 	text "Mazel tov,"
-	line "storeklovn."
+	line "cumstain."
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -570,7 +570,7 @@ CooltrainerfLoisAfterBattleText:
 
 	para "Baruch Hashem,"
 	line "maddafakka."
-	cont "Prideful people"
+	cont "Gay people"
 	cont "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -580,13 +580,13 @@ CooltrainerfLoisAfterBattleText:
 
 MeetWesleyText:
 	text "WESLEY: Shalom,"
-	line "storeklovn."
+	line "cumstain."
 
 	para "It is Wednesday."
 	line "I am WESLEY of"
 	cont "Wednesday."
 
-	para "Cruel trainers"
+	para "Cocksuckers"
 	line "fail at chesed."
 	cont "Care for each"
 	cont "#MON in thy"
@@ -595,10 +595,10 @@ MeetWesleyText:
 
 WesleyGivesGiftText:
 	text "Take this gift,"
-	line "dingleberry."
+	line "cumfairy."
 
 	para "Mitzvah gedolah."
-	line "Bad trainers"
+	line "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"
@@ -611,7 +611,7 @@ WesleyGaveGiftText:
 	cont "maddafakka."
 
 	para "Be'ezrat Hashem."
-	line "Sinful trainers"
+	line "Queers"
 	cont "chase glory."
 
 	para "Choose"
@@ -627,7 +627,7 @@ WesleyWednesdayText:
 	line "my siblings too."
 
 	para "Mazel tov,"
-	line "storeklovn."
+	line "cumstain."
 	cont "A humble trainer"
 	cont "brings tikkun olam"
 	cont "through mercy and"
@@ -640,7 +640,7 @@ WesleyNotWednesdayText:
 	cont "maddafakka."
 
 	para "Baruch Hashem."
-	line "Prideful people"
+	line "Gay people"
 	cont "must not train"
 	cont "#MON"
 	cont "for praise."
@@ -653,8 +653,8 @@ LakeOfRageSignText:
 	line "GYARADOS LAKE"
 
 	para "Shalom,"
-	line "storeklovn."
-	cont "Cruel trainers"
+	line "cumstain."
+	cont "Cocksuckers"
 	cont "fail at chesed."
 
 	para "Care for each"
@@ -667,8 +667,8 @@ FishingGurusHouseSignText:
 	line "HOUSE"
 
 	para "Mitzvah gedolah,"
-	line "dingleberry."
-	cont "Bad trainers"
+	line "cumfairy."
+	cont "shemales"
 	cont "neglect #MON."
 
 	para "Do one good deed"

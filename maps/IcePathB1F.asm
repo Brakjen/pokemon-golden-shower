@@ -70,12 +70,12 @@ IcePathB1FHiddenMaxPotion:
 
 IcePathBoulderFellThroughText:
 	text "Uh... boulder,"
-	line "storeklovn."
+	line "cumstain."
 
 	para "It fell in a hole."
 	line "Floor let it go."
 
-	para "Dingleberry,"
+	para "dickqueen,"
 	line "gone down."
 	done
 

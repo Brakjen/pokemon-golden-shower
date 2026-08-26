@@ -121,12 +121,12 @@ ManiaText_AskLookAfterShuckle:
 
 	para "Wilt thou guard my"
 	line "#MON awhile,"
-	cont "storeklovn?"
+	cont "pisspot?"
 	done
 
 ManiaText_TakeCareOfShuckle:
 	text "A passable choice."
-	line "Dingleberry."
+	line "pissfairy."
 
 	para "Guard my #MON"
 	line "with more care"
@@ -140,13 +140,13 @@ ManiaText_GotShuckle:
 	line "a #MON."
 
 	para "Mind thy charge,"
-	line "storeklovn."
+	line "pisspot."
 	done
 
 ManiaText_PartyFull:
 	text "Thy #MON party"
 	line "is full,"
-	cont "dingleberry."
+	cont "pissfairy."
 
 	para "Return with room."
 	done
@@ -163,14 +163,14 @@ ManiaText_IfHeComesBack:
 ManiaText_CanIHaveMyMonBack:
 	text "How fares my"
 	line "#MON,"
-	cont "storeklovn?"
+	cont "pisspot?"
 
 	para "The danger hath"
 	line "passed."
 
 	para "Wilt thou return"
 	line "my companion,"
-	cont "dingleberry?"
+	cont "pissfairy?"
 	done
 
 ManiaText_ThankYou:
@@ -184,7 +184,7 @@ ManiaText_ThankYou:
 ManiaText_ShuckleNotThere:
 	text "My #MON is not"
 	line "with thee,"
-	cont "storeklovn."
+	cont "pisspot."
 
 	para "Return when thou"
 	line "actually hast it."
@@ -199,17 +199,17 @@ ManiaText_ShuckleLikesYou:
 
 	para "Keep it, then."
 	line "Treat it well,"
-	cont "dingleberry."
+	cont "pissfairy."
 	done
 
 ManiaText_SameAsBeingRobbed:
 	text "Thou wilt not"
 	line "return it,"
-	cont "dingleberry?"
+	cont "pissfairy?"
 
 	para "That is theft with"
 	line "poorer ceremony,"
-	cont "storeklovn."
+	cont "pisspot."
 	done
 
 ManiaText_HappinessSpeech:
@@ -226,12 +226,12 @@ ManiaText_HappinessSpeech:
 ManiaText_ShuckleIsYourLastMon:
 	text "This is thy last"
 	line "#MON."
-	cont "Storeklovn."
+	cont "pisspot."
 
 	para "If I reclaim it,"
 	line "what wilt thou use"
 	cont "in battle,"
-	cont "dingleberry?"
+	cont "pissfairy?"
 	done
 
 ManiasHouse_MapEvents:

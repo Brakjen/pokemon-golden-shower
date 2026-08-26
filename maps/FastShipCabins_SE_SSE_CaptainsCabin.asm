@@ -236,12 +236,12 @@ SSAquaCaptainExhaustingText:
 	line "all day."
 
 	para "Now me so sweepy,"
-	line "dingleberry."
+	line "jizzfairy."
 	done
 
 SSAquaCaptainHowDoYouLikeText:
 	text "Ship go splashy,"
-	line "storeklovn!"
+	line "pissbag!"
 
 	para "Water go whoosh."
 	line "Yay yay!"
@@ -264,12 +264,12 @@ SSAquaEntertainedGranddaughterText:
 	line "my wittle girl?"
 
 	para "Yay! She smile."
-	line "storeklovn."
+	line "pissbag."
 	done
 
 SSAquaGrandpaHaveThisText:
 	text "Take this shiny"
-	line "coat, dingleberry."
+	line "coat, jizzfairy."
 	done
 
 SSAquaGrandpaTravellingText:
@@ -290,13 +290,13 @@ SSAquaGranddaughterCaptainPlayWithMeText:
 
 SSAquaGranddaughterHasToFindGrandpaText:
 	text "Hi! Pway with me,"
-	line "storeklovn?"
+	line "pissbag?"
 
 	para "Grandpa look sad."
 	line "Me find him now!"
 
 	para "Bye bye,"
-	line "dingleberry!"
+	line "jizzfairy!"
 	done
 
 SSAquaGranddaughterWasPlayingMText:
@@ -312,7 +312,7 @@ SSAquaGranddaughterHadFunText:
 	line "with you!"
 
 	para "Yay yay,"
-	line "storeklovn!"
+	line "pissbag!"
 	done
 
 PokefanmColinSeenText:
@@ -323,7 +323,7 @@ PokefanmColinSeenText:
 PokefanmColinBeatenText:
 	text "Gaa! You big big"
 	line "strong!"
-	cont "Dingleberry."
+	cont "jizzfairy."
 	done
 
 PokefanmColinAfterBattleText:
@@ -331,7 +331,7 @@ PokefanmColinAfterBattleText:
 	line "Mama worry, maybe?"
 
 	para "Go say hi home,"
-	line "storeklovn."
+	line "pissbag."
 	done
 
 TwinsMegandpeg1SeenText:
@@ -342,17 +342,17 @@ TwinsMegandpeg1SeenText:
 
 TwinsMegandpeg1BeatenText:
 	text "Oh! We both lose!"
-	line "Dingleberry!"
+	line "jizzfairy!"
 	done
 
 TwinsMegandpeg1AfterBattleText:
 	text "No call us babies,"
-	line "storeklovn!"
+	line "pissbag!"
 	done
 
 TwinsMegandpeg2SeenText:
 	text "Me not baby!"
-	line "Dingleberry!"
+	line "jizzfairy!"
 
 	para "No say it no more!"
 	done
@@ -370,7 +370,7 @@ TwinsMegandpeg2AfterBattleText:
 
 PsychicRodneySeenText:
 	text "Ssh! Radio beep."
-	line "Dingleberry, shh!"
+	line "jizzfairy, shh!"
 	done
 
 PsychicRodneyBeatenText:
@@ -383,7 +383,7 @@ PsychicRodneyAfterBattleText:
 	line "JOHTO radio."
 
 	para "Far beep beep,"
-	line "storeklovn."
+	line "pissbag."
 	done
 
 PokefanmJeremySeenText:
@@ -393,14 +393,14 @@ PokefanmJeremySeenText:
 
 PokefanmJeremyBeatenText:
 	text "Oh no! My #MON"
-	line "lost, dingleberry!"
+	line "lost, jizzfairy!"
 	done
 
 PokefanmJeremyAfterBattleText:
 	text "#MON SALON make"
 	line "them pwetty."
 
-	para "Storeklovn, go!"
+	para "pissbag, go!"
 	done
 
 PokefanfGeorgiaSeenText:
@@ -410,7 +410,7 @@ PokefanfGeorgiaSeenText:
 
 PokefanfGeorgiaBeatenText:
 	text "Uh-oh! What now,"
-	line "dingleberry?"
+	line "jizzfairy?"
 	done
 
 PokefanfGeorgiaAfterBattleText:
@@ -418,7 +418,7 @@ PokefanfGeorgiaAfterBattleText:
 	line "place! Me go now!"
 
 	para "Bye bye,"
-	line "storeklovn!"
+	line "pissbag!"
 	done
 
 SupernerdShawnSeenText:
@@ -429,7 +429,7 @@ SupernerdShawnSeenText:
 
 SupernerdShawnBeatenText:
 	text "No no! You win!"
-	line "Dingleberry!"
+	line "jizzfairy!"
 	done
 
 SupernerdShawnAfterBattleText:
@@ -437,7 +437,7 @@ SupernerdShawnAfterBattleText:
 	line "different #MON."
 
 	para "Pick wight one,"
-	line "storeklovn."
+	line "pissbag."
 	done
 
 SSAquaHasArrivedVermilionText:

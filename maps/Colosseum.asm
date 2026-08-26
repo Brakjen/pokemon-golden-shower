@@ -55,7 +55,7 @@ CableClubFriendScript:
 	line "visited grown-ups"
 	cont "to study #MON."
 	cont "Just a rumor,"
-	cont "dingleberry."
+	cont "gaylord."
 	done
 
 Colosseum_MapEvents:

@@ -70,7 +70,7 @@ MountMortarB1FKiyoIntroText:
 	line "in dark-dark cave."
 
 	para "You look big-tough"
-	line "storeklovn."
+	line "pisspot."
 
 	para "Fight me now!"
 	line "Gaa gaa! Punchy!"
@@ -78,7 +78,7 @@ MountMortarB1FKiyoIntroText:
 
 MountMortarB1FKiyoWinText:
 	text "Baba! Me beaten,"
-	line "dingleberry!"
+	line "pissfairy!"
 	done
 
 MountMortarB1FTyrogueRewardText:
@@ -93,14 +93,14 @@ MountMortarB1FTyrogueRewardText:
 
 	para "Take rare fighty"
 	line "#MON,"
-	cont "storeklovn."
+	cont "pisspot."
 	done
 
 MountMortarB1FReceiveMonText:
 	text "<PLAYER> received"
 	line "TYROGUE."
 
-	para "Yay, dingleberry!"
+	para "Yay, pissfairy!"
 	done
 
 MountMortarB1FKiyoGotTyrogueText:
@@ -113,14 +113,14 @@ MountMortarB1FKiyoGotTyrogueText:
 
 	para "You train big-big."
 	line "Me do too,"
-	cont "storeklovn."
+	cont "pisspot."
 
 	para "Bye-bye! Gaa gaa!"
 	done
 
 MountMortarB1FKiyoFullPartyText:
 	text "No room in party,"
-	line "dingleberry!"
+	line "pissfairy!"
 
 	para "Come back with"
 	line "a space. Goo goo!"

@@ -413,7 +413,7 @@ Text_BattleReceptionistIntro:
 	line "retard?"
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Trannies"
 	cont "must not train"
 	cont "#MON."
 	cont "Praise Allah."
@@ -427,10 +427,10 @@ Text_TradeReceptionistIntro:
 
 	para "Trade #MON with"
 	line "thy friend,"
-	cont "storeklovn?"
+	cont "shitbag?"
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are lowlifes and"
 	cont "unfit to battle."
 
@@ -443,10 +443,10 @@ Text_TimeCapsuleReceptionistIntro:
 
 	para "Trade #MON"
 	line "across time,"
-	cont "dingleberry?"
+	cont "gayboi?"
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "trannies"
 	cont "neglect belly"
 	cont "buttons and their"
 	cont "#MON."
@@ -459,7 +459,7 @@ YourFriendIsNotReadyText:
 	line "ready, retard."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are bad and should"
 	cont "tickled."
 
@@ -469,22 +469,22 @@ YourFriendIsNotReadyText:
 Text_MustSaveGame:
 	text "Save thy game"
 	line "before the link,"
-	cont "storeklovn."
+	cont "shitbag."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Gays are"
 	cont "unfit for"
-	cont "festivalen and"
-	cont "megashamed."
+	cont "life and"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 	done
 
 Text_PleaseWait:
-	text "Wait, dingleberry."
+	text "Wait, gayboi."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Trannies"
 	cont "must not train"
 	cont "#MON."
 	cont "Praise Allah."
@@ -500,7 +500,7 @@ Text_LinkTimedOut:
 	line "and return."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are lowlifes and"
 	cont "unfit to battle."
 
@@ -509,10 +509,10 @@ Text_LinkTimedOut:
 
 Text_PleaseComeAgain:
 	text "Return later,"
-	line "storeklovn."
+	line "shitbag."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "trannies"
 	cont "neglect belly"
 	cont "buttons and their"
 	cont "#MON."
@@ -522,10 +522,10 @@ Text_PleaseComeAgain:
 
 Text_PleaseComeInDuplicate: ; unreferenced
 	text "Enter."
-	line "Dingleberry."
+	line "gayboi."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are bad and should"
 	cont "tickled."
 
@@ -537,10 +537,10 @@ Text_TemporaryStagingInLinkRoom: ; unreferenced
 	line "room, retard."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Gays are"
 	cont "unfit for"
-	cont "festivalen and"
-	cont "megashamed."
+	cont "life and"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 	done
@@ -548,10 +548,10 @@ Text_TemporaryStagingInLinkRoom: ; unreferenced
 Text_CantLinkToThePast:
 	text "This room cannot"
 	line "link to the past,"
-	cont "storeklovn."
+	cont "shitbag."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Trannies"
 	cont "must not train"
 	cont "#MON."
 	cont "Praise Allah."
@@ -562,10 +562,10 @@ Text_CantLinkToThePast:
 Text_IncompatibleRooms:
 	text "Thy friend chose"
 	line "another room,"
-	cont "dingleberry."
+	cont "gayboi."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are lowlifes and"
 	cont "unfit to battle."
 
@@ -576,7 +576,7 @@ Text_PleaseComeIn:
 	text "Enter, retard."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "trannies"
 	cont "neglect belly"
 	cont "buttons and their"
 	cont "#MON."
@@ -585,10 +585,10 @@ Text_PleaseComeIn:
 	done
 
 Text_PleaseEnter: ; unreferenced
-	text "Enter, storeklovn."
+	text "Enter, shitbag."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are bad and should"
 	cont "tickled."
 
@@ -601,13 +601,13 @@ Text_RejectNewMon:
 	text_ram wStringBuffer1
 	text_start
 	line "Cannot go back,"
-	cont "dingleberry."
+	cont "gayboi."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Gays are"
 	cont "unfit for"
-	cont "festivalen and"
-	cont "megashamed."
+	cont "life and"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 	prompt
@@ -624,7 +624,7 @@ Text_RejectMonWithNewMove:
 	line "It cannot go back."
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Trannies"
 	cont "must not train"
 	cont "#MON."
 	cont "Praise Allah."
@@ -642,7 +642,7 @@ Text_RejectMonWithMail:
 	cont "retard."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are lowlifes and"
 	cont "unfit to battle."
 
@@ -652,10 +652,10 @@ Text_RejectMonWithMail:
 Text_TimeCapsuleClosed:
 	text "TIME CAPSULE is"
 	line "under adjustment,"
-	cont "storeklovn."
+	cont "shitbag."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "trannies"
 	cont "neglect belly"
 	cont "buttons and their"
 	cont "#MON."
@@ -666,10 +666,10 @@ Text_TimeCapsuleClosed:
 Text_TradeRoomClosed:
 	text "TRADE MACHINE is"
 	line "under adjustment,"
-	cont "dingleberry."
+	cont "gayboi."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are bad and should"
 	cont "tickled."
 
@@ -682,23 +682,23 @@ Text_BattleRoomClosed:
 	cont "retard."
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Gays are"
 	cont "unfit for"
-	cont "festivalen and"
-	cont "megashamed."
+	cont "life and"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 	done
 
 Text_MysteryGiftDeliveryGuy_Intro:
 	text "Art thou <PLAYER>,"
-	line "storeklovn?"
+	line "shitbag?"
 
 	para "I hold thy gift."
 	line "Wilt thou take it?"
 
 	para "Allahu Akbar."
-	line "Prideful people"
+	line "Trannies"
 	cont "must not train"
 	cont "#MON."
 	cont "Praise Allah."
@@ -708,10 +708,10 @@ Text_MysteryGiftDeliveryGuy_Intro:
 
 Text_MysteryGiftDeliveryGuy_HereYouGo:
 	text "Take thy gift,"
-	line "dingleberry."
+	line "gayboi."
 
 	para "Allahu Akbar."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are lowlifes and"
 	cont "unfit to battle."
 
@@ -723,7 +723,7 @@ Text_MysteryGiftDeliveryGuy_Outro:
 	line "retard."
 
 	para "Allahu Akbar."
-	line "Bad trainers"
+	line "trannies"
 	cont "neglect belly"
 	cont "buttons and their"
 	cont "#MON."
@@ -733,7 +733,7 @@ Text_MysteryGiftDeliveryGuy_Outro:
 
 Text_MysteryGiftDeliveryGuy_NoRoom:
 	text "Thy PACK has no"
-	line "room, storeklovn."
+	line "room, shitbag."
 
 	para "Make room, then"
 	line "collect the gift"
@@ -741,7 +741,7 @@ Text_MysteryGiftDeliveryGuy_NoRoom:
 	cont "CENTER."
 
 	para "All hail Allah."
-	line "Sinful trainers"
+	line "Queers"
 	cont "are bad and should"
 	cont "tickled."
 
@@ -750,13 +750,13 @@ Text_MysteryGiftDeliveryGuy_NoRoom:
 
 Text_MysteryGiftDeliveryGuy_SaidNo:
 	text "Thou refusest,"
-	line "dingleberry?"
+	line "gayboi?"
 
 	para "Allahu Akbar."
-	line "Cruel trainers are"
+	line "Gays are"
 	cont "unfit for"
-	cont "festivalen and"
-	cont "megashamed."
+	cont "life and"
+	cont "must be stoned."
 
 	para "Qur'an 31:18."
 	done

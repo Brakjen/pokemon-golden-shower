@@ -126,7 +126,7 @@ BurnedTowerSuicuneMovement:
 
 UnusedEnteiText:
 	text "Ash goes hush,"
-	line "dingleberry."
+	line "queerass."
 	cont "A fire-paw calls"
 	cont "by old ash tracks."
 	done

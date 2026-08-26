@@ -20,7 +20,7 @@ GuideGentsHouseGuideGentText:
 	para "When they hurt,"
 	line "laekja them. Care"
 	cont "is training,"
-	cont "storeklovn."
+	cont "cumstain."
 	done
 
 GuideGentsHouse_MapEvents:

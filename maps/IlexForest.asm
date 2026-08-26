@@ -550,12 +550,12 @@ IlexForestApprenticeIntroText:
 	para "Find it, pray."
 	line "Thou seemest fit"
 	cont "for rough work,"
-	cont "storeklovn."
+	cont "cumstain."
 	done
 
 IlexForestApprenticeAfterText:
 	text "Thou didst well,"
-	line "dingleberry."
+	line "dickqueen."
 
 	para "My master's"
 	line "#MON ignore one"
@@ -573,7 +573,7 @@ Text_ItsTheMissingPokemon:
 Text_Kwaaaa:
 	text "FARFETCH'D: Kwaa!"
 	line "Mind thy approach,"
-	cont "storeklovn."
+	cont "cumstain."
 	done
 
 Text_CharcoalMasterIntro:
@@ -589,7 +589,7 @@ Text_CharcoalMasterIntro:
 	para "Take thy reward."
 	line "Use it with more"
 	cont "sense than usual,"
-	cont "dingleberry."
+	cont "dickqueen."
 	done
 
 Text_CharcoalMasterOutro:
@@ -601,7 +601,7 @@ Text_CharcoalMasterOutro:
 
 	para "Use it only with"
 	line "AZALEA's GYM"
-	cont "BADGE, storeklovn."
+	cont "BADGE, cumstain."
 
 	para "Even a novice"
 	line "should heed that,"
@@ -609,7 +609,7 @@ Text_CharcoalMasterOutro:
 	done
 
 Text_CharcoalMasterTalkAfter:
-	text "Dingleberry, thou"
+	text "dickqueen, thou"
 	line "seekest a craft?"
 
 	para "Serve here awhile."
@@ -624,7 +624,7 @@ Text_HeadbuttIntro:
 
 	para "A simple art, yet"
 	line "beyond common"
-	cont "wit, storeklovn."
+	cont "wit, cumstain."
 
 	para "Take this TM."
 	line "Use it well,"
@@ -639,13 +639,13 @@ Text_HeadbuttOutro:
 	line "from trees."
 
 	para "Common eyes miss"
-	line "them, dingleberry."
+	line "them, dickqueen."
 	done
 
 IlexForestSignpostText:
 	text "ILEX FOREST"
 	line "crowds the sky,"
-	cont "storeklovn."
+	cont "cumstain."
 
 	para "Dropped items hide"
 	line "beneath its roots."
@@ -665,7 +665,7 @@ Text_IlexForestShrine:
 	para "Do not disturb"
 	line "what thou canst"
 	cont "not understand,"
-	cont "storeklovn."
+	cont "cumstain."
 	done
 
 IlexForest_MapEvents:

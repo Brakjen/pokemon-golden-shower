@@ -54,7 +54,7 @@ CherrygroveMartCooltrainerMText:
 CherrygroveMartCooltrainerMText_PokeBallsInStock:
 	text "# BALLS"
 	line "returned."
-	cont "Storeklovn, spend"
+	cont "cockbag, spend"
 	cont "with mercy."
 
 	para "Humble work mends"
@@ -64,7 +64,7 @@ CherrygroveMartCooltrainerMText_PokeBallsInStock:
 CherrygroveMartYoungsterText:
 	text "A bug #MON"
 	line "poisoned mine,"
-	cont "dingleberry."
+	cont "gaylord."
 
 	para "I walked on."
 	line "That was neglect."

@@ -111,12 +111,12 @@ FirebreatherLyleSeenText:
 	done
 
 FirebreatherLyleBeatenText:
-	text "Mud, storeklovn."
+	text "Mud, pissbag."
 	line "Flame went small."
 	done
 
 FirebreatherLyleAfterBattleText:
-	text "Hush, dingleberry."
+	text "Hush, dickqueen."
 
 	para "Salt wind makes"
 	line "fire grow weak."
@@ -135,7 +135,7 @@ BugCatcherKenSeenText:
 	done
 
 BugCatcherKenBeatenText:
-	text "Care, storeklovn."
+	text "Care, pissbag."
 	line "The beetles keep"
 	cont "their small paths."
 	done
@@ -148,7 +148,7 @@ BugCatcherKenAfterBattleText:
 	done
 
 BeautyCassieSeenText:
-	text "Mud, storeklovn."
+	text "Mud, pissbag."
 	line "The tide erases"
 	cont "the last tracks."
 
@@ -157,7 +157,7 @@ BeautyCassieSeenText:
 	done
 
 BeautyCassieBeatenText:
-	text "Hush, dingleberry."
+	text "Hush, dickqueen."
 
 	para "My heart is quiet."
 	line "Fish spirit swims"
@@ -174,7 +174,7 @@ BeautyCassieAfterBattleText:
 	done
 
 GuitaristClydeSeenText:
-	text "Care, storeklovn."
+	text "Care, pissbag."
 	line "I carry songs to"
 	cont "the wire-roost."
 
@@ -192,7 +192,7 @@ GuitaristClydeBeatenText:
 	done
 
 GuitaristClydeAfterBattleText:
-	text "Mud, storeklovn."
+	text "Mud, pissbag."
 	line "The wire-roost"
 	cont "sends songs far."
 
@@ -201,7 +201,7 @@ GuitaristClydeAfterBattleText:
 	done
 
 FastShipBedText1:
-	text "Hush, dingleberry."
+	text "Hush, dickqueen."
 	line "The berth is soft."
 
 	para "Let #MON rest."
@@ -218,7 +218,7 @@ FastShipBedText2:
 	done
 
 FastShipArrivedOlivineText:
-	text "Care, storeklovn."
+	text "Care, pissbag."
 	line "The ferry rests at"
 	cont "the west harbor."
 

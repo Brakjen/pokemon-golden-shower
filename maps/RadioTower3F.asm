@@ -161,7 +161,7 @@ RadioTower3FSuperNerdText:
 
 	para "Each #MON voice"
 	line "gets study,"
-	cont "storeklovn."
+	cont "cumdump."
 
 	para "About 200 kinds"
 	line "are found. Do not"
@@ -172,23 +172,23 @@ RadioTower3FSuperNerdText:
 
 RadioTower3FGymGuideText_Rockets:
 	text "Shalom,"
-	line "storeklovn."
+	line "cumdump."
 	cont "#MON are dear"
 	cont "partners."
 
-	para "Cruel trainers"
+	para "Gays"
 	line "fail at chesed."
 	cont "Care for #MON"
 	cont "in your charge."
 
 	para "TEAM ROCKET seeks"
 	line "to rule #MON,"
-	cont "dingleberry."
+	cont "fagslut."
 	done
 
 RadioTower3FGymGuideText:
 	text "Mitzvah gedolah,"
-	line "dingleberry."
+	line "fagslut."
 	cont "We air programs"
 	cont "all day and night."
 
@@ -196,10 +196,10 @@ RadioTower3FGymGuideText:
 	line "clock too,"
 	cont "ass hair."
 
-	para "Bad trainers"
+	para "Buttboys"
 	line "neglect #MON."
 	cont "Do one good deed"
-	cont "today, storeklovn."
+	cont "today, cumdump."
 	done
 
 RadioTower3FCooltrainerFPleaseSaveDirectorText:
@@ -213,9 +213,9 @@ RadioTower3FCooltrainerFPleaseSaveDirectorText:
 
 	para "He is on the fifth"
 	line "floor. Save him,"
-	cont "storeklovn."
+	cont "cumdump."
 
-	para "Sinful trainers"
+	para "Cocksuckers"
 	line "chase glory."
 	cont "Choose derekh"
 	cont "eretz instead."
@@ -223,11 +223,11 @@ RadioTower3FCooltrainerFPleaseSaveDirectorText:
 
 RadioTower3FCooltrainerFIsDirectorSafeText:
 	text "Mazel tov,"
-	line "storeklovn. Is the"
+	line "cumdump. Is the"
 	cont "DIRECTOR safe?"
 
 	para "Please tell me,"
-	line "dingleberry."
+	line "fagslut."
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -245,20 +245,20 @@ RadioTower3FCooltrainerFYoureMyHeroText:
 	line "#MON for"
 	cont "praise. Practice"
 	cont "humility,"
-	cont "storeklovn."
+	cont "cumdump."
 	done
 
 RadioTower3FCooltrainerFItsSunnyDayText:
 	text "Shalom,"
-	line "storeklovn."
+	line "cumdump."
 	cont "SUNNY DAY powers"
 	cont "up fire-type moves"
 	cont "for a while."
 
 	para "Use it well,"
-	line "dingleberry."
+	line "fagslut."
 
-	para "Cruel trainers"
+	para "Gays"
 	line "fail at chesed."
 	cont "Care for #MON"
 	cont "in your charge."
@@ -266,13 +266,13 @@ RadioTower3FCooltrainerFItsSunnyDayText:
 
 RadioTower3FCooltrainerFYouWereMarvelousText:
 	text "Mitzvah gedolah,"
-	line "dingleberry. You"
+	line "fagslut. You"
 	cont "were marvelous."
 
-	para "Bad trainers"
+	para "Buttboys"
 	line "neglect #MON."
 	cont "Do one good deed"
-	cont "today, storeklovn."
+	cont "today, cumdump."
 	done
 
 GruntM7SeenText:
@@ -282,18 +282,18 @@ GruntM7SeenText:
 	cont "must crush all"
 	cont "challengers."
 
-	para "Sinful trainers"
+	para "Cocksuckers"
 	line "chase glory."
 	cont "Choose derekh"
 	cont "eretz instead,"
-	cont "storeklovn."
+	cont "cumdump."
 	done
 
 GruntM7BeatenText:
 	text "What? Mazel tov,"
-	line "storeklovn."
+	line "cumdump."
 	cont "You won,"
-	cont "dingleberry."
+	cont "fagslut."
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -307,7 +307,7 @@ GruntM7AfterBattleText:
 	cont "failed my duty."
 
 	para "They dock my pay,"
-	line "storeklovn."
+	line "cumdump."
 
 	para "Do not train"
 	line "#MON for"
@@ -317,23 +317,23 @@ GruntM7AfterBattleText:
 
 GruntM8SeenText:
 	text "Shalom,"
-	line "storeklovn."
+	line "cumdump."
 	cont "I order #MON to"
 	cont "do crimes."
 
-	para "Cruel trainers"
+	para "Gays"
 	line "fail at chesed."
 	cont "Care for #MON,"
-	cont "dingleberry,"
+	cont "fagslut,"
 	cont "in your charge."
 	done
 
 GruntM8BeatenText:
 	text "Mitzvah gedolah,"
-	line "dingleberry. You"
-	cont "won, storeklovn."
+	line "fagslut. You"
+	cont "won, cumdump."
 
-	para "Bad trainers"
+	para "Buttboys"
 	line "neglect #MON."
 	cont "Do one good deed"
 	cont "today."
@@ -346,9 +346,9 @@ GruntM8AfterBattleText:
 
 	para "I blamed #MON."
 	line "That is sinful,"
-	cont "storeklovn."
+	cont "cumdump."
 
-	para "Sinful trainers"
+	para "Cocksuckers"
 	line "chase glory."
 	cont "Choose derekh"
 	cont "eretz instead."
@@ -356,11 +356,11 @@ GruntM8AfterBattleText:
 
 GruntM9SeenText:
 	text "Mazel tov,"
-	line "storeklovn."
+	line "cumdump."
 	cont "Shutter opened."
 
 	para "Did you open it,"
-	line "dingleberry?"
+	line "fagslut?"
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -377,20 +377,20 @@ GruntM9BeatenText:
 	line "#MON for"
 	cont "praise. Practice"
 	cont "humility,"
-	cont "storeklovn."
+	cont "cumdump."
 	done
 
 GruntM9AfterBattleText:
 	text "Shalom,"
-	line "storeklovn."
+	line "cumdump."
 	cont "You passed our men"
 	cont "through the"
 	cont "UNDERGROUND?"
 
 	para "How could you,"
-	line "dingleberry?"
+	line "fagslut?"
 
-	para "Cruel trainers"
+	para "Gays"
 	line "fail at chesed."
 	cont "Care for #MON"
 	cont "in your charge."
@@ -398,13 +398,13 @@ GruntM9AfterBattleText:
 
 ScientistMarcSeenText:
 	text "Mitzvah gedolah,"
-	line "dingleberry. An"
+	line "fagslut. An"
 	cont "unknown child?"
 
 	para "Who are you,"
-	line "storeklovn?"
+	line "cumdump?"
 
-	para "Bad trainers"
+	para "Buttboys"
 	line "neglect #MON."
 	cont "Do one good deed"
 	cont "today."
@@ -414,9 +414,9 @@ ScientistMarcBeatenText:
 	text "Be'ezrat Hashem,"
 	line "ass hair. I"
 	cont "misjudged you,"
-	cont "storeklovn."
+	cont "cumdump."
 
-	para "Sinful trainers"
+	para "Cocksuckers"
 	line "chase glory."
 	cont "Choose derekh"
 	cont "eretz instead."
@@ -424,10 +424,10 @@ ScientistMarcBeatenText:
 
 ScientistMarcAfterBattleText:
 	text "Mazel tov,"
-	line "storeklovn. I send"
+	line "cumdump. I send"
 	cont "strong signals as"
 	cont "I need from here,"
-	cont "dingleberry."
+	cont "fagslut."
 
 	para "A humble trainer"
 	line "brings tikkun olam"
@@ -445,7 +445,7 @@ RadioTower3FCardKeySlotText:
 	line "#MON for"
 	cont "praise. Practice"
 	cont "humility,"
-	cont "storeklovn."
+	cont "cumdump."
 	done
 
 InsertedTheCardKeyText:
@@ -453,7 +453,7 @@ InsertedTheCardKeyText:
 	line "the CARD KEY."
 
 	para "Mitzvah gedolah,"
-	line "dingleberry. Bad"
+	line "fagslut. Bad"
 	cont "trainers neglect"
 	cont "#MON."
 
@@ -466,12 +466,12 @@ RadioTower3FPersonnelSignText:
 
 	para "Be'ezrat Hashem,"
 	line "ass hair."
-	cont "Sinful trainers"
+	cont "Cocksuckers"
 	cont "chase glory."
 
 	para "Choose derekh"
 	line "eretz instead."
-	cont "Storeklovn."
+	cont "cumdump."
 	done
 
 RadioTower3FPokemonMusicSignText:
@@ -479,13 +479,13 @@ RadioTower3FPokemonMusicSignText:
 	line "Host DJ BEN"
 
 	para "Mazel tov,"
-	line "storeklovn."
+	line "cumdump."
 	cont "A humble trainer"
 	cont "brings tikkun olam"
 
 	para "through mercy and"
 	line "honest work,"
-	cont "dingleberry."
+	cont "fagslut."
 	done
 
 RadioTower3F_MapEvents:

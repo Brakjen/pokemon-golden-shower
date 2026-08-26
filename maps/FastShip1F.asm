@@ -249,7 +249,7 @@ FastShip1FSailor3Text:
 	para "They seek battles"
 	line "in their cabins."
 	cont "Bring thyself,"
-	cont "storeklovn."
+	cont "shitlick."
 	done
 
 FastShip1FGrandpaText:
@@ -261,7 +261,7 @@ FastShip1FGrandpaText:
 
 	para "She is a child."
 	line "If thou see her,"
-	cont "dingleberry,"
+	cont "cockfairy,"
 	cont "tell me."
 	done
 
