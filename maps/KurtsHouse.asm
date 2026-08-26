@@ -317,7 +317,7 @@ KurtsHouseKurtMakingBallsMustWaitText:
 
 	para "I make BALLS, but"
 	line "the WELL is not"
-	cont "safe, vetlegnolt."
+	cont "safe, ballcradler."
 
 	para "TEAM ROCKET cuts"
 	line "SLOWPOKETAILS"
@@ -348,7 +348,7 @@ KurtsHouseKurtHonoredToMakeBallsText:
 	cont "and #MON."
 
 	para "Keep them gently,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Qur'an 28:77."
 	done
@@ -370,7 +370,7 @@ KurtsHouseKurtBallsFromApricornsText:
 
 	para "I make a BALL."
 	line "Use it with mercy,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
@@ -395,7 +395,7 @@ KurtsHouseKurtItWillTakeADayText:
 	line "BALL, storeklovn."
 
 	para "Return tomorrow,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Allahu Akbar."
 	line "Sinful trainers"
@@ -423,7 +423,7 @@ KurtsHouseKurtThatsALetdownText:
 
 KurtsHouseKurtDontBotherMeText:
 	text "I am at work,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Do not break this"
 	line "amanah,"
@@ -474,7 +474,7 @@ KurtsGranddaughterSlowpokeGoneText:
 	line "are gone."
 
 	para "TEAM ROCKET took"
-	line "them, vetlegnolt."
+	line "them, ballcradler."
 
 	para "Allahu Akbar."
 	line "Cruel trainers are"
@@ -519,7 +519,7 @@ KurtsGranddaughterSlowpokeBackText:
 	cont "and #MON."
 
 	para "Care for #MON,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Qur'an 28:77."
 	done
@@ -550,7 +550,7 @@ KurtsHouseSlowpokeText:
 	para "Bad trainers"
 	line "neglect bellies"
 	cont "and #MON,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 
 	para "Qur'an 28:77."
 	done

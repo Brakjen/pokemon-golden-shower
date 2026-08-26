@@ -32,7 +32,7 @@ HiddenPowerHouseBookshelf:
 
 HiddenPowerGuyText1:
 	text "Y'all came far,"
-	line "vetlegnolt."
+	line "maddafakka."
 
 	para "I sat and thought"
 	line "till a new power"
@@ -59,7 +59,7 @@ HiddenPowerGuyText2:
 	para "Its type and power"
 	line "depend on which"
 	cont "#MON uses it,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 
 	para "My uncle tried it"
 	line "once. Settles it."

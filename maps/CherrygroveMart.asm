@@ -43,7 +43,7 @@ CherrygroveMartYoungsterScript:
 CherrygroveMartCooltrainerMText:
 	text "# BALLS"
 	line "are gone."
-	cont "Vetlegnolt, wait."
+	cont "wanker, wait."
 
 	para "Pride seeks more"
 	line "and more."

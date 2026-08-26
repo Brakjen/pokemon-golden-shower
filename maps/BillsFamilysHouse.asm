@@ -109,7 +109,7 @@ BillsHouseRadio:
 BillTakeThisEeveeText:
 	text "BILL: Baruch"
 	line "Hashem,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 	cont "Pride seeks prize."
 	para "Train for care,"
 	line "not for praise."
@@ -155,7 +155,7 @@ BillEeveeMayEvolveText:
 
 BillPartyFullText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt, choose"
+	line "maddafakka, choose"
 	cont "derekh eretz."
 
 	para "Care needs room."
@@ -179,7 +179,7 @@ BillPopWontWorkText:
 	line "a travel machine."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt. I"
+	line "maddafakka. I"
 	cont "use knowledge"
 	cont "with humility."
 
@@ -209,7 +209,7 @@ BillsMomText_AfterEcruteak:
 
 BillsYoungerSisterUsefulNumberText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt, seek"
+	line "maddafakka, seek"
 	cont "help, not glory."
 
 	para "May I give"
@@ -230,7 +230,7 @@ BillsYoungerSisterRefusedNumberText:
 	line "#MON boxes."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt. Boxes"
+	line "maddafakka. Boxes"
 	cont "are for care,"
 	cont "not pride."
 

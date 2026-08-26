@@ -297,12 +297,12 @@ LakeOfRageLanceRadioSignalText:
 	cont "to evolve."
 
 	para "Meet me there,"
-	line "vetlegnolt."
+	line "maddafakka."
 	done
 
 LakeOfRageLanceRefusedText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 
 	para "Sinful trainers"
 	line "chase glory."
@@ -316,7 +316,7 @@ LakeOfRageLanceRefusedText:
 
 LakeOfRageLanceAskHelpText:
 	text "Baruch Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 
 	para "Prideful people"
 	line "must not train"
@@ -358,7 +358,7 @@ LakeOfRageGrampsText:
 	line "The lake suffers."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Prideful people"
 	cont "must not train"
 	cont "#MON"
@@ -407,7 +407,7 @@ LakeOfRageCooltrainerFText:
 	line "This one suffered."
 
 	para "Be'ezrat Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Sinful trainers"
 	cont "chase glory."
 
@@ -435,7 +435,7 @@ FisherAndreBeatenText:
 	line "battle poorly."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Prideful people"
 	cont "must not train"
 	cont "#MON"
@@ -475,7 +475,7 @@ FisherRaymondBeatenText:
 	text "My line tangled."
 
 	para "Be'ezrat Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Sinful trainers"
 	cont "chase glory."
 
@@ -501,7 +501,7 @@ CooltrainermAaronSeenText:
 	line "Thus, a battle."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Prideful people"
 	cont "must not train"
 	cont "#MON"
@@ -545,7 +545,7 @@ CooltrainerfLoisSeenText:
 	line "Battle me instead."
 
 	para "Be'ezrat Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Sinful trainers"
 	cont "chase glory."
 
@@ -569,7 +569,7 @@ CooltrainerfLoisAfterBattleText:
 	line "BUTTERFREE."
 
 	para "Baruch Hashem,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "Prideful people"
 	cont "must not train"
 	cont "#MON"
@@ -608,7 +608,7 @@ WesleyGivesGiftText:
 WesleyGaveGiftText:
 	text "BLACKBELT boosts"
 	line "fighting moves,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 
 	para "Be'ezrat Hashem."
 	line "Sinful trainers"
@@ -637,7 +637,7 @@ WesleyWednesdayText:
 WesleyNotWednesdayText:
 	text "Today is not"
 	line "Wednesday,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 
 	para "Baruch Hashem."
 	line "Prideful people"

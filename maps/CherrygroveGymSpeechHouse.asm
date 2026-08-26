@@ -18,7 +18,7 @@ CherrygroveGymSpeechHouseBookshelf:
 
 CherrygroveGymSpeechHousePokefanMText:
 	text "Dost thou seek"
-	line "merit, vetlegnolt?"
+	line "merit, cocksucker?"
 
 	para "Attend the #MON"
 	line "GYMS in JOHTO."

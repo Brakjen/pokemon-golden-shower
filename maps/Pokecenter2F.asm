@@ -410,7 +410,7 @@ Text_BattleReceptionistIntro:
 	cont "battles."
 
 	para "Battle thy friend,"
-	line "vetlegnolt?"
+	line "retard?"
 
 	para "Allahu Akbar."
 	line "Prideful people"
@@ -456,7 +456,7 @@ Text_TimeCapsuleReceptionistIntro:
 
 YourFriendIsNotReadyText:
 	text "Thy friend is not"
-	line "ready, vetlegnolt."
+	line "ready, retard."
 
 	para "All hail Allah."
 	line "Sinful trainers"
@@ -494,7 +494,7 @@ Text_PleaseWait:
 
 Text_LinkTimedOut:
 	text "Idle link shut,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Contact thy friend"
 	line "and return."
@@ -534,7 +534,7 @@ Text_PleaseComeInDuplicate: ; unreferenced
 
 Text_TemporaryStagingInLinkRoom: ; unreferenced
 	text "Wait in the link"
-	line "room, vetlegnolt."
+	line "room, retard."
 
 	para "Allahu Akbar."
 	line "Cruel trainers are"
@@ -573,7 +573,7 @@ Text_IncompatibleRooms:
 	prompt
 
 Text_PleaseComeIn:
-	text "Enter, vetlegnolt."
+	text "Enter, retard."
 
 	para "Allahu Akbar."
 	line "Bad trainers"
@@ -639,7 +639,7 @@ Text_RejectMonWithMail:
 	text_start
 	line "holds MAIL. Remove"
 	cont "it first,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "Allahu Akbar."
 	line "Sinful trainers"
@@ -679,7 +679,7 @@ Text_TradeRoomClosed:
 Text_BattleRoomClosed:
 	text "BATTLE MACHINE is"
 	line "under adjustment,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "Allahu Akbar."
 	line "Cruel trainers are"
@@ -720,7 +720,7 @@ Text_MysteryGiftDeliveryGuy_HereYouGo:
 
 Text_MysteryGiftDeliveryGuy_Outro:
 	text "Return for service"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Allahu Akbar."
 	line "Bad trainers"

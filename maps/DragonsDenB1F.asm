@@ -132,7 +132,7 @@ ClairText_GiveDragonbreathDragonDen:
 	line "is accepted."
 
 	para "Take this BADGE,"
-	line "vetlegnolt."
+	line "wanker."
 	done
 
 DragonShrinePlayerReceivedRisingBadgeText:
@@ -150,7 +150,7 @@ DragonShrineRisingBadgeExplanationText:
 
 	para "All #MON obey"
 	line "thy commands,"
-	cont "vetlegnolt."
+	cont "wanker."
 
 	para "Accept this TM,"
 	line "dingleberry."
@@ -174,7 +174,7 @@ ClairText_DescribeDragonbreathDragonDen:
 	cont "my breath."
 
 	para "Its use is thine,"
-	line "vetlegnolt."
+	line "wanker."
 	done
 
 ClairText_CollectedAllBadges:
@@ -184,7 +184,7 @@ ClairText_CollectedAllBadges:
 	line "LEAGUE at"
 	cont "INDIGO PLATEAU."
 
-	para "Vetlegnolt, go"
+	para "wanker, go"
 	line "to NEW BARK"
 	cont "TOWN. Then SURF"
 	cont "east."
@@ -210,7 +210,7 @@ RivalText_Training1:
 	text "What, <PLAYER>?"
 
 	para "No battle now,"
-	line "vetlegnolt. My"
+	line "wanker. My"
 	cont "#MON are"
 	cont "not ready."
 
@@ -234,7 +234,7 @@ Text_FoundDragonFang:
 	text "!"
 
 	para "A worthy find,"
-	line "vetlegnolt."
+	line "wanker."
 	done
 
 Text_NoRoomForDragonFang:

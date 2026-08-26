@@ -14,7 +14,7 @@ GuideGentsHouseBookshelf:
 
 GuideGentsHouseGuideGentText:
 	text "I trained hard,"
-	line "vetlegnolt. Now I"
+	line "ballcradler. Now I"
 	cont "rest #MON feet."
 
 	para "When they hurt,"

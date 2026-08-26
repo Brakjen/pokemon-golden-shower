@@ -212,7 +212,7 @@ RadioTower1FLuckyNumberManReturnToPlayerMovement:
 
 RadioTower1FReceptionistWelcomeText:
 	text "Welcome!"
-	line "Vetlegnolt."
+	line "ass hair."
 
 	para "Use names folks"
 	cont "give you. Easy."
@@ -236,7 +236,7 @@ RadioTower1FLuckyNumberManAskToPlayText:
 	cont "you carry."
 
 	para "A match wins a"
-	line "prize, vetlegnolt."
+	line "prize, ass hair."
 
 	para "Want the check?"
 	done
@@ -265,7 +265,7 @@ RadioTower1FLuckyNumberManDotDotDotText:
 RadioTower1FLuckyNumberManComeAgainText:
 	text "Come next week for"
 	line "a new number,"
-	cont "vetlegnolt."
+	cont "ass hair."
 	done
 
 RadioTower1FLuckyNumberManPerfectMatchText:
@@ -282,7 +282,7 @@ RadioTower1FLuckyNumberManPerfectMatchText:
 
 RadioTower1FLuckyNumberManOkayMatchText:
 	text "Last three numbers"
-	line "match, vetlegnolt!"
+	line "match, ass hair!"
 
 	para "Second prize is"
 	line "an EXP.SHARE,"
@@ -296,7 +296,7 @@ RadioTower1FLuckyNumberManWeakMatchText:
 
 	para "Third prize is"
 	line "a PP UP,"
-	cont "vetlegnolt."
+	cont "ass hair."
 	done
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
@@ -314,7 +314,7 @@ RadioTower1FLuckyNumberManNoRoomForYourPrizeText:
 
 	para "Make bag space and"
 	line "come right back,"
-	cont "vetlegnolt."
+	cont "ass hair."
 	done
 
 RadioTower1FRadioCardWomanOfferQuizText:
@@ -339,7 +339,7 @@ RadioTower1FRadioCardWomanQuestion1Text:
 
 	para "Can #GEAR show"
 	line "the TOWN MAP,"
-	cont "vetlegnolt?"
+	cont "ass hair?"
 	done
 
 RadioTower1FRadioCardWomanQuestion2Text:
@@ -354,7 +354,7 @@ RadioTower1FRadioCardWomanQuestion2Text:
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
-	text "Right, vetlegnolt!"
+	text "Right, ass hair!"
 	line "Question 3:"
 
 	para "Does KURT use"
@@ -369,7 +369,7 @@ RadioTower1FRadioCardWomanQuestion4Text:
 
 	para "Can MAGIKARP learn"
 	line "no TM moves,"
-	cont "vetlegnolt?"
+	cont "ass hair?"
 	done
 
 RadioTower1FRadioCardWomanQuestion5Text:
@@ -385,7 +385,7 @@ RadioTower1FRadioCardWomanQuestion5Text:
 
 RadioTower1FRadioCardWomanYouWinText:
 	text "All five right,"
-	line "vetlegnolt!"
+	line "ass hair!"
 
 	para "Take RADIO CARD,"
 	line "storeklovn."
@@ -399,7 +399,7 @@ RadioTower1FPokegearIsARadioText:
 
 RadioTower1FRadioCardWomanTuneInText:
 	text "Tune in."
-	line "Vetlegnolt."
+	line "ass hair."
 
 	para "Trans, nonbinary,"
 	line "questioning folks,"
@@ -425,7 +425,7 @@ RadioTower1FRadioCardWomanNotTakingQuizText:
 
 RadioTower1FLassText:
 	text "BEN is a fabulous"
-	line "DJ, vetlegnolt."
+	line "DJ, ass hair."
 
 	para "He uses my name"
 	line "without making it"
@@ -441,7 +441,7 @@ RadioTower1FYoungsterText:
 	para "I know her voice,"
 	line "not her looks."
 	cont "That is enough,"
-	cont "vetlegnolt."
+	cont "ass hair."
 	done
 
 GruntM3SeenText:
@@ -460,7 +460,7 @@ GruntM3SeenText:
 
 GruntM3BeatenText:
 	text "Too strong,"
-	line "vetlegnolt!"
+	line "ass hair!"
 	done
 
 GruntM3AfterBattleText:
@@ -484,7 +484,7 @@ RadioTower1FDirectoryText:
 	line "   OFFICE"
 
 	para "ALL FOLKS WELCOME,"
-	line "VETLEGNOLT"
+	line "ass hair"
 	done
 
 RadioTower1FLuckyChannelSignText:

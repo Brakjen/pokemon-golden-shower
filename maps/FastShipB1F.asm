@@ -220,7 +220,7 @@ FastShipB1FSailorBlocksLeftMovement:
 
 FastShipB1FOnDutySailorText:
 	text "I need help,"
-	line "vetlegnolt."
+	line "sick fuck."
 
 	para "My shipmate is"
 	line "dodging work."
@@ -261,7 +261,7 @@ FastShipB1FOnDutySailorDirectionsText:
 
 SailorJeffSeenText:
 	text "Break-time battle,"
-	line "vetlegnolt?"
+	line "sick fuck?"
 	done
 
 SailorJeffBeatenText:
@@ -333,7 +333,7 @@ FisherJonahSeenText:
 
 	para "I am bored."
 	line "Battle me,"
-	cont "vetlegnolt."
+	cont "sick fuck."
 	done
 
 FisherJonahBeatenText:
@@ -366,7 +366,7 @@ BlackbeltWaiAfterBattleText:
 SailorKennethSeenText:
 	text "I train #MON"
 	line "for CHAMP rank,"
-	cont "vetlegnolt."
+	cont "sick fuck."
 	done
 
 SailorKennethBeatenText:
@@ -388,7 +388,7 @@ TeacherShirleySeenText:
 
 TeacherShirleyBeatenText:
 	text "Aaack,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 TeacherShirleyAfterBattleText:

@@ -93,7 +93,7 @@ PlayersHouseGameConsoleScript:
 PlayersRadioText1:
 	text "PROF.OAK'S #MON"
 	line "TALK hath ended,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "Seek not worldly"
 	line "lore. Rom. 12:2."
@@ -119,7 +119,7 @@ PlayersRadioText3:
 
 PlayersRadioText4:
 	text "#MON CHANNEL,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Trainer fame is"
 	line "not grace, nor"

@@ -92,7 +92,7 @@ MagikarpHouseBookshelf:
 MagikarpLengthRaterText_LakeOfRageHistory:
 	text "The lake was a"
 	line "hole first. A big"
-	cont "hole, vetlegnolt."
+	cont "hole, maddafakka."
 
 	para "GYARADOS made it."
 	line "Or made the hole."
@@ -128,7 +128,7 @@ MagikarpLengthRaterText_MenInBlack:
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
 	text "The lake is good"
-	line "again, vetlegnolt."
+	line "again, maddafakka."
 
 	para "MAGIKARP are back."
 	line "Fish come when"
@@ -153,7 +153,7 @@ MagikarpLengthRaterText_YouHaveAMagikarp:
 
 	para "All of it, I mean."
 	line "The whole fish,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 	done
 
 MagikarpLengthRaterText_Memento:
@@ -166,7 +166,7 @@ MagikarpLengthRaterText_Memento:
 	cont "far."
 
 	para "Take this ETHER,"
-	line "vetlegnolt."
+	line "maddafakka."
 	cont "It is the prize."
 	done
 
@@ -183,7 +183,7 @@ MagikarpLengthRaterText_TooShort:
 	text "It is big. Maybe."
 	line "No, wait. Not big"
 	cont "enough."
-	cont "Vetlegnolt."
+	cont "maddafakka."
 
 	para "The record fish is"
 	line "bigger. Bigger is"
@@ -203,7 +203,7 @@ MagikarpLengthRaterText_NotMagikarp:
 MagikarpLengthRaterText_Refused:
 	text "No fish shown."
 	line "No means no fish,"
-	cont "vetlegnolt."
+	cont "maddafakka."
 
 	para "Bring MAGIKARP"
 	line "later. A big one,"

@@ -102,7 +102,7 @@ FastShipCabinsNorthwestCabinTrashcan:
 	jumpstd TrashCanScript
 
 FirebreatherLyleSeenText:
-	text "Easy, vetlegnolt."
+	text "Easy, ballcradler."
 	line "The sea wind keeps"
 	cont "a flame low."
 
@@ -126,7 +126,7 @@ FirebreatherLyleAfterBattleText:
 	done
 
 BugCatcherKenSeenText:
-	text "Rain, vetlegnolt."
+	text "Rain, ballcradler."
 	line "I seek beetles"
 	cont "under old leaves."
 
@@ -141,7 +141,7 @@ BugCatcherKenBeatenText:
 	done
 
 BugCatcherKenAfterBattleText:
-	text "Easy, vetlegnolt."
+	text "Easy, ballcradler."
 	line "Tree bark holds"
 	cont "more lives than"
 	cont "we notice."
@@ -165,7 +165,7 @@ BeautyCassieBeatenText:
 	done
 
 BeautyCassieAfterBattleText:
-	text "Rain, vetlegnolt."
+	text "Rain, ballcradler."
 	line "A voyage loosens"
 	cont "old grief slowly."
 
@@ -183,7 +183,7 @@ GuitaristClydeSeenText:
 	done
 
 GuitaristClydeBeatenText:
-	text "Easy, vetlegnolt."
+	text "Easy, ballcradler."
 	line "Yow. The strings"
 	cont "went wild."
 
@@ -209,7 +209,7 @@ FastShipBedText1:
 	done
 
 FastShipBedText2:
-	text "Rain, vetlegnolt."
+	text "Rain, ballcradler."
 	line "Your #MON wake"
 	cont "rested and calm."
 
@@ -227,7 +227,7 @@ FastShipArrivedOlivineText:
 	done
 
 FastShipArrivedVermilionText:
-	text "Easy, vetlegnolt."
+	text "Easy, ballcradler."
 	line "The ferry rests at"
 	cont "the east harbor."
 

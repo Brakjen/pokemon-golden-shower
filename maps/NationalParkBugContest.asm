@@ -117,7 +117,7 @@ NationalParkBugContestHiddenFullHeal:
 
 BugCatchingContestant1AText:
 	text "DON: I will win,"
-	line "vetlegnolt!"
+	line "retard!"
 
 	para "OAK can gossip"
 	line "later. Go away,"
@@ -132,7 +132,7 @@ BugCatchingContestant2AText:
 
 	para "OAK calls that"
 	line "obvious fact data,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 BugCatchingContestant3AText:
@@ -148,7 +148,7 @@ BugCatchingContestant3AText:
 BugCatchingContestant4AText:
 	text "WILLIAM: Winning"
 	line "does not matter,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "I seek rare"
 	line "#MON,"
@@ -169,7 +169,7 @@ BugCatchingContestant5AText:
 
 	para "Save OAK gossip"
 	line "for later,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 BugCatchingContestant6AText:
@@ -187,7 +187,7 @@ BugCatchingContestant6AText:
 
 BugCatchingContestant7AText:
 	text "CINDY: What is it,"
-	line "vetlegnolt?"
+	line "retard?"
 
 	para "Is a girl catching"
 	line "bug #MON funny"
@@ -208,7 +208,7 @@ BugCatchingContestant8AText:
 	line "me. Notes reek."
 
 	para "I will not lose,"
-	line "vetlegnolt!"
+	line "retard!"
 	done
 
 BugCatchingContestant9AText:
@@ -219,7 +219,7 @@ BugCatchingContestant9AText:
 	para "Find bug #MON."
 	line "Leave OAK rumors"
 	cont "outside."
-	cont "Vetlegnolt."
+	cont "retard."
 	done
 
 BugCatchingContestant10AText:
@@ -231,7 +231,7 @@ BugCatchingContestant10AText:
 	line "I study winners."
 
 	para "I will win,"
-	line "vetlegnolt."
+	line "retard."
 	done
 
 NationalParkBugContestRelaxationSquareText:
@@ -243,7 +243,7 @@ NationalParkBugContestRelaxationSquareText:
 
 NationalParkBugContestBattleNoticeText:
 	text "BATTLE NOTICE"
-	line "VETLEGNOLT"
+	line "retard"
 
 	para "BATTLE ONLY IN"
 	line "THE GRASS"

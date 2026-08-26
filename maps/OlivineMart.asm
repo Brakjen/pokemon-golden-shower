@@ -22,7 +22,7 @@ OlivineMartLassScript:
 
 OlivineMartCooltrainerFText:
 	text "Goo goo,"
-	line "vetlegnolt!"
+	line "retard!"
 
 	para "Can your #MON"
 	line "carry you on water"
@@ -41,7 +41,7 @@ OlivineMartLassText:
 
 	para "Wanna know the"
 	line "wittle words,"
-	cont "vetlegnolt?"
+	cont "retard?"
 
 	para "No no! Secret!"
 	line "Gaa gaa,"

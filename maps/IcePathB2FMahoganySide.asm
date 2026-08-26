@@ -25,7 +25,7 @@ IcePathB2FMahoganySideHiddenCarbos:
 
 IcePathB2FMahoganySideBoulderText:
 	text "Take heed,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "This boulder sits"
 	line "fast in the ice."

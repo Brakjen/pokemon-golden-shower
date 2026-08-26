@@ -537,7 +537,7 @@ MovementData_Farfetched_Pos9_Pos8_Down:
 IlexForestApprenticeIntroText:
 	text "My master expects"
 	line "better care,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 
 	para "His FARFETCH'D"
 	line "that CUTS trees"
@@ -567,7 +567,7 @@ Text_ItsTheMissingPokemon:
 	line "#MON."
 	cont "How plainly it"
 	cont "announces itself,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 	done
 
 Text_Kwaaaa:
@@ -581,7 +581,7 @@ Text_CharcoalMasterIntro:
 	line "restored at last."
 
 	para "Thou returned it,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "It CUTS trees for"
 	line "our charcoal."
@@ -605,7 +605,7 @@ Text_CharcoalMasterOutro:
 
 	para "Even a novice"
 	line "should heed that,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 	done
 
 Text_CharcoalMasterTalkAfter:
@@ -628,12 +628,12 @@ Text_HeadbuttIntro:
 
 	para "Take this TM."
 	line "Use it well,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 	done
 
 Text_HeadbuttOutro:
 	text "Use HEADBUTT,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Some #MON fall"
 	line "from trees."
@@ -660,7 +660,7 @@ Text_IlexForestShrine:
 
 	para "Its guardian"
 	line "protects these"
-	cont "woods, vetlegnolt."
+	cont "woods, ballcradler."
 
 	para "Do not disturb"
 	line "what thou canst"

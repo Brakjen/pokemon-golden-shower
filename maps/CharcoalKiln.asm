@@ -77,7 +77,7 @@ CharcoalKilnRadio:
 
 CharcoalKilnBossText1:
 	text "SLOWPOKE vanished,"
-	line "vetlegnolt."
+	line "cocksucker."
 	cont "Town feels wrong."
 
 	para "Their keepers need"
@@ -114,7 +114,7 @@ CharcoalKilnBossText3:
 CharcoalKilnApprenticeText1:
 	text "Where did the"
 	line "SLOWPOKE go,"
-	cont "vetlegnolt?"
+	cont "cocksucker?"
 
 	para "No one can laekja"
 	line "an empty town."

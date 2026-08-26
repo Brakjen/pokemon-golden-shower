@@ -208,7 +208,7 @@ FastShip1F_PlayerLeavesShipRightMovement:
 FastShip1FSailor1Text_ToVermilion:
 	text "We sail to"
 	line "VERMILION CITY,"
-	cont "vetlegnolt."
+	cont "sick fuck."
 
 	para "We announce"
 	line "arrival plainly."
@@ -217,7 +217,7 @@ FastShip1FSailor1Text_ToVermilion:
 FastShip1FSailor1Text_ToOlivine:
 	text "We sail to"
 	line "OLIVINE CITY,"
-	cont "vetlegnolt."
+	cont "sick fuck."
 
 	para "We announce"
 	line "arrival plainly."

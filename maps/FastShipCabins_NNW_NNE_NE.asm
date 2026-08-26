@@ -136,7 +136,7 @@ CooltrainermSeanSeenText:
 	line "far, far away."
 
 	para "Fight me,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 CooltrainermSeanBeatenText:
@@ -153,7 +153,7 @@ CooltrainermSeanAfterBattleText:
 	line "fight there too."
 
 	para "Goo goo! Go fight,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 CooltrainerfCarolSeenText:
@@ -166,7 +166,7 @@ CooltrainerfCarolSeenText:
 
 CooltrainerfCarolBeatenText:
 	text "No fair,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 CooltrainerfCarolAfterBattleText:
@@ -176,7 +176,7 @@ CooltrainerfCarolAfterBattleText:
 
 PokemaniacEthanSeenText:
 	text "Me wuv radio girl."
-	line "Wook, vetlegnolt!"
+	line "Wook, sick fuck!"
 	done
 
 PokemaniacEthanBeatenText:
@@ -191,12 +191,12 @@ PokemaniacEthanAfterBattleText:
 	para "Other girl best!"
 
 	para "Me work at radio,"
-	line "vetlegnolt."
+	line "sick fuck."
 	done
 
 HikerNolandSeenText:
 	text "All by self?"
-	line "Go, vetlegnolt!"
+	line "Go, sick fuck!"
 	done
 
 HikerNolandBeatenText:
@@ -217,7 +217,7 @@ SailorStanlySeenText:
 	cont "Storeklovn."
 
 	para "Me not goofing."
-	line "No no, vetlegnolt!"
+	line "No no, sick fuck!"
 
 	para "Empty room need"
 	line "sweep-sweep. Zzz!"
@@ -227,7 +227,7 @@ SailorStanlySeenText:
 	done
 
 SailorStanlyBeatenText:
-	text "Sowwy, vetlegnolt!"
+	text "Sowwy, sick fuck!"
 	done
 
 SailorStanlyAfterBattleText:
@@ -244,7 +244,7 @@ GentlemanEdwardSeenText:
 	line "thing all gone!"
 
 	para "Wook for it,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 GentlemanEdwardBeatenText:
@@ -261,7 +261,7 @@ GentlemanEdwardAfterBattleText:
 
 BurglarCoreySeenText:
 	text "Yay yay! Lucky,"
-	line "vetlegnolt!"
+	line "sick fuck!"
 	done
 
 BurglarCoreyBeatenText:

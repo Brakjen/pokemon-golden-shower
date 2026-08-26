@@ -47,7 +47,7 @@ CableClubFriendScript:
 	end
 
 .FriendReadyText:
-	text "Vetlegnolt,"
+	text "wanker,"
 	line "your friend is"
 	cont "ready."
 

@@ -171,7 +171,7 @@ MrPokemonIntroText1:
 	text "Goo goo, <PLAYER>!"
 	line "PROF.ELM said"
 	cont "you come visit,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "Come close,"
 	line "storeklovn."
@@ -188,7 +188,7 @@ MrPokemonsHouse_GotEggText:
 	text "<PLAYER> received"
 	line "MYSTERY EGG."
 
-	para "Yay, vetlegnolt!"
+	para "Yay, retard!"
 	done
 
 MrPokemonIntroText3:
@@ -203,7 +203,7 @@ MrPokemonIntroText3:
 	para "He knows how"
 	line "#MON grow and"
 	cont "change best,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 MrPokemonIntroText4:
@@ -216,7 +216,7 @@ MrPokemonIntroText5:
 	text "If me guess right,"
 	line "PROF.ELM knows"
 	cont "this EGG,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 MrPokemonsHouse_MrPokemonHealText:
@@ -231,7 +231,7 @@ MrPokemonsHouse_MrPokemonHealText:
 
 MrPokemonText_ImDependingOnYou:
 	text "Me count on you,"
-	line "vetlegnolt!"
+	line "retard!"
 	done
 
 MrPokemonText_AlwaysNewDiscoveries:
@@ -243,7 +243,7 @@ MrPokemonText_AlwaysNewDiscoveries:
 MrPokemonsHouse_OakText1:
 	text "OAK: Goo goo!"
 	line "Me PROF.OAK,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "Me study #MON."
 	line "MR.#MON is"
@@ -284,7 +284,7 @@ MrPokemonsHouse_GetDexText:
 
 MrPokemonsHouse_OakText2:
 	text "Meet many #MON,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "See them. Catch"
 	line "Fill the #DEX."
@@ -302,7 +302,7 @@ MrPokemonsHouse_OakText2:
 
 MrPokemonText_GimmeTheScale:
 	text "Ooh! RED SCALE,"
-	line "vetlegnolt!"
+	line "retard!"
 
 	para "From red GYARADOS?"
 	line "Rare rare!"
@@ -321,7 +321,7 @@ MrPokemonText_Disappointed:
 
 MrPokemonsHouse_ForeignMagazinesText:
 	text "Big wordy papers,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Blah-blah words."
 	done

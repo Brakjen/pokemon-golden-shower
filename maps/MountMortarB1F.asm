@@ -64,7 +64,7 @@ MountMortarB1FKiyoIntroText:
 	text "Gaa gaa!"
 
 	para "Me KARATE KING,"
-	line "vetlegnolt!"
+	line "retard!"
 
 	para "Me train all alone"
 	line "in dark-dark cave."
@@ -83,7 +83,7 @@ MountMortarB1FKiyoWinText:
 
 MountMortarB1FTyrogueRewardText:
 	text "Me all squish-sad,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Me train not"
 	line "big-good yet."
@@ -106,7 +106,7 @@ MountMortarB1FReceiveMonText:
 MountMortarB1FKiyoGotTyrogueText:
 	text "TYROGUE is"
 	line "fighty-type,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "It grows into"
 	line "a tougher #MON."

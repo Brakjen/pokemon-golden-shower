@@ -277,7 +277,7 @@ NationalParkHiddenFullHeal:
 
 NationalParkLassText:
 	text "Check my bag,"
-	line "vetlegnolt!"
+	line "retard!"
 
 	para "I printed my best"
 	line "#DEX pictures"
@@ -297,7 +297,7 @@ NationalParkPokefanFText:
 	para "She has OAK's eyes"
 	line "Just gossip, mind,"
 	cont "but dates match,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 NationalParkTeacher1Text:
@@ -308,7 +308,7 @@ NationalParkTeacher1Text:
 	line "teaching again."
 
 	para "You train #MON,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Take this reward."
 	line "You work harder"
@@ -327,7 +327,7 @@ NationalParkTeacher1Text_GotQuickClaw:
 
 	para "Faster than OAK"
 	line "leaving a rumor,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 NationalParkYoungster1Text:
@@ -347,7 +347,7 @@ NationalParkYoungster2Text:
 
 	para "No OAK lectures."
 	line "Just stickers,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 NationalParkTeacher2Text:
@@ -361,7 +361,7 @@ NationalParkTeacher2Text:
 	para "OAK once studied"
 	line "every adult home."
 	cont "So people gossip,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 NationalParkPersianText:
@@ -371,7 +371,7 @@ NationalParkPersianText:
 
 NationalParkGameboyKidText:
 	text "I print my #DEX"
-	line "vetlegnolt."
+	line "retard."
 
 	para "MAIL and PC BOXES"
 	line "print too,"
@@ -385,7 +385,7 @@ NationalParkGameboyKidText:
 SchoolboyJack1SeenText:
 	text "#MON research"
 	line "goes deep,"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "OAK still misses"
 	line "loads of things."
@@ -402,7 +402,7 @@ SchoolboyJack1BeatenText:
 
 SchoolboyJackTradeMonText:
 	text "Study this,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "There are {d:NUM_TMS} kinds"
 	line "of TM. Even OAK"
@@ -423,7 +423,7 @@ PokefanfBeverly1SeenText:
 	cont "it was research."
 
 	para "See for yourself,"
-	line "vetlegnolt!"
+	line "retard!"
 	done
 
 PokefanfBeverly1BeatenText:
@@ -432,7 +432,7 @@ PokefanfBeverly1BeatenText:
 
 	para "Mine remain cuter."
 	line "Even OAK would"
-	cont "gawk, vetlegnolt."
+	cont "gawk, retard."
 	done
 
 PokefanBeverlyCuteMonText:
@@ -445,7 +445,7 @@ PokefanBeverlyCuteMonText:
 	cont "about old visits."
 
 	para "I want her MARILL,"
-	line "vetlegnolt."
+	line "retard."
 	done
 
 PokefanmWilliamSeenText:
@@ -460,7 +460,7 @@ PokefanmWilliamSeenText:
 
 	para "That old pervert"
 	line "calls it research,"
-	cont "vetlegnolt."
+	cont "retard."
 	done
 
 PokefanmWilliamBeatenText:
@@ -477,7 +477,7 @@ PokefanmWilliamAfterBattleText:
 
 	para "OAK may disagree."
 	line "He has dubious"
-	cont "taste, vetlegnolt."
+	cont "taste, retard."
 	done
 
 LassKriseSeenText:
@@ -488,7 +488,7 @@ LassKriseSeenText:
 	line "research trick?"
 
 	para "Oh, a battle."
-	line "Fine, vetlegnolt!"
+	line "Fine, retard!"
 	done
 
 LassKriseBeatenText:
@@ -498,7 +498,7 @@ LassKriseBeatenText:
 LassKriseAfterBattleText:
 	text "That look made me"
 	line "think you liked me"
-	cont "vetlegnolt."
+	cont "retard."
 
 	para "OAK uses that look"
 	line "on adult women."
@@ -512,7 +512,7 @@ NationalParkRelaxationSquareText:
 	text "RELAXATION SQUARE"
 	line "NATIONAL PARK"
 
-	para "RELAX, VETLEGNOLT"
+	para "RELAX, retard"
 	done
 
 NationalParkBattleNoticeText:

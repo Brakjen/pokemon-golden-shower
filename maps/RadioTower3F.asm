@@ -157,7 +157,7 @@ RadioTower3FPokemonMusicSign:
 RadioTower3FSuperNerdText:
 	text "Baruch Hashem,"
 	line "We record #MON"
-	cont "cries, vetlegnolt."
+	cont "cries, ass hair."
 
 	para "Each #MON voice"
 	line "gets study,"
@@ -194,7 +194,7 @@ RadioTower3FGymGuideText:
 
 	para "I work round the"
 	line "clock too,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "Bad trainers"
 	line "neglect #MON."
@@ -204,7 +204,7 @@ RadioTower3FGymGuideText:
 
 RadioTower3FCooltrainerFPleaseSaveDirectorText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt. TEAM"
+	line "ass hair. TEAM"
 	cont "ROCKET boss locked"
 	cont "himself in."
 
@@ -237,7 +237,7 @@ RadioTower3FCooltrainerFIsDirectorSafeText:
 
 RadioTower3FCooltrainerFYoureMyHeroText:
 	text "Baruch Hashem,"
-	line "vetlegnolt. You"
+	line "ass hair. You"
 	cont "saved us. This is"
 	cont "a token."
 
@@ -277,7 +277,7 @@ RadioTower3FCooltrainerFYouWereMarvelousText:
 
 GruntM7SeenText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt. TEAM"
+	line "ass hair. TEAM"
 	cont "ROCKET says I"
 	cont "must crush all"
 	cont "challengers."
@@ -303,7 +303,7 @@ GruntM7BeatenText:
 
 GruntM7AfterBattleText:
 	text "Baruch Hashem,"
-	line "vetlegnolt. I"
+	line "ass hair. I"
 	cont "failed my duty."
 
 	para "They dock my pay,"
@@ -341,7 +341,7 @@ GruntM8BeatenText:
 
 GruntM8AfterBattleText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt. Losing"
+	line "ass hair. Losing"
 	cont "stings."
 
 	para "I blamed #MON."
@@ -370,7 +370,7 @@ GruntM9SeenText:
 
 GruntM9BeatenText:
 	text "Baruch Hashem,"
-	line "vetlegnolt. I am"
+	line "ass hair. I am"
 	cont "done."
 
 	para "Do not train"
@@ -412,7 +412,7 @@ ScientistMarcSeenText:
 
 ScientistMarcBeatenText:
 	text "Be'ezrat Hashem,"
-	line "vetlegnolt. I"
+	line "ass hair. I"
 	cont "misjudged you,"
 	cont "storeklovn."
 
@@ -437,7 +437,7 @@ ScientistMarcAfterBattleText:
 
 RadioTower3FCardKeySlotText:
 	text "Baruch Hashem,"
-	line "vetlegnolt."
+	line "ass hair."
 	cont "The CARD KEY"
 	cont "slot is here."
 
@@ -458,14 +458,14 @@ InsertedTheCardKeyText:
 	cont "#MON."
 
 	para "Do one good deed"
-	line "today, vetlegnolt."
+	line "today, ass hair."
 	done
 
 RadioTower3FPersonnelSignText:
 	text "3F PERSONNEL"
 
 	para "Be'ezrat Hashem,"
-	line "vetlegnolt."
+	line "ass hair."
 	cont "Sinful trainers"
 	cont "chase glory."
 

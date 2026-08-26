@@ -106,7 +106,7 @@ RadioTower4FStudio2Sign:
 RadioTower4FFisherText:
 	text "I had the radio"
 	line "on at the RUINS,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "Heard a mighty"
 	line "strange show,"
@@ -119,7 +119,7 @@ RadioTower4FFisherText:
 RadioTower4FDJMaryText:
 	text "MARY: Why am I"
 	line "stuck in this,"
-	cont "vetlegnolt?"
+	cont "ass hair?"
 
 	para "MEOWTH, help me,"
 	line "storeklovn!"
@@ -127,7 +127,7 @@ RadioTower4FDJMaryText:
 
 RadioTower4FDJMaryText_ClearedRockets:
 	text "MARY: You saved"
-	line "me, vetlegnolt!"
+	line "me, ass hair!"
 
 	para "Take this here,"
 	line "storeklovn."
@@ -138,25 +138,25 @@ RadioTower4FDJMaryText_GivePinkBow:
 	line "BOW suits #MON"
 
 	para "with normal-type"
-	line "moves, vetlegnolt."
+	line "moves, ass hair."
 	done
 
 RadioTower4FDJMaryText_After:
 	text "MARY: Tune into"
 	line "PROF.OAK'S #MON"
 
-	para "TALK, vetlegnolt."
+	para "TALK, ass hair."
 	done
 
 RadioTowerMeowthText:
 	text "MEOWTH: Meowth,"
-	line "vetlegnolt."
+	line "ass hair."
 	done
 
 GruntM10SeenText:
 	text "You want to save"
 	line "the DIRECTOR,"
-	cont "vetlegnolt?"
+	cont "ass hair?"
 
 	para "Ain't gonna happen"
 	line "while I'm here,"
@@ -172,12 +172,12 @@ GruntM10BeatenText:
 
 GruntM10AfterBattleText:
 	text "I got beat,"
-	line "vetlegnolt."
+	line "ass hair."
 	done
 
 Executivem2SeenText:
 	text "Hold it,"
-	line "vetlegnolt."
+	line "ass hair."
 
 	para "They call me the"
 	line "TEAM ROCKET fort,"
@@ -195,7 +195,7 @@ Executivem2BeatenText:
 Executivem2AfterBattleText:
 	text "You earned some"
 	line "respect,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "Here is my advice,"
 	line "storeklovn:"
@@ -204,7 +204,7 @@ Executivem2AfterBattleText:
 
 GruntF4SeenText:
 	text "Ain't #MON"
-	line "cute, vetlegnolt?"
+	line "cute, ass hair?"
 
 	para "Mine get cute"
 	line "after they beat"
@@ -220,7 +220,7 @@ GruntF4BeatenText:
 GruntF4AfterBattleText:
 	text "I love my"
 	line "pretty self,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "Who needs #MON,"
 	line "storeklovn?"
@@ -228,7 +228,7 @@ GruntF4AfterBattleText:
 
 ScientistRichSeenText:
 	text "Well, ain't this"
-	line "fine, vetlegnolt."
+	line "fine, ass hair."
 
 	para "This RADIO TOWER"
 	line "will make our big"
@@ -247,14 +247,14 @@ ScientistRichAfterBattleText:
 	text "You really reckon"
 	line "you can stop TEAM"
 	cont "ROCKET?"
-	cont "Vetlegnolt."
+	cont "ass hair."
 	done
 
 RadioTower4FProductionSignText:
 	text "4F PRODUCTION"
 
 	para "Where we make"
-	line "noise, vetlegnolt."
+	line "noise, ass hair."
 	done
 
 RadioTower4FStudio2SignText:

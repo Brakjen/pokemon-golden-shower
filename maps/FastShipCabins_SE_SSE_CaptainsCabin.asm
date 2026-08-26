@@ -230,7 +230,7 @@ SSAquaGrandpaApproachesPlayerMovement:
 
 SSAquaCaptainExhaustingText:
 	text "Goo! You here,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "Wittle girl play"
 	line "all day."
@@ -252,7 +252,7 @@ SSAquaCantFindGranddaughterText:
 	line "girl gone!"
 
 	para "Pwease find her,"
-	line "vetlegnolt."
+	line "ballcradler."
 
 	para "She wikes"
 	line "CAPTAIN's room."
@@ -277,7 +277,7 @@ SSAquaGrandpaTravellingText:
 	line "the big world."
 
 	para "Ship go zoom zoom,"
-	line "vetlegnolt!"
+	line "ballcradler!"
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
@@ -285,7 +285,7 @@ SSAquaGranddaughterCaptainPlayWithMeText:
 	line "me, pwease!"
 
 	para "Me bored bored,"
-	line "vetlegnolt!"
+	line "ballcradler!"
 	done
 
 SSAquaGranddaughterHasToFindGrandpaText:
@@ -304,7 +304,7 @@ SSAquaGranddaughterWasPlayingMText:
 	line "Me pwayed with"
 
 	para "CAPTAIN and this"
-	line "fwend, vetlegnolt!"
+	line "fwend, ballcradler!"
 	done
 
 SSAquaGranddaughterHadFunText:
@@ -317,7 +317,7 @@ SSAquaGranddaughterHadFunText:
 
 PokefanmColinSeenText:
 	text "Goo goo! Battle"
-	line "me, vetlegnolt!"
+	line "me, ballcradler!"
 	done
 
 PokefanmColinBeatenText:
@@ -337,7 +337,7 @@ PokefanmColinAfterBattleText:
 TwinsMegandpeg1SeenText:
 	text "No no! We not"
 	line "babies!"
-	cont "Vetlegnolt!"
+	cont "ballcradler!"
 	done
 
 TwinsMegandpeg1BeatenText:
@@ -359,13 +359,13 @@ TwinsMegandpeg2SeenText:
 
 TwinsMegandpeg2BeatenText:
 	text "Oh! We lose!"
-	line "Vetlegnolt!"
+	line "ballcradler!"
 	done
 
 TwinsMegandpeg2AfterBattleText:
 	text "Kids know stuff."
 	line "Grown-ups silly,"
-	cont "vetlegnolt."
+	cont "ballcradler."
 	done
 
 PsychicRodneySeenText:
@@ -375,7 +375,7 @@ PsychicRodneySeenText:
 
 PsychicRodneyBeatenText:
 	text "Me hear too much!"
-	line "Vetlegnolt!"
+	line "ballcradler!"
 	done
 
 PsychicRodneyAfterBattleText:
@@ -388,7 +388,7 @@ PsychicRodneyAfterBattleText:
 
 PokefanmJeremySeenText:
 	text "My #MON pwetty."
-	line "Vetlegnolt!"
+	line "ballcradler!"
 	done
 
 PokefanmJeremyBeatenText:
@@ -405,7 +405,7 @@ PokefanmJeremyAfterBattleText:
 
 PokefanfGeorgiaSeenText:
 	text "Me go big big"
-	line "shop, vetlegnolt!"
+	line "shop, ballcradler!"
 	done
 
 PokefanfGeorgiaBeatenText:
@@ -424,7 +424,7 @@ PokefanfGeorgiaAfterBattleText:
 SupernerdShawnSeenText:
 	text "Show me your"
 	line "# BALLS."
-	cont "Vetlegnolt!"
+	cont "ballcradler!"
 	done
 
 SupernerdShawnBeatenText:
@@ -445,7 +445,7 @@ SSAquaHasArrivedVermilionText:
 	line "at VERMILION CITY."
 
 	para "All done,"
-	line "vetlegnolt!"
+	line "ballcradler!"
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

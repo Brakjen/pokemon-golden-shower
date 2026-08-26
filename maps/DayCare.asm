@@ -49,7 +49,7 @@ DayCareBookshelf:
 
 Text_GrampsLookingForYou:
 	text "Gramps went out,"
-	line "vetlegnolt."
+	line "wanker."
 
 	para "An egg needs care."
 	line "Find him outside."

@@ -100,7 +100,7 @@ ManiasHouseUnusedBookshelf: ; unreferenced
 
 ManiaText_AskLookAfterShuckle:
 	text "Attend me,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "A long-haired"
 	line "youth with a"
@@ -132,7 +132,7 @@ ManiaText_TakeCareOfShuckle:
 	line "with more care"
 	cont "than thy manners"
 	cont "suggest."
-	cont "Vetlegnolt."
+	cont "retard."
 	done
 
 ManiaText_GotShuckle:
@@ -153,7 +153,7 @@ ManiaText_PartyFull:
 
 ManiaText_IfHeComesBack:
 	text "Thou refusest,"
-	line "vetlegnolt?"
+	line "retard?"
 
 	para "If that brute"
 	line "returns, I shall"
@@ -175,7 +175,7 @@ ManiaText_CanIHaveMyMonBack:
 
 ManiaText_ThankYou:
 	text "My thanks,"
-	line "vetlegnolt."
+	line "retard."
 
 	para "Thou hast managed"
 	line "basic propriety."
@@ -192,7 +192,7 @@ ManiaText_ShuckleNotThere:
 
 ManiaText_ShuckleLikesYou:
 	text "My #MON favors"
-	line "thee, vetlegnolt."
+	line "thee, retard."
 
 	para "Unexpectedly, thy"
 	line "care hath merit."
@@ -220,7 +220,7 @@ ManiaText_HappinessSpeech:
 
 	para "Even one of thy"
 	line "station may learn"
-	cont "that, vetlegnolt."
+	cont "that, retard."
 	done
 
 ManiaText_ShuckleIsYourLastMon:

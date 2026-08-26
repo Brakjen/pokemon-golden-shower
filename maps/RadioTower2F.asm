@@ -109,7 +109,7 @@ RadioTower2FBookshelf:
 RadioTower2FSuperNerdText:
 	text "Radio reaches"
 	line "anywhere,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "Tune in. Many"
 	line "voices all belong."
@@ -137,7 +137,7 @@ RadioTower2FTeacherText_Rockets:
 RadioTowerJigglypuffText:
 	text "JIGGLYPUFF:"
 	line "Jiggly,"
-	cont "vetlegnolt!"
+	cont "ass hair!"
 	done
 
 RadioTower2FBlackBelt1Text:
@@ -155,7 +155,7 @@ RadioTower2FBlackBelt1Text:
 
 RadioTower2FBlackBelt2Text:
 	text "Explore freely,"
-	line "vetlegnolt."
+	line "ass hair."
 
 	para "The DIRECTOR is"
 	line "kind again. We got"
@@ -176,7 +176,7 @@ GruntM4SeenText:
 
 GruntM4BeatenText:
 	text "Do not get proud,"
-	line "vetlegnolt!"
+	line "ass hair!"
 	done
 
 GruntM4AfterBattleText:
@@ -192,7 +192,7 @@ GruntM5SeenText:
 
 	para "We take what we"
 	line "want. Scared,"
-	cont "vetlegnolt?"
+	cont "ass hair?"
 
 	para "Then battle me."
 	done
@@ -224,7 +224,7 @@ GruntM6BeatenText:
 GruntM6AfterBattleText:
 	text "Our EXECUTIVES"
 	line "plan to take over,"
-	cont "vetlegnolt."
+	cont "ass hair."
 
 	para "They have a big"
 	line "plan. I do not"
@@ -240,7 +240,7 @@ GruntF2SeenText:
 	para "How dull."
 
 	para "Keep me amused,"
-	line "vetlegnolt!"
+	line "ass hair!"
 	cont "Battle me!"
 	done
 
@@ -274,7 +274,7 @@ RadioTower2FPokemonRadioSignText:
 	line "#MON RADIO"
 
 	para "TUNE IN"
-	line "VETLEGNOLT"
+	line "ass hair"
 	done
 
 RadioTower2F_MapEvents:

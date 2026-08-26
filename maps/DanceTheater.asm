@@ -131,7 +131,7 @@ KimonoGirlNaokoSeenText:
 	text "Thy #MON show"
 	line "some breeding."
 	cont "Battle me,"
-	cont "vetlegnolt."
+	cont "wanker."
 	done
 
 KimonoGirlNaokoBeatenText:
@@ -164,7 +164,7 @@ KimonoGirlSayoAfterBattleText:
 	text "Rhythm governs"
 	line "dance and #MON."
 	cont "Learn it,"
-	cont "vetlegnolt."
+	cont "wanker."
 	done
 
 KimonoGirlZukiSeenText:
@@ -243,7 +243,7 @@ SurfGuyNeverLeftAScratchText:
 SurfGuyLadGiftText:
 	text "Defeat all five"
 	line "dancers,"
-	cont "vetlegnolt."
+	cont "wanker."
 
 	para "Then earn a gift"
 	line "from me."
@@ -288,7 +288,7 @@ DanceTheaterCooltrainerMText:
 	line "to SURF and dance."
 
 	para "Curious ambition,"
-	line "vetlegnolt."
+	line "wanker."
 	done
 
 DanceTheaterGrannyText:

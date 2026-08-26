@@ -33,7 +33,7 @@ DarkCaveBlackthornEntranceTMSnore:
 
 DarkCaveBlackthornEntrancePharmacistText1:
 	text "You startled me,"
-	line "vetlegnolt."
+	line "wanker."
 
 	para "I came for quiet."
 	line "I'm trans. That"

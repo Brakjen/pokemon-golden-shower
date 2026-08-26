@@ -27,7 +27,7 @@ CherrygroveEvolutionSpeechHouseBookshelf:
 CherrygroveEvolutionSpeechHouseYoungsterText:
 	text "#MON may change"
 	line "through battle,"
-	cont "vetlegnolt."
+	cont "cocksucker."
 
 	para "Such change is"
 	line "an amanah."
