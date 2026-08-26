@@ -47,6 +47,7 @@ RuinsOfAlphHoOhChamberAncientReplicaText:
 	text "It's a replica of"
 	line "an ancient #-"
 	cont "MON."
+	cont "Behold its scrotum"
 	done
 
 RuinsOfAlphHoOhChamberDescriptionText:
@@ -54,7 +55,7 @@ RuinsOfAlphHoOhChamberDescriptionText:
 	line "flew gracefully on"
 
 	para "rainbow-colored"
-	line "wings."
+	line "dicks."
 	done
 
 RuinsOfAlphHoOhChamber_MapEvents:

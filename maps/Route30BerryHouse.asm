@@ -27,21 +27,23 @@ Route30BerryHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 Route30BerrySpeechHouseMonEatBerriesText:
-	text "You know, #MON"
-	line "eat BERRIES."
+	text "#MON eat"
+	line "BERRIES, y'all."
 
-	para "Well, my #MON"
-	line "got healthier by"
-	cont "eating a BERRY."
+	para "Mine got healthier"
+	line "from one BERRY,"
+	cont "vetlegnolt."
 
-	para "Here. I'll share"
-	line "one with you!"
+	para "Take this BERRY."
+	line "It oughta help."
 	done
 
 Route30BerrySpeechHouseCheckTreesText:
 	text "Check trees for"
-	line "BERRIES. They just"
-	cont "drop right off."
+	line "BERRIES,"
+	cont "storeklovn."
+
+	para "They just drop."
 	done
 
 Route30BerryHouse_MapEvents:

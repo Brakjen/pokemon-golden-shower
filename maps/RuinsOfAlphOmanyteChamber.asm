@@ -46,11 +46,11 @@ RuinsOfAlphOmanyteChamberDescriptionSign:
 RuinsOfAlphOmanyteChamberAncientReplicaText:
 	text "It's a replica of"
 	line "an ancient #-"
-	cont "MON."
+	cont "COCK."
 	done
 
 RuinsOfAlphOmanyteChamberDescriptionText:
-	text "This #MON"
+	text "This #COCK"
 	line "drifted in the"
 
 	para "sea by twisting"

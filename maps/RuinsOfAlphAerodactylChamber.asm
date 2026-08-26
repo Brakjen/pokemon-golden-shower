@@ -47,6 +47,8 @@ RuinsOfAlphAerodactylChamberAncientReplicaText:
 	text "It's a replica of"
 	line "an ancient #-"
 	cont "MON."
+	cont "Behold its ancient"
+	cont "penis."
 	done
 
 RuinsOfAlphAerodactylChamberDescriptionText:
@@ -55,6 +57,12 @@ RuinsOfAlphAerodactylChamberDescriptionText:
 
 	para "prey with saw-like"
 	line "fangs."
+	cont "I hear that the"
+	cont "#Professor Oak"
+	cont "thinks it flies"
+	cont "with its dick"
+	cont "flapping in sync"
+	cont "with its wings."
 	done
 
 RuinsOfAlphAerodactylChamber_MapEvents:

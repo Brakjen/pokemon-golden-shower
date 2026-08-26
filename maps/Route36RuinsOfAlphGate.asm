@@ -18,15 +18,20 @@ Route36RuinsOfAlphGateOfficerText:
 	line "who'd make some-"
 	cont "thing like this?"
 	cont "And why?"
+	cont "Must be one sick"
+	cont "fuck, I'd say."
 	done
 
 Route36RuinsOfAlphGateGrampsText:
 	text "Did you see that"
 	line "strange tree in"
 	cont "the road?"
+	cont "Like a cock with"
+	cont "a face on it."
+	cont "Hmm, I wonder..."
 
 	para "That may explain"
-	line "why fewer people"
+	line "why more women"
 
 	para "are visiting the"
 	line "RUINS OF ALPH."

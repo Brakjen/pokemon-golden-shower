@@ -40,13 +40,14 @@ RuinsOfAlphInnerChamberStatue:
 
 RuinsOfAlphStrangePresenceText:
 	text "There is a strange"
-	line "presence here…"
+	line "and spermy"
+	cont "presence here…"
 	done
 
 RuinsOfAlphInnerChamberFisherText:
 	text "This is a big"
 	line "room, but there's"
-	cont "nothing here."
+	cont "no sperm here."
 	done
 
 RuinsOfAlphInnerChamberTeacherText:
@@ -55,13 +56,13 @@ RuinsOfAlphInnerChamberTeacherText:
 	cont "to it."
 
 	para "It feels sort of"
-	line "ethereal even."
+	line "sperm like.."
 	done
 
 RuinsOfAlphInnerChamberGrampsText:
 	text "Ancient buildings"
 	line "are often tombs of"
-	cont "kings."
+	cont "sperm kings."
 
 	para "Like the pyramids,"
 	line "for instance."
@@ -70,7 +71,7 @@ RuinsOfAlphInnerChamberGrampsText:
 RuinsOfAlphInnerChamberStatueText:
 	text "It's a replica of"
 	line "an ancient #-"
-	cont "MON."
+	cont "DICK."
 	done
 
 RuinsOfAlphInnerChamber_MapEvents:

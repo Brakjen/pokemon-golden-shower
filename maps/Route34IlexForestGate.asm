@@ -45,6 +45,9 @@ Route34IlexForestGateTeacherText:
 
 	para "appear. Try using"
 	line "this TM."
+	cont "I made it from my"
+	cont "special bodily"
+	cont "fluids and juices."
 	done
 
 Route34IlexForestGateTeacher_GotSweetScent:
@@ -55,10 +58,12 @@ Route34IlexForestGateTeacher_GotSweetScent:
 
 	para "#MON will be"
 	line "enticed by it."
+	cont "Just beware. They"
+	cont "may want a mating."
 	done
 
 Route34IlexForestGateButterfreeText:
-	text "BUTTERFREE: Freeh!"
+	text "BUTTERFREE: Freak!"
 	done
 
 Route34IlexForestGateLassText:
@@ -71,8 +76,11 @@ Route34IlexForestGateLassText:
 	cont "across time."
 
 	para "I think that it"
-	line "must be a grass-"
+	line "must be a sperm-"
 	cont "type #MON."
+	cont "I have seen large"
+	cont "puddles of semen"
+	cont "in the FOREST."
 	done
 
 Route34IlexForestGate_MapEvents:

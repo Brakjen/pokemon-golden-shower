@@ -42,21 +42,23 @@ SproutTower1FStatue:
 
 SageChowSeenText:
 	text "We stand guard in"
-	line "this tower."
+	line "this tower,"
+	cont "maddafakka."
 
 	para "Here, we express"
 	line "our gratitude to"
-	cont "honor all #MON."
+	cont "honor all #COCKS."
 	done
 
 SageChowBeatenText:
 	text "Th-Thank you!"
+	line "Good rimjob."
 	done
 
 SageChowAfterBattleText:
 	text "All living beings"
 	line "coexist through"
-	cont "cooperation."
+	cont "testicle massages."
 
 	para "We must always be"
 	line "thankful for this."
@@ -65,7 +67,8 @@ SageChowAfterBattleText:
 SproutTower1FSage1Text:
 	text "Only if you reach"
 	line "the top will you"
-	cont "obtain an HM."
+	cont "obtain a sperm"
+	cont "eruption."
 	done
 
 SproutTower1FSage2Text:
@@ -73,7 +76,10 @@ SproutTower1FSage2Text:
 	line "built long ago"
 
 	para "as a place for"
-	line "#MON training."
+	line "#MON gurgling"
+	cont "on the #COCKS"
+	cont "of their fellow"
+	cont "#MON."
 	done
 
 SproutTower1FGrannyText:
@@ -82,7 +88,20 @@ SproutTower1FGrannyText:
 
 	para "People say that it"
 	line "became the center"
-	cont "pillar here."
+	cont "pillar here,"
+	cont "that that its"
+	cont "juicy eruption"
+	cont "could fill the"
+	cont "entire tower."
+
+	para "Oh, how I wish I"
+	line "could have swimmed"
+	cont "in that gurgling"
+	cont "eruption."
+
+	para "I would have"
+	line "been a happy old"
+	cont "granny."
 	done
 
 SproutTower1FTeacherText:
@@ -90,14 +109,16 @@ SproutTower1FTeacherText:
 	line "shaking?"
 
 	para "People are train-"
-	line "ing upstairs."
+	line "ing their big"
+	cont "#COCKS upsta-"
+	cont "irs."
 	done
 
 SproutTower1FStatueText:
 	text "A #MON statue…"
 
 	para "It looks very"
-	line "distinguished."
+	line "much like a cock."
 	done
 
 SproutTower1F_MapEvents:

@@ -248,168 +248,187 @@ DudeMovementData2b:
 
 CatchingTutorialBoxFullText:
 	text "#MON hide in"
-	line "the grass. Who"
+	line "grass."
+	cont "Dingleberry."
 
-	para "knows when they'll"
-	line "pop out…"
+	para "Pride profits not."
+	line "Care for #MON."
 	done
 
 CatchingTutorialIntroText:
-	text "I've seen you a"
-	line "couple times. How"
+	text "I have seen thee,"
+	line "vetlegnolt."
 
-	para "many #MON have"
-	line "you caught?"
+	para "How many #MON"
+	line "hast thou caught?"
 
-	para "Would you like me"
-	line "to show you how to"
-	cont "catch #MON?"
+	para "Shall I teach thee"
+	line "to catch #MON?"
 	done
 
 CatchingTutorialDebriefText:
-	text "That's how you do"
-	line "it."
+	text "Thus is it done,"
+	line "storeklovn."
 
-	para "If you weaken them"
-	line "first, #MON are"
-	cont "easier to catch."
+	para "Weaken #MON."
+	line "Then they yield."
+	cont "Use strength with"
+	cont "mercy."
+	cont "Dingleberry."
 	done
 
 CatchingTutorialDeclinedText:
-	text "Oh. Fine, then."
+	text "As thou wilt,"
+	line "dingleberry."
 
-	para "Anyway, if you"
-	line "want to catch"
-
-	para "#MON, you have"
-	line "to walk a lot."
+	para "To catch #MON,"
+	line "walk far and be"
+	cont "patient."
+	cont "Vetlegnolt."
 	done
 
 CatchingTutorialRepeatText:
-	text "Huh? You want me"
-	line "to show you how to"
-	cont "catch #MON?"
+	text "Again thou seekest"
+	line "instruction,"
+	cont "storeklovn?"
+
+	para "I shall show thee"
+	line "how to catch"
+	cont "#MON."
 	done
 
 Route29YoungsterText:
-	text "Yo. How are your"
+	text "How fare thy"
 	line "#MON?"
+	cont "Vetlegnolt."
 
-	para "If they're weak"
-	line "and not ready for"
+	para "If they are weak,"
+	line "avoid the grass."
 
-	para "battle, keep out"
-	line "of the grass."
+	para "Battle not for"
+	line "vain praise,"
+	cont "dingleberry."
 	done
 
 Route29TeacherText:
-	text "See those ledges?"
-	line "It's scary to jump"
-	cont "off them."
+	text "Behold ledges,"
+	line "storeklovn."
 
-	para "But you can go to"
-	line "NEW BARK without"
+	para "Leap not."
+	line "They are perilous."
 
-	para "walking through"
-	line "the grass."
+	para "Reach NEW BARK"
+	line "without crossing"
+	cont "the grass,"
+	cont "dingleberry."
 	done
 
 Route29FisherText:
-	text "I wanted to take a"
-	line "break, so I saved"
+	text "I rest and record"
+	line "my progress,"
+	cont "vetlegnolt."
 
-	para "to record my"
-	line "progress."
+	para "Worldly records"
+	line "fade away."
+	cont "Practice humility,"
+	cont "storeklovn."
 	done
 
 Route29CooltrainerMText_WaitingForDay: ; unreferenced
-	text "I'm waiting for"
-	line "#MON that"
+	text "I await #MON"
+	line "seen in daytime,"
+	cont "dingleberry."
 
-	para "appear only in the"
-	line "daytime."
+	para "Seek not empty"
+	line "glory, vetlegnolt."
 	done
 
 Route29CooltrainerMText_WaitingForNight:
-	text "I'm waiting for"
-	line "#MON that"
+	text "I await #MON"
+	line "seen only at"
+	cont "night."
+	cont "Dingleberry."
 
-	para "appear only at"
-	line "night."
+	para "Seek not empty"
+	line "glory, vetlegnolt."
 	done
 
 Route29CooltrainerMText_WaitingForMorning:
-	text "I'm waiting for"
-	line "#MON that"
+	text "I await #MON"
+	line "seen in morning."
+	cont "Storeklovn."
 
-	para "appear only in the"
-	line "morning."
+	para "Pride is vanity."
+	line "Walk humbly."
 	done
 
 MeetTuscanyText:
-	text "TUSCANY: I do be-"
-	line "lieve that this is"
+	text "I think we meet"
+	line "for the first"
+	cont "time, vetlegnolt."
 
-	para "the first time"
-	line "we've met?"
-
-	para "Please allow me to"
-	line "introduce myself."
-
-	para "I am TUSCANY of"
-	line "Tuesday."
+	para "I am TUSCANY,"
+	line "of Tuesday."
+	cont "Let humility guide"
+	cont "thy greeting."
 	done
 
 TuscanyGivesGiftText:
-	text "By way of intro-"
-	line "duction, please"
-
-	para "accept this gift,"
-	line "a PINK BOW."
+	text "As greeting,"
+	line "this gift,"
+	cont "a PINK BOW,"
+	cont "Storeklovn."
 	done
 
 TuscanyGaveGiftText:
-	text "TUSCANY: Wouldn't"
-	line "you agree that it"
-	cont "is most adorable?"
+	text "It is most fair,"
+	line "dingleberry."
 
 	para "It strengthens"
 	line "normal-type moves."
 
-	para "I am certain it"
-	line "will be of use."
+	para "Use it with care,"
+	line "not vain display."
 	done
 
 TuscanyTuesdayText:
-	text "TUSCANY: Have you"
-	line "met MONICA, my"
-	cont "older sister?"
+	text "Have you met"
+	line "MONICA, my sister,"
+	cont "vetlegnolt?"
 
-	para "Or my younger"
-	line "brother, WESLEY?"
+	para "Or WESLEY,"
+	line "my younger kin?"
 
-	para "I am the second of"
-	line "seven children."
+	para "I am second of"
+	line "seven children,"
+	cont "storeklovn."
 	done
 
 TuscanyNotTuesdayText:
-	text "TUSCANY: Today is"
-	line "not Tuesday. That"
-	cont "is unfortunate…"
+	text "Today is not"
+	line "Tuesday."
+	cont "Dingleberry."
+	cont "Such vanity fades."
 	done
 
 Route29Sign1Text:
-	text "ROUTE 29"
+	text "ROUTE 29,"
+	line "vetlegnolt."
 
 	para "CHERRYGROVE CITY -"
 	line "NEW BARK TOWN"
+
+	para "Walk humbly."
 	done
 
 Route29Sign2Text:
-	text "ROUTE 29"
+	text "ROUTE 29,"
+	line "storeklovn."
 
 	para "CHERRYGROVE CITY -"
 	line "NEW BARK TOWN"
+
+	para "Care for #MON."
 	done
 
 Route29_MapEvents:

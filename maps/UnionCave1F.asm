@@ -88,22 +88,40 @@ HikerRussellSeenText:
 	text "You're headed to"
 	line "AZALEA, are you?"
 
+	para "That's… good."
+	line "Very good."
+
 	para "Let my #MON see"
 	line "if you are good"
 	cont "enough to battle."
+
+	para "I like to know"
+	line "what kind of"
+	cont "company I'm"
+	cont "keeping."
 	done
 
 HikerRussellBeatenText:
-	text "Oh, oh, oh!"
+	text "Oh… oh…"
+	line "You won."
 	done
 
 HikerRussellAfterBattleText:
-	text "All right, then!"
+	text "All right, then."
 	line "I've decided."
 
 	para "I'm not leaving"
 	line "until my #MON"
-	cont "get tougher!"
+	cont "get tougher."
+
+	para "Neither are you,"
+	line "if you stay much"
+	cont "longer."
+
+	para "The cave gets so"
+	line "quiet at night."
+	cont "You can hear"
+	cont "everything."
 	done
 
 PokemaniacLarrySeenText:
@@ -115,7 +133,15 @@ PokemaniacLarrySeenText:
 	line "for #MON too?"
 
 	para "Then you're my"
-	line "collecting rival!"
+	line "collecting rival…"
+
+	para "Or maybe something"
+	line "else."
+
+	para "I've been waiting"
+	line "for someone who"
+	cont "walks this deep"
+	cont "alone."
 	done
 
 PokemaniacLarryBeatenText:
@@ -129,28 +155,53 @@ PokemaniacLarryAfterBattleText:
 
 	para "roars from deep"
 	line "inside the cave."
+
+	para "Sometimes they"
+	line "don't sound like"
+	cont "#MON at all."
+
+	para "If you ever want"
+	line "to go deeper…"
+	cont "I know the way."
+
+	para "I always know the"
+	line "way."
 	done
 
 HikerDanielSeenText:
-	text "Whoa! What a"
-	line "surprise!"
+	text "Whoa… What a"
+	line "surprise."
 
 	para "I didn't expect to"
-	line "see anyone here!"
+	line "see anyone here."
+
+	para "Most people who"
+	line "come this far"
+	cont "don't come back"
+	cont "the same way."
 	done
 
 HikerDanielBeatenText:
-	text "Whoa! I'm beaten"
-	line "big time!"
+	text "Whoa… I'm beaten"
+	line "big time."
 	done
 
 HikerDanielAfterBattleText:
 	text "I was conned into"
 	line "buying a SLOWPOKE-"
-	cont "TAIL."
+	cont "TAIL once."
 
 	para "I feel sorry for"
 	line "the poor #MON."
+
+	para "…You look tired."
+	line "There's a place"
+	cont "deeper in where"
+	cont "you could rest."
+
+	para "I could show you."
+	line "No one would"
+	cont "bother us."
 	done
 
 FirebreatherBillSeenText:
@@ -159,11 +210,16 @@ FirebreatherBillSeenText:
 	cont "my #MON."
 
 	para "I'm seriously"
-	line "upset about that!"
+	line "upset about that."
+
+	para "It makes it hard"
+	line "to keep track of"
+	cont "who is still…"
+	cont "standing."
 	done
 
 FirebreatherBillBeatenText:
-	text "I flamed out!"
+	text "I flamed out."
 	done
 
 FirebreatherBillAfterBattleText:
@@ -172,6 +228,16 @@ FirebreatherBillAfterBattleText:
 
 	para "roars from deep in"
 	line "the cave."
+
+	para "I stay and listen."
+	line "Sometimes I think"
+	cont "they're calling"
+	cont "for company."
+
+	para "If you hear them"
+	line "too… come find"
+	cont "me. I'll keep you"
+	cont "safe. Very safe."
 	done
 
 FirebreatherRaySeenText:
@@ -181,6 +247,12 @@ FirebreatherRaySeenText:
 	para "If you're strong,"
 	line "#MON aren't"
 	cont "scary."
+
+	para "But the dark still"
+	line "has teeth."
+
+	para "And it remembers"
+	line "faces."
 	done
 
 FirebreatherRayBeatenText:
@@ -191,6 +263,15 @@ FirebreatherRayAfterBattleText:
 	text "It's my #MON's"
 	line "fire that lights"
 	cont "up this cave."
+
+	para "Without it, you"
+	line "wouldn't see me"
+	cont "coming."
+
+	para "…You have a nice"
+	line "face. I hope the"
+	cont "dark doesn't take"
+	cont "it from you."
 	done
 
 UnionCave1FUnusedSignText:

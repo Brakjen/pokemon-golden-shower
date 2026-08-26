@@ -227,166 +227,159 @@ Route44HiddenElixer:
 	hiddenitem ELIXER, EVENT_ROUTE_44_HIDDEN_ELIXER
 
 FisherWilton1SeenText:
-	text "Aack! You made me"
-	line "lose a POLIWAG!"
+	text "FUUCK! POLIWAG got"
+	line "away from me!"
 
-	para "What are you going"
-	line "to do about it?"
+	para "What will you do?"
+	line "Find it. Milk it."
 	done
 
 FisherWilton1BeatenText:
-	text "Just forget about"
-	line "it."
+	text "Forget it."
+	line "I need rest."
 	done
 
 FisherWiltonHugePoliwagText:
-	text "That POLIWAG that"
-	line "got away…"
-	cont "It was huge."
+	text "That POLIWAG got"
+	line "away... Huge!"
 
-	para "I swear it must've"
-	line "been 16 feet long!"
+	para "Sixteen feet long!"
+	line "I swear it!"
+	cont "Monster cock."
 	done
 
 FisherEdgarSeenText:
 	text "I fish until I"
-	line "can't anymore."
+	line "cannot go on."
 
-	para "I also battle"
-	line "until I drop."
+	para "I battle until I"
+	line "drop, then milk it"
 
-	para "That's my"
-	line "relationship"
-	cont "with my #MON."
+	para "That is my bond"
+	line "with my #MON."
 	done
 
 FisherEdgarBeatenText:
-	text "Hmmmm… "
-	line "This isn't right."
+	text "Wut... This is not"
+	line "Wrong. Milk."
 	done
 
 FisherEdgarAfterBattleText:
-	text "That's 100 wins"
+	text "That is 100 wins"
 	line "to 101 losses."
 
-	para "I won't battle"
-	line "again for a while."
+	para "I will not battle"
+	line "for a while. Rest."
 	done
 
 BirdKeeperVance1SeenText:
-	text "Do you know about"
-	line "the legendary bird"
-	cont "#MON?"
+	text "Know the legendary"
+	line "bird #MON?"
+	cont "I can tell you."
 	done
 
 BirdKeeperVance1BeatenText:
-	text "Whew! You're hot"
-	line "stuff."
+	text "Whew! You are"
+	line "strong stuff."
+	cont "Now go milk it."
 	done
 
 BirdKeeperVanceLegendaryBirdsText:
 	text "ARTICUNO, ZAPDOS"
 	line "and MOLTRES are"
 
-	para "the three legend-"
-	line "ary bird #MON."
+	para "three legendary"
+	line "bird #MON."
 
-	para "I heard there are"
-	line "other legendary"
-	cont "birds, though."
+	para "I heard of other"
+	line "legendary birds."
 	done
 
 PsychicPhilSeenText:
-	text "I'm gonna win,"
-	line "for sure!"
+	text "I will win,"
+	line "for sure! Milk it."
 	done
 
 PsychicPhilBeatenText:
-	text "Arrgh… That's a"
-	line "shocking loss…"
+	text "FUCK... Shocking"
+	line "loss. Need milk."
 	done
 
 PsychicPhilAfterBattleText:
-	text "It's important to"
-	line "have conviction"
-	cont "on your side."
+	text "Conviction counts."
+	line "Rest matters too."
+	cont "Then milk it."
 	done
 
 PokemaniacZachSeenText:
-	text "I'll do anything"
-	line "to get my hands on"
-	cont "rare #MON!"
+	text "Rare #MON!"
+	line "I will search for"
+	cont "them everywhere."
 	done
 
 PokemaniacZachBeatenText:
-	text "Oooh, your #MON"
-	line "are so appealing."
+	text "Ooh, your #MON"
+	line "are so sexy!"
 	done
 
 PokemaniacZachAfterBattleText:
 	text "If a #MON has"
 	line "different colors"
 
-	para "from usual, it's"
-	line "more valuable."
+	para "Odd colors, yes."
+	line "worth more."
 
 	para "What? You mean"
-	line "that's not true?"
+	line "that is not true?"
 	done
 
 CooltrainermAllenSeenText:
-	text "I can tell you're"
-	line "a good trainer by"
-	cont "looking at you."
+	text "You look like a"
+	line "good trainer."
+	cont "Show me. Milk."
 
-	para "I'm good at #-"
-	line "MON, and I can see"
-	cont "that you are too."
+	para "I am good with"
+	line "#MON. Show me."
 	done
 
 CooltrainermAllenBeatenText:
-	text "Tch! It's a total"
-	line "loss on my part."
+	text "Tch! A total loss."
+	line "I need to milk it."
 	done
 
 CooltrainermAllenAfterBattleText:
-	text "Wow. You have a"
-	line "lot of BADGES."
+	text "You have many"
+	line "BADGES."
 
-	para "No wonder you're"
+	para "No wonder you are"
 	line "so tough."
 
-	para "I wonder if"
-	line "ECRUTEAK GYM's"
+	para "Is ECRUTEAK GYM's"
+	line "MORTY training?"
 
-	para "MORTY is still in"
-	line "training?"
-
-	para "He really hammered"
-	line "me."
+	para "He really beat me."
 	done
 
 CooltrainerfCybilSeenText:
 	text "You look strong."
 
 	para "Good trainers seek"
-	line "tough opponents"
-	cont "instinctively."
+	line "tough opponents."
+	cont "Then they milk it."
 	done
 
 CooltrainerfCybilBeatenText:
-	text "Nope! This won't"
-	line "do at all."
+	text "Nope! Not enough."
+	line "do. Milk it. Train"
 	done
 
 CooltrainerfCybilAfterBattleText:
-	text "We all get better"
-	line "by experiencing"
-	cont "many battles."
+	text "We improve through"
+	line "many battles."
 
-	para "I battled a lot to"
-	line "become what I am"
-	cont "today--an elite."
+	para "I battled much to"
+	line "become an elite."
+	cont "Rest, then laekja."
 	done
 
 Route44Sign1Text:

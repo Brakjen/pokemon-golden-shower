@@ -1,4 +1,4 @@
-	object_const_def
+¨	object_const_def
 	const ROUTE31VIOLETGATE_OFFICER
 	const ROUTE31VIOLETGATE_COOLTRAINER_F
 
@@ -17,12 +17,18 @@ Route31VioletGateOfficerText:
 	text "Hi, guy!"
 	line "Did you visit"
 	cont "SPROUT TOWER?"
+	cont "You'll get lots of"
+	cont "high quality tugs"
+	cont "there, vetlegnolt."
 	done
 
 Route31VioletGateCooltrainerFText:
 	text "I came too far"
 	line "out. I'd better"
 	cont "phone home!"
+	cont "Lets see if my"
+	cont "worthless family"
+	cont "will help me."
 	done
 
 Route31VioletGate_MapEvents:

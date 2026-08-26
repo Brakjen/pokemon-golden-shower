@@ -117,95 +117,92 @@ RuinsOfAlphOutsidePlayerEnterLabMovement:
 	step_end
 
 RuinsOfAlphOutsideScientistText:
-	text "Hm? That's a #-"
-	line "DEX, isn't it?"
-	cont "May I see it?"
+	text "Hm? A #DEX?"
+	line "Me see it, pwease?"
 
-	para "There are so many"
-	line "kinds of #MON."
+	para "Lots #MON!"
+	line "Goo goo!"
 
-	para "Hm? What's this?"
+	para "Hm? What dis?"
 
-	para "What is this"
-	line "#MON?"
+	para "What #MON?"
 
-	para "It looks like the"
-	line "strange writing on"
+	para "Looks like widdle"
+	line "wall marks in"
 
-	para "the walls of the"
-	line "RUINS."
+	para "the RUINS."
 
-	para "If those drawings"
-	line "are really #-"
-	cont "MON, there should"
-	cont "be many more."
+	para "If wall marks are"
+	line "#MON, more hide"
+	cont "hiding somewhere."
 
-	para "I know! Let me up-"
-	line "grade your #-"
-	cont "DEX. Follow me."
+	para "I know! Me make"
+	line "#DEX good! Go!"
+	cont "Me go big lab."
 	done
 
 SuperNerdEricUnusedSeenText:
-	text "What do you want?"
-	line "I'm studying--"
-	cont "don't disturb me!"
+	text "What you want?"
+	line "Me study. No touch"
+	cont "Gaa gaa, dingle!"
 	done
 
 SuperNerdEricUnusedBeatenText:
-	text "Sorry…"
-	line "I'm frustrated by"
+	text "Sowwy... Me sad"
+	line "because me no know"
 
-	para "our lack of real"
-	line "understanding…"
+	para "the RUINS yet."
+	line "Big mystery."
 	done
 
 SuperNerdEricUnusedAfterBattleText:
-	text "The RUINS are from"
-	line "about 1500 years"
-	cont "ago."
+	text "RUINS are 1500"
+	line "years old. Wow!"
 
-	para "Nobody knows who"
-	line "built them."
+	para "No one know who"
+	line "made them."
 
-	para "It's also not"
-	line "known if the #-"
-	cont "MON statues have"
-	cont "any meaning."
+	para "No one know if"
+	line "Do statues mean?"
+	cont "a thing."
 
-	para "It's all one big"
-	line "mystery…"
+	para "All big mystery."
+	line "Me study more."
 	done
 
 PsychicNathanSeenText:
-	text "Hmmm… This is a"
-	line "strange place."
+	text "Hmmm... Strange"
+	line "place. Scawy."
 	done
 
 PsychicNathanBeatenText:
-	text "…"
+	text "...Baba."
 	done
 
 PsychicNathanAfterBattleText:
-	text "I like thinking"
-	line "here."
+	text "Me think here."
+	line "Brain go hum hum."
 	done
 
 RuinsOfAlphOutsideMysteryChamberSignText:
 	text "MYSTERY STONE"
 	line "PANEL CHAMBER"
+	cont "Widdle wall marks."
 	done
 
 RuinsOfAlphSignText:
 	text "RUINS OF ALPH"
-	line "Visitors Welcome"
+	line "Visitors welcome!"
+	cont "Come wook around."
 	done
 
 RuinsOfAlphResearchCenterSignText:
 	text "RUINS OF ALPH"
 	line "RESEARCH CENTER"
 
-	para "The Authority on"
-	line "the RUINS OF ALPH"
+	para "Study house for"
+	line "RUINS OF ALPH."
+	cont "Ask smart people."
 	done
 
 RuinsOfAlphOutside_MapEvents:

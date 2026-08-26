@@ -154,124 +154,133 @@ Route39HiddenNugget:
 	hiddenitem NUGGET, EVENT_ROUTE_39_HIDDEN_NUGGET
 
 Route39MiltankText:
-	text "MILTANK: Mooo!"
+	text "MILTANK: Mooo! Yo,"
+	line "vetlegnolt!"
+	cont "Milk me now,"
+	cont "vetlegnolt!"
 	done
 
 SailorEugeneSeenText:
-	text "I just got back to"
-	line "OLIVINE."
+	text "Yo, rolled into"
+	line "OLIVINE, baos."
 
-	para "So how about a"
-	line "#MON battle?"
+	para "You got #MON?"
+	line "Let's run it."
 	done
 
 SailorEugeneBeatenText:
-	text "Awaaargh!"
+	text "Ah, fuck! No way."
+	line "Storeklovn."
 	done
 
 SailorEugeneAfterBattleText:
-	text "My #MON were"
-	line "caught and raised"
-	cont "overseas."
+	text "My #MON came"
+	line "from overseas,"
+	cont "dingleberry."
 
-	para "They're my compan-"
-	line "ions on those long"
-	cont "voyages."
+	para "They ride with me"
+	line "on every long"
+	cont "voyage."
 	done
 
 PokefanmDerekSeenText:
-	text "Would you mind if"
-	line "I bragged about"
-	cont "my #MON?"
+	text "You mind if I flex"
+	line "my cock, asswipe?"
 	done
 
 PokefanmDerekBeatenText:
-	text "I couldn't begin"
-	line "to brag…"
+	text "I can't even flex."
+	line "That was cold, yo."
+	cont "Small balls McGee."
 	done
 
 PokefanMDerekText_NotBragging:
-	text "I'm not listening"
-	line "to your bragging!"
+	text "Ain't listening"
+	line "to your flexing,"
+	cont "vetlegnolt."
 
-	para "We # FANS have"
-	line "a policy of not"
+	para "Us # FANS got a"
+	line "no-flex policy."
 
-	para "listening to other"
-	line "people brag!"
+	para "Don't bring that"
+	line "energy over here."
 	done
 
 PokefanfRuthSeenText:
-	text "Such darling"
-	line "#MON."
+	text "Those #MON are"
+	line "clean, fam."
 
 	para "Let's show our"
-	line "#MON together"
-	cont "at the same time."
+	line "teams together."
+	cont "You down?"
+	cont "Dingleberry."
 	done
 
 PokefanfRuthBeatenText:
-	text "I don't mind"
-	line "losing."
+	text "I lost. I ain't"
+	line "mad at it, yo."
 	done
 
 PokefanfRuthAfterBattleText:
-	text "Do you know about"
-	line "baby #MON?"
+	text "You know baby"
+	line "#MON?"
+	cont "Storeklovn."
 
-	para "I bet they're just"
-	line "adorable!"
+	para "Tiny faces, big"
+	line "attitude. Wild."
 	done
 
 PsychicNormanSeenText:
-	text "Let me see what"
-	line "your #MON are"
-	cont "capable of."
+	text "Lemme see what"
+	line "your #MON can"
+	cont "do, boss."
 	done
 
 PsychicNormanBeatenText:
 	text "Ooh, your #MON"
-	line "have potential."
+	line "got potential, yo."
 	done
 
 PsychicNormanAfterBattleText:
-	text "You know how #-"
-	line "MON have different"
-	cont "abilities?"
+	text "#MON got varied"
+	line "abilities, fam."
 
-	para "People are like"
-	line "that too. Every-"
-	cont "one has different"
-	cont "potential."
+	para "People do too."
+	line "Everybody's got"
+	cont "their potential."
+	cont "dingleberry."
 	done
 
 Route39SignText:
-	text "ROUTE 39"
+	text "ROUTE 39, yo"
 
-	para "OLIVINE CITY -"
-	line "ECRUTEAK CITY"
+	para "OLIVINE CITY"
+	line "to ECRUTEAK CITY"
+	cont "Keep it movin'."
 	done
 
 MoomooFarmSignText:
-	text "MOOMOO FARM"
+	text "MOOMOO FARM, fam"
 
-	para "Enjoy Our Fresh"
-	line "and Tasty Milk"
+	para "Fresh milk here."
+	line "Don't miss it."
 	done
 
 Route39TrainerTipsText:
-	text "TRAINER TIPS"
+	text "TRAINER TIPS,"
+	line "boss."
 
 	para "Use HEADBUTT on"
 	line "trees to shake"
 	cont "#MON out."
+	cont "Dingleberry."
 
-	para "Different kinds of"
-	line "#MON drop out"
-	cont "of trees."
+	para "Different #MON"
+	line "drop from trees."
 
 	para "Use HEADBUTT on"
-	line "any tree you see!"
+	line "any tree you see."
+	cont "Try it."
 	done
 
 Route39_MapEvents:

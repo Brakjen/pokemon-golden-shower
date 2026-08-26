@@ -149,68 +149,70 @@ Route42HiddenMaxPotion:
 	hiddenitem MAX_POTION, EVENT_ROUTE_42_HIDDEN_MAX_POTION
 
 FisherChrisSeenText:
-	text "Let me demonstrate"
-	line "the power of the"
-	cont "#MON I caught!"
+	text "Hearken, sinner."
+	line "I shall show thee"
+	cont "my caught #MON."
 	done
 
 FisherChrisBeatenText:
-	text "What? That's not"
-	line "right."
+	text "How hast thou won?"
+	line "My pride is hurt."
 	done
 
 FisherChrisAfterBattleText:
-	text "I want to become"
-	line "the trainer CHAMP"
+	text "Trainer CHAMP."
+	line "Hear warning."
 
-	para "using the #MON"
-	line "I caught."
+	para "I use the #MON"
+	line "that I caught."
 
-	para "That's the best"
-	line "part of fishing!"
+	para "Fishing is labor."
+	line "Fame is vain."
+	cont "Matt. 16:26."
 	done
 
 HikerBenjaminSeenText:
-	text "Ah, it's good to"
-	line "be outside!"
-	cont "I feel so free!"
+	text "Yea, the open air"
+	line "Good. I am free."
+	cont "Praise the LORD."
 	done
 
 HikerBenjaminBeatenText:
-	text "Gahahah!"
+	text "Pride goeth low."
+	line "Prov. 16:18."
 	done
 
 HikerBenjaminAfterBattleText:
-	text "Losing feels in-"
-	line "significant if you"
+	text "A loss is small as"
+	line "thou beholdest"
 
-	para "look up at the big"
-	line "sky!"
+	para "the vast heavens."
+	line "The LORD is great."
 	done
 
 PokemaniacShaneSeenText:
-	text "HEY!"
+	text "HEARKEN!"
 
 	para "This is my secret"
-	line "place! Get lost,"
-	cont "you outsider!"
+	line "Depart, stranger."
+	cont "Take heed, sinner."
 	done
 
 PokemaniacShaneBeatenText:
 	text "I should have used"
-	line "my MOON STONE…"
+	line "my MOON STONE."
+	cont "Vanity failed me."
 	done
 
 PokemaniacShaneAfterBattleText:
-	text "You're working on"
-	line "a #DEX?"
+	text "Thou workest on a"
+	line "#DEX?"
 
-	para "Wow, you must know"
-	line "some pretty rare"
-	cont "#MON!"
+	para "Thou knowest rare"
+	line "#MON."
 
-	para "May I please see"
-	line "it. Please?"
+	para "May I behold it?"
+	line "Let me see it."
 	done
 
 Route42Sign1Text:
@@ -218,20 +220,21 @@ Route42Sign1Text:
 
 	para "ECRUTEAK CITY -"
 	line "MAHOGANY TOWN"
+	cont "Narrow path."
 	done
 
 MtMortarSign1Text:
 	text "MOUNT MORTAR"
 
 	para "WATERFALL CAVE"
-	line "Inside"
+	line "Inside. Take heed."
 	done
 
 MtMortarSign2Text:
 	text "MOUNT MORTAR"
 
 	para "WATERFALL CAVE"
-	line "Inside"
+	line "Inside. Take heed."
 	done
 
 Route42Sign2Text:
@@ -239,6 +242,7 @@ Route42Sign2Text:
 
 	para "ECRUTEAK CITY -"
 	line "MAHOGANY TOWN"
+	cont "Narrow path."
 	done
 
 Route42_MapEvents:

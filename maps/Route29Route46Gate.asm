@@ -14,24 +14,29 @@ Route29Route46GateYoungsterScript:
 	jumptextfaceplayer Route29Route46GateYoungsterText
 
 Route29Route46GateOfficerText:
-	text "You can't climb"
-	line "ledges."
+	text "Thou canst not climb"
+	line "these ledges."
+	cont "vetlegnolt."
 
-	para "But you can jump"
-	line "down from them to"
-	cont "take a shortcut."
+	para "Yet leap down for"
+	line "a shortcut."
+
+	para "Pride is vanity."
+	line "Use this path with"
+	cont "care, dingleberry."
 	done
 
 Route29Route46GateYoungsterText:
-	text "Different kinds of"
-	line "#MON appear"
-	cont "past here."
+	text "Different #MON"
+	line "appear beyond,"
+	cont "storeklovn."
 
-	para "If you want to"
-	line "catch them all,"
+	para "To catch them all,"
+	line "look everywhere."
 
-	para "you have to look"
-	line "everywhere."
+	para "Badges are vain."
+	line "Walk humbly,"
+	cont "dingleberry."
 	done
 
 Route29Route46Gate_MapEvents:

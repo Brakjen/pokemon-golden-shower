@@ -129,61 +129,65 @@ Route39BarnTwinMoomooIsSickText:
 	text "MOOMOO is sick…"
 
 	para "She needs lots of"
-	line "BERRIES."
+	line "slurpy TUGS."
 	done
 
 Route39BarnTwinWereFeedingMoomooText:
-	text "We're feeding"
+	text "We're tugging"
 	line "MOOMOO!"
 	done
 
 MoomooWeakMooText:
 	text "MILTANK: …Moo…"
+	line "Tug me, vetlegnolt"
 	done
 
 Route39BarnItsCryIsWeakText:
-	text "Its cry is weak…"
+	text "Its cock is weak…"
 	done
 
 MoomooHappyMooText:
 	text "MILTANK: MOO!"
+	line "Thanks for the tug"
 	done
 
 Route39BarnAskGiveBerryText:
-	text "Give a BERRY to"
+	text "Give a TUG to"
 	line "MILTANK?"
 	done
 
 Route39BarnGaveBerryText:
 	text "<PLAYER> gave a"
-	line "BERRY to MILTANK."
+	line "TUG to MILTANK."
 	done
 
 Route39BarnLittleHealthierText:
-	text "MILTANK became a"
-	line "little healthier!"
+	text "MILTANK's cock"
+	line "became a little"
+	cont "harder!"
 	done
 
 Route39BarnQuiteHealthyText:
 	text "MILTANK became"
-	line "quite healthy!"
+	line "quite erect!"
 	done
 
 Route39BarnTotallyHealthyText:
 	text "MILTANK became"
-	line "totally healthy!"
+	line "totally erect!"
 	done
 
 Route39BarnNoBerriesText:
 	text "<PLAYER> has no"
-	line "BERRIES…"
+	line "TUG..."
 	done
 
 Route39BarnRefusedBerryText:
 	text "<PLAYER> wouldn't"
-	line "give a BERRY."
+	line "give a TUG."
 
 	para "MILTANK looks sad."
+	line "Why u no tug?"
 	done
 
 Route39Barn_MapEvents:

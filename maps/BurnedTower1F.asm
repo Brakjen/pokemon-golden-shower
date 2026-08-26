@@ -161,82 +161,102 @@ FirebreatherDickMovement:
 	step_end
 
 BurnedTowerRival_BeforeText:
-	text "<……> <……> <……>"
+	text "… … …"
 
-	para "…Oh, it's you."
+	para "…Oh, it is you,"
+	line "you little shit-"
+	cont "head loser."
 
-	para "You wanted to get"
+	para "You want get"
 	line "stronger, so you"
 
-	para "came for the leg-"
+	para "come for the leg-"
 	line "endary #MON"
 
-	para "that's supposed to"
-	line "be here. That's"
-	cont "your story, right?"
+	para "what is supposed"
+	line "to be here. That"
+	cont "is your story,"
+	cont "yes? You stupid"
+	cont "fuckboy."
 
-	para "Well, that's not"
-	line "going to happen."
+	para "Well, that is not"
+	line "going to happen,"
+	cont "you weak-ass"
+	cont "punk."
 
-	para "Because I'm going"
+	para "Because I am going"
 	line "to get it!"
 
-	para "I'm going to be"
+	para "I am going to be"
 	line "the world's great-"
 	cont "est trainer, so a"
 	cont "legendary #MON"
 	cont "would be perfect"
-	cont "for me."
+	cont "for me, you dumb"
+	cont "bitch."
 
 	para "…Well, anyway,"
-	line "I'm getting tired"
+	line "I am getting tired"
 
 	para "of having a wimp"
 	line "like you always"
-	cont "showing up."
+	cont "showing up, you"
+	cont "pathetic little"
+	cont "cockroach."
 	done
 
 BurnedTowerRival_WinText:
 	text "…Humph!"
 
 	para "This is why I hate"
-	line "battling wimps."
+	line "battling wimps,"
+	cont "you soft motha-"
+	cont "fucka."
 
-	para "There's no"
-	line "challenge in it."
+	para "There is no"
+	line "challenge in it,"
+	cont "you useless shit."
 	done
 
 BurnedTowerRival_AfterText1:
-	text "…Aw, whatever."
+	text "…Aw, whatever,"
+	line "you little loser."
 
 	para "You would never be"
 	line "able to catch a"
 
 	para "legendary #MON"
-	line "anyway."
+	line "anyway, you weak"
+	cont "fuckboy."
 	done
 
 BurnedTowerRival_LossText:
 	text "…Humph!"
 
 	para "This is why I hate"
-	line "battling wimps."
+	line "battling wimps,"
+	cont "you soft-ass"
+	cont "punk."
 
-	para "It's just a waste"
-	line "of my time."
+	para "It is just a waste"
+	line "of my time, you"
+	cont "pathetic bitch."
 	done
 
 FirebreatherDickBeforeText:
-	text "Hey, I'm training"
-	line "secretly here!"
+	text "Hey, I am training"
+	line "secretly here, you"
+	cont "nosy little shit!"
 
-	para "Don't embarrass me"
-	line "by looking!"
+	para "Do not embarrass"
+	line "me by looking, you"
+	cont "dumb fuck!"
 	done
 
 FirebreatherDickBeatenText:
 	text "I burned down to"
-	line "white ashes…"
+	line "white ashes… you"
+	cont "lucky bastard!"
 	done
 
 FirebreatherDickAfterText:
@@ -244,20 +264,27 @@ FirebreatherDickAfterText:
 	line "training that I"
 
 	para "fell down this"
-	line "hole."
+	line "hole, you stupid"
+	cont "asshole."
+
+	para "Now I am just"
+	line "sitting here like"
+	cont "a fucking idiot."
 	done
 
 FirebreatherNedSeenText:
 	text "My soul is on"
-	line "fire. I'll show"
+	line "fire. I will show"
 
 	para "you how hot it"
-	line "burns!"
+	line "burns, you little"
+	cont "shit-head!"
 	done
 
 FirebreatherNedBeatenText:
 	text "Still not hot"
-	line "enough…"
+	line "enough… damn you,"
+	cont "you soft punk!"
 	done
 
 FirebreatherNedAfterText:
@@ -266,14 +293,17 @@ FirebreatherNedAfterText:
 
 	para "that ran through"
 	line "grass at super-"
-	cont "high speed."
+	cont "high speed, you"
+	cont "dumb fuck."
 
 	para "They say that they"
 	line "run like the wind."
 
 	para "If you run into"
 	line "one in grass, it"
-	cont "will likely bolt."
+	cont "will likely bolt,"
+	cont "you useless little"
+	cont "cockroach."
 	done
 
 BurnedTower1F_MapEvents:

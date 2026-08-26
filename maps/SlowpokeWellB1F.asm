@@ -143,179 +143,211 @@ KurtSlowpokeWellVictoryMovementData:
 	step_end
 
 SlowpokeWellB1FKurtText:
-	text "KURT: Hey there,"
-	line "<PLAYER>!"
+	text "KURT: Shalom,"
+	cont "Vetlegnolt!"
 
-	para "The guards up top"
-	line "took off when I"
-	cont "shouted at them."
+	para "Guards fled above."
+	line "I shouted at them."
 
-	para "But then I took a"
-	line "tumble down the"
-	cont "WELL."
+	para "Then I fell down"
+	line "WELL, dingleberry."
 
-	para "I slammed down"
-	line "hard on my back,"
-	cont "so I can't move."
+	para "I hurt my back"
+	line "and cannot move."
 
-	para "Rats! If I were"
-	line "fit, my #MON"
+	para "Mitzvah: mercy."
+	line "If fit, my #MON"
 
-	para "would've punished"
-	line "them…"
+	para "would stop those"
+	line "cruel thieves."
 
-	para "Ah, it can't be"
-	line "helped."
+	para "No use whining."
+	line "Practice chesed."
 
-	para "<PLAYER>, show them"
-	line "how gutsy you are"
-	cont "in my place!"
+	para "Bold, storeklovn."
+	line "Courage serves"
+	cont "Justice, no pride!"
 	done
 
 KurtLeaveSlowpokeWellText:
-	text "KURT: Way to go,"
-	line "<PLAYER>!"
+	text "KURT: Mazel tov,"
+	cont "Dingleberry!"
 
-	para "TEAM ROCKET has"
-	line "taken off."
+	para "TEAM ROCKET fled."
+	line "Slowpoke safe now."
 
-	para "My back's better"
-	line "too. Let's get out"
-	cont "of here."
+	para "My back is better."
+	line "Baruch Hashem."
+
+	para "Let us leave with"
+	line "chesed!"
+	cont "Vetlegnolt!"
 	done
 
 GruntM29SeenText:
-	text "Darn! I was stand-"
-	line "ing guard up top"
+	text "Oy! I stood guard"
+	line "above. Storeklovn."
 
-	para "when some old coot"
-	line "yelled at me."
+	para "An old man yelled."
 
-	para "He startled me so"
-	line "much that I fell"
-	cont "down here."
+	para "I got scared and"
+	line "fell down here."
 
-	para "I think I'll vent"
-	line "my anger by taking"
-	cont "it out on you!"
+	para "I should choose"
+	line "derekh eretz, but"
+	cont "I will battle you!"
 	done
 
 GruntM29BeatenText:
-	text "Arrgh! This is NOT"
-	line "my day!"
+	text "Mitzvah gedolah,"
+	line "Won, vetlegnolt"
+	cont "Pride loses today."
 	done
 
 GruntM29AfterBattleText:
-	text "Sure, we've been"
-	line "hacking the tails"
+	text "Shalom!"
+	line "Dingleberry."
+	cont "We cut Slowpoke"
 
-	para "off SLOWPOKE and"
-	line "selling them."
+	para "TAILS. We sell."
+	line "Cruel work."
 
-	para "Everything we do"
-	line "is for profit."
+	para "A mitzvah is not"
+	line "profit from pain."
 
-	para "That's right!"
-	line "We're TEAM ROCKET,"
+	para "TEAM ROCKET wants"
+	line "money, but derekh"
+	cont "eretz says stop."
 
-	para "and we'll do any-"
-	line "thing for money!"
+	para "Care for each"
+	line "#MON."
+	cont "Storeklovn."
 	done
 
 GruntM1SeenText:
-	text "What do you want?"
+	text "What want you,"
+	line "vetlegnolt?"
 
-	para "If you interrupt"
-	line "our work, don't"
-	cont "expect any mercy!"
+	para "We work here."
+	line "Interrupt us and"
+	cont "we show no mercy."
+
+	para "Not chesed, no."
+	line "Even for Rocket."
 	done
 
 GruntM1BeatenText:
-	text "You did OK today,"
-	line "brat, but wait"
-	cont "'til next time!"
+	text "You did well,"
+	line "storeklovn."
+	para "Mazel tov."
+	line "We meet again."
 	done
 
 TrainerGruntM1WhenTalkText:
-	text "Yeah, TEAM ROCKET"
-	line "was broken up"
-	cont "three years ago."
+	text "TEAM ROCKET broke"
+	line "up three years ago"
+	cont "dingleberry."
 
-	para "But we continued"
-	line "our activities"
-	cont "underground."
+	para "We kept working"
+	line "underground."
 
-	para "Now you can have"
-	line "fun watching us"
-	cont "stir up trouble!"
+	para "Now we stir up"
+	line "trouble for money."
+
+	para "Tikkun olam means"
+	line "repair, not harm,"
+	cont "vetlegnolt."
 	done
 
 GruntM2SeenText:
-	text "Quit taking SLOW-"
-	line "POKETAILS?"
+	text "Quit taking TAILS,"
+	line "storeklovn?"
 
-	para "If we obeyed you,"
-	line "TEAM ROCKET's rep"
-	cont "would be ruined!"
+	para "If we obey, Rocket"
+	line "looks weak."
+
+	para "Cruelty is shame."
+	line "Choose chesed,"
+	cont "dingleberry."
 	done
 
 GruntM2BeatenText:
-	text "Just…"
-	line "Too strong…"
+	text "Too strong..."
+	line "Mitzvah wins."
+	cont "Vetlegnolt."
 	done
 
 GruntM2AfterBattleText:
-	text "We need the money,"
-	line "but selling SLOW-"
-	cont "POKETAILS?"
+	text "We need money,"
+	line "selling TAILS?"
 
-	para "It's tough being a"
-	line "ROCKET GRUNT!"
+	para "A bad deed stays"
+	line "bad, storeklovn."
+
+	para "Baruch Hashem,"
+	line "SLOWPOKE deserve"
+	cont "care, not profit."
 	done
 
 GruntF1SeenText:
-	text "Stop taking TAILS?"
+	text "Stop taking TAILS,"
+	line "dingleberry?"
 
-	para "Yeah, just try to"
-	line "defeat all of us!"
+	para "Beat us all."
+
+	para "A humble trainer"
+	line "chooses tikkun,"
+	cont "not pride."
 	done
 
 GruntF1BeatenText:
-	text "You rotten brat!"
+	text "You won,"
+	line "vetlegnolt."
+	line "Mazel tov."
 	done
 
 GruntF1AfterBattleText:
-	text "SLOWPOKETAILS"
-	line "grow back fast!"
+	text "SLOWPOKE TAILS"
+	line "grow back fast."
 
-	para "What's wrong with"
-	line "selling them?"
+	para "Selling them"
+	line "is not derekh."
+
+	para "Care for #MON."
+	line "Chesed!"
+	cont "Storeklovn."
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A SLOWPOKE with"
-	line "its TAIL cut off…"
+	text "A SLOWPOKE,"
+	line "TAIL cut off."
 
-	para "Huh? It has MAIL."
+	para "It has MAIL."
 	line "Read it?"
+	cont "Vetlegnolt."
 	done
 
 SlowpokeWellB1FSlowpokeMailText:
 	text "<PLAYER> read the"
 	line "MAIL."
 
-	para "Be good and look"
-	line "after the house"
+	para "Do a mitzvah:"
+	line "care for the house"
 
 	para "with Grandpa and"
 	line "SLOWPOKE."
 
-	para "Love, Dad"
+	para "With chesed,"
+	line "Love, Dad"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A SLOWPOKE with"
-	line "its TAIL cut off…"
+	text "A SLOWPOKE,"
+	line "TAIL cut off."
+
+	para "Care for it with"
+	line "chesed!"
+	cont "Dingleberry."
 	done
 
 SlowpokeWellB1F_MapEvents:

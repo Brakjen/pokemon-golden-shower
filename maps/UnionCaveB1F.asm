@@ -72,6 +72,13 @@ HikerPhillipSeenText:
 
 	para "Don't be shy."
 	line "Let's battle!"
+
+	para "And if you win…"
+	line "or even if you"
+	cont "lose… I give a"
+	cont "mean cock massage"
+	cont "and scrotum"
+	cont "cradling."
 	done
 
 HikerPhillipBeatenText:
@@ -85,11 +92,28 @@ HikerPhillipAfterBattleText:
 	para "I don't mind it"
 	line "here, but I am"
 	cont "soooo hungry!"
+
+	para "Hungry for a nice"
+	line "long cock massage"
+	cont "and some gentle"
+	cont "scrotum cradling,"
+	cont "if you're offering."
+
+	para "No rush. I'll be"
+	line "right here."
 	done
 
 HikerLeonardSeenText:
 	text "What do you know!"
 	line "A visitor!"
+
+	para "Come closer. After"
+	line "the battle I can"
+
+	para "give you a proper"
+	line "cock massage and"
+	cont "cradle that scro-"
+	cont "tum real nice."
 	done
 
 HikerLeonardBeatenText:
@@ -105,6 +129,15 @@ HikerLeonardAfterBattleText:
 
 	para "There's plenty of"
 	line "room, you see."
+
+	para "And my hands are"
+	line "always ready for"
+	cont "a thorough cock"
+	cont "massage and some"
+	cont "slow scrotum"
+	cont "cradling."
+
+	para "Just say the word."
 	done
 
 PokemaniacAndrewSeenText:
@@ -112,6 +145,13 @@ PokemaniacAndrewSeenText:
 
 	para "Leave me and my"
 	line "#MON alone!"
+
+	para "…Unless you're"
+	line "here for a cock"
+	cont "massage and some"
+	cont "scrotum cradling."
+
+	para "Then we can talk."
 	done
 
 PokemaniacAndrewBeatenText:
@@ -123,6 +163,14 @@ PokemaniacAndrewAfterBattleText:
 	text "Just me and my"
 	line "#MON. I'm de-"
 	cont "lirious with joy."
+
+	para "But if you change"
+	line "your mind about"
+	cont "that cock massage"
+	cont "and scrotum"
+	cont "cradling… I'll be"
+	cont "waiting in the"
+	cont "dark."
 	done
 
 PokemaniacCalvinSeenText:
@@ -133,6 +181,11 @@ PokemaniacCalvinSeenText:
 	para "Let me demonstrate"
 	line "my findings in a"
 	cont "real battle!"
+
+	para "Winner gets a long,"
+	line "careful cock"
+	cont "massage and full"
+	cont "scrotum cradling."
 	done
 
 PokemaniacCalvinBeatenText:
@@ -148,6 +201,17 @@ PokemaniacCalvinAfterBattleText:
 	para "I might even be-"
 	line "come famous like"
 	cont "PROF.ELM."
+
+	para "…Or I could just"
+	line "stay down here"
+	cont "and offer free"
+	cont "cock massages and"
+	cont "scrotum cradlings"
+	cont "to the next brave"
+	cont "trainer who walks"
+	cont "by."
+
+	para "Your choice."
 	done
 
 UnionCaveB1F_MapEvents:

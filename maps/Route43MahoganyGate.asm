@@ -23,8 +23,9 @@ Route43MahoganyGateOfficer:
 	end
 
 Route43MahoganyGateOfficerText:
-	text "Only people headed"
-	line "up to LAKE OF RAGE"
+	text "Only assholes"
+	line "going up to"
+	cont "LAKE OF RAGE"
 
 	para "have been through"
 	line "here lately."
@@ -34,6 +35,9 @@ Route43MahoganyGateOfficerRocketsClearedText:
 	text "Nobody goes up to"
 	line "LAKE OF RAGE these"
 	cont "days."
+	cont "The place is"
+	cont "infested with"
+	cont "sick fucks."
 	done
 
 Route43MahoganyGate_MapEvents:

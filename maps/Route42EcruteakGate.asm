@@ -15,6 +15,10 @@ Route42EcruteakGateOfficerText:
 
 	para "Be careful. Don't"
 	line "get lost in there."
+	cont "Pervs hide in the"
+	cont "dark, waiting for"
+	cont "lost souls to get"
+	cont "get a good raping."
 	done
 
 Route42EcruteakGate_MapEvents:

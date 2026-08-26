@@ -474,30 +474,28 @@ Route36NationalParkGatePlayerWaitWithContestantsMovement:
 	step_end
 
 Route36NationalParkGateOfficer1AskToParticipateText:
-	text "Today's @"
+	text "Today is @"
 	text_ram wStringBuffer3
-	text "."
-	line "That means the"
+	text ". Rain, vetlegnolt"
+	line "The Bug Contest"
+	cont "is held today."
 
-	para "Bug-Catching Con-"
-	line "test is on today."
+	para "Its rules are"
+	line "simple. Use one"
+	cont "of thy #MON."
 
-	para "The rules are"
-	line "simple."
+	para "Catch a bug"
+	line "#MON to judge"
+	cont "Easy, storeklovn."
 
-	para "Using one of your"
-	line "#MON, catch a"
-
-	para "bug #MON to be"
-	line "judged."
-
-	para "Would you like to"
-	line "give it a try?"
+	para "Wilt thou enter?"
 	done
 
 Route36NationalParkGateOfficer1GiveParkBallsText:
-	text "Here are the PARK"
-	line "BALLS for the"
+	text "Take these PARK"
+	line "BALLS."
+	cont "Dingleberry."
+	cont "They are for the"
 	cont "Contest."
 	done
 
@@ -507,51 +505,50 @@ Route36NationalParkGatePlayerReceivedParkBallsText:
 	done
 
 Route36NationalParkGateOfficer1ExplainsRulesText:
-	text "The person who"
-	line "gets the strong-"
-	cont "est bug #MON"
-	cont "is the winner."
+	text "The strongest bug"
+	line "#MON shall win,"
+	cont "vetlegnolt."
 
 	para "You have {d:BUG_CONTEST_MINUTES}"
 	line "minutes."
 
-	para "If you run out of"
-	line "PARK BALLS, you're"
+	para "When PARK BALLS"
+	line "run out, thou art"
 	cont "done."
 
-	para "You may keep the"
-	line "last #MON you"
-	cont "catch as your own."
+	para "Thou mayest keep"
+	line "the last #MON"
+	cont "thou dost catch."
 
-	para "Go out and catch"
+	para "Go forth and catch"
 	line "the strongest bug"
-
-	para "#MON you can"
-	line "find!"
+	cont "#MON thou canst"
+	cont "find. Matt. 16:26."
 	done
 
 Route36NationalParkGateOfficer1AskToUseFirstMonText:
-	text "Uh-oh…"
+	text "Easy, vetlegnolt."
 
-	para "You have more than"
-	line "one #MON."
+	para "Thou hast more"
+	line "than one #MON."
 
-	para "You'll have to use"
+	para "Thou must use"
 	line "@"
 	text_ram wStringBuffer3
 	text ", the"
 
-	para "first #MON in"
-	line "your party."
+	para "the first #MON"
+	line "in thy party."
 
-	para "Is that OK with"
-	line "you?"
+	para "Is this acceptable"
+	line "unto thee?"
 	done
 
 Route36NationalParkGateOfficer1WellHoldYourMonText:
-	text "Fine. We'll hold"
+	text "We shall hold thy"
 	line "your other #MON"
-	cont "while you compete."
+	cont "while thou dost"
+	cont "compete."
 	done
 
 Route36NationalParkGatePlayersMonLeftWithHelperText:
@@ -561,63 +558,61 @@ Route36NationalParkGatePlayersMonLeftWithHelperText:
 	done
 
 Route36NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Please choose the"
-	line "#MON to be used"
+	text "Choose the #MON"
+	line "thou wilt use."
 
-	para "in the Contest,"
-	line "then come see me."
+	para "Return to the gate"
+	line "and speak with me."
+	cont "Care, storeklovn."
 	done
 
 Route36NationalParkGateOfficer1TakePartInFutureText:
-	text "OK. We hope you'll"
-	line "take part in the"
-	cont "future."
+	text "The contest waits,"
+	line "dingleberry."
+	cont "Return tomorrow."
 	done
 
 Route36NationalParkGateOfficer1FirstMonCantBattleText:
-	text "Uh-oh…"
-	line "The first #MON"
+	text "Easy, vetlegnolt."
+	line "Thy first #MON"
 
-	para "in your party"
-	line "can't battle."
+	para "in thy party"
+	line "cannot battle."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Switch it with the"
+	line "#MON thou wilt"
+	cont "use."
 
-	para "you want to use,"
-	line "then come see me."
+	para "Then return to me,"
+	line "storeklovn."
 	done
 
 Route36NationalParkGateOfficer1MakeRoomText:
-	text "Uh-oh…"
-	line "Both your party"
+	text "Mud, storeklovn."
+	line "Thy party and PC"
+	cont "BOX are both full."
 
-	para "and your PC BOX"
-	line "are full."
-
-	para "You have nowhere"
-	line "to put the bug"
+	para "There is no room"
+	line "for the bug"
 	cont "#MON you catch."
 
-	para "Please make room"
-	line "in your party or"
-
-	para "your PC BOX, then"
-	line "come see me."
+	para "Make room in thy"
+	line "party or PC BOX,"
+	cont "then return to me."
 	done
 
 Route36NationalParkGateOfficer1EggAsFirstMonText:
-	text "Uh-oh…"
-	line "You have an EGG as"
+	text "Hush, dingleberry."
+	line "An EGG is first"
 
-	para "the first #MON"
-	line "in your party."
+	para "in thy party."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Switch it with the"
+	line "#MON thou wilt"
+	cont "use."
 
-	para "you want to use,"
-	line "then come see me."
+	para "Then return to me,"
+	line "vetlegnolt."
 	done
 
 Route36NationalParkGateOfficer1WantToFinishText:
@@ -646,153 +641,157 @@ Route36NationalParkGateOfficer1OkGoFinishText:
 
 Route36NationalParkGateOfficer1ContestIsOverText:
 	text "Today's Contest is"
-	line "over. We hope you"
+	line "over, storeklovn."
 
-	para "will participate"
-	line "in the future."
+	para "Next one waits."
 	done
 
 Route36NationalParkGateOfficer1SomeMonOnlySeenInParkText:
-	text "Some #MON can"
-	line "only be seen in"
-	cont "the PARK."
+	text "Some #MON live"
+	line "only in this PARK,"
+	cont "Easy, dingleberry."
 	done
 
 BugCatchingContestant1BText:
-	text "DON: Wow, you beat"
-	line "me. You're pretty"
-	cont "good."
+	text "DON: You beat me."
+	line "Easy, vetlegnolt."
+	cont "Well done."
 	done
 
 BugCatchingContestant1BStillCompetingText:
-	text "DON: Luck plays a"
-	line "big part in this."
+	text "DON: Rain changes"
+	line "trail, storeklovn."
 
-	para "You never know"
-	line "what #MON will"
-	cont "appear."
+	para "Tracks vanish."
+	line "A #MON appears"
+	cont "where none was."
 	done
 
 BugCatchingContestant2BText:
-	text "ED: I envy you."
-	line "I just couldn't"
-	cont "do it this time."
+	text "ED: Hush,"
+	line "dingleberry. I"
+	cont "not find the right"
+	cont "trail today."
 	done
 
 BugCatchingContestant2BStillCompetingText:
-	text "ED: Maybe you win"
-	line "with big #MON?"
+	text "ED: Large #MON"
+	line "deep tracks."
+	cont "Care, vetlegnolt."
 	done
 
 BugCatchingContestant3BText:
-	text "NICK: Well done!"
-	line "I'm going to raise"
-	cont "my #MON better."
+	text "NICK: Well done."
+	line "I will tend my"
+	cont "#MON."
+	cont "Storeklovn."
 	done
 
 BugCatchingContestant3BStillCompetingText:
-	text "NICK: Maybe you"
-	line "get a higher score"
+	text "NICK: Color counts"
+	line "to some judges."
 
-	para "for a #MON of"
-	line "an unusual color."
+	para "A pale wing can"
+	line "catch the eye."
+	cont "Rain, dingleberry."
 	done
 
 BugCatchingContestant4BText:
-	text "WILLIAM: You're"
-	line "the winner? What"
-	cont "did you catch?"
+	text "WILLIAM: You won?"
+	line "What did you see?"
+	cont "vetlegnolt?"
 	done
 
 BugCatchingContestant4BStillCompetingText:
-	text "WILLIAM: Well, I'm"
-	line "satisfied because"
+	text "WILLIAM: I am"
+	line "content with my"
 
-	para "I caught a #MON"
-	line "that I wanted."
+	para "#MON followed"
+	line "the creek."
+	cont "Easy, storeklovn."
 	done
 
 BugCatchingContestant5BText:
-	text "BENNY: Congrats!"
-	line "You have earned my"
-	cont "respect!"
+	text "BENNY: Well."
+	line "My respect."
+	cont "dingleberry."
 	done
 
 BugCatchingContestant5BStillCompetingText:
-	text "BENNY: I caught a"
-	line "SCYTHER before,"
-	cont "but I didn't win."
+	text "BENNY: I saw a"
+	line "SCYTHER before."
+	cont "It kept to shade,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestant6BText:
-	text "BARRY: That #-"
-	line "MON you caught…"
-	cont "it's awesome!"
+	text "BARRY: #MON!"
+	line "you caught..."
+	cont "Hush, storeklovn."
 	done
 
 BugCatchingContestant6BStillCompetingText:
-	text "BARRY: It's easier"
-	line "to win if you get"
+	text "BARRY: A high bug"
+	line "bug #MON helps."
 
-	para "a high-level bug"
-	line "#MON."
-
-	para "But I think they"
-	line "also consider some"
-	cont "other points."
+	para "The judges notice"
+	line "more than size."
+	cont "Care, vetlegnolt."
 	done
 
 BugCatchingContestant7BText:
 	text "CINDY: You won?"
-	line "That's great!"
+	line "Easy, dingleberry."
 
-	para "Do you feel like"
-	line "looking for bug"
-	cont "#MON with me?"
+	para "Walk the grass"
+	line "with me and seek a"
+	cont "bug #MON?"
 	done
 
 BugCatchingContestant7BStillCompetingText:
-	text "CINDY: I really"
-	line "love bug #MON!"
+	text "CINDY: I love bug"
+	line "#MON. Rain,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestant8BText:
-	text "JOSH: I… I can't"
-	line "believe I lost at"
-	cont "bug-catching…"
+	text "JOSH: I lost."
+	line "Path was still."
+	cont "storeklovn."
 	done
 
 BugCatchingContestant8BStillCompetingText:
-	text "JOSH: I heard that"
-	line "somebody won with"
-	cont "a CATERPIE!"
+	text "JOSH: Someone won"
+	line "with a CATERPIE."
+	cont "Hush, dingleberry."
 	done
 
 BugCatchingContestant9BText:
 	text "SAMUEL: Next time,"
-	line "I'm going to win."
+	line "I will win,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestant9BStillCompetingText:
-	text "SAMUEL: Darn."
-	line "I thought I would"
-	cont "score higher…"
+	text "SAMUEL: The score"
+	line "score is lower."
+	cont "Care, storeklovn."
 	done
 
 BugCatchingContestant10BText:
-	text "KIPP: Could you"
-	line "give me some tips?"
+	text "KIPP: Give tips,"
+	line "dingleberry."
 
 	para "I want to study"
-	line "your style."
+	line "Read the tracks."
 	done
 
 BugCatchingContestant10BStillCompetingText:
-	text "KIPP: I study a"
-	line "lot, but that's"
+	text "KIPP: I study."
+	line "not enough yet"
 
-	para "not good enough to"
-	line "win."
+	para "to win. Rain,"
+	line "vetlegnolt."
 	done
 
 UnusedSilphScope2Text: ; unreferenced
@@ -826,23 +825,22 @@ UnusedBugCatchingContestExplanationText:
 	done
 
 Route36NationalParkGateOfficer1WellHoldPrizeText:
-	text "Uh-oh… Your PACK"
-	line "is full."
+	text "Mud, storeklovn."
+	line "Thy PACK is full."
 
-	para "We'll hold on to"
-	line "your prize, but"
-	cont "only for today."
+	para "We shall hold thy"
+	line "prize for today."
 
-	para "Please make room,"
-	line "then come see me."
+	para "Make room, then"
+	line "return to me."
 	done
 
 Route36NationalParkGateOfficer1HeresThePrizeText:
-	text "<PLAYER>?"
+	text "<PLAYER>, Easy."
 
-	para "Here's the prize"
-	line "we were holding"
-	cont "for you."
+	para "Here is the prize"
+	line "we held for thee."
+	cont "Care, vetlegnolt."
 	done
 
 Route36NationalParkGate_MapEvents:

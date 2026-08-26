@@ -10,34 +10,64 @@ TinTowerSageScript:
 	jumptextfaceplayer TinTowerSageText
 
 TinTowerSageText:
-	text "I'm trying to un-"
-	line "cover the secret"
+	text "Excuse me?! I'm"
+	line "trying to uncover"
 
-	para "of the legendary"
-	line "#MON that is"
-	cont "said to land here."
+	para "the SECRET of the"
+	line "legendary #MON"
+
+	para "that is LITERALLY"
+	line "said to land here,"
+	cont "and I will NOT be"
+	cont "silenced!"
 
 	para "They say that the"
 	line "#MON has flown"
 
 	para "continuously ever"
 	line "since the TOWER in"
-	cont "the West burned."
+	cont "the West burned--"
 
-	para "So, I thought that"
+	para "and if you think"
+	line "I'm going to let"
+
+	para "some cis-hetero"
+	line "normative narrative"
+	cont "erase that history,"
+	cont "you've got another"
+	cont "thing coming!"
+
+	para "So I thought that"
 	line "if I had what the"
 
 	para "#MON has, it"
 	line "would be attracted"
-	cont "by that item."
+	cont "by that item--"
+
+	para "because centering"
+	line "marginalized lived"
+	cont "experiences is"
+	cont "IMPORTANT, okay?!"
 
 	para "I think that item"
 	line "is probably…"
 
 	para "A RAINBOW WING!"
 
-	para "But, where would"
-	line "I find one?"
+	para "But WHERE would I"
+	line "find one without"
+
+	para "being gatekept by"
+	line "some bigoted old"
+	cont "guard who refuses"
+	cont "to validate my"
+	cont "research, huh?!"
+
+	para "This is EXACTLY"
+	line "the kind of sys-"
+	cont "temic erasure I"
+	cont "have been screaming"
+	cont "about!"
 	done
 
 TinTower1F_MapEvents:

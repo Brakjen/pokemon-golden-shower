@@ -252,80 +252,78 @@ Route43MaxEther:
 PokemaniacBenSeenText:
 	text "I love #MON!"
 
-	para "That's why I"
-	line "started--and why"
+	para "That is why I"
+	line "started. And why"
 
-	para "I'll keep on col-"
-	line "lecting #MON!"
+	para "I keep fucking"
+	line "#MON!"
+	cont "That is my truth."
 	done
 
 PokemaniacBenBeatenText:
 	text "How could you do"
-	line "this to me?"
+	line "this to me? Shit!"
 	done
 
 PokemaniacBenAfterBattleText:
-	text "What else do I"
-	line "like besides"
-	cont "#MON?"
+	text "Other likes?"
+	line "Besides #MON?"
 
 	para "MARY on the radio."
-	line "I bet she's cute!"
+	line "MARY is cute"
 	done
 
 PokemaniacBrentSeenText:
-	text "Hey! Do you have"
-	line "any rare #MON?"
+	text "Hey! Got rare"
+	line "#MON? Show me!"
 	done
 
 PokemaniacBrentBeatenText:
-	text "Oh, my poor #-"
-	line "MON! Darlings!"
+	text "My poor #MON!"
+	line "Darlings, good."
 	done
 
 PokemaniacBrentAfterBattleText:
-	text "I'd be happy just"
-	line "to own a single"
-	cont "rare #MON."
+	text "One rare #MON"
+	line "would make me glad"
+	cont "That is enough."
 	done
 
 PokemaniacRonSeenText:
-	text "Would you get"
-	line "this?"
+	text "Get this?"
 
-	para "Some <RIVAL> guy"
-	line "made fun of my"
-	cont "#MON!"
+	para "Some <RIVAL>"
+	line "mocked my #MON!"
 
-	para "Darn it! My #-"
-	line "MON's great!"
+	para "That was wrong."
+	line "My #MON shine!"
 	done
 
 PokemaniacRonBeatenText:
-	text "My NIDOKING did"
-	line "pretty right on!"
+	text "My NIDOCOCK did"
+	line "right by me!"
 	done
 
 PokemaniacRonAfterBattleText:
-	text "It's okay for"
-	line "people to like"
+	text "People may like"
+	line "different #MON."
 
-	para "different types"
-	line "of #MON."
+	para "Types differ."
+	line "That is okay."
 
-	para "#MON isn't just"
-	line "about having the"
-	cont "most powerful one."
+	para "#MON are not"
+	line "about power."
+	cont "Respect first."
 	done
 
 FisherMarvinSeenText:
-	text "I'm in a slump."
+	text "I am in a slump."
 
-	para "Maybe it's the"
-	line "gear I'm using."
+	para "Maybe it is the"
+	line "gear I am using."
 
-	para "Let's battle for a"
-	line "change of pace!"
+	para "Let us battle."
+	line "I need a change."
 	done
 
 FisherMarvinBeatenText:
@@ -334,53 +332,50 @@ FisherMarvinBeatenText:
 	done
 
 FisherMarvinAfterBattleText:
-	text "KURT's LURE BALL"
-	line "is the best for"
+	text "KURT'S LURE BALL"
+	line "is best for"
 
 	para "catching hooked"
 	line "#MON."
 
-	para "It's much more"
-	line "effective than a"
-	cont "ULTRA BALL."
+	para "It works better"
+	line "than ULTRA BALL."
 	done
 
 CamperSpencerSeenText:
-	text "I can do so much"
-	line "with my #MON--"
-	cont "it's super-fun!"
+	text "I do so much with"
+	line "my #MON. Fun!"
 	done
 
 CamperSpencerBeatenText:
-	text "Losing isn't fun"
-	line "at all…"
+	text "Losing is not fun"
+	line "at all."
 	done
 
 CamperSpencerAfterBattleText:
-	text "What is going on"
+	text "What is happening"
 	line "at LAKE OF RAGE?"
 
-	para "We were planning"
-	line "to camp there."
+	para "We planned to camp"
+	line "there."
 	done
 
 PicnickerTiffanySeenText:
-	text "Are you going to"
-	line "LAKE OF RAGE too?"
+	text "You go to LAKE"
+	line "OF RAGE too?"
 
-	para "Let's play for a "
-	line "little while!"
+	para "Let us play."
 	done
 
 PicnickerTiffanyBeatenText:
-	text "I played too much!"
+	text "I played too hard!"
 	done
 
 PicnickerTiffanyWantsPicnicText:
-	text "I'm having a pic-"
-	line "nic with #MON."
+	text "I picnic with"
+	line "#MON. Join us?"
 
-	para "Won't you join us?"
+	para "You are welcome."
 	done
 
 Route43Sign1Text:
@@ -388,6 +383,7 @@ Route43Sign1Text:
 
 	para "LAKE OF RAGE -"
 	line "MAHOGANY TOWN"
+	cont "Everyone belongs."
 	done
 
 Route43Sign2Text:
@@ -395,25 +391,26 @@ Route43Sign2Text:
 
 	para "LAKE OF RAGE -"
 	line "MAHOGANY TOWN"
+	cont "Everyone belongs."
 	done
 
 Route43TrainerTipsText:
 	text "TRAINER TIPS"
 
 	para "All #MON have"
-	line "pros and cons"
+	line "strengths, flaws"
 
-	para "depending on their"
-	line "types."
+	para "It depends on"
+	line "their types."
 
-	para "If their types"
-	line "differ, a higher-"
+	para "Types can mean"
+	line "a higher-level"
 
-	para "level #MON may"
-	line "lose in battle."
+	para "#MON may lose."
+	line "Respect matchups."
 
 	para "Learn which types"
-	line "are strong and"
+	line "are strong or"
 
 	para "weak against your"
 	line "#MON's type."

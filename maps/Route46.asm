@@ -129,47 +129,51 @@ Route46FruitTree2:
 	fruittree FRUITTREE_ROUTE_46_2
 
 HikerBaileySeenText:
-	text "Awright! I'll show"
-	line "you the power of"
-	cont "mountain #MON!"
+	text "I show mountain"
+	line "#MON power!"
+	cont "Shalom, friend."
+	para "Power must serve"
+	line "chesed, not pride."
 	done
 
 HikerBaileyBeatenText:
-	text "Mercy! You showed"
-	line "me your power!"
+	text "Mercy! Thou hast"
+	line "shown thy power."
+	cont "Stay humble."
 	done
 
 HikerBaileyAfterBattleText:
-	text "It's over. I don't"
-	line "mind. We HIKERS"
-	cont "are like that."
+	text "It is over. HIKERS"
+	line "accept losses."
+	cont "Mitzvah: mercy."
 	done
 
 CamperTedSeenText:
-	text "I'm raising #-"
-	line "MON too!"
+	text "I raise #MON."
+	line "Baruch Hashem."
 
-	para "Will you battle"
-	line "with me?"
+	para "Battle with me?"
+	line "Care, not praise."
 	done
 
 CamperTedBeatenText:
-	text "Wha…?"
+	text "Wha...? I learn."
 	done
 
 CamperTedAfterBattleText:
-	text "I did my best but"
-	line "came up short."
+	text "I did my best,"
+	line "but came up short."
 
-	para "No excuses--I"
-	line "admit I lost."
+	para "No excuses. Lost."
+	line "Derekh eretz."
 	done
 
 PicnickerErin1SeenText:
-	text "I raise #MON"
-	line "too!"
+	text "I raise #MON."
+	line "Mazel tov, dingle."
 
-	para "Let's battle!"
+	para "Let us battle."
+	line "Train with chesed."
 	done
 
 PicnickerErin1BeatenText:
@@ -177,19 +181,19 @@ PicnickerErin1BeatenText:
 	done
 
 PicnickerErinAfterBattleText:
-	text "I've been to many"
-	line "GYMS, but the GYM"
+	text "I have seen many"
+	line "GYMS. GOLDENROD's"
 
-	para "in GOLDENROD is my"
-	line "favorite."
+	para "GYM is my fave."
 
-	para "It's filled with"
-	line "pretty flowers!"
+	para "Pretty flowers."
+	line "Tikkun begins."
 	done
 
 Route46SignText:
 	text "ROUTE 46"
 	line "MOUNTAIN RD. AHEAD"
+	cont "Derekh eretz."
 	done
 
 Route46_MapEvents:

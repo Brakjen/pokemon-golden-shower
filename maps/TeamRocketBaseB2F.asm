@@ -557,28 +557,60 @@ RocketBasePlayerLeavesElectrodesMovement3:
 	step_end
 
 RocketBaseExecutiveFHoldItText:
-	text "Hold it right"
-	line "there!"
+	text "Aye yo, hold the"
+	line "fuck up right"
+	cont "there, you little"
+	cont "bitch-ass nigga!"
+
+	para "And while you"
+	line "standin' there"
+
+	para "lookin' stupid,"
+	line "don't even ask"
+
+	para "about the paint"
+	line "still stuck deep"
+	cont "in my scrotum and"
+	cont "asshole from that"
+	cont "damn team-buildin'"
+	cont "event, fuckboy."
 	done
 
 RocketBaseBossFThrashText:
-	text "We can't have a"
-	line "brat like you on"
-	cont "the loose."
+	text "We can't have no"
+	line "brat-ass punk like"
+	cont "you runnin' loose,"
+	cont "you soft motha-"
+	cont "fucka."
 
-	para "It's harmful to"
-	line "TEAM ROCKET's"
-	cont "pride, you see."
+	para "It's bad for TEAM"
+	line "ROCKET's pride,"
+	cont "you feel me?"
 
 	para "However strong you"
-	line "may be, you can't"
+	line "think you is, you"
 
-	para "take both of us at"
-	line "the same time."
+	para "can't take both of"
+	line "us at the same"
+	cont "time, bitch."
 
 	para "Sorry, baby. Now"
-	line "get ready to be"
-	cont "thrashed."
+	line "get ready to get"
+	cont "thrashed, you"
+	cont "little fuckboy."
+
+	para "And if I move too"
+	line "fast and that"
+
+	para "leftover paint in"
+	line "my scrotum and"
+	cont "asshole start"
+
+	para "burnin' again from"
+	line "the last team-"
+	cont "buildin' event,"
+	cont "that's on yo' dumb"
+	cont "ass."
 	done
 
 RocketBaseLanceShareFunText:
@@ -588,61 +620,108 @@ RocketBaseLanceShareFunText:
 	done
 
 RocketBaseBossDontMeddleText:
-	text "What? You had an"
-	line "accomplice?"
+	text "What? You had a"
+	line "accomplice, you"
+	cont "sneaky-ass nigga?"
 
-	para "Where is your"
-	line "sense of honor?"
+	para "Where the fuck is"
+	line "yo' sense of"
+	cont "honor, bitch?"
 
 	para "As the interim"
 	line "boss in place of"
 
-	para "GIOVANNI, I'll"
+	para "GIOVANNI, I'ma"
 	line "show you how wrong"
 
 	para "it is to meddle"
-	line "with TEAM ROCKET!"
+	line "with TEAM ROCKET,"
+	cont "you soft punk!"
+
+	para "Just try not to"
+	line "make me laugh too"
+
+	para "hard--there's still"
+	line "dried paint from"
+
+	para "that team-buildin'"
+	line "event wedged in my"
+	cont "scrotum and deep"
+	cont "in my asshole, and"
+	cont "it sting like a"
+	cont "mothafucka when I"
+	cont "clench, nigga."
 	done
 
 RocketBaseBossWinText:
 	text "Tch, you really"
-	line "are strong."
+	line "are strong, you"
+	cont "lucky little"
+	cont "bitch."
 
 	para "It's too bad."
 
-	para "If you were to"
+	para "If you was to"
 	line "join TEAM ROCKET,"
 
 	para "you could become"
-	line "an EXECUTIVE."
+	line "a EXECUTIVE,"
+	cont "punk."
+
+	para "Though fair warn-"
+	line "in': the last"
+
+	para "team-buildin' event"
+	line "left every single"
+
+	para "one of us with"
+	line "paint crusted in"
+	cont "our scrotums and"
+	cont "assholes for days,"
+	cont "you feel me?"
 	done
 
 RocketBaseBossRetreatText:
 	text "…This hideout is"
 	line "done for…"
 
-	para "But that's fine."
-	line "The broadcast ex-"
-	cont "periment was a"
-	cont "total success."
+	para "But that's fine,"
+	line "nigga. The broad-"
+	cont "cast experiment"
+	cont "was a total"
+	cont "success."
 
-	para "It doesn't matter"
-	line "what happens to"
-	cont "this hideout now."
+	para "It don't matter"
+	line "what happen to"
+	cont "this hideout now,"
+	cont "bitch."
 
-	para "We have much big-"
-	line "ger plans."
+	para "We got much big-"
+	line "ger plans, you"
+	cont "soft-ass fuckboy."
 
 	para "You'll come to"
 	line "appreciate TEAM"
 
 	para "ROCKET's true"
-	line "power soon enough."
+	line "power soon enough,"
+	cont "punk."
 
 	para "Enjoy yourself"
 	line "while you can…"
 
 	para "Fufufufu…"
+
+	para "And if anybody"
+	line "ask, I'm still"
+
+	para "pickin' paint"
+	line "flakes out my"
+	cont "scrotum and ass-"
+	cont "hole from that"
+	cont "miserable team-"
+	cont "buildin' event,"
+	cont "mothafucka."
 	done
 
 RocketBaseLancePostBattleText:
@@ -802,72 +881,175 @@ LanceHealsText2:
 
 GruntM17SeenText:
 	text "The door won't"
-	line "open?"
+	line "open, you dumb-"
+	cont "ass nigga?"
 
-	para "Well, duh."
-	line "It has to have a"
+	para "Well, duh, bitch."
+	line "It got a password"
 
-	para "password that only"
-	line "TEAM ROCKET knows."
+	para "that only TEAM"
+	line "ROCKET know, you"
+	cont "soft fuckboy."
+
+	para "And while you"
+	line "standin' there"
+
+	para "lookin' stupid,"
+	line "don't comment on"
+
+	para "how I'm still"
+	line "walkin' funny--"
+
+	para "there's paint from"
+	line "the last team-"
+	cont "buildin' event"
+
+	para "crusted deep in my"
+	line "scrotum and ass-"
+	cont "hole and it itch"
+	cont "like a bitch,"
+	cont "mothafucka."
 	done
 
 GruntM17BeatenText:
-	text "What? I lost?"
+	text "What? I lost,"
+	line "you lucky-ass"
+	cont "punk?!"
+
+	para "Great, now the"
+	line "paint in my balls"
+	cont "and ass gon' sting"
+	cont "even worse, nigga."
 	done
 
 GruntM17AfterBattleText:
 	text "Heh, I'm just a"
-	line "GRUNT."
+	line "GRUNT, bitch."
 
 	para "I don't know the"
 	line "password. Too bad"
-	cont "for you."
+	cont "for you, fuckboy."
+
+	para "Now if you'll"
+	line "excuse me, I need"
+
+	para "to go dig more"
+	line "dried paint out my"
+	cont "scrotum and ass-"
+	cont "hole from that"
+	cont "team-buildin'"
+	cont "nightmare, you"
+	cont "soft-ass nigga."
 	done
 
 GruntM18SeenText:
 	text "Oh, a kid? I don't"
 	line "really like this,"
+	cont "you little punk,"
 
 	para "but eliminate you"
-	line "I must."
+	line "I must, bitch."
+
+	para "Just… try not to"
+	line "make me sit down"
+
+	para "hard. There's still"
+	line "paint from the"
+
+	para "team-buildin' event"
+	line "jammed in my"
+	cont "scrotum and deep"
+	cont "in my asshole,"
+	cont "mothafucka."
 	done
 
 GruntM18BeatenText:
 	text "I knew I'd lose…"
+	line "damn, you lucky"
+	cont "little nigga."
+
+	para "And now every time"
+	line "I clench, the"
+
+	para "paint flakes dig"
+	line "into my balls and"
+	cont "ass even more,"
+	cont "fuckboy."
 	done
 
 GruntM18AfterBattleText:
 	text "I got wiped out on"
 	line "the last mission"
-	cont "by a kid too."
+	cont "by a kid too,"
+	cont "bitch."
 
-	para "When we were ab-"
-	line "ducting #MON,"
+	para "When we was ab-"
+	line "ductin' #MON,"
 
 	para "this kid with long"
 	line "red hair and mean-"
 
-	para "looking eyes just"
+	para "lookin' eyes just"
 	line "creamed me…"
+
+	para "Almost as bad as"
+	line "the paint still"
+
+	para "stuck in my scro-"
+	line "tum and asshole"
+	cont "from that team-"
+	cont "buildin' event,"
+	cont "you soft punk."
 	done
 
 GruntM19SeenText:
 	text "You rotten little"
-	line "pest!"
+	line "pest-ass nigga!"
+
+	para "I got paint from"
+	line "the last team-"
+
+	para "buildin' event"
+	line "still caked in my"
+	cont "scrotum and up my"
+	cont "asshole, and I'm"
+	cont "in a foul-ass"
+	cont "mood, bitch!"
 	done
 
 GruntM19BeatenText:
-	text "Grrrr…"
+	text "Grrrr… damn you,"
+	line "you lucky fuckboy…"
+
+	para "Now the paint's"
+	line "really grindin'"
+	cont "between my balls"
+	cont "and in my ass,"
+	cont "mothafucka…"
 	done
 
 GruntM19AfterBattleText:
 	text "Heh, only the boss"
-	line "knows the password"
-	cont "for that door."
+	line "know the password"
+	cont "for that door,"
+	cont "punk."
 
 	para "Where's the boss?"
-	line "Who knows? Go look"
-	cont "for yourself."
+	line "Who the fuck"
+	cont "knows? Go look"
+	cont "for yourself,"
+	cont "bitch."
+
+	para "Meanwhile I'm over"
+	line "here tryin' not to"
+
+	para "scratch the dried"
+	line "paint still buried"
+	cont "in my scrotum and"
+	cont "asshole from that"
+	cont "team-buildin'"
+	cont "disaster, you soft"
+	cont "nigga."
 	done
 
 RocketBaseDoorNoPasswordText:

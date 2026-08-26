@@ -193,20 +193,22 @@ Rocket2Script_LetsYouPassNorth:
 	step_end
 
 RocketText_TollFee:
-	text "Hold it there,"
-	line "mister!"
+	text "Freeze,"
+	line "mother fucker!"
 
 	para "The toll is ¥{d:ROUTE43GATE_TOLL}"
 	line "to go through."
 	done
 
 RocketText_ThankYou:
-	text "Thank you, sir!"
+	text "Thank you,!"
+	line "mother fucker!"
 	done
 
 RocketText_AllYouGot:
 	text "Then pay what you"
-	line "have, please."
+	line "have, mother"
+	cont "fucker!"
 	done
 
 RocketText_MakingABundle:
@@ -214,7 +216,7 @@ RocketText_MakingABundle:
 	line "making a bundle."
 
 	para "Everyone wants to"
-	line "see what's going"
+	line "see our shit"
 
 	para "on up at LAKE OF"
 	line "RAGE."
@@ -223,10 +225,10 @@ RocketText_MakingABundle:
 OfficerText_FoundTM:
 	text "I got chased from"
 	line "my post by these"
-	cont "thugs in black."
+	cont "fucks in black."
 
 	para "They left this"
-	line "behind."
+	line "shit behind."
 
 	para "It makes me uncom-"
 	line "fortable. Could"

@@ -48,7 +48,8 @@ TradeCenterFriendScript: ; unreferenced
 
 TradeCenterFriendReadyText:
 	text "Your friend is"
-	line "ready."
+	line "ready for its"
+	cont "cock massage."
 	done
 
 TradeCenter_MapEvents:

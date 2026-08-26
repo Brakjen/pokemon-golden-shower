@@ -629,81 +629,107 @@ SecurityCameraMovement9:
 	step_end
 
 CameraGrunt1SeenText:
-	text "Hey!"
-	line "Intruder alert!"
+	text "Aye yo!"
+	line "Who dis fuckin'"
+	cont "intruder nigga?!"
+
+	para "You got some"
+	line "nerve, bitch-ass"
+	cont "punk!"
 	done
 
 CameraGrunt1BeatenText:
-	text "Dang… I failed…"
+	text "Damn… I fucked"
+	line "up… shit…"
 	done
 
 CameraGrunt2SeenText:
-	text "It's my turn!"
-	line "There's no escape!"
+	text "My turn now,"
+	line "you little bitch!"
+
+	para "Ain't no escape,"
+	line "mothafucka!"
 	done
 
 CameraGrunt2BeatenText:
-	text "Surveillance cams"
-	line "are in the #MON"
-	cont "statues."
+	text "Them surveillance"
+	line "cams be in the"
+	cont "#MON statues,"
+	cont "dumbass."
 
-	para "We'll keep appear-"
-	line "ing until you trip"
-	cont "a secret switch."
+	para "We gon' keep"
+	line "poppin' up till"
+
+	para "you trip that"
+	line "secret switch,"
+	cont "you soft-ass"
+	cont "fuckboy."
 	done
 
 ScientistJedSeenText:
-	text "This was once a"
-	line "ninja hideout."
+	text "This used to be"
+	line "a ninja hideout,"
+	cont "you nosy bitch."
 
-	para "There are traps to"
-	line "confound intruders"
-	cont "like you."
+	para "We got traps all"
+	line "over to fuck up"
+
+	para "intruders like"
+	line "yo' dumb ass."
 	done
 
 ScientistJedBeatenText:
-	text "I get it…"
+	text "Aight… I get it…"
+	line "damn…"
 	done
 
 ScientistJedAfterBattleText:
-	text "All right. I'll"
-	line "divulge a secret"
-	cont "about our hideout."
+	text "Fine, I'll spill"
+	line "some shit about"
+	cont "our hideout,"
+	cont "you lucky punk."
 
 	para "That thing on the"
 	line "floor up ahead is"
 	cont "a warp panel."
 
-	para "If you step on it,"
-	line "you'll be warped"
+	para "Step on that shit"
+	line "and you get sent"
 
-	para "back to the en-"
-	line "trance."
+	para "straight back to"
+	line "the entrance,"
+	cont "bitch."
 	done
 
 GruntM16SeenText:
-	text "Heheh. Feeling"
-	line "lucky, punk?"
+	text "Heheh. Feelin'"
+	line "lucky, punk-ass"
+	cont "nigga?"
 
 	para "Go ahead, take"
-	line "another step."
+	line "another fuckin'"
+	cont "step."
 
-	para "We've got traps"
-	line "set in the floor!"
+	para "We got traps set"
+	line "in the floor,"
+	cont "you soft bitch!"
 	done
 
 GruntM16BeatenText:
-	text "Kaboom!"
+	text "Kaboom, mothafucka!"
 	done
 
 GruntM16AfterBattleText:
 	text "I don't even know"
-	line "where the traps"
-	cont "are planted."
+	line "where the fuck"
+	cont "them traps at."
 
-	para "You'll just have"
-	line "to collect your"
-	cont "courage and walk."
+	para "You just gon'"
+	line "have to grow some"
+
+	para "balls and walk,"
+	line "you chicken-shit"
+	cont "punk."
 	done
 
 TeamRocketBaseB1FSecurityCameraText:
@@ -716,7 +742,8 @@ TeamRocketBaseB1FSecurityCameraText:
 
 TeamRocketBaseB1FSecretSwitchText:
 	text "A secret switch!"
-	line "Better press it."
+	line "Better press that"
+	cont "shit."
 	done
 
 TeamRocketBaseB1FSwitchOffText:

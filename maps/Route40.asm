@@ -143,133 +143,142 @@ Route40_StepUp4Movement: ; unreferenced
 	step_end
 
 SwimmermSimonSeenText:
-	text "You have to warm"
-	line "up before going"
-	cont "into the water."
+	text "Warm up 'fore you"
+	line "go in the water,"
+	cont "y'all."
 
-	para "That's basic."
+	para "Basic stuff."
+	line "Even you know it."
 	done
 
 SwimmermSimonBeatenText:
-	text "OK! Uncle! I give!"
+	text "Alright! Uncle!"
+	line "I give!"
+	cont "Dingleberry!"
 	done
 
 SwimmermSimonAfterBattleText:
-	text "CIANWOOD CITY is"
-	line "a good distance"
-	cont "away from here."
+	text "CIANWOOD CITY's"
+	line "a fair swim from"
+	cont "here, friend."
 	done
 
 SwimmermRandallSeenText:
-	text "A young guy like"
-	line "you should swim."
+	text "A young fella like"
+	line "you oughta swim,"
+	cont "storeklovn."
 
-	para "Don't SURF on your"
+	para "Use SURF on your"
 	line "#MON."
+	cont "Don't ride alone."
 	done
 
 SwimmermRandallBeatenText:
-	text "Uh-oh. I lost…"
+	text "FUCK. I lost."
+	line "Vetlegnolt."
 	done
 
 SwimmermRandallAfterBattleText:
-	text "Swimming exercises"
-	line "your entire body."
-	cont "It's healthy."
+	text "Swimming works"
+	line "every bit of you."
+	cont "Healthy as chores."
 	done
 
 SwimmerfElaineSeenText:
-	text "Are you going to"
-	line "CIANWOOD?"
+	text "You headed to"
+	line "CIANWOOD, ma'am?"
 
-	para "How about a quick"
-	line "battle first?"
+	para "Have a quick"
+	line "battle first,"
+	cont "dingleberry?"
 	done
 
 SwimmerfElaineBeatenText:
-	text "I lost that one!"
+	text "Well, I lost that"
+	line "one, storeklovn!"
 	done
 
 SwimmerfElaineAfterBattleText:
-	text "I'd say I'm a bet-"
-	line "ter swimmer than"
-	cont "you. Yeah!"
+	text "I swim better'n"
+	line "you. That's fact,"
+	cont "vetlegnolt."
 	done
 
 SwimmerfPaulaSeenText:
-	text "No inner tube for"
-	line "me."
+	text "No inner tube"
+	line "for me, nope."
 
-	para "I'm hanging on to"
-	line "a sea #MON!"
+	para "I hang onto a"
+	line "sea #MON"
+	cont "instead, y'all."
+	cont "y'all."
 	done
 
 SwimmerfPaulaBeatenText:
-	text "Ooh, I'm feeling"
-	line "dizzy!"
+	text "Ooh, I'm dizzy,"
+	line "dingleberry!"
 	done
 
 SwimmerfPaulaAfterBattleText:
-	text "While I float like"
-	line "this, the waves"
-	cont "carry me along."
+	text "While I float,"
+	line "the waves carry me"
+	cont "along, storeklovn."
 	done
 
 Route40Lass1Text:
-	text "Although you can't"
-	line "see it from here,"
+	text "You can't see it,"
+	line "but CIANWOOD's"
 
-	para "CIANWOOD is across"
-	line "the sea."
+	para "across the sea,"
+	line "vetlegnolt."
 	done
 
 MeetMonicaText:
-	text "MONICA: Glad to"
-	line "meet you. I'm"
+	text "MONICA: Hail,"
+	line "traveler. I am"
 
 	para "MONICA of Monday."
+	line "Wanna milk me,"
+	cont "storeklovn?"
 	done
 
 MonicaGivesGiftText:
-	text "As a token of our"
-	line "friendship, I have"
-	cont "a gift for you!"
+	text "Accept this gift,"
+	line "dingleberry."
 	done
 
 MonicaGaveGiftText:
-	text "MONICA: It's an"
-	line "item that raises"
+	text "MONICA: This item"
+	line "raises the power"
 
-	para "the power of fly-"
-	line "ing-type moves."
+	para "of flying-type"
+	line "moves, vetlegnolt."
 
-	para "You should equip a"
-	line "bird #MON with"
-	cont "that item."
+	para "Equip it to a bird"
+	line "#MON."
 	done
 
 MonicaMondayText:
-	text "MONICA: My broth-"
-	line "ers and sisters"
+	text "MONICA: My kinfolk"
+	line "wander wide"
 
-	para "are all over the"
-	line "place."
-
-	para "See if you could"
-	line "find them all!"
+	para "Seek them out,"
+	line "storeklovn."
 	done
 
 MonicaNotMondayText:
-	text "MONICA: I don't"
-	line "think today is"
-	cont "Monday. How sad…"
+	text "MONICA: Not"
+	line "Monday, I reckon."
+	cont "Come back then,"
+	cont "dingleberry."
 	done
 
 Route40SignText:
 	text "ROUTE 40"
 
-	para "CIANWOOD CITY -"
-	line "OLIVINE CITY"
+	para "CIANWOOD CITY"
+	line "to OLIVINE CITY"
+	cont "Keep swimmin'."
 	done
 
 Route40_MapEvents:

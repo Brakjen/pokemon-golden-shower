@@ -193,129 +193,149 @@ Route30_MikeysRattataAttacksMovement:
 	step_end
 
 Text_UseTackle:
-	text "Go, RATTATA!"
+	text "Go, RATTATA."
+	line "Easy, vetlegnolt."
 
-	para "TACKLE!"
+	para "TACKLE."
 	done
 
 Text_ThisIsABigBattle:
-	text "What? This is a"
-	line "big battle!"
-	cont "Leave me alone!"
+	text "This is a big"
+	line "battle. Hush,"
+	cont "dingleberry."
 	done
 
 YoungsterJoey1SeenText:
-	text "I just lost, so"
-	line "I'm trying to find"
-	cont "more #MON."
+	text "I lost. I seek"
+	line "more #MON."
+	cont "Mud, storeklovn."
 
-	para "Wait! You look"
-	line "weak! Come on,"
-	cont "let's battle!"
+	para "Your #MON look"
+	line "tired. Battle me."
+	cont "Care for them."
 	done
 
 YoungsterJoey1BeatenText:
-	text "Ugh. I don't have"
-	line "any more #MON."
+	text "My #MON are"
+	line "spent."
+	cont "Rain, vetlegnolt."
+	cont "The creek knows."
 	done
 
 YoungsterJoey1AfterText:
-	text "I have to have"
-	line "more #MON for"
-	cont "battles."
+	text "I need more"
+	line "#MON."
+	cont "Hush, dingleberry."
 
-	para "I'm going to catch"
-	line "some more!"
+	para "I will search the"
+	line "grass for them."
 	done
 
 YoungsterMikeySeenText:
-	text "You're a #MON"
-	line "trainer, right?"
+	text "Thou trainest"
+	line "#MON?"
+	cont "Care, storeklovn."
 
-	para "Then you have to"
-	line "battle!"
+	para "Then battle me."
+	line "The path is clear."
 	done
 
 YoungsterMikeyBeatenText:
-	text "That's strange."
-	line "I won before."
+	text "Strange. I won"
+	line "before."
+	cont "Rain, vetlegnolt."
+	cont "Tracks change."
 	done
 
 YoungsterMikeyAfterText:
-	text "Becoming a good"
-	line "trainer is really"
-	cont "tough."
+	text "Good training is"
+	line "hard."
+	cont "Care, dingleberry."
 
-	para "I'm going to bat-"
-	line "tle other people"
-	cont "to get better."
+	para "I will battle"
+	line "others and learn."
+	cont "Grass remembers."
 	done
 
 BugCatcherDonSeenText:
-	text "Instead of a bug"
-	line "#MON, I found"
-	cont "a trainer!"
+	text "I found a trainer,"
+	line "not a bug #MON."
+	cont "Mud, storeklovn."
 	done
 
 BugCatcherDonBeatenText:
-	text "Argh! You're too"
-	line "strong!"
+	text "Your #MON are"
+	line "strong."
+	cont "Easy, vetlegnolt."
+	cont "The beetles fled."
 	done
 
 BugCatcherDonAfterText:
-	text "I ran out of #"
-	line "BALLS while I was"
+	text "I ran out of"
+	line "# BALLS while"
 	cont "catching #MON."
+	cont "Hush, dingleberry."
 
-	para "I should've bought"
-	line "some more…"
+	para "I should have"
+	line "brought more."
 	done
 
 Route30YoungsterText_DirectionsToMrPokemonsHouse:
-	text "MR.#MON's"
-	line "house? It's a bit"
-	cont "farther ahead."
+	text "mr. pokemon's"
+	line "house is ahead,"
+	cont "vetlegnolt."
+
+	para "A fox shade rests"
+	line "beside the path."
 	done
 
 Route30YoungsterText_EveryoneIsBattling:
-	text "Everyone's having"
-	line "fun battling!"
-	cont "You should too!"
+	text "Everyone battles"
+	line "along the path,"
+	cont "storeklovn."
+	cont "The grass stirs."
 	done
 
 Route30CooltrainerFText:
-	text "I'm not a trainer."
+	text "I am no trainer,"
+	line "dingleberry."
 
-	para "But if you look"
-	line "one in the eyes,"
-	cont "prepare to battle."
+	para "Look a trainer"
+	line "in the eyes,"
+	cont "and battle may"
+	cont "follow."
 	done
 
 Route30SignText:
-	text "ROUTE 30"
+	text "route 30"
 
-	para "VIOLET CITY -"
-	line "CHERRYGROVE CITY"
+	para "violet city to"
+	line "cherrygrove city"
+	cont "Easy, vetlegnolt."
 	done
 
 MrPokemonsHouseDirectionsSignText:
-	text "MR.#MON'S HOUSE"
-	line "Straight Ahead!"
+	text "mr. pokemon's"
+	line "house ahead."
+	cont "Mud, storeklovn."
 	done
 
 MrPokemonsHouseSignText:
-	text "MR.#MON'S HOUSE"
+	text "mr. pokemon's"
+	line "house"
+	cont "Hush, dingleberry."
 	done
 
 Route30TrainerTipsText:
-	text "TRAINER TIPS"
+	text "field notes"
 
-	para "No stealing other"
-	line "people's #MON!"
+	para "Do not steal"
+	line "another's #MON."
 
-	para "# BALLS are to"
-	line "be thrown only at"
-	cont "wild #MON!"
+	para "# BALLS belong"
+	line "against wild"
+	cont "#MON only."
+	cont "Rain, vetlegnolt."
 	done
 
 Route30_MapEvents:

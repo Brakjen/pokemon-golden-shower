@@ -14,14 +14,14 @@ SilverCavePokecenter1FGrannyScript:
 	jumptextfaceplayer SilverCavePokecenter1FGrannyText
 
 SilverCavePokecenter1FGrannyText:
-	text "Trainers who seek"
+	text "Fuckers who seek"
 	line "power climb MT."
 
 	para "SILVER despite its"
 	line "many dangers…"
 
 	para "With their trusted"
-	line "#MON, they must"
+	line "#COCK, they must"
 
 	para "feel they can go"
 	line "anywhere…"

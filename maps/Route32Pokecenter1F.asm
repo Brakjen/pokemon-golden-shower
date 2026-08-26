@@ -45,26 +45,29 @@ Route32Pokecenter1FCooltrainerFScript:
 
 Route32Pokecenter1FFishingGuruText_Question:
 	text "This is a great"
-	line "fishing spot."
+	line "tugging spot."
 
 	para "You saw people"
-	line "fishing? How"
+	line "tugging? How"
 	cont "about you?"
 
 	para "Would you like one"
-	line "of my RODS?"
+	line "of my TUGS,"
+	cont "vetlegnolt?"
 	done
 
 Route32Pokecenter1FFishingGuruText_Yes:
 	text "Heh, that's good"
-	line "to hear."
+	line "to hear,"
+	cont "maddafakka."
 
-	para "Now you're an"
-	line "angler too!"
+	para "Now you're a"
+	line "karpfucker too!"
 	done
 
 Route32Pokecenter1FFishingGuruText_GiveOldRod:
-	text "Fishing is great!"
+	text "Karpfucking is"
+	line "great!"
 
 	para "If there's water,"
 	line "be it the sea or a"
@@ -76,11 +79,15 @@ Route32Pokecenter1FFishingGuruText_GiveOldRod:
 Route32Pokecenter1FFishingGuruText_No:
 	text "Oh. That's rather"
 	line "disappointing…"
+	cont "Had a napp but it"
+	cont "slepped the krok."
 	done
 
 Route32Pokecenter1FFishingGuruText_After:
 	text "Yo, youngster. How"
 	line "are they biting?"
+	cont "Try some honey on"
+	cont "your rod........."
 	done
 
 Route32Pokecenter1FCooltrainerFText:
@@ -88,7 +95,7 @@ Route32Pokecenter1FCooltrainerFText:
 	line "my #MON hold?"
 
 	para "Maybe an item that"
-	line "increases ATTACK"
+	line "increases SPERM"
 	cont "power…"
 	done
 

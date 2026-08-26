@@ -38,13 +38,16 @@ SproutTower2FXDefend:
 
 SageNicoSeenText:
 	text "However hard we"
-	line "battle, the TOWER"
-	cont "will stand strong."
+	line "get our #COCKS,"
+	cont "the TOWER will"
+	cont "stand strong."
 	done
 
 SageNicoBeatenText:
 	text "I fought hard but"
-	line "I'm too weak."
+	line "my cock is too"
+	cont "weak. I need to"
+	cont "milk it."
 	done
 
 SageNicoAfterBattleText:
@@ -53,22 +56,25 @@ SageNicoAfterBattleText:
 
 	para "TOWER, even from"
 	line "earthquakes."
+
+	para "I need to milk it."
 	done
 
 SageEdmondSeenText:
-	text "…Sway like leaves"
-	line "in the wind…"
+	text "…Sway like flappy"
+	line "#PENISES!"
 	done
 
 SageEdmondBeatenText:
-	text "Oh, I'm weak!"
+	text "Shit, my wiener"
+	line "is too weak."
 	done
 
 SageEdmondAfterBattleText:
 	text "I tried to copy"
 	line "BELLSPROUT's"
 
-	para "gentle movements"
+	para "genital movements"
 	line "for battle…"
 
 	para "But I didn't train"
@@ -79,7 +85,7 @@ SproutTower2FStatueText:
 	text "A #MON statue…"
 
 	para "It looks very"
-	line "distinguished."
+	line "much like a cock."
 	done
 
 SproutTower2F_MapEvents:

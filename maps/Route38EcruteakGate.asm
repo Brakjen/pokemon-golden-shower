@@ -15,11 +15,12 @@ Route38EcruteakGateOfficerText:
 
 	para "NEW BARK TOWN?"
 
-	para "PROF.ELM lives"
-	line "over there, right?"
-
-	para "You've come a long"
-	line "way to get here."
+	para "PROF.ELM the"
+	line "pervert lives"
+	cont "over there, right?"
+	cont "He perved on me,"
+	cont "once, you know."
+	cont "I quite liked it."
 	done
 
 Route38EcruteakGate_MapEvents:

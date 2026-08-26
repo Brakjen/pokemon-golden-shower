@@ -223,31 +223,25 @@ Route35NationalParkGatePlayerEnterParkMovement:
 	step_end
 
 Route35NationalParkGateOfficer1AskToParticipateText:
-	text "Today's @"
+	text "Today is @"
 	text_ram wStringBuffer3
-	text "."
-	line "That means the"
+	text ", vetlegnolt."
+	line "The Bug Contest"
+	cont "is held today."
 
-	para "Bug-Catching Con-"
-	line "test is on today."
+	para "Its rules are"
+	line "simple. Use one"
+	cont "of thy #MON."
 
-	para "The rules are sim-"
-	line "ple."
-
-	para "Using one of your"
-	line "#MON, catch a"
-
-	para "bug #MON to be"
-	line "judged."
-
-	para "Would you like to"
-	line "give it a try?"
+	para "Catch a bug"
+	line "#MON to judge"
+	cont "Enter, dingleberry"
 	done
 
 Route35NationalParkGateOfficer1GiveParkBallsText:
-	text "Here are the PARK"
-	line "BALLS for the"
-	cont "Contest."
+	text "Take these PARK"
+	line "BALLS, storeklovn."
+	cont "For the Contest."
 	done
 
 Route35NationalParkGatePlayerReceivedParkBallsText:
@@ -256,51 +250,51 @@ Route35NationalParkGatePlayerReceivedParkBallsText:
 	done
 
 Route35NationalParkGateOfficer1ExplainsRulesText:
-	text "The person who"
-	line "gets the strong-"
-	cont "est bug #MON"
-	cont "is the winner."
+	text "The strongest bug"
+	line "#MON shall win,"
+	cont "dingleberry."
 
 	para "You have {d:BUG_CONTEST_MINUTES}"
 	line "minutes."
 
-	para "If you run out of"
-	line "PARK BALLS, you're"
+	para "When PARK BALLS"
+	line "run out, thou art"
 	cont "done."
 
-	para "You can keep the"
-	line "last #MON you"
-	cont "catch as your own."
+	para "Thou mayest keep"
+	line "the last #MON"
+	cont "thou dost catch."
 
-	para "Go out and catch"
+	para "Go forth and catch"
 	line "the strongest bug"
-
-	para "#MON you can"
-	line "find!"
+	cont "#MON thou canst"
+	cont "find. Matt. 16:26."
 	done
 
 Route35NationalParkGateOfficer1AskToUseFirstMonText:
-	text "Uh-oh…"
+	text "Take heed,"
+	line "vetlegnolt."
 
-	para "You have more than"
-	line "one #MON."
+	para "Thou hast more"
+	line "than one #MON."
 
-	para "You'll have to use"
+	para "Thou must use"
 	line "@"
 	text_ram wStringBuffer3
-	text ", the"
+	text ", the first"
+	line "#MON in thy"
+	cont "party."
 
-	para "first #MON in"
-	line "your party."
-
-	para "Is that OK with"
-	line "you?"
+	para "Is this acceptable"
+	line "unto thee?"
 	done
 
 Route35NationalParkGateOfficer1WellHoldYourMonText:
-	text "Fine, we'll hold"
-	line "your other #MON"
-	cont "while you compete."
+	text "We shall hold thy"
+	line "other #MON"
+	cont "while thou dost"
+	cont "compete."
+	cont "Storeklovn."
 	done
 
 Route35NationalParkGatePlayersMonLeftWithHelperText:
@@ -310,126 +304,124 @@ Route35NationalParkGatePlayersMonLeftWithHelperText:
 	done
 
 Route35NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Please choose the"
-	line "#MON to be used"
+	text "Choose the #MON"
+	line "thou wilt use,"
+	cont "dingleberry."
 
-	para "in the Contest,"
-	line "then come see me."
+	para "Then return and"
+	line "speak with me."
 	done
 
 Route35NationalParkGateOfficer1TakePartInFutureText:
-	text "OK. We hope you'll"
-	line "take part in the"
-	cont "future."
+	text "Nay, thou hast"
+	line "declined."
+	cont "Return another day"
+	cont "vetlegnolt."
 	done
 
 Route35NationalParkGateOfficer1FirstMonCantBattleText:
-	text "Uh-oh…"
-	line "The first #MON"
+	text "Take heed. Thy"
+	line "first #MON"
+	cont "cannot battle."
 
-	para "in your party"
-	line "can't battle."
+	para "Switch it with the"
+	line "#MON thou wilt"
+	cont "use, then return,"
+	cont "storeklovn."
 
-	para "Please switch it"
-	line "with the #MON"
-
-	para "you want to use,"
-	line "then come see me."
 	done
 
 Route35NationalParkGateOfficer1MakeRoomText:
-	text "Uh-oh…"
-	line "Both your party"
+	text "Take heed,"
+	line "dingleberry. Thy"
+	cont "party and PC BOX"
+	cont "are both full."
 
-	para "and your PC BOX"
-	line "are full."
-
-	para "You have no room"
-	line "to put the bug"
+	para "There is no room"
+	line "for the bug"
 	cont "#MON you catch."
 
-	para "Please make room"
-	line "in your party or"
-
-	para "your PC BOX, then"
-	line "come see me."
+	para "Make room in thy"
+	line "party or PC BOX,"
+	cont "then return to me."
 	done
 
 Route35NationalParkGateOfficer1EggAsFirstMonText:
-	text "Uh-oh…"
-	line "You have an EGG as"
+	text "Take heed,"
+	line "vetlegnolt. An EGG"
+	cont "is first in thy"
+	cont "party."
 
-	para "the first #MON"
-	line "in your party."
-
-	para "Please switch it"
-	line "with the #MON"
-
-	para "you want to use,"
-	line "then come see me."
+	para "Switch it with the"
+	line "#MON thou wilt"
+	cont "use, then return."
 	done
 
 Route35NationalParkGateOfficer1WantToFinishText:
-	text "You still have @"
+	text "Thou hast @"
 	text_ram wStringBuffer3
 	text_start
-	line "minute(s) left."
+	line "minute(s) remain."
 
-	para "Do you want to"
-	line "finish now?"
+	para "Finish now,"
+	line "storeklovn?"
 	done
 
 Route35NationalParkGateOfficer1WaitAtNorthGateText:
-	text "OK. Please wait at"
+	text "Very well. Wait at"
 	line "the North Gate for"
 
-	para "the announcement"
-	line "of the winners."
+	para "the winners'"
+	line "announcement."
+	cont "Wait, dingleberry."
 	done
 
 Route35NationalParkGateOfficer1OkGoFinishText:
-	text "OK. Please get"
-	line "back outside and"
-	cont "finish up."
+	text "Very well. Go"
+	line "outside; finish,"
+	cont "vetlegnolt."
 	done
 
 Route35NationalParkGateOfficer1ContestIsOverText:
 	text "Today's Contest is"
-	line "over. We hope you"
+	line "over, storeklovn."
 
-	para "will participate"
-	line "in the future."
+	para "Thou mayest"
+	line "participate again"
+	cont "day."
 	done
 
 Route35NationalParkGateOfficer1WeHoldContestsText:
 	text "We hold Contests"
 	line "regularly in the"
 
-	para "PARK. You should"
-	line "give it a shot."
+	para "PARK. Enter,"
+	line "dingleberry, if"
+	cont "thou art willing."
 	done
 
 Route35NationalParkGateYoungsterText:
 	text "When is the next"
-	line "Bug-Catching Con-"
-	cont "test going to be?"
+	line "Bug-Catching"
+	cont "Contest,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestExplanationText:
-	text "The Bug-Catching"
-	line "Contest is held on"
+	text "The Bug Contest"
+	line "is held on"
 
-	para "Tuesday, Thursday"
+	para "Tuesday, Thursday,"
 	line "and Saturday."
 
-	para "Not only do you"
-	line "earn a prize just"
+	para "Thou earn a prize"
+	line "for entering,"
+	cont "storeklovn."
 
-	para "for participating,"
-	line "you also get to"
-
-	para "keep a bug #MON"
-	line "that you catch."
+	para "Thou mayest keep"
+	line "one bug #MON"
+	cont "thou catchest."
+	cont "Matt. 16:26."
 	done
 
 Route35NationalParkGate_MapEvents:

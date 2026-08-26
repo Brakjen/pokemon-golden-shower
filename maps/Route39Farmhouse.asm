@@ -94,82 +94,93 @@ FarmhouseBookshelf:
 	jumpstd PictureBookshelfScript
 
 FarmerMText_SickCow:
-	text "My MILTANK ain't"
-	line "givin' me milk"
-	cont "nomore."
+	text "My MILTANK giveth"
+	line "no sperm, alas."
 
-	para "This here FARM's"
-	line "got famous milk."
+	para "This FARM's semen"
+	line "famed, vetlegnolt"
 
-	para "Most everyone"
-	line "wants a drink."
+	para "The countryside"
+	line "expects its share."
 
-	para "It'll give me lots"
-	line "o' milk if'n I"
-
-	para "feed it lots o'"
-	line "BERRIES, I reckon."
+	para "Feed it TUGS,"
+	line "sperm shall flow."
+	cont "Even thou knowest"
+	cont "this, storeklovn."
 	done
 
 FarmerMText_BuyMilk:
-	text "How'd you like my"
-	line "MOOMOO MILK?"
+	text "Wilt thou purchase"
+	line "MOOMOO CUM?"
 
-	para "It's my pride and"
-	line "joy, son."
+	para "It is my finest"
+	line "farm provision,"
+	cont "dingleberry."
 
 	para "Give it to #MON"
-	line "to restore HP!"
+	line "to restore HP."
 
-	para "I'll give it to ya"
-	line "fer just ¥{d:ROUTE39FARMHOUSE_MILK_PRICE}."
+	para "The price is"
+	line "¥{d:ROUTE39FARMHOUSE_MILK_PRICE}."
+	cont "Conduct thyself"
+	cont "with proper care."
 	done
 
 FarmerMText_GotMilk:
-	text "Here ya go!"
-	line "Drink up'n enjoy!"
+	text "Here is thy semen."
+	line "Enjoy it."
+	cont "Vetlegnolt."
 	done
 
 FarmerMText_NoMoney:
-	text "Sorry, son."
-	line "No cash, no sale!"
+	text "Thy purse is empty"
+	line "No coin, no sale."
+	cont "A simple lesson,"
+	cont "storeklovn."
 	done
 
 FarmerMText_NoRoom:
-	text "I reckon yer"
-	line "PACK's full, son."
+	text "Thy PACK is full,"
+	line "dingleberry."
+	cont "Make room first."
 	done
 
 FarmerMText_NoSale:
-	text "You don't want it?"
-	line "Come again, hear?"
+	text "Thou refusest?"
+	line "Very well,"
+	cont "vetlegnolt."
+	cont "Return."
 	done
 
 FarmerMText_Milking:
-	text "I best go do my"
-	line "milkin'."
+	text "I must attend the"
+	line "milking."
+	cont "Storeklovn."
 	done
 
 FarmerFText_InTrouble:
-	text "Our milk even goes"
-	line "out to KANTO."
+	text "Our cum is sent"
+	line "even unto KANTO."
 
-	para "So if our own"
-	line "MILTANK won't give"
+	para "Thus, if our"
+	line "MILTANK giveth no"
+	cont "cum, we suffer."
 
-	para "us any milk, we're"
-	line "in trouble."
+	para "The household and"
+	line "patrons grieve,"
+	cont "storeklovn."
 	done
 
 FarmerFText_HealedMiltank:
-	text "You fixed our"
-	line "MILTANK, hon. Now"
+	text "Thou hast mended"
+	line "our MILTANK. Now"
 
-	para "it gives MOOMOO"
-	line "MILK again."
+	para "it giveth MOOMOO"
+	line "CUM once more."
 
-	para "Here's somethin'"
-	line "fer your trouble."
+	para "Accept TM13,"
+	line "dingleberry, as"
+	cont "our humble thanks."
 	done
 
 Text_ReceivedTM13: ; unreferenced
@@ -178,18 +189,18 @@ Text_ReceivedTM13: ; unreferenced
 	done
 
 FarmerFText_SnoreSpeech:
-	text "That there's"
-	line "SNORE."
+	text "This is SNORE,"
+	line "vetlegnolt."
 
-	para "It's a rare move"
-	line "that only works"
+	para "It is a rare move"
+	line "that worketh only"
 
 	para "while the #MON"
 	line "is asleep."
 
-	para "You best think how"
-	line "you ought to use"
-	cont "it, hon."
+	para "Consider its use"
+	line "with judgment,"
+	cont "storeklovn."
 	done
 
 Route39Farmhouse_MapEvents:
