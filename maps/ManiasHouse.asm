@@ -99,102 +99,139 @@ ManiasHouseUnusedBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
 ManiaText_AskLookAfterShuckle:
-	text "I, I'm in shock!"
+	text "Attend me,"
+	line "vetlegnolt."
 
-	para "A guy about your"
-	line "age with piercing"
+	para "A long-haired"
+	line "youth with a"
+	cont "vulgar stare"
+	cont "entered here."
 
-	para "eyes and long hair"
-	line "came in."
+	para "He frightened me"
+	line "into surrendering"
+	cont "my prized #MON."
 
-	para "He scared me into"
-	line "giving him my"
-	cont "prized #MON!"
+	para "One companion"
+	line "remains. I shall"
+	cont "not risk another."
 
-	para "I still have one"
-	line "left, but what if"
-	cont "he comes back?"
+	para "Thy bearing seems"
+	line "adequate, though"
+	cont "scarcely refined."
 
-	para "You look strong."
-	line "Could you look"
-
-	para "after my #MON"
-	line "for a while?"
+	para "Wilt thou guard my"
+	line "#MON awhile,"
+	cont "storeklovn?"
 	done
 
 ManiaText_TakeCareOfShuckle:
-	text "Oh, thank you!"
+	text "A passable choice."
+	line "Dingleberry."
 
-	para "Take good care of"
-	line "it, please!"
+	para "Guard my #MON"
+	line "with more care"
+	cont "than thy manners"
+	cont "suggest."
+	cont "Vetlegnolt."
 	done
 
 ManiaText_GotShuckle:
-	text "<PLAYER> received a"
-	line "#MON."
+	text "<PLAYER> received"
+	line "a #MON."
+
+	para "Mind thy charge,"
+	line "storeklovn."
 	done
 
 ManiaText_PartyFull:
-	text "Your #MON party"
-	line "is full."
+	text "Thy #MON party"
+	line "is full,"
+	cont "dingleberry."
+
+	para "Return with room."
 	done
 
 ManiaText_IfHeComesBack:
-	text "Oh, no… What'll"
-	line "I do if he comes"
-	cont "back?"
+	text "Thou refusest,"
+	line "vetlegnolt?"
+
+	para "If that brute"
+	line "returns, I shall"
+	cont "be poorly served."
 	done
 
 ManiaText_CanIHaveMyMonBack:
-	text "Hi! How's my #-"
-	line "MON?"
+	text "How fares my"
+	line "#MON,"
+	cont "storeklovn?"
 
-	para "I think I'm safe"
-	line "now, so may I have"
-	cont "it back?"
+	para "The danger hath"
+	line "passed."
+
+	para "Wilt thou return"
+	line "my companion,"
+	cont "dingleberry?"
 	done
 
 ManiaText_ThankYou:
-	text "Thank you!"
+	text "My thanks,"
+	line "vetlegnolt."
+
+	para "Thou hast managed"
+	line "basic propriety."
 	done
 
 ManiaText_ShuckleNotThere:
-	text "Hey, you don't"
-	line "have my #MON"
-	cont "with you."
+	text "My #MON is not"
+	line "with thee,"
+	cont "storeklovn."
+
+	para "Return when thou"
+	line "actually hast it."
 	done
 
 ManiaText_ShuckleLikesYou:
-	text "My #MON has"
-	line "come to like you."
+	text "My #MON favors"
+	line "thee, vetlegnolt."
 
-	para "All right, you"
-	line "should keep it."
+	para "Unexpectedly, thy"
+	line "care hath merit."
 
-	para "But promise to"
-	line "be good to it!"
+	para "Keep it, then."
+	line "Treat it well,"
+	cont "dingleberry."
 	done
 
 ManiaText_SameAsBeingRobbed:
-	text "Oh, no, no… That's"
-	line "the same as being"
-	cont "robbed."
+	text "Thou wilt not"
+	line "return it,"
+	cont "dingleberry?"
+
+	para "That is theft with"
+	line "poorer ceremony,"
+	cont "storeklovn."
 	done
 
 ManiaText_HappinessSpeech:
-	text "For #MON, hap-"
-	line "piness is being"
+	text "A #MON"
+	line "finds joy with"
+	cont "one who"
+	cont "treats it well."
 
-	para "with a person who"
-	line "treats them well."
+	para "Even one of thy"
+	line "station may learn"
+	cont "that, vetlegnolt."
 	done
 
 ManiaText_ShuckleIsYourLastMon:
-	text "If I take my #-"
-	line "MON back, what are"
+	text "This is thy last"
+	line "#MON."
+	cont "Storeklovn."
 
-	para "you going to use"
-	line "in battle?"
+	para "If I reclaim it,"
+	line "what wilt thou use"
+	cont "in battle,"
+	cont "dingleberry?"
 	done
 
 ManiasHouse_MapEvents:

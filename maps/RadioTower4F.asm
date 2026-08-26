@@ -104,143 +104,164 @@ RadioTower4FStudio2Sign:
 	jumptext RadioTower4FStudio2SignText
 
 RadioTower4FFisherText:
-	text "I listened to the"
-	line "radio while I was"
-	cont "at the RUINS."
+	text "I had the radio"
+	line "on at the RUINS,"
+	cont "vetlegnolt."
 
-	para "I heard a strange"
-	line "broadcast there."
+	para "Heard a mighty"
+	line "strange show,"
+	cont "storeklovn."
+
+	para "Figured the mud"
+	line "talked."
 	done
 
 RadioTower4FDJMaryText:
-	text "MARY: Why? Why do"
-	line "I have to suffer"
-	cont "through this?"
+	text "MARY: Why am I"
+	line "stuck in this,"
+	cont "vetlegnolt?"
 
-	para "MEOWTH, help me!"
+	para "MEOWTH, help me,"
+	line "storeklovn!"
 	done
 
 RadioTower4FDJMaryText_ClearedRockets:
-	text "MARY: Oh! You're"
-	line "my little savior!"
+	text "MARY: You saved"
+	line "me, vetlegnolt!"
 
-	para "Will you take this"
-	line "as my thanks?"
+	para "Take this here,"
+	line "storeklovn."
 	done
 
 RadioTower4FDJMaryText_GivePinkBow:
-	text "MARY: It's just"
-	line "right for #MON"
+	text "MARY: That PINK"
+	line "BOW suits #MON"
 
-	para "that know normal-"
-	line "type moves."
+	para "with normal-type"
+	line "moves, vetlegnolt."
 	done
 
 RadioTower4FDJMaryText_After:
-	text "MARY: Please tune"
-	line "into me on PROF."
+	text "MARY: Tune into"
+	line "PROF.OAK'S #MON"
 
-	para "OAK'S #MON TALK"
-	line "show."
+	para "TALK, vetlegnolt."
 	done
 
 RadioTowerMeowthText:
-	text "MEOWTH: Meowth…"
+	text "MEOWTH: Meowth,"
+	line "vetlegnolt."
 	done
 
 GruntM10SeenText:
-	text "You plan to rescue"
-	line "the DIRECTOR?"
+	text "You want to save"
+	line "the DIRECTOR,"
+	cont "vetlegnolt?"
 
-	para "That won't be pos-"
-	line "sible because I'm"
-	cont "going to beat you!"
+	para "Ain't gonna happen"
+	line "while I'm here,"
+	cont "storeklovn."
+
+	para "I will beat you."
 	done
 
 GruntM10BeatenText:
-	text "No! Unbelievable!"
+	text "No! I got beat,"
+	line "dingleberry!"
 	done
 
 GruntM10AfterBattleText:
-	text "I don't believe"
-	line "it! I was beaten!"
+	text "I got beat,"
+	line "vetlegnolt."
 	done
 
 Executivem2SeenText:
-	text "Stop! I'm known as"
-	line "the TEAM ROCKET"
-	cont "fortress!"
+	text "Hold it,"
+	line "vetlegnolt."
 
-	para "You're not taking"
-	line "another step!"
+	para "They call me the"
+	line "TEAM ROCKET fort,"
+	cont "storeklovn."
+
+	para "Don't take another"
+	line "step!"
 	done
 
 Executivem2BeatenText:
-	text "The fortress came"
-	line "down!"
+	text "My fort came down,"
+	line "dingleberry!"
 	done
 
 Executivem2AfterBattleText:
-	text "You've earned my"
-	line "respect, so here's"
-	cont "some advice."
+	text "You earned some"
+	line "respect,"
+	cont "vetlegnolt."
 
-	para "It's not too late."
-	line "You can still turn"
-	cont "back."
+	para "Here is my advice,"
+	line "storeklovn:"
+	cont "Turn back now."
 	done
 
 GruntF4SeenText:
-	text "Don't I think"
-	line "#MON are cute?"
+	text "Ain't #MON"
+	line "cute, vetlegnolt?"
 
-	para "I'll think my"
-	line "#MON are cute--"
-
-	para "after they beat"
-	line "yours!"
+	para "Mine get cute"
+	line "after they beat"
+	cont "yours, storeklovn."
 	done
 
 GruntF4BeatenText:
-	text "Oh, no! They're so"
-	line "useless!"
+	text "Aw, they are"
+	line "useless,"
+	cont "dingleberry."
 	done
 
 GruntF4AfterBattleText:
 	text "I love my"
-	line "beautiful self!"
+	line "pretty self,"
+	cont "vetlegnolt."
 
-	para "Who cares about"
-	line "#MON?"
+	para "Who needs #MON,"
+	line "storeklovn?"
 	done
 
 ScientistRichSeenText:
-	text "Most excellent."
+	text "Well, ain't this"
+	line "fine, vetlegnolt."
 
 	para "This RADIO TOWER"
-	line "will fulfill our"
-	cont "grand design."
+	line "will make our big"
+	cont "plan work,"
+	cont "storeklovn."
 	done
 
 ScientistRichBeatenText:
-	text "Hmmm…"
+	text "Hmmm. Big plans"
+	line "got snags,"
+	cont "dingleberry."
 
-	para "All grand plans"
-	line "come with snags."
 	done
 
 ScientistRichAfterBattleText:
-	text "Do you honestly"
-	line "believe you can"
-	cont "stop TEAM ROCKET?"
+	text "You really reckon"
+	line "you can stop TEAM"
+	cont "ROCKET?"
+	cont "Vetlegnolt."
 	done
 
 RadioTower4FProductionSignText:
 	text "4F PRODUCTION"
+
+	para "Where we make"
+	line "noise, vetlegnolt."
 	done
 
 RadioTower4FStudio2SignText:
 	text "4F STUDIO 2"
+
+	para "That other room,"
+	line "storeklovn."
 	done
 
 RadioTower4F_MapEvents:

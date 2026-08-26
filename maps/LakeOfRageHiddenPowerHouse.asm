@@ -31,38 +31,46 @@ HiddenPowerHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 HiddenPowerGuyText1:
-	text "…You have strayed"
-	line "far…"
+	text "Y'all came far,"
+	line "vetlegnolt."
 
-	para "Here I have medi-"
-	line "tated. Inside me,"
+	para "I sat and thought"
+	line "till a new power"
+	cont "showed up."
 
-	para "a new power has"
-	line "been awakened."
+	para "That makes sense"
+	line "if ya don't think"
+	cont "too hard."
 
-	para "Let me share my"
-	line "power with your"
-
-	para "#MON."
-	line "Take this, child."
+	para "Take this TM for"
+	line "your #MON,"
+	cont "storeklovn."
 	done
 
 HiddenPowerGuyText2:
-	text "Do you see it? It"
-	line "is HIDDEN POWER!"
+	text "That's HIDDEN"
+	line "POWER,"
+	cont "dingleberry."
 
-	para "It draws out the"
-	line "power of #MON"
-	cont "for attacking."
+	para "It pulls out a"
+	line "#MON's power"
+	cont "for an attack."
 
-	para "Remember this: its"
-	line "type and power de-"
-	cont "pend on the #-"
-	cont "MON using it."
+	para "Its type and power"
+	line "depend on which"
+	cont "#MON uses it,"
+	cont "vetlegnolt."
+
+	para "My uncle tried it"
+	line "once. Settles it."
 	done
 
 HiddenPowerGuyText3:
-	text "I am meditating…"
+	text "I'm thinkin' hard,"
+	line "storeklovn."
+
+	para "Ain't found much"
+	line "yet."
 	done
 
 LakeOfRageHiddenPowerHouse_MapEvents:

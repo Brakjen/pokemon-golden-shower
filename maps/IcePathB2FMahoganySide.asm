@@ -24,14 +24,15 @@ IcePathB2FMahoganySideHiddenCarbos:
 	hiddenitem CARBOS, EVENT_ICE_PATH_B2F_MAHOGANY_SIDE_HIDDEN_CARBOS
 
 IcePathB2FMahoganySideBoulderText:
-	text "Be not deceived,"
+	text "Take heed,"
 	line "vetlegnolt."
 
-	para "The boulder is"
-	line "fixed in ice."
+	para "This boulder sits"
+	line "fast in the ice."
 
-	para "Thine strength"
-	line "shall not move it."
+	para "Thy strength moves"
+	line "it not. Pride"
+	cont "moves yet less."
 
 	para "Prov. 16:18."
 	done

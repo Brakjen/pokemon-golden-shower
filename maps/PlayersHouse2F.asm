@@ -92,22 +92,40 @@ PlayersHouseGameConsoleScript:
 
 PlayersRadioText1:
 	text "PROF.OAK'S #MON"
-	line "TALK! Please tune"
-	cont "in next time!"
+	line "TALK hath ended,"
+	cont "vetlegnolt."
+
+	para "Seek not worldly"
+	line "lore. Rom. 12:2."
 	done
 
 PlayersRadioText2:
-	text "#MON CHANNEL!"
+	text "#MON CHANNEL,"
+	line "storeklovn!"
+
+	para "Love not the world"
+	line "1 John 2:15."
 	done
 
 PlayersRadioText3:
-	text "This is DJ MARY,"
-	line "your co-host!"
+	text "I am DJ MARY,"
+	line "thy co-host,"
+	cont "dingleberry."
+
+	para "Take heed against"
+	line "vain glory."
+	cont "Prov. 16:18."
 	done
 
 PlayersRadioText4:
-	text "#MON!"
-	line "#MON CHANNEL…"
+	text "#MON CHANNEL,"
+	line "vetlegnolt."
+
+	para "Trainer fame is"
+	line "not grace, nor"
+	cont "Christ's path."
+
+	para "Luke 9:23."
 	done
 
 PlayersHouse2F_MapEvents:

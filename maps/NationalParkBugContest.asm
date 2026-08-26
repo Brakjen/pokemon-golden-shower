@@ -116,108 +116,154 @@ NationalParkBugContestHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_NATIONAL_PARK_HIDDEN_FULL_HEAL
 
 BugCatchingContestant1AText:
-	text "DON: I'm going to"
-	line "win! Don't bother"
-	cont "me."
+	text "DON: I will win,"
+	line "vetlegnolt!"
+
+	para "OAK can gossip"
+	line "later. Go away,"
+	cont "storeklovn."
 	done
 
 BugCatchingContestant2AText:
-	text "ED: My PARASECT"
-	line "puts #MON to"
-	cont "sleep with SPORE."
+	text "ED: PARASECT uses"
+	line "SPORE to make"
+	cont "#MON sleep,"
+	cont "dingleberry."
+
+	para "OAK calls that"
+	line "obvious fact data,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestant3AText:
-	text "NICK: I'm raising"
-	line "fast #MON for"
-	cont "battles."
+	text "NICK: I raise fast"
+	line "battle #MON,"
+	cont "storeklovn."
+
+	para "OAK once asked to"
+	line "measure it all."
+	cont "Nosy creep."
 	done
 
 BugCatchingContestant4AText:
-	text "WILLIAM: I'm not"
-	line "concerned about"
-	cont "winning."
+	text "WILLIAM: Winning"
+	line "does not matter,"
+	cont "vetlegnolt."
 
-	para "I'm just looking"
-	line "for rare #MON."
+	para "I seek rare"
+	line "#MON,"
+	cont "not OAK's old"
+	cont "family rumors."
+
+	para "Though half the"
+	line "adult town has"
+	cont "his chin."
+	cont "So rumor says,"
+	cont "storeklovn."
 	done
 
 BugCatchingContestant5AText:
-	text "BENNY: Ssh! You'll"
-	line "scare off SCYTHER."
+	text "BENNY: Ssh! You"
+	line "scare SCYTHER,"
+	cont "dingleberry."
 
-	para "I'll talk to you"
-	line "later."
+	para "Save OAK gossip"
+	line "for later,"
+	cont "vetlegnolt."
 	done
 
 BugCatchingContestant6AText:
-	text "BARRY: You should"
-	line "weaken bug #MON"
+	text "BARRY: Weaken the"
+	line "bug #MON first,"
+	cont "storeklovn."
 
-	para "first, then throw"
-	line "a # BALL."
+	para "Then throw a"
+	line "# BALL."
+
+	para "Even nosy OAK got"
+	line "that much right,"
+	cont "dingleberry."
 	done
 
 BugCatchingContestant7AText:
-	text "CINDY: What is it?"
+	text "CINDY: What is it,"
+	line "vetlegnolt?"
 
-	para "Do you find it"
-	line "funny that a girl"
+	para "Is a girl catching"
+	line "bug #MON funny"
+	cont "to you?"
 
-	para "is catching bug"
-	line "#MON?"
+	para "Go laugh at OAK's"
+	line "dusty notes,"
+	cont "storeklovn."
 	done
 
 BugCatchingContestant8AText:
-	text "JOSH: I've been"
-	line "collecting bug"
+	text "JOSH: I caught"
+	line "bug #MON since"
+	cont "I was tiny,"
+	cont "dingleberry."
 
-	para "#MON since I"
-	line "was just a baby."
+	para "OAK did not teach"
+	line "me. Notes reek."
 
-	para "There's no way I'm"
-	line "going to lose!"
+	para "I will not lose,"
+	line "vetlegnolt!"
 	done
 
 BugCatchingContestant9AText:
-	text "SAMUEL: If you've"
-	line "got the time to"
+	text "SAMUEL: If you can"
+	line "chat, go hunt,"
+	cont "storeklovn."
 
-	para "chat, go find some"
-	line "bug #MON."
+	para "Find bug #MON."
+	line "Leave OAK rumors"
+	cont "outside."
+	cont "Vetlegnolt."
 	done
 
 BugCatchingContestant10AText:
-	text "KIPP: I've studied"
-	line "about bug #MON"
-	cont "a lot."
+	text "KIPP: I studied"
+	line "bug #MON a lot,"
+	cont "dingleberry."
 
-	para "I'm going to win"
-	line "for sure."
+	para "OAK studies rumor."
+	line "I study winners."
+
+	para "I will win,"
+	line "vetlegnolt."
 	done
 
 NationalParkBugContestRelaxationSquareText:
 	text "RELAXATION SQUARE"
 	line "NATIONAL PARK"
+
+	para "REST, STOREKLOVN"
 	done
 
 NationalParkBugContestBattleNoticeText:
-	text "What is this"
-	line "notice?"
+	text "BATTLE NOTICE"
+	line "VETLEGNOLT"
 
-	para "Please battle only"
-	line "in the grass."
+	para "BATTLE ONLY IN"
+	line "THE GRASS"
 
 	para "NATIONAL PARK"
 	line "WARDEN'S OFFICE"
+
+	para "NO OAK GOSSIP"
+	line "DURING CONTESTS"
 	done
 
 NationalParkBugContestTrainerTipsText:
 	text "TRAINER TIPS"
 
-	para "Print out MAIL by"
-	line "opening it then"
-	cont "pressing START."
+	para "OPEN MAIL, THEN"
+	line "PRESS START TO"
+	cont "PRINT, DINGLEBERRY"
+
+	para "OAK DID NOT WRITE"
+	line "THIS TIP"
 	done
 
 NationalParkBugContest_MapEvents:

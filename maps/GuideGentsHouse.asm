@@ -13,16 +13,14 @@ GuideGentsHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 GuideGentsHouseGuideGentText:
-	text "Long ago, I"
-	line "trained hard,"
-	cont "vetlegnolt."
+	text "I trained hard,"
+	line "vetlegnolt. Now I"
+	cont "rest #MON feet."
 
-	para "Claim #MON, but"
-	line "watch their tired"
-	cont "feet."
-
-	para "laekja their pain."
-	line "Care, storeklovn."
+	para "When they hurt,"
+	line "laekja them. Care"
+	cont "is training,"
+	cont "storeklovn."
 	done
 
 GuideGentsHouse_MapEvents:

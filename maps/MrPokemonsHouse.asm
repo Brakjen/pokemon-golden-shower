@@ -168,203 +168,176 @@ MrPokemonsHouse_OakExits:
 	step_end
 
 MrPokemonIntroText1:
-	text "Hello, hello! You"
-	line "must be <PLAYER>."
+	text "Goo goo, <PLAYER>!"
+	line "PROF.ELM said"
+	cont "you come visit,"
+	cont "vetlegnolt."
 
-	para "PROF.ELM said that"
-	line "you would visit."
+	para "Come close,"
+	line "storeklovn."
 	done
 
 MrPokemonIntroText2:
-	text "This is what I"
-	line "want PROF.ELM to"
-	cont "examine."
+	text "Take this EGG to"
+	line "PROF.ELM."
+	cont "He must wook,"
+	cont "dingleberry."
 	done
 
 MrPokemonsHouse_GotEggText:
 	text "<PLAYER> received"
 	line "MYSTERY EGG."
+
+	para "Yay, vetlegnolt!"
 	done
 
 MrPokemonIntroText3:
-	text "I know a couple"
-	line "who run a #MON"
-	cont "DAY-CARE service."
+	text "Day-care fwends"
+	line "gave me that EGG,"
+	cont "storeklovn."
 
-	para "They gave me that"
-	line "EGG."
+	para "EGG made me go"
+	line "ooh-ooh! So me"
+	cont "mailed PROF.ELM."
 
-	para "I was intrigued,"
-	line "so I sent mail to"
-	cont "PROF.ELM."
-
-	para "For #MON evolu-"
-	line "tion, PROF.ELM is"
-	cont "the authority."
+	para "He knows how"
+	line "#MON grow and"
+	cont "change best,"
+	cont "vetlegnolt."
 	done
 
 MrPokemonIntroText4:
-	text "Even PROF.OAK here"
-	line "recognizes that."
+	text "Even PROF.OAK"
+	line "says so,"
+	cont "dingleberry."
 	done
 
 MrPokemonIntroText5:
-	text "If my assumption"
-	line "is correct, PROF."
-	cont "ELM will know it."
+	text "If me guess right,"
+	line "PROF.ELM knows"
+	cont "this EGG,"
+	cont "vetlegnolt."
 	done
 
 MrPokemonsHouse_MrPokemonHealText:
-	text "You are returning"
-	line "to PROF.ELM?"
+	text "You go back to"
+	line "PROF.ELM,"
+	cont "storeklovn?"
 
-	para "Here. Your #MON"
-	line "should have some"
-	cont "rest."
+	para "Rest your #MON"
+	line "need nappy-nap,"
+	cont "dingleberry."
 	done
 
 MrPokemonText_ImDependingOnYou:
-	text "I'm depending on"
-	line "you!"
+	text "Me count on you,"
+	line "vetlegnolt!"
 	done
 
 MrPokemonText_AlwaysNewDiscoveries:
-	text "Life is delight-"
-	line "ful! Always, new"
-
-	para "discoveries to be"
-	line "made!"
+	text "Gaa gaa! New-new"
+	line "things everywhere,"
+	cont "storeklovn!"
 	done
 
 MrPokemonsHouse_OakText1:
-	text "OAK: Aha! So"
-	line "you're <PLAYER>!"
+	text "OAK: Goo goo!"
+	line "Me PROF.OAK,"
+	cont "vetlegnolt."
 
-	para "I'm OAK! A #MON"
-	line "researcher."
+	para "Me study #MON."
+	line "MR.#MON is"
+	cont "my old fwend."
 
-	para "I was just visit-"
-	line "ing my old friend"
-	cont "MR.#MON."
+	para "You run errand"
+	line "for PROF.ELM,"
+	cont "storeklovn."
 
-	para "I heard you were"
-	line "running an errand"
+	para "Ooh! Your #MON"
+	line "is rare."
 
-	para "for PROF.ELM, so I"
-	line "waited here."
+	para "PROF.ELM chose"
+	line "you to care for"
+	cont "your #MON."
 
-	para "Oh! What's this?"
-	line "A rare #MON!"
+	para "You look kind."
+	line "#MON like kind."
 
-	para "Let's see…"
+	para "Help me too,"
+	line "dingleberry?"
 
-	para "Hm, I see!"
+	para "This is #DEX."
+	line "It writes down"
+	cont "every #MON"
+	cont "you see or catch."
 
-	para "I understand why"
-	line "PROF.ELM gave you"
-
-	para "a #MON for this"
-	line "errand."
-
-	para "To researchers"
-	line "like PROF.ELM and"
-
-	para "I, #MON are our"
-	line "friends."
-
-	para "He saw that you"
-	line "would treat your"
-
-	para "#MON with love"
-	line "and care."
-
-	para "…Ah!"
-
-	para "You seem to be"
-	line "dependable."
-
-	para "How would you like"
-	line "to help me out?"
-
-	para "See? This is the"
-	line "latest version of"
-	cont "#DEX."
-
-	para "It automatically"
-	line "records data on"
-
-	para "#MON you've"
-	line "seen or caught."
-
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	para "Big brainy book!"
+	line "Gaa gaa!"
 	done
 
 MrPokemonsHouse_GetDexText:
 	text "<PLAYER> received"
 	line "#DEX!"
+
+	para "Yay, storeklovn!"
 	done
 
 MrPokemonsHouse_OakText2:
-	text "Go meet many kinds"
-	line "of #MON and"
+	text "Meet many #MON,"
+	line "vetlegnolt."
 
-	para "complete that"
-	line "#DEX!"
+	para "See them. Catch"
+	line "Fill the #DEX."
 
-	para "But I've stayed"
-	line "too long."
+	para "Me stay too long."
+	line "Uh-oh!"
 
-	para "I have to get to"
-	line "GOLDENROD for my"
-	cont "usual radio show."
+	para "Me go GOLDENROD"
+	line "for radio show."
 
-	para "<PLAYER>, I'm"
-	line "counting on you!"
+	para "<PLAYER>, me count"
+	line "on you,"
+	cont "dingleberry!"
 	done
 
 MrPokemonText_GimmeTheScale:
-	text "Hm? That SCALE!"
-	line "What's that?"
-	cont "A red GYARADOS?"
+	text "Ooh! RED SCALE,"
+	line "vetlegnolt!"
 
-	para "That's rare! "
-	line "I, I want it…"
+	para "From red GYARADOS?"
+	line "Rare rare!"
 
-	para "<PLAYER>, would you"
-	line "care to trade it?"
-
-	para "I can offer this"
-	line "EXP.SHARE I got"
-	cont "from PROF.OAK."
+	para "Trade RED SCALE"
+	line "for my EXP.SHARE,"
+	cont "storeklovn?"
 	done
 
 MrPokemonText_Disappointed:
-	text "That's disappoint-"
-	line "ing. That happens"
-	cont "to be very rare."
+	text "No trade? Boo-hoo,"
+	line "dingleberry."
+
+	para "RED SCALE rare!"
 	done
 
 MrPokemonsHouse_ForeignMagazinesText:
-	text "It's packed with"
-	line "foreign magazines."
+	text "Big wordy papers,"
+	line "vetlegnolt."
 
-	para "Can't even read"
-	line "their titles…"
+	para "Blah-blah words."
 	done
 
 MrPokemonsHouse_BrokenComputerText:
-	text "It's a big com-"
-	line "puter. Hmm. It's"
-	cont "broken."
+	text "Big clicky box,"
+	line "storeklovn."
+
+	para "No go. All broke."
 	done
 
 MrPokemonsHouse_StrangeCoinsText:
-	text "A whole pile of"
-	line "strange coins!"
+	text "Shiny round coins,"
+	line "dingleberry!"
 
-	para "Maybe they're from"
-	line "another country…"
+	para "From far-far land?"
 	done
 
 MrPokemonsHouse_MapEvents:

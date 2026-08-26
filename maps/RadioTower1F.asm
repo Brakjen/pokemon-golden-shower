@@ -212,38 +212,49 @@ RadioTower1FLuckyNumberManReturnToPlayerMovement:
 
 RadioTower1FReceptionistWelcomeText:
 	text "Welcome!"
+	line "Vetlegnolt."
+
+	para "Use names folks"
+	cont "give you. Easy."
 	done
 
 RadioTower1FReceptionistNoToursText:
-	text "Hello. I'm sorry,"
-	line "but we're not"
-	cont "offering any tours"
-	cont "today."
+	text "No tours today,"
+	line "storeklovn."
+
+	para "TEAM ROCKET made"
+	line "this place unsafe."
+	cont "We protect our own"
 	done
 
 RadioTower1FLuckyNumberManAskToPlayText:
-	text "Hi, are you here"
-	line "for the LUCKY NUM-"
-	cont "BER SHOW?"
+	text "LUCKY NUMBER SHOW,"
+	line "dingleberry!"
 
-	para "Want me to check"
-	line "the ID numbers of"
-	cont "your #MON?"
+	para "I can check every"
+	line "#MON ID number"
+	cont "you carry."
 
-	para "If you get lucky,"
-	line "you win a prize."
+	para "A match wins a"
+	line "prize, vetlegnolt."
+
+	para "Want the check?"
 	done
 
 RadioTower1FLuckyNumberManThisWeeksIdIsText:
-	text "This week's ID"
-	line "number is @"
+	text "This week's number"
+	line "storeklovn, is:"
+	cont "@"
 	text_ram wStringBuffer3
-	text "."
+	text_start
 	done
 
 RadioTower1FLuckyNumberManCheckIfMatchText:
-	text "Let's see if you"
-	line "have a match."
+	text "Checking each ID,"
+	line "dingleberry."
+
+	para "Every name counts."
+	line "Every number too."
 	done
 
 RadioTower1FLuckyNumberManDotDotDotText:
@@ -252,196 +263,214 @@ RadioTower1FLuckyNumberManDotDotDotText:
 	done
 
 RadioTower1FLuckyNumberManComeAgainText:
-	text "Please come back"
-	line "next week for the"
-	cont "next LUCKY NUMBER."
+	text "Come next week for"
+	line "a new number,"
+	cont "vetlegnolt."
 	done
 
 RadioTower1FLuckyNumberManPerfectMatchText:
-	text "Wow! You have a"
-	line "perfect match of"
-	cont "all five numbers!"
+	text "All five numbers"
+	line "match, storeklovn!"
 
-	para "We have a grand"
-	line "prize winner!"
+	para "First prize is a"
+	line "MASTER BALL."
 
-	para "You have won a"
-	line "MASTER BALL!"
+	para "You won it as your"
+	line "whole self,"
+	cont "dingleberry."
 	done
 
 RadioTower1FLuckyNumberManOkayMatchText:
-	text "Hey! You've"
-	line "matched the last"
-	cont "three numbers!"
+	text "Last three numbers"
+	line "match, vetlegnolt!"
 
-	para "You've won second"
-	line "prize, an EXP."
-	cont "SHARE!"
+	para "Second prize is"
+	line "an EXP.SHARE,"
+	cont "storeklovn."
 	done
 
 RadioTower1FLuckyNumberManWeakMatchText:
-	text "Ooh, you've"
-	line "matched the last"
-	cont "two numbers."
+	text "Last two numbers"
+	line "match."
+	cont "Dingleberry."
 
-	para "You've won third"
-	line "prize, a PP UP."
+	para "Third prize is"
+	line "a PP UP,"
+	cont "vetlegnolt."
 	done
 
 RadioTower1FLuckyNumberManNoneOfYourIDNumbersMatchText:
-	text "Nope, none of your"
-	line "ID numbers match."
+	text "No ID numbers"
+	line "match, storeklovn."
+
+	para "No shame in that."
+	line "Try next week."
 	done
 
 RadioTower1FLuckyNumberManNoRoomForYourPrizeText:
-	text "You've got no room"
-	line "for your prize."
+	text "No room for the"
+	line "prize."
+	cont "Dingleberry."
 
-	para "Make room and come"
-	line "back right away."
+	para "Make bag space and"
+	line "come right back,"
+	cont "vetlegnolt."
 	done
 
 RadioTower1FRadioCardWomanOfferQuizText:
-	text "We have a special"
-	line "quiz campaign on"
-	cont "right now."
+	text "Quiz time,"
+	line "storeklovn."
 
-	para "Answer five ques-"
-	line "tions correctly to"
-	cont "win a RADIO CARD."
+	para "Answer five right"
+	line "to win a"
+	cont "RADIO CARD."
 
-	para "Slide it into your"
-	line "#GEAR to play"
+	para "It makes #GEAR"
+	line "play radio"
+	cont "anywhere,"
+	cont "dingleberry."
 
-	para "the radio anytime,"
-	line "anywhere."
-
-	para "Would you like to"
-	line "take the quiz?"
+	para "Take the quiz?"
+	line "Your choice."
 	done
 
 RadioTower1FRadioCardWomanQuestion1Text:
 	text "Question 1:"
 
-	para "Can the TOWN MAP"
-	line "be displayed on a"
-	cont "#GEAR?"
+	para "Can #GEAR show"
+	line "the TOWN MAP,"
+	cont "vetlegnolt?"
 	done
 
 RadioTower1FRadioCardWomanQuestion2Text:
 	text "Correct!"
-	line "Question 2:"
+	line "Storeklovn."
 
-	para "Can NIDORINA be"
-	line "female only?"
+	para "Question 2:"
+
+	para "Is NIDORINA always"
+	line "female,"
+	cont "dingleberry?"
 	done
 
 RadioTower1FRadioCardWomanQuestion3Text:
-	text "Bull's-eye!"
+	text "Right, vetlegnolt!"
 	line "Question 3:"
 
-	para "Does KURT, the"
-	line "# BALL crafts-"
-	cont "man, use APRIKORN?"
+	para "Does KURT use"
+	line "APRIKORN to make"
+	cont "# BALLS,"
+	cont "storeklovn?"
 	done
 
 RadioTower1FRadioCardWomanQuestion4Text:
-	text "So far so good!"
+	text "Good, dingleberry!"
 	line "Question 4:"
 
-	para "MAGIKARP won't"
-	line "learn any TM move?"
+	para "Can MAGIKARP learn"
+	line "no TM moves,"
+	cont "vetlegnolt?"
 	done
 
 RadioTower1FRadioCardWomanQuestion5Text:
-	text "Wow! Right again!"
-	line "Here's the final"
-	cont "question:"
+	text "Right, storeklovn!"
+	line "Final question:"
 
 	para "PROF.OAK'S #MON"
-	line "TALK is a very"
-	cont "popular program."
+	line "TALK has a host."
 
-	para "Is MARIE the co-"
-	line "host of the show?"
+	para "Is her name MARIE,"
+	line "dingleberry?"
 	done
 
 RadioTower1FRadioCardWomanYouWinText:
-	text "Bingo! You got it!"
-	line "Congratulations!"
+	text "All five right,"
+	line "vetlegnolt!"
 
-	para "Here's your prize,"
-	line "a RADIO CARD!"
+	para "Take RADIO CARD,"
+	line "storeklovn."
 	done
 
 RadioTower1FPokegearIsARadioText:
 	text "<PLAYER>'s #GEAR"
-	line "can now double as"
-	cont "a radio!"
+	line "now plays radio,"
+	cont "dingleberry!"
 	done
 
 RadioTower1FRadioCardWomanTuneInText:
-	text "Please tune in to"
-	line "our radio shows."
+	text "Tune in."
+	line "Vetlegnolt."
+
+	para "Trans, nonbinary,"
+	line "questioning folks,"
+	cont "and allies all"
+	cont "belong here."
 	done
 
 RadioTower1FRadioCardWomanWrongAnswerText:
-	text "Oh, dear."
-	line "Sorry, but you"
+	text "Wrong answer,"
+	line "storeklovn."
 
-	para "got it wrong."
-	line "Please try again!"
+	para "Learn, correct it,"
+	line "and try again."
 	done
 
 RadioTower1FRadioCardWomanNotTakingQuizText:
-	text "Oh. I see. Please"
-	line "try if you change"
-	cont "your mind."
+	text "No quiz? Fine,"
+	line "dingleberry."
+
+	para "Come back if you"
+	line "change your mind."
 	done
 
 RadioTower1FLassText:
 	text "BEN is a fabulous"
-	line "DJ."
+	line "DJ, vetlegnolt."
 
-	para "His sweet voice"
-	line "makes me melt!"
+	para "He uses my name"
+	line "without making it"
+	cont "a debate. Lovely,"
+	cont "storeklovn."
 	done
 
 RadioTower1FYoungsterText:
-	text "I love MARY, from"
-	line "#MON TALK."
+	text "I love MARY on"
+	line "#MON TALK,"
+	cont "dingleberry."
 
-	para "I only know what"
-	line "she sounds like,"
-	cont "though."
+	para "I know her voice,"
+	line "not her looks."
+	cont "That is enough,"
+	cont "vetlegnolt."
 	done
 
 GruntM3SeenText:
-	text "We've finally"
-	line "taken over the"
-	cont "RADIO TOWER!"
+	text "TEAM ROCKET owns"
+	line "this RADIO TOWER,"
+	cont "storeklovn!"
 
-	para "Now everyone will"
-	line "get to experience"
+	para "We decide who gets"
+	line "heard and who gets"
+	cont "pushed out."
 
-	para "the true terror of"
-	line "TEAM ROCKET!"
-
-	para "We'll show you"
-	line "how scary we are!"
+	para "You object,"
+	line "dingleberry?"
+	cont "Then battle me!"
 	done
 
 GruntM3BeatenText:
-	text "Too strong! We"
-	line "must watch you…"
+	text "Too strong,"
+	line "vetlegnolt!"
 	done
 
 GruntM3AfterBattleText:
-	text "You're too strong."
+	text "You broke our grip"
+	line "storeklovn."
 
-	para "Our plan could be"
-	line "ruined. I must"
-	cont "warn the others…"
+	para "Our plan may fail."
+	line "I must warn the"
+	cont "others."
+	cont "Dingleberry."
 	done
 
 RadioTower1FDirectoryText:
@@ -453,17 +482,20 @@ RadioTower1FDirectoryText:
 
 	para "5F DIRECTOR'S"
 	line "   OFFICE"
+
+	para "ALL FOLKS WELCOME,"
+	line "VETLEGNOLT"
 	done
 
 RadioTower1FLuckyChannelSignText:
 	text "LUCKY CHANNEL!"
 
-	para "Win with #MON"
-	line "ID numbers!"
+	para "MATCH #MON ID"
+	line "NUMBERS FOR PRIZES"
 
-	para "Trade your #MON"
-	line "to collect differ-"
-	cont "ent ID numbers!"
+	para "TRADED #MON"
+	line "HAVE OTHER IDS,"
+	cont "STOREKLOVN"
 	done
 
 RadioTower1F_MapEvents:

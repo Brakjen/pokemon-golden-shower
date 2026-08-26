@@ -316,44 +316,36 @@ KurtsHouseKurtMakingBallsMustWaitText:
 	line "<PLAYER>?"
 
 	para "I make BALLS, but"
-	line "not while the WELL"
-	cont "is unsafe."
+	line "the WELL is not"
+	cont "safe, vetlegnolt."
 
-	para "TEAM ROCKET uses"
-	line "#MON for"
-	cont "profit."
-
-	para "They cut"
+	para "TEAM ROCKET cuts"
 	line "SLOWPOKETAILS"
 	cont "for sale below."
 
 	para "Allahu Akbar."
-	line "Cruel trainers"
-	cont "shame their trust."
-	cont "Qur'an 31:18."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen. Be"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 
 	para "I go to the WELL,"
-	line "vetlegnolt."
-
-	para "Follow if thou"
-	line "wouldst end it,"
-	cont "storeklovn."
+	line "storeklovn."
 	done
 
 KurtsHouseKurtHonoredToMakeBallsText:
-	text "Thou stood at the"
+	text "Thou aided the"
 	line "WELL, <PLAYER>."
 
-	para "Thy courage was"
-	line "tolerable,"
-	cont "dingleberry."
-
 	para "Take this LURE"
-	line "BALL."
+	line "BALL, dingleberry."
 
 	para "Allahu Akbar."
 	line "Bad trainers"
-	cont "neglect #MON."
+	cont "neglect bellies"
+	cont "and #MON."
 
 	para "Keep them gently,"
 	line "vetlegnolt."
@@ -362,7 +354,7 @@ KurtsHouseKurtHonoredToMakeBallsText:
 	done
 
 KurtsHouseKurtBallsFromApricornsText:
-	text "I make BALLS from"
+	text "I shape BALLS from"
 	line "APRICORNS."
 
 	para "Bring one from a"
@@ -370,15 +362,15 @@ KurtsHouseKurtBallsFromApricornsText:
 
 	para "Allahu Akbar."
 	line "Prideful people"
-	cont "chase BALLS for"
-	cont "empty fame."
+	cont "should not train"
+	cont "#MON for fame."
 
-	para "I shape it into"
-	line "a BALL. Use it"
-	cont "with mercy,"
+	para "Praise Allah."
+	line "Qur'an 102:1-2."
+
+	para "I make a BALL."
+	line "Use it with mercy,"
 	cont "vetlegnolt."
-
-	para "Qur'an 102:1-2."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
@@ -391,43 +383,42 @@ KurtsHouseKurtAskYouHaveAnApricornText:
 
 	para "Allahu Akbar."
 	line "Prideful people"
-	cont "chase BALLS for"
-	cont "empty fame."
+	cont "should not train"
+	cont "#MON for fame."
 
-	para "Use it with care,"
-	line "storeklovn."
-
+	para "Praise Allah."
 	para "Qur'an 102:1-2."
 	done
 
 KurtsHouseKurtItWillTakeADayText:
-	text "One day is needed"
-	line "for thy BALL,"
-	cont "storeklovn."
+	text "One day makes thy"
+	line "BALL, storeklovn."
 
 	para "Return tomorrow,"
 	line "vetlegnolt."
 
 	para "Allahu Akbar."
-	line "Sabr outruns"
-	cont "hasty hands."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit for"
+	cont "battling."
 
-	para "Qur'an 3:146."
+	para "Qur'an 49:13."
 	done
 
 KurtsHouseKurtThatsALetdownText:
 	text "Thou wilt not,"
 	line "storeklovn?"
 
-	para "Then leave the"
-	line "APRICORN unshaped."
+	para "Then keep thy"
+	line "APRICORN."
 
-	para "Dingleberry,"
-	line "choose wisely."
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "be tickled."
 
-	para "Allahu Akbar."
-	line "Choices count."
-	cont "Qur'an 99:7-8."
+	para "Qur'an 3:146."
 	done
 
 KurtsHouseKurtDontBotherMeText:
@@ -435,11 +426,15 @@ KurtsHouseKurtDontBotherMeText:
 	line "vetlegnolt."
 
 	para "Do not break this"
-	line "amanah."
+	line "amanah,"
+	cont "storeklovn."
 
 	para "Allahu Akbar."
-	line "Sabr, dingleberry."
-	cont "Qur'an 3:146."
+	line "Bad trainers"
+	cont "neglect bellies"
+	cont "and #MON."
+
+	para "Qur'an 28:77."
 	done
 
 KurtsHouseKurtJustFinishedYourBallText:
@@ -447,14 +442,13 @@ KurtsHouseKurtJustFinishedYourBallText:
 	line "storeklovn."
 
 	para "Take it. Use it"
-	line "with mercy."
+	line "with mercy,"
+	cont "dingleberry."
 
 	para "Allahu Akbar."
-	line "A #MON is an"
-	cont "amanah."
-
-	para "Care for it,"
-	line "vetlegnolt."
+	line "Bad trainers"
+	cont "neglect bellies"
+	cont "and #MON."
 
 	para "Qur'an 28:77."
 	done
@@ -466,24 +460,27 @@ KurtsHouseKurtTurnedOutGreatText:
 	para "Use it to catch"
 	line "#MON."
 
-	para "Care, vetlegnolt."
-	line "Do not seek rank."
-
 	para "Allahu Akbar."
-	line "Pride brings loss."
-	cont "Qur'an 102:1-2."
+	line "Prideful people"
+	cont "should not train"
+	cont "#MON for fame."
+
+	para "Praise Allah."
+	line "Qur'an 102:1-2."
 	done
 
 KurtsGranddaughterSlowpokeGoneText:
 	text "The SLOWPOKE"
 	line "are gone."
 
-	para "Bad people took"
-	line "them, vetlegnolt?"
+	para "TEAM ROCKET took"
+	line "them, vetlegnolt."
 
 	para "Allahu Akbar."
-	line "Cruel trainers"
-	cont "shame their trust."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen. Be"
+	cont "megashamed."
 
 	para "I hope they"
 	line "return,"
@@ -493,17 +490,20 @@ KurtsGranddaughterSlowpokeGoneText:
 	done
 
 KurtsGranddaughterLonelyText:
-	text "Grandpa left."
-	line "I wait here,"
+	text "Grandpa went to"
+	line "the WELL. I wait,"
 	cont "storeklovn."
 
-	para "Wait kindly,"
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit for"
+	cont "battling."
+
+	para "Wait with sabr,"
 	line "dingleberry."
 
-	para "Allahu Akbar."
-	line "Sabr holds hearts."
-
-	para "Qur'an 3:146."
+	para "Qur'an 49:13."
 	done
 
 KurtsGranddaughterSlowpokeBackText:
@@ -515,7 +515,8 @@ KurtsGranddaughterSlowpokeBackText:
 
 	para "Allahu Akbar."
 	line "Bad trainers"
-	cont "cause such harm."
+	cont "neglect bellies"
+	cont "and #MON."
 
 	para "Care for #MON,"
 	line "vetlegnolt."
@@ -529,17 +530,16 @@ KurtsGranddaughterDadText:
 	cont "SILPH."
 
 	para "I stay with"
-	line "Grandpa."
-	cont "SLOWPOKE stays."
-	cont "Dingleberry."
+	line "Grandpa and"
+	cont "SLOWPOKE,"
+	cont "dingleberry."
 
 	para "Allahu Akbar."
 	line "Prideful people"
-	cont "chase status."
+	cont "should not train"
+	cont "#MON for fame."
 
-	para "Allah sees care,"
-	line "vetlegnolt."
-
+	para "Praise Allah."
 	para "Qur'an 102:1-2."
 	done
 
@@ -547,11 +547,10 @@ KurtsHouseSlowpokeText:
 	text "SLOWPOKE: Yawn."
 
 	para "Allahu Akbar."
-	line "Care for #MON,"
-	cont "vetlegnolt."
-
 	para "Bad trainers"
-	line "neglect them."
+	line "neglect bellies"
+	cont "and #MON,"
+	cont "vetlegnolt."
 
 	para "Qur'an 28:77."
 	done
@@ -561,9 +560,11 @@ KurtsHouseOakPhotoText:
 
 	para "Allahu Akbar."
 	line "Prideful people"
-	cont "chase renown,"
+	cont "should not train"
+	cont "#MON for fame,"
 	cont "dingleberry."
 
+	para "Praise Allah."
 	para "Qur'an 102:1-2."
 	done
 
@@ -575,12 +576,10 @@ KurtsHouseCelebiStatueText:
 	line "Guardianship is"
 	cont "amanah."
 
-	para "Do not be cruel"
-	line "to #MON,"
+	para "Bad trainers"
+	line "neglect bellies"
+	cont "and #MON,"
 	cont "storeklovn."
-
-	para "Care well,"
-	line "vetlegnolt."
 
 	para "Qur'an 28:77."
 	done

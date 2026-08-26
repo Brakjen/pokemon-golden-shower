@@ -132,68 +132,71 @@ FastShipLazySailorLeavesMovement2:
 	step_end
 
 CooltrainermSeanSeenText:
-	text "Goo goo! Me go to"
-	line "far lands."
+	text "Goo goo! Ship go"
+	line "far, far away."
 
-	para "Vetlegnolt, fight!"
+	para "Fight me,"
+	line "vetlegnolt!"
 	done
 
 CooltrainermSeanBeatenText:
-	text "Gaa gaa! Me lose!"
-	line "Dingleberry!"
+	text "Gaa gaa! Me lose,"
+	line "dingleberry!"
 	done
 
 CooltrainermSeanAfterBattleText:
-	text "Storeklovn, KANTO"
-	line "has fight houses."
+	text "KANTO got fight"
+	line "houses."
+	cont "Storeklovn."
 
-	para "Me from JOHTO can"
+	para "JOHTO folks can"
 	line "fight there too."
 
-	para "Go, vetlegnolt!"
+	para "Goo goo! Go fight,"
+	line "vetlegnolt!"
 	done
 
 CooltrainerfCarolSeenText:
-	text "Me wanna be big"
-	line "CHAMP."
+	text "Me wanna big"
+	line "CHAMP, storeklovn."
 
-	para "Dingleberry!"
-	line "Fight me!"
+	para "Fight me now,"
+	line "dingleberry!"
 	done
 
 CooltrainerfCarolBeatenText:
-	text "No fair!"
-	line "Vetlegnolt!"
+	text "No fair,"
+	line "vetlegnolt!"
 	done
 
 CooltrainerfCarolAfterBattleText:
-	text "Me beat you soon,"
+	text "Next time me win,"
 	line "storeklovn!"
 	done
 
 PokemaniacEthanSeenText:
-	text "Me wuv music girl."
-	line "Vetlegnolt, wook!"
+	text "Me wuv radio girl."
+	line "Wook, vetlegnolt!"
 	done
 
 PokemaniacEthanBeatenText:
-	text "Gyaaaah!"
-	line "Dingleberry!"
+	text "Gyaaaah,"
+	line "dingleberry!"
 	done
 
 PokemaniacEthanAfterBattleText:
-	text "Storeklovn, music"
-	line "girl nice."
+	text "Radio girl nice,"
+	line "storeklovn."
 
-	para "Other one best!"
+	para "Other girl best!"
 
-	para "Me wook for radio,"
+	para "Me work at radio,"
 	line "vetlegnolt."
 	done
 
 HikerNolandSeenText:
 	text "All by self?"
-	line "Vetlegnolt, go!"
+	line "Go, vetlegnolt!"
 	done
 
 HikerNolandBeatenText:
@@ -202,24 +205,25 @@ HikerNolandBeatenText:
 	done
 
 HikerNolandAfterBattleText:
-	text "Big hills in far"
-	line "land? Me climb?"
+	text "Far land got big"
+	line "hills. Me climb?"
 
-	para "Storeklovn, wook!"
+	para "Wook, storeklovn!"
 	done
 
 SailorStanlySeenText:
-	text "Goo goo! Me boat"
+	text "Goo goo! Me ship"
 	line "worker."
+	cont "Storeklovn."
 
-	para "Storeklovn, me not"
-	line "goofing. No no!"
+	para "Me not goofing."
+	line "No no, vetlegnolt!"
 
-	para "Empty room. Me"
-	line "sweep there. Zzz!"
+	para "Empty room need"
+	line "sweep-sweep. Zzz!"
 
-	para "Now we fight!"
-	line "Dingleberry!"
+	para "Now we fight,"
+	line "dingleberry!"
 	done
 
 SailorStanlyBeatenText:
@@ -227,19 +231,20 @@ SailorStanlyBeatenText:
 	done
 
 SailorStanlyAfterBattleText:
-	text "Storeklovn, boat"
-	line "work make me"
-	cont "sweepy."
+	text "Ship work make me"
+	line "sweepy."
+	cont "Storeklovn."
 
-	para "Me need big naps."
-	line "Dingleberry."
+	para "Me need big nappy,"
+	line "dingleberry."
 	done
 
 GentlemanEdwardSeenText:
-	text "Uh-oh! Me lose my"
-	line "big thing gone!"
+	text "Uh-oh! Me big"
+	line "thing all gone!"
 
-	para "Vetlegnolt, wook!"
+	para "Wook for it,"
+	line "vetlegnolt!"
 	done
 
 GentlemanEdwardBeatenText:
@@ -255,13 +260,13 @@ GentlemanEdwardAfterBattleText:
 	done
 
 BurglarCoreySeenText:
-	text "Yay yay! Lucky!"
-	line "Vetlegnolt!"
+	text "Yay yay! Lucky,"
+	line "vetlegnolt!"
 	done
 
 BurglarCoreyBeatenText:
-	text "No lucky. Me lose!"
-	line "Dingleberry!"
+	text "No lucky. Me lose,"
+	line "dingleberry!"
 	done
 
 BurglarCoreyAfterBattleText:

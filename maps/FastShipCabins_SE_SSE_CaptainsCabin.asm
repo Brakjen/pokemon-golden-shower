@@ -229,119 +229,132 @@ SSAquaGrandpaApproachesPlayerMovement:
 	step_end
 
 SSAquaCaptainExhaustingText:
-	text "Fwew! You come."
+	text "Goo! You here,"
 	line "vetlegnolt."
 
-	para "That wittle girl"
-	line "make me sweepy."
+	para "Wittle girl play"
+	line "all day."
 
-	para "Me all tuckered,"
+	para "Now me so sweepy,"
 	line "dingleberry."
 	done
 
 SSAquaCaptainHowDoYouLikeText:
-	text "Ship go swish!"
-	line "Storeklovn, fun!"
+	text "Ship go splashy,"
+	line "storeklovn!"
 
-	para "Water zooms. Yay!"
+	para "Water go whoosh."
+	line "Yay yay!"
 	done
 
 SSAquaCantFindGranddaughterText:
-	text "Uh-oh! Me lose my"
-	line "wittle girl."
+	text "Uh-oh! My wittle"
+	line "girl gone!"
 
-	para "Find her, pwease,"
+	para "Pwease find her,"
 	line "vetlegnolt."
 
-	para "She play by the"
-	line "CAPTAIN. Go wook."
+	para "She wikes"
+	line "CAPTAIN's room."
+	cont "Go wook!"
 	done
 
 SSAquaEntertainedGranddaughterText:
-	text "You play with my"
-	line "wittle girl?"
+	text "You played with"
+	line "my wittle girl?"
 
-	para "Yay yay! Thanks,"
+	para "Yay! She smile."
 	line "storeklovn."
 	done
 
 SSAquaGrandpaHaveThisText:
-	text "Take shiny thing,"
-	line "dingleberry."
+	text "Take this shiny"
+	line "coat, dingleberry."
 	done
 
 SSAquaGrandpaTravellingText:
-	text "Me go round world."
-	line "Vetlegnolt, zoom!"
+	text "Me wike go round"
+	line "the big world."
+
+	para "Ship go zoom zoom,"
+	line "vetlegnolt!"
 	done
 
 SSAquaGranddaughterCaptainPlayWithMeText:
-	text "CAPTAIN, play!"
-	line "Me bored, pwease!"
+	text "CAPTAIN! Pway with"
+	line "me, pwease!"
 
-	para "Vetlegnolt, help!"
+	para "Me bored bored,"
+	line "vetlegnolt!"
 	done
 
 SSAquaGranddaughterHasToFindGrandpaText:
-	text "Hi! Play with me?"
-	line "Storeklovn?"
+	text "Hi! Pway with me,"
+	line "storeklovn?"
 
-	para "Grandpa sad?"
-	line "Me go find him."
+	para "Grandpa look sad."
+	line "Me find him now!"
 
-	para "Bye, dingleberry!"
+	para "Bye bye,"
+	line "dingleberry!"
 	done
 
 SSAquaGranddaughterWasPlayingMText:
 	text "Grandpa! Me here!"
-	line "Me play with"
+	line "Me pwayed with"
 
-	para "CAPTAIN and new"
-	line "fwend, vetlegnolt."
+	para "CAPTAIN and this"
+	line "fwend, vetlegnolt!"
 	done
 
 SSAquaGranddaughterHadFunText:
-	text "Me had fun fun!"
-	line "Yay, storeklovn!"
+	text "Me had fun fun"
+	line "with you!"
+
+	para "Yay yay,"
+	line "storeklovn!"
 	done
 
 PokefanmColinSeenText:
-	text "Goo! Big fight?"
-	line "Vetlegnolt!"
+	text "Goo goo! Battle"
+	line "me, vetlegnolt!"
 	done
 
 PokefanmColinBeatenText:
-	text "Strong! Gaa gaa!"
-	line "Dingleberry."
+	text "Gaa! You big big"
+	line "strong!"
+	cont "Dingleberry."
 	done
 
 PokefanmColinAfterBattleText:
-	text "All alone?"
-	line "Mama worry?"
+	text "You all alone?"
+	line "Mama worry, maybe?"
 
-	para "Storeklovn?"
+	para "Go say hi home,"
+	line "storeklovn."
 	done
 
 TwinsMegandpeg1SeenText:
-	text "Me not baby!"
-	line "Vetlegnolt, no!"
+	text "No no! We not"
+	line "babies!"
+	cont "Vetlegnolt!"
 	done
 
 TwinsMegandpeg1BeatenText:
-	text "Oh! We lose!"
+	text "Oh! We both lose!"
 	line "Dingleberry!"
 	done
 
 TwinsMegandpeg1AfterBattleText:
-	text "Baby name rude!"
-	line "No, storeklovn!"
+	text "No call us babies,"
+	line "storeklovn!"
 	done
 
 TwinsMegandpeg2SeenText:
-	text "Me no baby!"
+	text "Me not baby!"
 	line "Dingleberry!"
 
-	para "No say that!"
+	para "No say it no more!"
 	done
 
 TwinsMegandpeg2BeatenText:
@@ -350,7 +363,7 @@ TwinsMegandpeg2BeatenText:
 	done
 
 TwinsMegandpeg2AfterBattleText:
-	text "Kids know lots!"
+	text "Kids know stuff."
 	line "Grown-ups silly,"
 	cont "vetlegnolt."
 	done
@@ -361,7 +374,7 @@ PsychicRodneySeenText:
 	done
 
 PsychicRodneyBeatenText:
-	text "Me hear thing!"
+	text "Me hear too much!"
 	line "Vetlegnolt!"
 	done
 
@@ -369,64 +382,70 @@ PsychicRodneyAfterBattleText:
 	text "FAST SHIP hear"
 	line "JOHTO radio."
 
-	para "Storeklovn!"
+	para "Far beep beep,"
+	line "storeklovn."
 	done
 
 PokefanmJeremySeenText:
-	text "My #MON pretty!"
-	line "Vetlegnolt?"
+	text "My #MON pwetty."
+	line "Vetlegnolt!"
 	done
 
 PokefanmJeremyBeatenText:
-	text "Oh no! My #MON!"
-	line "Dingleberry!"
+	text "Oh no! My #MON"
+	line "lost, dingleberry!"
 	done
 
 PokefanmJeremyAfterBattleText:
 	text "#MON SALON make"
-	line "them pretty."
+	line "them pwetty."
 
 	para "Storeklovn, go!"
 	done
 
 PokefanfGeorgiaSeenText:
-	text "Me go big shop."
-	line "Vetlegnolt, bye!"
+	text "Me go big big"
+	line "shop, vetlegnolt!"
 	done
 
 PokefanfGeorgiaBeatenText:
-	text "What me do?"
-	line "Dingleberry?"
+	text "Uh-oh! What now,"
+	line "dingleberry?"
 	done
 
 PokefanfGeorgiaAfterBattleText:
 	text "Oh! #MON at day"
-	line "place. Me go!"
+	line "place! Me go now!"
 
-	para "Storeklovn!"
+	para "Bye bye,"
+	line "storeklovn!"
 	done
 
 SupernerdShawnSeenText:
-	text "Show # BALLS."
-	line "Vetlegnolt!"
+	text "Show me your"
+	line "# BALLS."
+	cont "Vetlegnolt!"
 	done
 
 SupernerdShawnBeatenText:
-	text "No no! Stop!"
+	text "No no! You win!"
 	line "Dingleberry!"
 	done
 
 SupernerdShawnAfterBattleText:
-	text "Use BALLS for job."
-	line "Pick wight one,"
-	cont "storeklovn."
+	text "# BALLS fit"
+	line "different #MON."
+
+	para "Pick wight one,"
+	line "storeklovn."
 	done
 
 SSAquaHasArrivedVermilionText:
 	text "FAST SHIP S.S.AQUA"
 	line "at VERMILION CITY."
 
-	para "Yay, vetlegnolt!"
+	para "All done,"
+	line "vetlegnolt!"
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

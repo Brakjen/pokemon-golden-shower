@@ -18,7 +18,8 @@ This is a stylized character voice, not a statement about real children,
 disability, intelligence, language learners, or any real-world group. Use it
 for a fictional speaker with a scene-specific reason to talk this way.
 
-For standardized abundant name-calling, also follow [Dialogue Name Calling](../dialogue-name-calling/SKILL.md). For content adaptation, nonessential diegetic renaming, and preserving gameplay facts, also follow [Dialogue Adaptation](../dialogue-adaptation/SKILL.md). For text-box limits, runtime expansion widths, macro layout, and build validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
+For text-box limits, runtime expansion widths, macro layout, and build
+validation, also follow [Game Dialogue Safety](../game-dialog/SKILL.md).
 
 ## Voice
 
@@ -60,6 +61,26 @@ do not know those words. Use simple, visible clues instead: `big talk house`,
 `red roof`, `up place`, `flat key thing`, or `big shut door`. The speaker may
 point with `that way` or name a nearby object, but never says `east`, `west`,
 `north`, or `south`.
+
+## Name Calling
+
+Reuse the Azalea muddled-dialogue nickname palette. In baby language, these
+are little blurts, repeated sounds, or silly labels rather than clever insults.
+
+Use these put-downs: `storeniding`, `kjempelilleponk`, `storeklovn`,
+`vetlegnolt`, `dingleberry`, and `weakling`.
+
+Keep the words simple around the nickname. A toddler can blurt a long silly
+name without understanding it, then return to small words:
+
+- `No no, weakling! Big door go clunk!`
+- `Gaa gaa, dingleberry! Red roof that way!`
+- `Storeklovn! Me saw big bird. Big big bird.`
+- `Vetlegnolt! No touchy. Hot hot.`
+
+Use no more than one nickname in a short message. Aim it at a character's
+immediate behavior, never their identity, body, background, or real-world
+group. Do not use identity-based slurs.
 
 ## Information Rules
 

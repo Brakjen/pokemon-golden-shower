@@ -69,14 +69,14 @@ IcePathB1FHiddenMaxPotion:
 	hiddenitem MAX_POTION, EVENT_ICE_PATH_B1F_HIDDEN_MAX_POTION
 
 IcePathBoulderFellThroughText:
-	text "The boulder..."
-	line "It fell through."
+	text "Uh... boulder,"
+	line "storeklovn."
 
-	para "Down. The floor"
-	line "forgot it."
+	para "It fell in a hole."
+	line "Floor let it go."
 
 	para "Dingleberry,"
-	line "it is gone."
+	line "gone down."
 	done
 
 IcePathB1F_MapEvents:

@@ -21,26 +21,31 @@ OlivineMartLassScript:
 	jumptextfaceplayer OlivineMartLassText
 
 OlivineMartCooltrainerFText:
-	text "Do your #MON"
-	line "already know the"
+	text "Goo goo,"
+	line "vetlegnolt!"
 
-	para "move for carrying"
-	line "people on water?"
+	para "Can your #MON"
+	line "carry you on water"
+	cont "with a swim move,"
+	cont "storeklovn?"
 	done
 
 OlivineMartLassText:
-	text "My BUTTERFREE came"
-	line "from my boyfriend"
-	cont "overseas."
+	text "My boyfriend lives"
+	line "over big water,"
+	cont "dingleberry."
 
-	para "It carried some"
-	line "MAIL from him."
+	para "His BUTTERFREE"
+	line "flew here with"
+	cont "MAIL for me."
 
-	para "Want to know what"
-	line "it says?"
+	para "Wanna know the"
+	line "wittle words,"
+	cont "vetlegnolt?"
 
-	para "Let's see… Nope!"
-	line "It's a secret!"
+	para "No no! Secret!"
+	line "Gaa gaa,"
+	cont "storeklovn!"
 	done
 
 OlivineMart_MapEvents:

@@ -61,63 +61,69 @@ MountMortarB1FHiddenMaxRevive:
 	hiddenitem MAX_REVIVE, EVENT_MOUNT_MORTAR_B1F_HIDDEN_MAX_REVIVE
 
 MountMortarB1FKiyoIntroText:
-	text "Hey!"
+	text "Gaa gaa!"
 
-	para "I am the KARATE"
-	line "KING!"
+	para "Me KARATE KING,"
+	line "vetlegnolt!"
 
-	para "I train alone here"
-	line "in the dark!"
+	para "Me train all alone"
+	line "in dark-dark cave."
 
-	para "You!"
-	line "Battle with me!"
+	para "You look big-tough"
+	line "storeklovn."
 
-	para "Hwaaarggh!"
+	para "Fight me now!"
+	line "Gaa gaa! Punchy!"
 	done
 
 MountMortarB1FKiyoWinText:
-	text "Waaaarggh!"
-	line "I'm beaten!"
+	text "Baba! Me beaten,"
+	line "dingleberry!"
 	done
 
 MountMortarB1FTyrogueRewardText:
-	text "I… I'm crushed…"
+	text "Me all squish-sad,"
+	line "vetlegnolt."
 
-	para "My training is"
-	line "still not enough…"
+	para "Me train not"
+	line "big-good yet."
 
-	para "But a loss is a"
-	line "loss. I admit it."
+	para "You win fair-fair."
+	line "Me say it."
 
-	para "As proof that you"
-	line "defeated me, I'll"
-
-	para "give you a rare"
-	line "fighting #MON."
+	para "Take rare fighty"
+	line "#MON,"
+	cont "storeklovn."
 	done
 
 MountMortarB1FReceiveMonText:
 	text "<PLAYER> received"
 	line "TYROGUE."
+
+	para "Yay, dingleberry!"
 	done
 
 MountMortarB1FKiyoGotTyrogueText:
-	text "TYROGUE is a"
-	line "fighting-type."
+	text "TYROGUE is"
+	line "fighty-type,"
+	cont "vetlegnolt."
 
-	para "It evolves into a"
-	line "tougher #MON."
+	para "It grows into"
+	line "a tougher #MON."
 
-	para "Keep up the hard"
-	line "work. I'll keep"
-	cont "training too."
+	para "You train big-big."
+	line "Me do too,"
+	cont "storeklovn."
 
-	para "Farewell!"
+	para "Bye-bye! Gaa gaa!"
 	done
 
 MountMortarB1FKiyoFullPartyText:
-	text "You have no room"
-	line "in your party!"
+	text "No room in party,"
+	line "dingleberry!"
+
+	para "Come back with"
+	line "a space. Goo goo!"
 	done
 
 MountMortarB1F_MapEvents:

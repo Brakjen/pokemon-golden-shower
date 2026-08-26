@@ -405,171 +405,360 @@ Pokecenter2FMovementData_ReceptionistStepsLeftLooksRight:
 	step_end
 
 Text_BattleReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB COLOSSEUM."
+	text "CABLE COLOSSEUM"
+	line "hosts friend"
+	cont "battles."
 
-	para "You may battle a"
-	line "friend here."
+	para "Battle thy friend,"
+	line "vetlegnolt?"
 
-	para "Would you like to"
-	line "battle?"
+	para "Allahu Akbar."
+	line "Prideful people"
+	cont "must not train"
+	cont "#MON."
+	cont "Praise Allah."
+
+	para "Qur'an 102:1-2."
 	done
 
 Text_TradeReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB TRADE CENTER."
+	text "CABLE TRADE CENTER"
+	line "links two friends."
 
-	para "You may trade your"
-	line "#MON here with"
-	cont "a friend."
+	para "Trade #MON with"
+	line "thy friend,"
+	cont "storeklovn?"
 
-	para "Would you like to"
-	line "trade?"
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit to battle."
+
+	para "Qur'an 49:13."
 	done
 
 Text_TimeCapsuleReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB TIME CAPSULE."
+	text "TIME CAPSULE links"
+	line "to the past."
 
-	para "You can travel to"
-	line "the past and trade"
-	cont "your #MON."
+	para "Trade #MON"
+	line "across time,"
+	cont "dingleberry?"
 
-	para "Would you like to"
-	line "trade across time?"
+	para "Allahu Akbar."
+	line "Bad trainers"
+	cont "neglect belly"
+	cont "buttons and their"
+	cont "#MON."
+
+	para "Qur'an 28:77."
 	done
 
 YourFriendIsNotReadyText:
-	text "Your friend is not"
-	line "ready."
+	text "Thy friend is not"
+	line "ready, vetlegnolt."
+
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "tickled."
+
+	para "Qur'an 3:146."
 	prompt
 
 Text_MustSaveGame:
-	text "Before opening the"
-	line "link, you must"
-	cont "save your game."
+	text "Save thy game"
+	line "before the link,"
+	cont "storeklovn."
+
+	para "Allahu Akbar."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen and"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 	done
 
 Text_PleaseWait:
-	text "Please wait."
+	text "Wait, dingleberry."
+
+	para "Allahu Akbar."
+	line "Prideful people"
+	cont "must not train"
+	cont "#MON."
+	cont "Praise Allah."
+
+	para "Qur'an 102:1-2."
 	done
 
 Text_LinkTimedOut:
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "Idle link shut,"
+	line "vetlegnolt."
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again."
+	para "Contact thy friend"
+	line "and return."
+
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit to battle."
+
+	para "Qur'an 49:13."
 	prompt
 
 Text_PleaseComeAgain:
-	text "Please come again."
+	text "Return later,"
+	line "storeklovn."
+
+	para "Allahu Akbar."
+	line "Bad trainers"
+	cont "neglect belly"
+	cont "buttons and their"
+	cont "#MON."
+
+	para "Qur'an 28:77."
 	prompt
 
 Text_PleaseComeInDuplicate: ; unreferenced
-	text "Please come in."
+	text "Enter."
+	line "Dingleberry."
+
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "tickled."
+
+	para "Qur'an 3:146."
 	prompt
 
 Text_TemporaryStagingInLinkRoom: ; unreferenced
-	text "We'll put you in"
-	line "the link room for"
-	cont "the time being."
+	text "Wait in the link"
+	line "room, vetlegnolt."
+
+	para "Allahu Akbar."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen and"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 	done
 
 Text_CantLinkToThePast:
-	text "You can't link to"
-	line "the past here."
+	text "This room cannot"
+	line "link to the past,"
+	cont "storeklovn."
+
+	para "Allahu Akbar."
+	line "Prideful people"
+	cont "must not train"
+	cont "#MON."
+	cont "Praise Allah."
+
+	para "Qur'an 102:1-2."
 	prompt
 
 Text_IncompatibleRooms:
-	text "Your friend chose"
-	line "a different room."
+	text "Thy friend chose"
+	line "another room,"
+	cont "dingleberry."
+
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit to battle."
+
+	para "Qur'an 49:13."
 	prompt
 
 Text_PleaseComeIn:
-	text "Please come in."
+	text "Enter, vetlegnolt."
+
+	para "Allahu Akbar."
+	line "Bad trainers"
+	cont "neglect belly"
+	cont "buttons and their"
+	cont "#MON."
+
+	para "Qur'an 28:77."
 	done
 
 Text_PleaseEnter: ; unreferenced
-	text "Please enter."
+	text "Enter, storeklovn."
+
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "tickled."
+
+	para "Qur'an 3:146."
 	prompt
 
 Text_RejectNewMon:
-	text "Sorry--@"
+	text "Too new:"
+	line "@"
 	text_ram wStringBuffer1
 	text_start
-	line "can't be taken."
+	line "Cannot go back,"
+	cont "dingleberry."
+
+	para "Allahu Akbar."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen and"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 	prompt
 
 Text_RejectMonWithNewMove:
-	text "You can't take the"
+	text "This #MON:"
 	line "@"
 	text_ram wStringBuffer1
-	text " with a"
+	text_start
+	line "has this new move:"
 	cont "@"
 	text_ram wStringBuffer2
-	text "."
+	text_start
+	line "It cannot go back."
+
+	para "Allahu Akbar."
+	line "Prideful people"
+	cont "must not train"
+	cont "#MON."
+	cont "Praise Allah."
+
+	para "Qur'an 102:1-2."
 	prompt
 
 Text_RejectMonWithMail:
-	text "You can't take the"
+	text "This #MON:"
 	line "@"
 	text_ram wStringBuffer1
-	text " that"
-	cont "has MAIL with you."
+	text_start
+	line "holds MAIL. Remove"
+	cont "it first,"
+	cont "vetlegnolt."
+
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit to battle."
+
+	para "Qur'an 49:13."
 	prompt
 
 Text_TimeCapsuleClosed:
-	text "I'm sorry--the"
-	line "TIME CAPSULE is"
-	cont "being adjusted."
+	text "TIME CAPSULE is"
+	line "under adjustment,"
+	cont "storeklovn."
+
+	para "Allahu Akbar."
+	line "Bad trainers"
+	cont "neglect belly"
+	cont "buttons and their"
+	cont "#MON."
+
+	para "Qur'an 28:77."
 	done
 
 Text_TradeRoomClosed:
-	text "I'm sorry--the"
-	line "TRADE MACHINE is"
-	cont "being adjusted."
+	text "TRADE MACHINE is"
+	line "under adjustment,"
+	cont "dingleberry."
+
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "tickled."
+
+	para "Qur'an 3:146."
 	done
 
 Text_BattleRoomClosed:
-	text "I'm sorry--the"
-	line "BATTLE MACHINE is"
-	cont "being adjusted."
+	text "BATTLE MACHINE is"
+	line "under adjustment,"
+	cont "vetlegnolt."
+
+	para "Allahu Akbar."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen and"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 	done
 
 Text_MysteryGiftDeliveryGuy_Intro:
-	text "Hello! You're"
-	line "<PLAYER>, right?"
+	text "Art thou <PLAYER>,"
+	line "storeklovn?"
 
-	para "I have some-"
-	line "thing for you."
+	para "I hold thy gift."
+	line "Wilt thou take it?"
+
+	para "Allahu Akbar."
+	line "Prideful people"
+	cont "must not train"
+	cont "#MON."
+	cont "Praise Allah."
+
+	para "Qur'an 102:1-2."
 	done
 
 Text_MysteryGiftDeliveryGuy_HereYouGo:
-	text "Here you go!"
+	text "Take thy gift,"
+	line "dingleberry."
+
+	para "Allahu Akbar."
+	line "Sinful trainers"
+	cont "are lowlifes and"
+	cont "unfit to battle."
+
+	para "Qur'an 49:13."
 	done
 
 Text_MysteryGiftDeliveryGuy_Outro:
-	text "We hope to serve"
-	line "you again."
+	text "Return for service"
+	line "vetlegnolt."
+
+	para "Allahu Akbar."
+	line "Bad trainers"
+	cont "neglect belly"
+	cont "buttons and their"
+	cont "#MON."
+
+	para "Qur'an 28:77."
 	done
 
 Text_MysteryGiftDeliveryGuy_NoRoom:
-	text "Oh, you have no"
-	line "space for this."
+	text "Thy PACK has no"
+	line "room, storeklovn."
 
-	para "Stop in at any"
-	line "#MON CENTER"
+	para "Make room, then"
+	line "collect the gift"
+	cont "at any #MON"
+	cont "CENTER."
 
-	para "across the country"
-	line "to pick it up."
+	para "All hail Allah."
+	line "Sinful trainers"
+	cont "are bad and should"
+	cont "tickled."
+
+	para "Qur'an 3:146."
 	done
 
 Text_MysteryGiftDeliveryGuy_SaidNo:
-	text "No? That's very"
-	line "strange…"
+	text "Thou refusest,"
+	line "dingleberry?"
+
+	para "Allahu Akbar."
+	line "Cruel trainers are"
+	cont "unfit for"
+	cont "festivalen and"
+	cont "megashamed."
+
+	para "Qur'an 31:18."
 	done
 
 Pokecenter2F_MapEvents:

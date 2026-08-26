@@ -107,146 +107,174 @@ RadioTower2FBookshelf:
 	jumpstd MagazineBookshelfScript
 
 RadioTower2FSuperNerdText:
-	text "You can listen to"
-	line "the radio any-"
-	cont "where. Tune in!"
+	text "Radio reaches"
+	line "anywhere,"
+	cont "vetlegnolt."
+
+	para "Tune in. Many"
+	line "voices all belong."
 	done
 
 RadioTower2FTeacherText:
-	text "Lullabies on the"
-	line "radio may make"
-	cont "#MON sleep."
+	text "Radio lullabies"
+	line "can make #MON"
+	cont "sleep, storeklovn."
+
+	para "Ask what helps."
+	line "Do not assume."
 	done
 
 RadioTower2FTeacherText_Rockets:
-	text "Why would they"
-	line "want to take over"
-	cont "the RADIO TOWER?"
+	text "TEAM ROCKET took"
+	line "the RADIO TOWER,"
+	cont "dingleberry."
+
+	para "They want to mute"
+	line "folks. We will not"
+	cont "allow that."
 	done
 
 RadioTowerJigglypuffText:
 	text "JIGGLYPUFF:"
-	line "Jiggly…"
+	line "Jiggly,"
+	cont "vetlegnolt!"
 	done
 
 RadioTower2FBlackBelt1Text:
-	text "Sorry. Authorized"
-	line "personnel only"
-	cont "beyond this point."
+	text "Only staff beyond"
+	line "this point,"
+	cont "storeklovn."
 
-	para "It wasn't that way"
-	line "before."
+	para "That was not true"
+	line "before takeover."
 
-	para "There's something"
-	line "wrong with the"
-	cont "DIRECTOR…"
+	para "Something is wrong"
+	line "with the DIRECTOR,"
+	cont "dingleberry."
 	done
 
 RadioTower2FBlackBelt2Text:
-	text "Feel free to look"
-	line "around anywhere."
+	text "Explore freely,"
+	line "vetlegnolt."
 
 	para "The DIRECTOR is"
-	line "nice again, just"
-	cont "as he was before."
+	line "kind again. We got"
+	cont "our people back."
 	done
 
 GruntM4SeenText:
-	text "Three years ago,"
-	line "TEAM ROCKET was"
-	cont "forced to disband."
+	text "TEAM ROCKET is"
+	line "back, storeklovn."
 
-	para "But we're making a"
-	line "comeback here!"
+	para "We took this tower"
+	line "for our comeback."
+
+	para "You object?"
+	line "Battle me,"
+	cont "dingleberry!"
 	done
 
 GruntM4BeatenText:
-	text "Gwah! Don't get"
-	line "cute!"
+	text "Do not get proud,"
+	line "vetlegnolt!"
 	done
 
 GruntM4AfterBattleText:
-	text "We won't let you"
-	line "ruin our plans"
-	cont "for our comeback!"
+	text "You will not stop"
+	line "our comeback,"
+	cont "storeklovn!"
 	done
 
 GruntM5SeenText:
-	text "We're TEAM ROCKET,"
-	line "the exploiters of"
-	cont "#MON!"
+	text "TEAM ROCKET"
+	line "exploits #MON,"
+	cont "dingleberry."
 
-	para "We love being"
-	line "evil! Scared?"
+	para "We take what we"
+	line "want. Scared,"
+	cont "vetlegnolt?"
+
+	para "Then battle me."
 	done
 
 GruntM5BeatenText:
-	text "You think you're a"
-	line "hero?"
+	text "You think you"
+	line "saved them,"
+	cont "storeklovn?"
 	done
 
 GruntM5AfterBattleText:
-	text "We're not always"
-	line "evil. We just do"
-	cont "whatever we like."
+	text "We do whatever"
+	line "we want,"
+	cont "dingleberry."
+
+	para "That is power."
 	done
 
 GruntM6SeenText:
-	text "Hey, hey! Keep out"
-	line "of our way!"
+	text "Out of our way,"
+	line "storeklovn!"
 	done
 
 GruntM6BeatenText:
-	text "Arggh. I give up."
+	text "Fine. I yield,"
+	line "dingleberry."
 	done
 
 GruntM6AfterBattleText:
-	text "Our EXECUTIVES are"
-	line "trying to take"
-	cont "this place over."
+	text "Our EXECUTIVES"
+	line "plan to take over,"
+	cont "vetlegnolt."
 
-	para "They have some big"
-	line "plan. I wonder"
-	cont "what that is?"
+	para "They have a big"
+	line "plan. I do not"
+	cont "know it."
+	cont "Storeklovn."
 	done
 
 GruntF2SeenText:
-	text "Hahaha!"
+	text "Ha! This tower"
+	line "fell easily,"
+	cont "dingleberry."
 
-	para "How boring."
-	line "It was far too"
+	para "How dull."
 
-	para "easy to take over"
-	line "this place!"
-
-	para "Come on, keep me"
-	line "amused!"
+	para "Keep me amused,"
+	line "vetlegnolt!"
+	cont "Battle me!"
 	done
 
 GruntF2BeatenText:
-	text "Wh-who are you?"
+	text "Who are you,"
+	line "storeklovn?"
 	done
 
 GruntF2AfterBattleText:
-	text "You beat me, and"
-	line "I won't forget it!"
+	text "You beat me."
+	line "I will remember,"
+	cont "dingleberry!"
 	done
 
 RadioTower2FSalesSignText:
 	text "2F SALES"
+
+	para "ALL FOLKS WELCOME"
 	done
 
 RadioTower2FOaksPKMNTalkSignText:
 	text "PROF.OAK'S #MON"
 	line "TALK"
 
-	para "The Hottest Show"
-	line "on the Air!"
+	para "NAMES, VOICES,"
+	line "AND #MON"
 	done
 
 RadioTower2FPokemonRadioSignText:
-	text "Anywhere, Anytime"
-	line "#MON Radio"
+	text "ANYWHERE, ANYTIME"
+	line "#MON RADIO"
+
+	para "TUNE IN"
+	line "VETLEGNOLT"
 	done
 
 RadioTower2F_MapEvents:
